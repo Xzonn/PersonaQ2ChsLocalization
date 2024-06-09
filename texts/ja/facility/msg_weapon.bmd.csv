@@ -1,0 +1,435 @@
+"source","target","id","developer_comments"
+"Y_FCLSHOP_YESNO_0","通常　はい","Y_FCLSHOP_YESNO_0",""
+"Y_FCLSHOP_YESNO_1","通常　いいえ","Y_FCLSHOP_YESNO_1",""
+"Y_FCLSHOP_YESNO_BUY_NUM_0","購入する","Y_FCLSHOP_YESNO_BUY_NUM_0",""
+"Y_FCLSHOP_YESNO_BUY_NUM_1","やめておく","Y_FCLSHOP_YESNO_BUY_NUM_1",""
+"Y_FCLSHOP_YESNO_BUY_0","購入する","Y_FCLSHOP_YESNO_BUY_0",""
+"Y_FCLSHOP_YESNO_BUY_1","やめておく","Y_FCLSHOP_YESNO_BUY_1",""
+"Y_FCLSHOP_YESNO_BUY_EQUI_0","装備していく","Y_FCLSHOP_YESNO_BUY_EQUI_0",""
+"Y_FCLSHOP_YESNO_BUY_EQUI_1","まだいい","Y_FCLSHOP_YESNO_BUY_EQUI_1",""
+"Y_FCLSHOP_YESNO_BUY_TRAD_0","買い取って","Y_FCLSHOP_YESNO_BUY_TRAD_0",""
+"Y_FCLSHOP_YESNO_BUY_TRAD_1","やめておく","Y_FCLSHOP_YESNO_BUY_TRAD_1",""
+"Y_FCLSHOP_YESNO_SELL_ALL_0","売却する","Y_FCLSHOP_YESNO_SELL_ALL_0",""
+"Y_FCLSHOP_YESNO_SELL_ALL_1","やめておく","Y_FCLSHOP_YESNO_SELL_ALL_1",""
+"Y_FCLSHOP_YESNO_SELL_0","売却する","Y_FCLSHOP_YESNO_SELL_0",""
+"Y_FCLSHOP_YESNO_SELL_1","やめておく","Y_FCLSHOP_YESNO_SELL_1",""
+"Y_FCLSHOP_YESNO_COSTODY__0","預ける","Y_FCLSHOP_YESNO_COSTODY__0",""
+"Y_FCLSHOP_YESNO_COSTODY__1","やめておく","Y_FCLSHOP_YESNO_COSTODY__1",""
+"Y_FCLSHOP_YESNO_COSTODY__2_0","預ける","Y_FCLSHOP_YESNO_COSTODY__2_0",""
+"Y_FCLSHOP_YESNO_COSTODY__2_1","やめておく","Y_FCLSHOP_YESNO_COSTODY__2_1",""
+"Y_FCLSHOP_YESNO_COSTODY__3_0","引き出す","Y_FCLSHOP_YESNO_COSTODY__3_0",""
+"Y_FCLSHOP_YESNO_COSTODY__3_1","やめておく","Y_FCLSHOP_YESNO_COSTODY__3_1",""
+"Y_FCLSHOP_YESNO_COSTODY__4_0","引き出す","Y_FCLSHOP_YESNO_COSTODY__4_0",""
+"Y_FCLSHOP_YESNO_COSTODY__4_1","やめておく","Y_FCLSHOP_YESNO_COSTODY__4_1",""
+"Y_FCLSHOP_YESNO_COSTODY__5_0","引き出す","Y_FCLSHOP_YESNO_COSTODY__5_0",""
+"Y_FCLSHOP_YESNO_COSTODY__5_1","やめておく","Y_FCLSHOP_YESNO_COSTODY__5_1",""
+"Y_FCLSHOP_BUY_MSG_0","は[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]です。
+宜しいですか？","Y_FCLSHOP_BUY_MSG_0","テオドア"
+"Y_FCLSHOP_USE_BUY_MSG_0","[F2 44 01 01]個で[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]になります。
+宜しいですか？","Y_FCLSHOP_USE_BUY_MSG_0","テオドア"
+"Y_FCLSHOP_SELL_MSG_0","を[F2 44 02 01]個
+お売り頂けるのですか？","Y_FCLSHOP_SELL_MSG_0","テオドア"
+"Y_FCLSHOP_SELL_MULUTI_MS_0","これら[F2 44 01 01]個をお売りになると
+[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]です。宜しいですか？","Y_FCLSHOP_SELL_MULUTI_MS_0","テオドア"
+"Y_FCLSHOP_FAV_NG_0","お気に入り登録されているため売却できません。","Y_FCLSHOP_FAV_NG_0",""
+"Y_FCLSHOP_DLC_NG_0","ＤＬＣアイテムは売却できません。","Y_FCLSHOP_DLC_NG_0",""
+"Y_FCLSHOP_ADD_LIST_0","＞[F4 45 04 01 00 00 01 01]が商品に追加された！","Y_FCLSHOP_ADD_LIST_0","テオドア"
+"Y_FCLSHOP_EQUIP_0","を
+すぐに装備なさいますか？","Y_FCLSHOP_EQUIP_0","テオドア"
+"Y_FCLSHOP_TRADE_0","今まで装備されていた[F4 45 04 01 00 00 01 01]を
+[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]でお売りになりますか？","Y_FCLSHOP_TRADE_0","テオドア"
+"Y_FCLSHOP_ALLSELL_0","お持ちの素材を全てお売りになると
+[F2 01 03 01][F2 44 01 01]円[F2 01 01 01]です。宜しいですか?","Y_FCLSHOP_ALLSELL_0","テオドア"
+"Y_FCLSHOP_SELL_MES_NORMA_0","これはまた面白い素材ですね！
+何ができるか今から楽しみです。","Y_FCLSHOP_SELL_MES_NORMA_0","テオドア"
+"Y_FCLSHOP_SELL_MES_NORMA_1","それでは、少々お待ちを。","Y_FCLSHOP_SELL_MES_NORMA_1","テオドア"
+"Y_FCLSHOP_SELL_MES_NORMA_2_0","これはこれは…
+何ができるか楽しみな素材。","Y_FCLSHOP_SELL_MES_NORMA_2_0","テオドア"
+"Y_FCLSHOP_SELL_MES_NORMA_2_1","心なしかポップコーンメーカーも
+喜んでいるように見えます…！","Y_FCLSHOP_SELL_MES_NORMA_2_1","テオドア"
+"Y_FCLSHOP_SELL_MES_RARE1_0","大変面白い素材ですね。
+さて、どうなるか…","Y_FCLSHOP_SELL_MES_RARE1_0","テオドア"
+"Y_FCLSHOP_SELL_MES_RARE1_1","ともあれ加工してみます。
+お待ち下さいませ。","Y_FCLSHOP_SELL_MES_RARE1_1","テオドア"
+"Y_FCLSHOP_SELL_MES_RARE2_0","おや…この輝きは…","Y_FCLSHOP_SELL_MES_RARE2_0","テオドア"
+"Y_FCLSHOP_SELL_MES_RARE2_1","稀に見る上質な素材のようです！
+結果が楽しみですね！","Y_FCLSHOP_SELL_MES_RARE2_1","テオドア"
+"Y_FCLSHOP_SELL_MES_HIGH__0","おお！これは素晴らしい！！","Y_FCLSHOP_SELL_MES_HIGH__0","テオドア"
+"Y_FCLSHOP_SELL_MES_HIGH__1","この不肖テオドア、
+丹精込めて開発いたします！","Y_FCLSHOP_SELL_MES_HIGH__1","テオドア"
+"Y_FCLSHOP_ADD_MES_NORMAL_0","お待たせいたしました。
+どうぞ、ご利用ください。","Y_FCLSHOP_ADD_MES_NORMAL_0","テオドア"
+"Y_FCLSHOP_ADD_MES_NORMAL_2_0","どうです？
+立派に生まれ変わりましたよ。","Y_FCLSHOP_ADD_MES_NORMAL_2_0","テオドア"
+"Y_FCLSHOP_ADD_MES_RARE1_0","ふう…いかがでしょうか？","Y_FCLSHOP_ADD_MES_RARE1_0","テオドア"
+"Y_FCLSHOP_ADD_MES_RARE2_0","ふぅ…お待たせいたしました。","Y_FCLSHOP_ADD_MES_RARE2_0","テオドア"
+"Y_FCLSHOP_ADD_MES_RARE2_1","素材に見合う逸品が
+完成してしまいました…！","Y_FCLSHOP_ADD_MES_RARE2_1","テオドア"
+"Y_FCLSHOP_ADD_MES_HIGH_R_0","どうです？
+立派に生まれ変わりましたよ。","Y_FCLSHOP_ADD_MES_HIGH_R_0","テオドア"
+"Y_FCLSHOP_ADD_MES_HIGH_R_1","あらゆる物は、まだまだ眠れる原石…
+秘めた輝きを見出すことで…","Y_FCLSHOP_ADD_MES_HIGH_R_1","テオドア"
+"Y_FCLSHOP_ADD_MES_HIGH_R_2","あっ、まだ話は終わっていません！","Y_FCLSHOP_ADD_MES_HIGH_R_2","テオドア"
+"WSHOP_KEEP_MATERIAL_0","あと少し素材が集まれば、
+このようなモノもお作りできそうです。","WSHOP_KEEP_MATERIAL_0","テオドア"
+"CSHOP_DEP_CONF_0","[F2 44 01 01]個の荷物を
+お預かりいたしますか？","CSHOP_DEP_CONF_0","テオドア"
+"CSHOP_DEP_CONF_OK_0","[F2 44 01 01]個の荷物を
+お預かりいたしました。","CSHOP_DEP_CONF_OK_0","テオドア"
+"CSHOP_PUL_CONF_0","[F2 44 01 01]個の荷物を
+お引き出しされますか？","CSHOP_PUL_CONF_0","テオドア"
+"CSHOP_PUL_CONF_OK_0","[F2 44 01 01]個の荷物を
+お返しいたしました。","CSHOP_PUL_CONF_OK_0","テオドア"
+"CSHOP_COMMON_NG_1_0","…おや、荷物がいっぱいですね。
+申し訳ないのですが、これ以上は
+お預かりすることができません。","CSHOP_COMMON_NG_1_0","テオドア"
+"CSHOP_COMMON_NG_2_0","スペースに空きがありませんね。
+申し訳ないのですが、新たなお荷物を
+預かる事ができません。","CSHOP_COMMON_NG_2_0","テオドア"
+"CSHOP_COMMON_NG_3_0","お手持ちの荷物がいっぱいのようです。
+申し訳ありませんが、
+一部の荷物をお返しできません。","CSHOP_COMMON_NG_3_0","テオドア"
+"WSHOP_MULUTI_ADD_ITEM_LA_0","が購入可能になった。","WSHOP_MULUTI_ADD_ITEM_LA_0",""
+"WSHOP_EXP_KANTEI_0","迷宮の探索中に、力を失ったアイテムを
+入手されることがあるかと思います。","WSHOP_EXP_KANTEI_0","テオドア"
+"WSHOP_EXP_KANTEI_1","お持ち頂ければ、アイテムを『鑑定』して
+本来の能力を呼び覚ますことが可能です。","WSHOP_EXP_KANTEI_1","テオドア"
+"WSHOP_EXP_KANTEI_2","『鑑定』には手数料を頂きますが、
+掘り出し物が見つかるかもしれません。","WSHOP_EXP_KANTEI_2","テオドア"
+"WSHOP_EXP_KANTEI_3","アイテムの真価を発揮させるためにも、
+是非ご利用くださいませ。","WSHOP_EXP_KANTEI_3","テオドア"
+"WSHOP_EXP_ITEM_MAX_T_0","皆様が持ち歩けるアイテムの数は、
+『６０』個までが限界となっております。","WSHOP_EXP_ITEM_MAX_T_0","テオドア"
+"WSHOP_EXP_ITEM_MAX_T_1","や[F4 84 04 01 01 01 36 06]などは
+非常に便利なアイテムですが…","WSHOP_EXP_ITEM_MAX_T_1","テオドア"
+"WSHOP_EXP_ITEM_MAX_T_2","持ち込みすぎても、迷宮で手にした物を
+破棄することになりかねません。","WSHOP_EXP_ITEM_MAX_T_2","テオドア"
+"WSHOP_EXP_ITEM_MAX_T_3","持ち物は、１０～２０個ほどに留めて
+おくのが良いかと思われますよ。","WSHOP_EXP_ITEM_MAX_T_3","テオドア"
+"WSHOP_EXP_ITEM_MAX_M_0","皆様が持ち歩けるアイテムの数は
+『６０』個までが限界のようです。","WSHOP_EXP_ITEM_MAX_M_0","ナギ"
+"WSHOP_EXP_ITEM_MAX_M_1","や[F4 84 04 01 01 01 36 06]などは
+非常に便利なアイテムですけれど…","WSHOP_EXP_ITEM_MAX_M_1","ナギ"
+"WSHOP_EXP_ITEM_MAX_M_2","持ち込みすぎては、途中で何かを見つけても
+持ちきれなくなってしまうかもしれません。","WSHOP_EXP_ITEM_MAX_M_2","ナギ"
+"WSHOP_EXP_ITEM_MAX_M_3","持ち物は１０～２０個ほどに留めるのが
+よろしいのではないでしょうか？","WSHOP_EXP_ITEM_MAX_M_3","ナギ"
+"WSHOP_EXP_CLOAKROOM_T_0","しばらく使わないようなアイテムや、
+貴重な装備品など持ち歩いてはいませんか？","WSHOP_EXP_CLOAKROOM_T_0","テオドア"
+"WSHOP_EXP_CLOAKROOM_T_1","こちらの店舗にて、荷物を置ける場所を
+『９９ヶ所』ほどご用意いたしました。","WSHOP_EXP_CLOAKROOM_T_1","テオドア"
+"WSHOP_EXP_CLOAKROOM_T_2","１ヶ所につき、１種類の物を『９９個まで』
+お預かり出来ます。","WSHOP_EXP_CLOAKROOM_T_2","テオドア"
+"WSHOP_EXP_CLOAKROOM_T_3","すぐに必要ではないお荷物は、
+ここに預けていかれてはいかがでしょう？","WSHOP_EXP_CLOAKROOM_T_3","テオドア"
+"WSHOP_EXP_CLOAKROOM_T_4","お預かり料金は頂いておりませんので、
+お気軽にご利用ください。","WSHOP_EXP_CLOAKROOM_T_4","テオドア"
+"WSHOP_EXP_CLOAKROOM_T_5","ですが、一点だけ注意していただきたい
+ことがございます。","WSHOP_EXP_CLOAKROOM_T_5","テオドア"
+"WSHOP_EXP_CLOAKROOM_T_6","『アクセサリー』は
+同じ場所にお預かりできません。","WSHOP_EXP_CLOAKROOM_T_6","テオドア"
+"WSHOP_EXP_CLOAKROOM_T_7","その点だけお気をつけくださいませ。","WSHOP_EXP_CLOAKROOM_T_7","テオドア"
+"WSHOP_EXP_CLOAKROOM_M_0","しばらく使わないようなアイテムや、
+貴重な装備品など持ち歩いていないですか？","WSHOP_EXP_CLOAKROOM_M_0","ナギ"
+"WSHOP_EXP_CLOAKROOM_M_1","私の方で、荷物を置ける場所を
+『９９ヶ所』ほどご用意いたしました。","WSHOP_EXP_CLOAKROOM_M_1","ナギ"
+"WSHOP_EXP_CLOAKROOM_M_2","１ヶ所につき、１種類の物を『９９個まで』
+お預かり出来ますよ。","WSHOP_EXP_CLOAKROOM_M_2","ナギ"
+"WSHOP_EXP_CLOAKROOM_M_3","すぐに必要ではないお荷物は、
+こちらに預けていかれてはいかがでしょう？","WSHOP_EXP_CLOAKROOM_M_3","ナギ"
+"WSHOP_EXP_CLOAKROOM_M_4","お預かり料金は頂いておりませんので、
+どうぞお気軽に利用して下さいね。","WSHOP_EXP_CLOAKROOM_M_4","ナギ"
+"WSHOP_EXP_CLOAKROOM_M_5","ですが、一点だけ注意していただきたい
+ことがございます。","WSHOP_EXP_CLOAKROOM_M_5","ナギ"
+"WSHOP_EXP_CLOAKROOM_M_6","『アクセサリー』は
+同じ場所にお預かりできません。","WSHOP_EXP_CLOAKROOM_M_6","ナギ"
+"WSHOP_EXP_CLOAKROOM_M_7","その点だけお気をつけくださいね。","WSHOP_EXP_CLOAKROOM_M_7","ナギ"
+"WSHOP_MATERIAL_HELP_NONE_0","情報がありません","WSHOP_MATERIAL_HELP_NONE_0",""
+"Y_FCLSHOP_BUY_MSG_Ex_0","は[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]です。
+宜しいかしら？","Y_FCLSHOP_BUY_MSG_Ex_0","ナギ"
+"Y_FCLSHOP_USE_BUY_MSG_Ex_0","[F2 44 01 01]個で[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]になるわ。
+宜しいかしら？","Y_FCLSHOP_USE_BUY_MSG_Ex_0","ナギ"
+"Y_FCLSHOP_SELL_MSG_Ex_0","を[F2 44 02 01]個
+お売りになりますか？","Y_FCLSHOP_SELL_MSG_Ex_0","ナギ"
+"Y_FCLSHOP_SELL_MULUTI_MS_2_0","これら[F2 44 01 01]個をお売りになると
+[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]です。宜しいかしら？","Y_FCLSHOP_SELL_MULUTI_MS_2_0","ナギ"
+"Y_FCLSHOP_ADD_LIST_Ex_0","＞[F4 45 04 01 00 00 01 01]が商品に追加された！","Y_FCLSHOP_ADD_LIST_Ex_0","ナギ"
+"Y_FCLSHOP_EQUIP_Ex_0","を
+すぐに装備されますか？","Y_FCLSHOP_EQUIP_Ex_0","ナギ"
+"Y_FCLSHOP_TRADE_Ex_0","今まで装備されていた[F4 45 04 01 00 00 01 01]を
+[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]でお売りになりますか？","Y_FCLSHOP_TRADE_Ex_0","ナギ"
+"Y_FCLSHOP_ALLSELL_Ex_0","お持ちの素材を全てお売りになると
+[F2 01 03 01][F2 44 01 01]円[F2 01 01 01]です。宜しいかしら？","Y_FCLSHOP_ALLSELL_Ex_0","ナギ"
+"CSHOP_DEP_CONF_Ex_0","[F2 44 01 01]個の荷物を
+お預かりしますか？","CSHOP_DEP_CONF_Ex_0","ナギ"
+"CSHOP_DEP_CONF_OK_Ex_0","[F2 44 01 01]個の荷物を
+お預かりしました。","CSHOP_DEP_CONF_OK_Ex_0","ナギ"
+"CSHOP_PUL_CONF_Ex_0","[F2 44 01 01]個の荷物を
+お引き出しされますか？","CSHOP_PUL_CONF_Ex_0","ナギ"
+"CSHOP_PUL_CONF_OK_Ex_0","[F2 44 01 01]個の荷物を
+お返ししました。","CSHOP_PUL_CONF_OK_Ex_0","ナギ"
+"CSHOP_COMMON_NG_1_Ex_0","まぁ、荷物を置くスペースが満杯で
+預かれないわ…ごめんなさいね","CSHOP_COMMON_NG_1_Ex_0","ナギ"
+"CSHOP_COMMON_NG_2_Ex_0","そちらのお荷物は、
+もう限界まで預かっておりますよ。","CSHOP_COMMON_NG_2_Ex_0","ナギ"
+"CSHOP_COMMON_NG_3_Ex_0","貴方の所持品が多すぎて、
+今はお返しできないわ。
+荷物を減らしてきて下さいね。","CSHOP_COMMON_NG_3_Ex_0","ナギ"
+"Y_FCLSHOP_HAVE_MAX_T_MSG_0","申し訳ございません。
+荷物がいっぱいのようです。","Y_FCLSHOP_HAVE_MAX_T_MSG_0","テオドア"
+"Y_FCLSHOP_HAVE_MAX_M_MSG_0","ごめんなさいね…
+荷物がいっぱいのようですよ。","Y_FCLSHOP_HAVE_MAX_M_MSG_0","ナギ"
+"Y_FCLSHOP_SELL_RARE_MAT__0","希少な素材をお売り頂き、
+ありがとうございます。","Y_FCLSHOP_SELL_RARE_MAT__0","テオドア"
+"Y_FCLSHOP_SELL_RARE_MAT__2_0","希少な素材を売ってくれたのね。
+ありがとうございます。","Y_FCLSHOP_SELL_RARE_MAT__2_0","ナギ"
+"CSHOP_COMMON_NG_4_0","申し訳ありません。
+こちらのスペースが一杯のため、
+一部の荷物はお預かりできません…","CSHOP_COMMON_NG_4_0","テオドア"
+"CSHOP_COMMON_NG_4_Ex_0","スペースがもう満杯で、
+預れない荷物がございましたよ。","CSHOP_COMMON_NG_4_Ex_0","ナギ"
+"CSHOP_COMMON_NG_5_0","お手持ちの荷物がいっぱいのようです。
+申し訳ありませんが、
+一部の荷物をお返しできません。","CSHOP_COMMON_NG_5_0","テオドア"
+"CSHOP_COMMON_NG_5_Ex_0","貴方の所持品が多すぎて、
+一部お返しできなかったわ。
+荷物を減らしてきて下さいね。","CSHOP_COMMON_NG_5_Ex_0","ナギ"
+"WSHOP_UNKNOWN_JUDGE_ONE__0","これを鑑定しますか？","WSHOP_UNKNOWN_JUDGE_ONE__0","テオドア"
+"WSHOP_MULUTI_ADD_UNKNOWN_0","を入手した。","WSHOP_MULUTI_ADD_UNKNOWN_0",""
+"WSHOP_TALK000_0","…しっくりくるモンが欲しけりゃ、
+素材もってこい。","WSHOP_TALK000_0","だいだら．のオヤジ"
+"WSHOP_TALK000_1","言っとくが…ワシって、
+ありきたりのモンは好かんっ！","WSHOP_TALK000_1","だいだら．のオヤジ"
+"WSHOP_TALK000_2","うろたえるような珍品、
+持ってきナ。","WSHOP_TALK000_2","だいだら．のオヤジ"
+"WSHOP_TALK000_3","…そしたら、もっと伊達なもん、
+作ってやってもいいゼ。","WSHOP_TALK000_3","だいだら．のオヤジ"
+"WSHOP_TALK000_4","作るものによっちゃ、
+素材の種類や数はそれぞれだ。","WSHOP_TALK000_4","だいだら．のオヤジ"
+"WSHOP_TALK000_5","こっちに素材がある程度貯まったら、
+ワシのひらめきで、アートにしてやる。","WSHOP_TALK000_5","だいだら．のオヤジ"
+"WSHOP_TALK000_6","但し、何を作るかは、ワシの勝手だ。
+なんたって、アートだからな。","WSHOP_TALK000_6","だいだら．のオヤジ"
+"WSHOP_TALK000_7","絶賛、期待してるからな！","WSHOP_TALK000_7","だいだら．のオヤジ"
+"WSHOP_TALK001_0","…っらっしゃい！！
+今日は、どんな“アート”したいんだ？","WSHOP_TALK001_0","だいだら．のオヤジ"
+"WSHOP_TALK001_1","…重くないやつ？
+制服の下に隠すだぁ？","WSHOP_TALK001_1","だいだら．のオヤジ"
+"WSHOP_TALK001_2","…オメェ…意外に変な趣味してんナ。","WSHOP_TALK001_2","だいだら．のオヤジ"
+"WSHOP_TALK001_3","…ま、好きならしかたねぇ。
+色々試してきナ。","WSHOP_TALK001_3","だいだら．のオヤジ"
+"WSHOP_TALK002_0","旅館の一人娘が塞ぎ込んじまったとか、
+…商店街中、コソコソとうるせぇこった。","WSHOP_TALK002_0","だいだら．のオヤジ"
+"WSHOP_TALK002_1","まぁ…あの旅館は、娘の評判で
+もってるとこがあるからなぁ。","WSHOP_TALK002_1","だいだら．のオヤジ"
+"WSHOP_TALK002_2","家出かもしれねぇってんだから、
+親不孝が祟んなきゃ良いが…","WSHOP_TALK002_2","だいだら．のオヤジ"
+"WSHOP_TALK002_3","何不自由ないお嬢さんの考えなんザ、
+ワシにはわからんがね。","WSHOP_TALK002_3","だいだら．のオヤジ"
+"WSHOP_TALK003_0","オメェ…都会から来たのか？
+あの荒んだ、悪意の街からねぇ…","WSHOP_TALK003_0","だいだら．のオヤジ"
+"WSHOP_TALK003_1","ワシも、尻の青い頃は
+あっちにも詳しかったが…","WSHOP_TALK003_1","だいだら．のオヤジ"
+"WSHOP_TALK003_2","ここは空気も水も、米も旨いし…
+…全部忘れたがな。","WSHOP_TALK003_2","だいだら．のオヤジ"
+"WSHOP_TALK004_0","…っらっしゃい！！
+活きの良いヤツ、持ってきたか？","WSHOP_TALK004_0","だいだら．のオヤジ"
+"WSHOP_TALK004_1","むうっ？　…完二だぁ？
+あのヒヨっコが何かしたか？？","WSHOP_TALK004_1","だいだら．のオヤジ"
+"WSHOP_TALK004_2","そいや、アイツ…お笑い系の
+変なテレビ番組に出てただろ？","WSHOP_TALK004_2","だいだら．のオヤジ"
+"WSHOP_TALK004_3","まさか…スカウトされて上京か！
+…間違いねェ…だろ？","WSHOP_TALK004_3","だいだら．のオヤジ"
+"WSHOP_TALK005_0","そういや最近、巽屋の完二見ねぇな。","WSHOP_TALK005_0","だいだら．のオヤジ"
+"WSHOP_TALK005_1","あの童子…悪ぶっとるようだが、
+豪胆の極みにしか見えん…","WSHOP_TALK005_1","だいだら．のオヤジ"
+"WSHOP_TALK005_2","突然、族と一戦交えるとかって、
+自慢の盾、強奪してきおってな…","WSHOP_TALK005_2","だいだら．のオヤジ"
+"WSHOP_TALK005_3","子供の喧嘩に使うなんざ。
+“アート”に対する侮辱だぜ…","WSHOP_TALK005_3","だいだら．のオヤジ"
+"WSHOP_TALK006_0","完二のヤロウ、
+ひょっこり帰ってきたらしいな。","WSHOP_TALK006_0","だいだら．のオヤジ"
+"WSHOP_TALK006_1","理由を聞いても、答えねぇって…
+親不孝なヤロウぅだぜ…","WSHOP_TALK006_1","だいだら．のオヤジ"
+"WSHOP_TALK006_2","ま…尻の青い頃は、
+言いたくない事もあらぁな。","WSHOP_TALK006_2","だいだら．のオヤジ"
+"WSHOP_TALK007_0","…らっしゃい！
+オメェ…完二と仲良いらしいな。","WSHOP_TALK007_0","だいだら．のオヤジ"
+"WSHOP_TALK007_1","あの暴れ馬を舎弟にしたって…
+スゲェじゃねぇか。","WSHOP_TALK007_1","だいだら．のオヤジ"
+"WSHOP_TALK007_2","ぬっ？　舎弟じゃねぇだ？
+…照れんなよ。","WSHOP_TALK007_2","だいだら．のオヤジ"
+"WSHOP_TALK008_0","…ぁんだ？　オメェ…
+なんかウキウキしてやがって。","WSHOP_TALK008_0","だいだら．のオヤジ"
+"WSHOP_TALK008_1","林間学校？　…まさか！
+着替えに持ってくんじゃネェだろうな！","WSHOP_TALK008_1","だいだら．のオヤジ"
+"WSHOP_TALK008_2","ナ二って…ワシの“アート”だろっ！
+ダッハハハハハハ！","WSHOP_TALK008_2","だいだら．のオヤジ"
+"WSHOP_TALK008_3","あ？　…違うのか。","WSHOP_TALK008_3","だいだら．のオヤジ"
+"WSHOP_TALK009_0","…オメェ、林間学校どうだったんだ？
+…ゲンナリしてるな？","WSHOP_TALK009_0","だいだら．のオヤジ"
+"WSHOP_TALK009_1","飯で死にかけた？
+…なんだぁそりゃあ？","WSHOP_TALK009_1","だいだら．のオヤジ"
+"WSHOP_TALK009_2","ま、今しか楽しめねぇこたぁ
+やっとくべきだぜ。","WSHOP_TALK009_2","だいだら．のオヤジ"
+"WSHOP_TALK010_0","最近、ジメジメして
+精神統一に時間がかかりやがる…","WSHOP_TALK010_0","だいだら．のオヤジ"
+"WSHOP_TALK010_1","湿気ってのは、“アート”達にとって天敵だ。","WSHOP_TALK010_1","だいだら．のオヤジ"
+"WSHOP_TALK010_2","時々なぁ…こいつら全部
+好き放題させてやりたいって思うんだ。","WSHOP_TALK010_2","だいだら．のオヤジ"
+"WSHOP_TALK010_3","…ま、あぶねぇがな。","WSHOP_TALK010_3","だいだら．のオヤジ"
+"WSHOP_TALK011_0","マル久のりせちゃん、こっちに
+帰って来たらしいな…
+…ワシ、見てないけど。","WSHOP_TALK011_0","だいだら．のオヤジ"
+"WSHOP_TALK011_1","…なんでって、ずっとここに居るし。
+割とシャイなのね、ワシって。","WSHOP_TALK011_1","だいだら．のオヤジ"
+"WSHOP_TALK011_2","…ファンなのか、だと？
+…なんで答えにゃならん。","WSHOP_TALK011_2","だいだら．のオヤジ"
+"WSHOP_TALK011_3","…どうでもエエ！
+“アート”に集中させんかいっ！","WSHOP_TALK011_3","だいだら．のオヤジ"
+"WSHOP_TALK012_0","マル久のりせちゃん、帰って来たらしいな…","WSHOP_TALK012_0","だいだら．のオヤジ"
+"WSHOP_TALK012_1","実はワシと、四六さんとマル久さんは、
+結構仲良くやってんだ。","WSHOP_TALK012_1","だいだら．のオヤジ"
+"WSHOP_TALK012_2","りせちゃんは、ワシの孫みたいな
+もんなんだな…","WSHOP_TALK012_2","だいだら．のオヤジ"
+"WSHOP_TALK012_3","マル久のばあさんにも、世話になってるし…
+人情ってのは良いねぇ。","WSHOP_TALK012_3","だいだら．のオヤジ"
+"WSHOP_TALK013_0","オメェ…諸岡って教師知ってるか？
+殺されたらしいな…","WSHOP_TALK013_0","だいだら．のオヤジ"
+"WSHOP_TALK013_1","昔、ここにも来たが、
+ＰＴＡだの、精神衛生がどうのって…","WSHOP_TALK013_1","だいだら．のオヤジ"
+"WSHOP_TALK013_2","犬っコロみてぇに、騒ぎやがって…
+厄介なヤロウだったぜ…まったく。","WSHOP_TALK013_2","だいだら．のオヤジ"
+"WSHOP_TALK013_3","精神衛生上どうのって…
+アイツの方が、どうかしてたぜ。","WSHOP_TALK013_3","だいだら．のオヤジ"
+"WSHOP_TALK014_0","…ぬっ。　なんだか、最近…
+オメェから覇気を感じるな。","WSHOP_TALK014_0","だいだら．のオヤジ"
+"WSHOP_TALK014_1","邪気じゃねぇが…
+戦国武将みてぇな、なんかだ。","WSHOP_TALK014_1","だいだら．のオヤジ"
+"WSHOP_TALK014_2","くだらねぇ喧嘩に、“アート”を
+使ったら許さんからな！","WSHOP_TALK014_2","だいだら．のオヤジ"
+"WSHOP_TALK015_0","破顔一笑…か？
+オメェ…やけに清清しいな。","WSHOP_TALK015_0","だいだら．のオヤジ"
+"WSHOP_TALK015_1","心の汚泥…悪意を払いのけた
+良い顔してやがる…","WSHOP_TALK015_1","だいだら．のオヤジ"
+"WSHOP_TALK015_2","ワシの“アート”を理解してるのが、
+オメェで嬉しいぜ…","WSHOP_TALK015_2","だいだら．のオヤジ"
+"WSHOP_TALK016_0","祭りだなんだって浮かれてると、
+すぐに夏休みなんざ、終わっちまうぜ。","WSHOP_TALK016_0","だいだら．のオヤジ"
+"WSHOP_TALK016_1","鉄は熱いうちに打て！って言うだろう。","WSHOP_TALK016_1","だいだら．のオヤジ"
+"WSHOP_TALK016_2","オメェらもアツくなれるうちに
+やっとくのが、イイゼ。","WSHOP_TALK016_2","だいだら．のオヤジ"
+"WSHOP_TALK017_0","オメェの覇気に、華ぁ咲いてるぜ？
+なんか、良いことあったのかぃ？","WSHOP_TALK017_0","だいだら．のオヤジ"
+"WSHOP_TALK017_1","ぬうっ！！　旅行だと…？","WSHOP_TALK017_1","だいだら．のオヤジ"
+"WSHOP_TALK017_2","…ワシは、壬生せんべえでいいぞ。","WSHOP_TALK017_2","だいだら．のオヤジ"
+"WSHOP_TALK017_3","…なに、行くのは京都じゃない？
+ま、期待はしてなかったが…","WSHOP_TALK017_3","だいだら．のオヤジ"
+"WSHOP_TALK018_0","…オメェ、修学旅行だったんだよな？","WSHOP_TALK018_0","だいだら．のオヤジ"
+"WSHOP_TALK018_1","も…もしかして、お土産とか…
+い…いや、期待してねぇぞ！！","WSHOP_TALK018_1","だいだら．のオヤジ"
+"WSHOP_TALK018_2","…ま、事故とかなくって
+良かったじゃねぇか。","WSHOP_TALK018_2","だいだら．のオヤジ"
+"WSHOP_TALK019_0","ぬっ？　…なんだ？
+“探偵王子”だ？","WSHOP_TALK019_0","だいだら．のオヤジ"
+"WSHOP_TALK019_1","…気に食わんな…ワシ、“王子”より
+“武将”の方が好きでな…","WSHOP_TALK019_1","だいだら．のオヤジ"
+"WSHOP_TALK019_2","…で、ワシの“アート”と
+なにか関係があるのか？","WSHOP_TALK019_2","だいだら．のオヤジ"
+"WSHOP_TALK019_3","…ないの？
+…マジメに聞いて損したわっ！","WSHOP_TALK019_3","だいだら．のオヤジ"
+"WSHOP_TALK020_0","秋深し…鉄の匂いも、紅葉色…
+どうだ？　なかなか良い句だろ？","WSHOP_TALK020_0","だいだら．のオヤジ"
+"WSHOP_TALK020_1","ぬ…大して意味がないだと…
+ぬぅぅ…ワシの日常を詠ったのに…","WSHOP_TALK020_1","だいだら．のオヤジ"
+"WSHOP_TALK020_2","まあいい…
+さっさと、素材、出さんかい…","WSHOP_TALK020_2","だいだら．のオヤジ"
+"WSHOP_TALK020_3","…今のは句じゃないぞ。","WSHOP_TALK020_3","だいだら．のオヤジ"
+"WSHOP_TALK021_0","もう秋か…オメェと知り合って
+半年以上経っちまったナ？","WSHOP_TALK021_0","だいだら．のオヤジ"
+"WSHOP_TALK021_1","…ぬっ？
+ワシの顔の刀傷はなんだと？","WSHOP_TALK021_1","だいだら．のオヤジ"
+"WSHOP_TALK021_2","詳しいことは、男同士、聞いてくれるな…","WSHOP_TALK021_2","だいだら．のオヤジ"
+"WSHOP_TALK021_3","…コレもまた…ワシの“アート”だと
+言っておこうか…","WSHOP_TALK021_3","だいだら．のオヤジ"
+"WSHOP_TALK022_0","なんだ…顔青いじゃねぇか？
+…ま、男同士、なんも聞かねぇゾ。","WSHOP_TALK022_0","だいだら．のオヤジ"
+"WSHOP_TALK022_1","守りたいものを守る…
+オメェ、漢の瞳…してるゼ。","WSHOP_TALK022_1","だいだら．のオヤジ"
+"WSHOP_TALK023_0","…なんだか辛そうな顔してやがる。","WSHOP_TALK023_0","だいだら．のオヤジ"
+"WSHOP_TALK023_1","男ってのは、真顔で
+耐えなきゃなんねぇ時もあるがな…","WSHOP_TALK023_1","だいだら．のオヤジ"
+"WSHOP_TALK023_2","…ま、あんまり心にため過ぎるな。","WSHOP_TALK023_2","だいだら．のオヤジ"
+"WSHOP_TALK024_0","おかしな霧が、ワシの工房の種火を
+消そうと…むうっ…許せんっ！","WSHOP_TALK024_0","だいだら．のオヤジ"
+"WSHOP_TALK024_1","この種火のおかげで、
+ワシの冷え性も治ってたのに…","WSHOP_TALK024_1","だいだら．のオヤジ"
+"WSHOP_TALK024_2","こんな真冬に、閉鎖になったら
+ワシ、どうやって生きていけば…！","WSHOP_TALK024_2","だいだら．のオヤジ"
+"WSHOP_TALK025_0","いつの世にも悪は絶えない…
+確かにそうだなぁ…","WSHOP_TALK025_0","だいだら．のオヤジ"
+"WSHOP_TALK025_1","…覚えとけ。
+悪は粛清され、善は勝ち誇る。","WSHOP_TALK025_1","だいだら．のオヤジ"
+"WSHOP_TALK025_2","これが世の道理ってもんだ。
+…今は逆転してるがな。","WSHOP_TALK025_2","だいだら．のオヤジ"
+"WSHOP_TALK025_3","オメェには、真っ直ぐな瞳で
+何が悪いか見極めて欲しいぜ…","WSHOP_TALK025_3","だいだら．のオヤジ"
+"WSHOP_TALK026_0","バイトだぁ？","WSHOP_TALK026_0","だいだら．のオヤジ"
+"WSHOP_TALK026_1","ワシの“アート”を理解できなきゃ、
+バイトなんぞさせないぜ。","WSHOP_TALK026_1","だいだら．のオヤジ"
+"WSHOP_TALK026_2","今までに、ワシの“アート”を真に理解できる
+ヤツがこの世にいたとしたら…","WSHOP_TALK026_2","だいだら．のオヤジ"
+"WSHOP_TALK026_3","オメェさんぐらいだな！
+ダッハハハハハハ！","WSHOP_TALK026_3","だいだら．のオヤジ"
+"WSHOP_TALK026_4","まぁ、そもそもバイトなんざ
+募集した事ねぇけどな。","WSHOP_TALK026_4","だいだら．のオヤジ"
+"WSHOP_TALK027_0","例のおかしな霧、すっかり消えちまったなぁ。
+まるで最初からなかったみてぇだぜ。","WSHOP_TALK027_0","だいだら．のオヤジ"
+"WSHOP_TALK027_1","何だぁ？　誇らしげな顔しやがって。
+まさかこの一件、オメェが絡んでんのか？","WSHOP_TALK027_1","だいだら．のオヤジ"
+"WSHOP_TALK027_2","ダッハハハハハハハ！　気に入った！
+オメェって奴ぁ、アートしてるぜ！","WSHOP_TALK027_2","だいだら．のオヤジ"
+"WSHOP_TALK028_0","おう、よく来たな！
+あけましておめでとうさん。","WSHOP_TALK028_0","だいだら．のオヤジ"
+"WSHOP_TALK028_1","正月くれぇ休むかと思ったが…
+オメェのツラ見たら、どうにもうずいてきやがった。","WSHOP_TALK028_1","だいだら．のオヤジ"
+"WSHOP_TALK028_2","いっちょ気合い入れて
+アート初めと行くかぁ！","WSHOP_TALK028_2","だいだら．のオヤジ"
+"WSHOP_TALK029_0","いやあ、外は毎日クソ寒いな！
+だが、ここは暑いぜ？","WSHOP_TALK029_0","だいだら．のオヤジ"
+"WSHOP_TALK029_1","ワシの燃え上がるアートなハートが、
+ハードでキュートなビートを刻んどるからな！","WSHOP_TALK029_1","だいだら．のオヤジ"
+"WSHOP_TALK029_2","何？　種火のせいだろってそりゃオメェ…
+まあ、１０００度近けぇからなぁ…","WSHOP_TALK029_2","だいだら．のオヤジ"
+"WSHOP_TALK030_0","オメェらが気楽に出入りしてるせいか、
+前より見に来る客も増えてなぁ。","WSHOP_TALK030_0","だいだら．のオヤジ"
+"WSHOP_TALK030_1","弟子にしてくれ、なんてのもいるが、
+アートってな、教わるもんじゃねぇ。","WSHOP_TALK030_1","だいだら．のオヤジ"
+"WSHOP_TALK030_2","心の声に耳を澄まし、魂を燃やし尽くす！
+それでこそアートってもんよ！","WSHOP_TALK030_2","だいだら．のオヤジ"
+"WSHOP_TALK031_0","おう、どうした。
+都会に帰るんじゃなかったのか？","WSHOP_TALK031_0","だいだら．のオヤジ"
+"WSHOP_TALK031_1","…ふーむ、その顔はどうも
+何かやり残した事があるってぇツラだな。","WSHOP_TALK031_1","だいだら．のオヤジ"
+"WSHOP_TALK031_2","ま、野暮は言いっこナシだ。
+オメェとワシの仲だろ？　存分に見ていきな！","WSHOP_TALK031_2","だいだら．のオヤジ"
+"WSHOP_TALKCMM001_0","むぅ…旦那が亡くなった家の、
+蔵の中身、買い取ったんだがなぁ…","WSHOP_TALKCMM001_0","だいだら．のオヤジ"
+"WSHOP_TALKCMM001_1","意味深な手紙が出てきやがってよぉ…
+恋文だぜ…厄介だろ？","WSHOP_TALKCMM001_1","だいだら．のオヤジ"
+"WSHOP_TALKCMM001_2","捨てるってのも、薄情だし…
+返しに行くってのもなぁ…","WSHOP_TALKCMM001_2","だいだら．のオヤジ"
+"WSHOP_TALKCMM001_3","＞ひさ乃が言っていた手紙のことだろうか…","WSHOP_TALKCMM001_3","だいだら．のオヤジ"
+"WSHOP_TALKCMM001_4","＞手紙を預かることにした。","WSHOP_TALKCMM001_4","だいだら．のオヤジ"
+"WSHOP_TALKCMM001_5","＞[F4 45 04 01 00 00 01 01]を手に入れた。","WSHOP_TALKCMM001_5","だいだら．のオヤジ"
+"WSHOP_TALKCMM002_0","むぅっ！　オメェ、良い所に来た！","WSHOP_TALKCMM002_0","だいだら．のオヤジ"
+"WSHOP_TALKCMM002_1","この間の手紙なんだがぁ…
+また出てきやがってよ。","WSHOP_TALKCMM002_1","だいだら．のオヤジ"
+"WSHOP_TALKCMM002_2","良かったら、また預かってくれねぇか…","WSHOP_TALKCMM002_2","だいだら．のオヤジ"
+"WSHOP_TALKCMM002_3","＞手紙を預かることにした。","WSHOP_TALKCMM002_3","だいだら．のオヤジ"
+"WSHOP_TALKCMM002_4","＞[F4 45 04 01 00 00 01 01]を手に入れた。","WSHOP_TALKCMM002_4","だいだら．のオヤジ"
+"speaker_テオドア","テオドア","speaker_テオドア",""
+"speaker_　","　","speaker_　",""
+"speaker_マーガレット","マーガレット","speaker_マーガレット",""
+"speaker_ナギ","ナギ","speaker_ナギ",""
+"speaker_だいだら．のオヤジ","だいだら．のオヤジ","speaker_だいだら．のオヤジ",""

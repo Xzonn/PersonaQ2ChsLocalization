@@ -1,0 +1,597 @@
+"source","target","id","developer_comments"
+"combine_sel_0","是的。","combine_sel_0",""
+"combine_sel_1","不是","combine_sel_1",""
+"combine_check_zyusu_0","这是你的个人形象吗？","combine_check_zyusu_0",""
+"combine_check_karo_0","这个人设可以吗？","combine_check_karo_0",""
+"combine_not_level_0","你们的水平还不够，
+无法创造这个人格面具！
+知耻吧！！","combine_not_level_0",""
+"combine_possession_0","这个人设不是已经有了吗！
+","combine_possession_0",""
+"combine_not_has_sorce_pe_0","你没有适合的人物形象！
+","combine_not_has_sorce_pe_0",""
+"combine_stock_over_0","不能再拥有更多的人格了！贪婪的家伙！
+
+","combine_stock_over_0",""
+"combine_free_ticket_chec_0","が[F2 44 01 01]枚ありますね。
+使用して無料で合体しますか？","combine_free_ticket_chec_0",""
+"combine_money_0","手头的钱好像不够呢……","combine_money_0",""
+"combine_money_conf_0","この人格面具を生み出すには
+[F2 01 03 01][F2 44 01 01]円[F2 01 01 01]頂きます。いいですね？","combine_money_conf_0",""
+"combine_succession_0","选择要继承的技能。","combine_succession_0",""
+"combine_get_card_0","人格面具『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』が
+心の中に生まれた。","combine_get_card_0",""
+"combine_accident_0","多少有些出乎意料，但...嗯，应该没问题吧！
+","combine_accident_0",""
+"combine_fool_accident_0","哎呀，这是……“百搭牌”
+呢。","combine_fool_accident_0",""
+"combine_accident_Ex_0","多少有些出乎意料，但...嗯，应该没问题吧！
+","combine_accident_Ex_0",""
+"combine_fool_accident_Ex_0","哎呀，这是……“百搭牌”
+呢。","combine_fool_accident_Ex_0",""
+"zensyo_summons_0","この人格面具を召喚するには、
+[F2 01 03 01][F2 44 01 01]円[F2 01 01 01]かかるぞ。いいんだな？","zensyo_summons_0",""
+"zensyo_not_summons_0","我没有足够的现金。
+...如果只是闲逛的话可以。","zensyo_not_summons_0",""
+"zensyo_get_summons_0","人格面具『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』を
+召喚した。","zensyo_get_summons_0",""
+"zensyo_not2_summons_0","这个人格似乎已经被持有了。
+请好好确认一下。","zensyo_not2_summons_0",""
+"zensyo_not3_summons_0","这个角色似乎还不符合你的等级要求……
+","zensyo_not3_summons_0",""
+"zensyo_not4_summons_0","不能再拥有更多的人格了。
+不要太贪心。","zensyo_not4_summons_0",""
+"zensyo_regist_0","我已经覆盖在人格面具电影上了！","zensyo_regist_0",""
+"zensyo_add_check_0","所持している[F2 01 02 01][F2 44 01 01][F2 01 01 01]を
+人格面具フィルムに登録していいんだな？","zensyo_add_check_0",""
+"zensyo_all_add_check_0","可以把所有拥有的人格面具都登记到人格面具视频里吗？
+","zensyo_all_add_check_0",""
+"zensyo_mark_add_check_0","你可以把选择的人格注册到人格视频上吗？
+","zensyo_mark_add_check_0",""
+"zensyo_no_regist_0","看来没有拥有可以登记在册的人格啊……真是令人吃惊。
+
+","zensyo_no_regist_0",""
+"powerup_message_0","你想强化这个角色吗？","powerup_message_0",""
+"powerup_cancel_0","关于您目前所穿戴的人格面具，
+我无法接受……","powerup_cancel_0",""
+"powerup_non_0","您似乎没有强化素材的个人……
+","powerup_non_0",""
+"powerup_receive_0","您要停止强化这个角色吗？
+","powerup_receive_0",""
+"powerup_receive1_0","现在我们所持有的角色已经处于展示状态。
+","powerup_receive1_0",""
+"powerup_receive2_0","现在我们所持有的角色已经处于展示状态。
+","powerup_receive2_0",""
+"powerup_receive3_0","现在我们所持有的角色已经处于展示状态。
+","powerup_receive3_0",""
+"powerup_failed_0","很遗憾发生了这样的事情...","powerup_failed_0",""
+"powerup_no_receive_0","看起来您已经无法再拥有更多的人格了，
+请等待空位后再来领取。","powerup_no_receive_0",""
+"skill_powerup_0","人格面具的技能似乎会得到强化。","skill_powerup_0",""
+"skill_powerup_1","『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』を強化しますか？","skill_powerup_1",""
+"cmb_comu_achieve_get_ite_0","＞[F4 45 04 01 00 00 01 01]を手に入れた。","cmb_comu_achieve_get_ite_0",""
+"comu_achieve_rank_A_0","我的忠告似乎是不需要的。
+","comu_achieve_rank_A_0",""
+"comu_achieve_rank_B_0","这是一个很棒的步调。","comu_achieve_rank_B_0",""
+"comu_achieve_rank_B_1","社区才是构建你的“世界”
+的关键，请不要忘记。","comu_achieve_rank_B_1",""
+"comu_achieve_rank_C_0","相当不错的速度呢。","comu_achieve_rank_C_0",""
+"comu_achieve_rank_C_1","社区才是构建你的“世界”
+的关键，请不要忘记。","comu_achieve_rank_C_1",""
+"comu_achieve_rank_D_0","更加重视彼此的纽带可能会更好。","comu_achieve_rank_D_0",""
+"comu_achieve_rank_D_1","社区才是构建你的“世界”
+的关键，请不要忘记。","comu_achieve_rank_D_1",""
+"comu_achieve_rank_E_0","多珍惜彼此的羁绊。
+因为在你身边，一定会找到的。","comu_achieve_rank_E_0",""
+"comu_achieve_rank_E_1","社区才是构建你的“世界”
+的关键，请不要忘记。","comu_achieve_rank_E_1",""
+"cmb_comu_achieve_0","啊...？","cmb_comu_achieve_0",""
+"cmb_comu_achieve_1","看起来，
+您的社区完成率已经超过了50%的样子...","cmb_comu_achieve_1",""
+"cmb_comu_achieve_2","太棒了。
+那么...请收下这个吧。","cmb_comu_achieve_2",""
+"cmb_comu_achieve_3","社交圈的充实才能让你的“世界”
+变得充实……","cmb_comu_achieve_3",""
+"cmb_comu_achieve_4","我期待着你的“世界”。
+","cmb_comu_achieve_4",""
+"cmb_comu_achieve_100_0","太棒了...","cmb_comu_achieve_100_0",""
+"cmb_comu_achieve_100_1","你终于把所有的社区都培养成了真正的联系了呢……
+","cmb_comu_achieve_100_1",""
+"cmb_comu_achieve_100_2","这不是每个人都能做到的事情……","cmb_comu_achieve_100_2",""
+"cmb_comu_achieve_100_3","果然你就是我所想的那样的人。","cmb_comu_achieve_100_3",""
+"cmb_comu_achieve_100_4","你的“世界”
+是什么样的呢。","cmb_comu_achieve_100_4",""
+"cmb_comu_achieve_100_5","如果可以的话，我也希望被带到那个“世界”
+去。","cmb_comu_achieve_100_5",""
+"cmb_comu_achieve_100_6","……那么，就是这个了。
+这是我花了很长时间制作的东西。","cmb_comu_achieve_100_6",""
+"cmb_comu_achieve_100_7","我一定会保护你的。
+就算是代替我这个我……","cmb_comu_achieve_100_7",""
+"combine_before_comu_none_0","“[F2 44 01 01]”コミュはまだお持ちでないご様子。
+もっとも、“[F2 44 01 01]”コミュを築かれるのは、
+まだ先のようですが…","combine_before_comu_none_0",""
+"combine_before_comu_none_1","并没有赋予新的力量，
+但使用这个人格面具可以吗？","combine_before_comu_none_1",""
+"combine_before_comu_none_2_0","“[F2 44 01 01]”コミュはまだお持ちでないご様子。
+そろそろ現れる頃かと存じますが…","combine_before_comu_none_2_0",""
+"combine_before_comu_none_2_1","并没有赋予新的力量，
+但使用这个人格面具可以吗？","combine_before_comu_none_2_1",""
+"combine_before_comu_none_3_0","“[F2 44 01 01]”コミュはまだお持ちでないご様子。","combine_before_comu_none_3_0",""
+"combine_before_comu_none_3_1","并没有赋予新的力量，
+但使用这个人格面具可以吗？","combine_before_comu_none_3_1",""
+"combine_comu_rank_00_0","您似乎没有适应“社交”
+的能力……无法获得新的力量。","combine_comu_rank_00_0",""
+"combine_comu_rank_00_1","这个角色可以吗？","combine_comu_rank_00_1",""
+"combine_comu_rank_01_0","对应的“社交”
+等级是1……嗯……能获得多少力量呢。","combine_comu_rank_01_0",""
+"combine_comu_rank_01_1","这个角色可以吗？","combine_comu_rank_01_1",""
+"combine_comu_rank_02_0","对应的“社交”
+等级是2……有些可能是天生具备的力量吧……","combine_comu_rank_02_0",""
+"combine_comu_rank_02_1","这个角色可以吗？","combine_comu_rank_02_1",""
+"combine_comu_rank_03_0","对应的“社交”
+等级是3……可能会有一些力量赋予而出生吧……","combine_comu_rank_03_0",""
+"combine_comu_rank_03_1","这个角色可以吗？","combine_comu_rank_03_1",""
+"combine_comu_rank_04_0","对应的“社交”
+等级是4...看起来将会获得相当的力量诞生。","combine_comu_rank_04_0",""
+"combine_comu_rank_04_1","这个角色可以吗？","combine_comu_rank_04_1",""
+"combine_comu_rank_05_0","对应的“社交”
+等级是5……看起来将会得到相当的力量诞生。","combine_comu_rank_05_0",""
+"combine_comu_rank_05_1","这个角色可以吗？","combine_comu_rank_05_1",""
+"combine_comu_rank_06_0","对应的“社群”
+等级是6...看起来将会诞生出相当强大的力量。","combine_comu_rank_06_0",""
+"combine_comu_rank_06_1","这个角色可以吗？","combine_comu_rank_06_1",""
+"combine_comu_rank_07_0","对应的“社交”
+等级是7……看起来将会获得相当大的力量诞生。","combine_comu_rank_07_0",""
+"combine_comu_rank_07_1","这个角色可以吗？","combine_comu_rank_07_1",""
+"combine_comu_rank_08_0","对应的“社交”
+等级是8……获得了巨大的力量而诞生了……","combine_comu_rank_08_0",""
+"combine_comu_rank_08_1","这个角色可以吗？","combine_comu_rank_08_1",""
+"combine_comu_rank_09_0","对应的“社群”
+等级是9……获得了巨大的力量而诞生了……","combine_comu_rank_09_0",""
+"combine_comu_rank_09_1","这个角色可以吗？","combine_comu_rank_09_1",""
+"combine_comu_rank_10_0","对应的“社交”等级是10...","combine_comu_rank_10_0",""
+"combine_comu_rank_10_1","哦...毫无疑问，
+你生来就被赋予了强大的力量。","combine_comu_rank_10_1",""
+"combine_comu_rank_10_2","这个角色可以吗？","combine_comu_rank_10_2",""
+"combine_comu_world_0","这个角色可以吗？","combine_comu_world_0",""
+"msg_combine_MHELP001_M_0","“人格面具 Film”
+中注册的人格面具信息随时可供查阅。","msg_combine_MHELP001_M_0",""
+"msg_combine_MHELP001_M_1","此外，
+注册的人格面具只要支付代价就可以直接召唤出来！","msg_combine_MHELP001_M_1",""
+"msg_combine_MHELP001_M_2","然而，
+召唤强大的人格面具的代价自然会随之增加。","msg_combine_MHELP001_M_2",""
+"msg_combine_MHELP001_M_3","如果电影的注册进展顺利，也不排除考虑折扣。
+加油！","msg_combine_MHELP001_M_3",""
+"msg_combine_MHELP002_M_0","在人格面具电影中，
+首次获取时的状态将被记录。","msg_combine_MHELP002_M_0",""
+"msg_combine_MHELP002_M_1","但是，
+可以将经过增强的状态覆盖记录到胶片中。","msg_combine_MHELP002_M_1",""
+"msg_combine_MHELP002_M_2","代价是不需要的，但覆盖是申报制的。","msg_combine_MHELP002_M_2",""
+"msg_combine_MHELP002_M_3","希望覆盖时，
+请从“覆盖到人格面具 Film”
+中传达您的意愿...可以吗？","msg_combine_MHELP002_M_3",""
+"msg_combine_MESSAGE000_0","我是大米～哟","msg_combine_MESSAGE000_0",""
+"msg_combine_MESSAGE001_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…","msg_combine_MESSAGE001_0",""
+"msg_combine_MESSAGE001_1","双眸睁开，你，现在发出吧……！
+","msg_combine_MESSAGE001_1",""
+"msg_combine_MESSAGE002_0","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+姿違えど、私は貴方…コンゴトモヨロシク。","msg_combine_MESSAGE002_0",""
+"msg_combine_MESSAGE003_0","是你叫我的吗？","msg_combine_MESSAGE003_0",""
+"msg_combine_MESSAGE003_1","你坚定的眼神……不错。
+好吧，我和你一起走吧。","msg_combine_MESSAGE003_1",""
+"msg_combine_MESSAGE003_2","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+コンゴトモヨロシク…","msg_combine_MESSAGE003_2",""
+"msg_combine_MESSAGE004_0","わたしは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+あなたのために、微力ながら尽くしますわ。","msg_combine_MESSAGE004_0",""
+"msg_combine_MESSAGE005_0","わたしは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+あなたの心の海よりいでし者…","msg_combine_MESSAGE005_0",""
+"msg_combine_MESSAGE006_0","わたしは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+精一杯、お守りいたします！","msg_combine_MESSAGE006_0",""
+"msg_combine_MESSAGE007_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+この名、忘れえぬものとなるだろう…","msg_combine_MESSAGE007_0",""
+"msg_combine_MESSAGE008_0","我が名は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+共に参りましょう、長き道行きを…","msg_combine_MESSAGE008_0",""
+"msg_combine_MESSAGE009_0","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+貴方の盾、貴方の剣、貴方の友…","msg_combine_MESSAGE009_0",""
+"msg_combine_MESSAGE010_0","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+まさしく貴方自身…お忘れなきよう。","msg_combine_MESSAGE010_0",""
+"msg_combine_MESSAGE011_0","わたくしは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+その身を護り、その傷を癒す心の泉…","msg_combine_MESSAGE011_0",""
+"msg_combine_MESSAGE012_0","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]！
+この力、その目でとくと御覧あれ！","msg_combine_MESSAGE012_0",""
+"msg_combine_MESSAGE013_0","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+この剣、お前の為に振るうとしよう！","msg_combine_MESSAGE013_0",""
+"msg_combine_MESSAGE014_0","わたしは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+貴方の御力になれるよう、頑張りますわ。","msg_combine_MESSAGE014_0",""
+"msg_combine_MESSAGE015_0","アタシは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+どーんと、お姉さんに任せなさい！","msg_combine_MESSAGE015_0",""
+"msg_combine_MESSAGE016_0","あたし、[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+えっと…頑張るから、そばにおいててね？","msg_combine_MESSAGE016_0",""
+"msg_combine_MESSAGE017_0","オレは[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+オメェの覚悟、見せてもらうぜ。","msg_combine_MESSAGE017_0",""
+"msg_combine_MESSAGE018_0","わらわは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+おんしの力、見せておくれやす…","msg_combine_MESSAGE018_0",""
+"msg_combine_MESSAGE019_0","我こそは[F2 01 02 01][F2 44 02 01][F2 01 01 01]！
+汝の手に勝利をもたらそうぞ！","msg_combine_MESSAGE019_0",""
+"msg_combine_MESSAGE020_0","わらわは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+お傍には、いつもわらわがおりますゆえ…","msg_combine_MESSAGE020_0",""
+"msg_combine_MESSAGE021_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+輝ける道を築くため、共に行かん…","msg_combine_MESSAGE021_0",""
+"msg_combine_MESSAGE022_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+いいだろう、しばし汝に力を貸すとしよう…","msg_combine_MESSAGE022_0",""
+"msg_combine_MESSAGE023_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+いざ共に行かん、栄光の道を！","msg_combine_MESSAGE023_0",""
+"msg_combine_MESSAGE024_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+汝の守護こそ我が使命なり！","msg_combine_MESSAGE024_0",""
+"msg_combine_MESSAGE025_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+力を求める猛き心に応えたり…","msg_combine_MESSAGE025_0",""
+"msg_combine_MESSAGE026_0","オレサマ　[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+オレサマ　オマエ　マルカジリ。","msg_combine_MESSAGE026_0",""
+"msg_combine_MESSAGE027_0","我ハ　[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+ウヌヨリ生マレ　ウヌニ還ル者ナリ…","msg_combine_MESSAGE027_0",""
+"msg_combine_MESSAGE028_0","俺は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+俺に賭けな、勝たせてやるぜ…","msg_combine_MESSAGE028_0",""
+"msg_combine_MESSAGE029_0","うぉ　うぉれは　[F2 01 02 01][F2 44 02 01][F2 01 01 01]！
+うぉまえも　[F2 01 02 01][F2 44 02 01][F2 01 01 01]！！","msg_combine_MESSAGE029_0",""
+"msg_combine_MESSAGE030_0","ハアシラ　[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+ソンヨトコ　モロシグ…","msg_combine_MESSAGE030_0",""
+"msg_combine_MESSAGE031_0","[f 2 4 1][f 0 1 0]不要上车，
+这是通往地狱的列车。","msg_combine_MESSAGE031_0",""
+"msg_combine_MESSAGE032_0","ここに在るは[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+常勝の将にして、貴方に忠誠を誓う者…","msg_combine_MESSAGE032_0",""
+"msg_combine_MESSAGE033_0","こんちわ、ボク、[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+チミといっしょに、行こうよウィズユー。","msg_combine_MESSAGE033_0",""
+"msg_combine_MESSAGE034_0","オレは[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+まー、しばらくは面倒見てやっか…","msg_combine_MESSAGE034_0",""
+"msg_combine_MESSAGE035_0","おいらは[F2 01 02 01][F2 44 02 01][F2 01 01 01]だホ！
+コンゴトモヨロシク！　ヒホホー！！","msg_combine_MESSAGE035_0",""
+"msg_combine_MESSAGE036_0","わたし、[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+ずっと一緒に、遊んでくれる？","msg_combine_MESSAGE036_0",""
+"msg_combine_MESSAGE037_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+汝が勝ち戦の、猛き先駈けとなるニャー！","msg_combine_MESSAGE037_0",""
+"msg_combine_MESSAGE038_0","おいらは[F2 01 02 01][F2 44 02 01][F2 01 01 01]だホー！
+舐めんじゃねぇよ、ヒホホー！！","msg_combine_MESSAGE038_0",""
+"msg_combine_MESSAGE039_0","谁在召唤我...","msg_combine_MESSAGE039_0",""
+"msg_combine_MESSAGE039_1","他不会逃避自己的黑暗，这种坚强...我喜欢你，小子...
+","msg_combine_MESSAGE039_1",""
+"msg_combine_MESSAGE039_2","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+暫くは小僧に力を貸すとしよう…","msg_combine_MESSAGE039_2",""
+"msg_combine_MESSAGE040_0","谁在召唤我...","msg_combine_MESSAGE040_0",""
+"msg_combine_MESSAGE040_1","将强大的光芒寄宿在高贵的人之子身上……
+我将赐予你祝福……","msg_combine_MESSAGE040_1",""
+"msg_combine_MESSAGE040_2","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+汝の心に寄り添うもの…","msg_combine_MESSAGE040_2",""
+"msg_combine_MESSAGE041_0","我是你...你是我...我乃出自你心灵之海的存在...
+","msg_combine_MESSAGE041_0",""
+"msg_combine_MESSAGE041_1","一切的开始之源，
+愿成为照亮你前行道路的引导……","msg_combine_MESSAGE041_1",""
+"msg_combine_MESSAGE041_2","我は、始まりの神…
+[F2 01 02 01][F2 44 02 01][F2 01 01 01]なり…","msg_combine_MESSAGE041_2",""
+"msg_combine_MESSAGE042_0","谁在召唤我...","msg_combine_MESSAGE042_0",""
+"msg_combine_MESSAGE042_1","犹如照亮黑夜般，炫目的心灵……
+愿成为你的力量……","msg_combine_MESSAGE042_1",""
+"msg_combine_MESSAGE042_2","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+その光、絶やさぬよう…","msg_combine_MESSAGE042_2",""
+"msg_combine_MESSAGE043_0","谁在召唤我...","msg_combine_MESSAGE043_0",""
+"msg_combine_MESSAGE043_1","照亮无数黑暗的人啊，
+你是否将虚无视为自己的力量……","msg_combine_MESSAGE043_1",""
+"msg_combine_MESSAGE043_2","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+汝の道行きを見届けん…","msg_combine_MESSAGE043_2",""
+"msg_combine_NETWORK_STOC_0","不行啊。
+你没有备用身份证件吗？","msg_combine_NETWORK_STOC_0",""
+"msg_combine_NETWORK_STOC_1","开始通信需要准备好辅助人格，
+所以请准备好。","msg_combine_NETWORK_STOC_1",""
+"msg_combine_NETWORK_STOC_2_0","不行啊。
+你没有备用身份证件吗？","msg_combine_NETWORK_STOC_2_0",""
+"msg_combine_NETWORK_STOC_2_1","开始通信需要准备好辅助人格，
+所以请准备好。","msg_combine_NETWORK_STOC_2_1",""
+"msg_combine_sacrifice_co_0","イケニエの力で成長させるのは、
+この人格面具でいいんだな？","msg_combine_sacrifice_co_0",""
+"msg_combine_sacrifice_bo_0","＞イケニエとなった人格面具の力が、
+　[F2 01 02 01][F2 44 01 01][F2 01 01 01]に注ぎ込まれる…","msg_combine_sacrifice_bo_0",""
+"msg_combine_sacrifice_it_0","＞イケニエとなった人格面具のスキルが
+　[F2 01 02 01][F2 44 01 01][F2 01 01 01]に宿っていく…","msg_combine_sacrifice_it_0",""
+"msg_combine_sacrifice_it_2_0","　　　　得到了！","msg_combine_sacrifice_it_2_0",""
+"msg_combine_sacrifice_it_3_0","> 技能很多。
+请选择要忘记的技能。","msg_combine_sacrifice_it_3_0",""
+"msg_combine_skcard_money_0","手头的钱好像不够呢……","msg_combine_skcard_money_0",""
+"msg_combine_HELP_ACCIDEN_0","人格面具的合体是非常精细的工作。","msg_combine_HELP_ACCIDEN_0",""
+"msg_combine_HELP_ACCIDEN_1","虽然很少见，但有时手头会出错，导致发生“事故”。
+","msg_combine_HELP_ACCIDEN_1",""
+"msg_combine_HELP_ACCIDEN_2","事故发生时，
+可能会出现与事前通知不同的人格。","msg_combine_HELP_ACCIDEN_2",""
+"msg_combine_HELP_ACCIDEN_3","我们也不知道会诞生什么。
+...不要太在意细节会更明智。","msg_combine_HELP_ACCIDEN_3",""
+"msg_combine_HELP_KENSAKU_0","在搜寻合体中，可以确认当前可以合成的所有人格面具，从持有的人格面具中。
+","msg_combine_HELP_KENSAKU_0",""
+"msg_combine_HELP_KENSAKU_1","从可以产生的候选者中寻找最高水平的人格面具……
+","msg_combine_HELP_KENSAKU_1",""
+"msg_combine_HELP_KENSAKU_2","在寻找未注册的人格面具时，
+应该可以方便地使用在人格面具视频中。","msg_combine_HELP_KENSAKU_2",""
+"msg_combine_HELP_3SIN_0","“三体合体”
+是以三个人格为基础，产生更高级别的人格的合体。","msg_combine_HELP_3SIN_0",""
+"msg_combine_HELP_3SIN_1","使用过的三个人格面具将会消失，
+但可以期待它们变得更加强大。","msg_combine_HELP_3SIN_1",""
+"msg_combine_HELP_3SIN_2","如果你想寻求更多力量的话，
+利用现有资源是明智的选择。","msg_combine_HELP_3SIN_2",""
+"msg_combine_HELP_TOKUSYU_0","“特殊合体”
+是以特定的人格面具为基础，产生特殊的特定人格面具的合体。","msg_combine_HELP_TOKUSYU_0",""
+"msg_combine_HELP_TOKUSYU_1","特殊合体产生的人格面具是其他合体无法产生的。
+","msg_combine_HELP_TOKUSYU_1",""
+"msg_combine_HELP_TOKUSYU_2","也许不那么容易制作，
+但都是相当强大的人格面具。","msg_combine_HELP_TOKUSYU_2",""
+"msg_combine_HELP_TOKUSYU_3","嗯，没有不做的事情。
+好好利用吧！","msg_combine_HELP_TOKUSYU_3",""
+"msg_combine_HELP_SACRIFI_0","这里是我负责的部分。","msg_combine_HELP_SACRIFI_0",""
+"msg_combine_HELP_SACRIFI_1","“汇合伊吉”
+是将一个人格面具变为伊吉，
+以促进另一个人格面具的成长的秘仪。","msg_combine_HELP_SACRIFI_1",""
+"msg_combine_HELP_SACRIFI_2","成长的程度取决于伊吉尼尔设定的角色等级越高，
+成长就会越大。","msg_combine_HELP_SACRIFI_2",""
+"msg_combine_HELP_SACRIFI_3","通常情况下，
+这种秘仪是需要相应的代价的……","msg_combine_HELP_SACRIFI_3",""
+"msg_combine_HELP_SACRIFI_4","为了这个世界的研究，
+这一次我将采取特别措施。","msg_combine_HELP_SACRIFI_4",""
+"msg_combine_HELP_SACRIFI_5","每个人设只有在第一次作为神明的时候才是免费的哦。
+","msg_combine_HELP_SACRIFI_5",""
+"msg_combine_HELP_SACRIFI_6","培养主要角色也是可能的。
+这也可能有助于提升战斗力。","msg_combine_HELP_SACRIFI_6",""
+"msg_combine_HELP_SACRIFI_7","当你第一次获得人格面具时，不妨试试将其用于合体，看看会怎样呢？
+","msg_combine_HELP_SACRIFI_7",""
+"msg_combine_NETWORK_HELP_0","那么，我来解释一下“擦肩手账”，请仔细听哦。
+","msg_combine_NETWORK_HELP_0",""
+"msg_combine_NETWORK_HELP_1","这里有很多和这里一样的世界，
+那里也有“不是你的你”。","msg_combine_NETWORK_HELP_1",""
+"msg_combine_NETWORK_HELP_2","『すれちがい手帳』っていうのは、
+その別世界との通信に使うものだよ。","msg_combine_NETWORK_HELP_2",""
+"msg_combine_NETWORK_HELP_3","和“不是你的你”
+通信的话，可以交换一个人格面具。","msg_combine_NETWORK_HELP_3",""
+"msg_combine_NETWORK_HELP_4","方法是，在“巧遇手帐”
+上附上你们的信息和喜欢的人格面具。","msg_combine_NETWORK_HELP_4",""
+"msg_combine_NETWORK_HELP_5","啊，
+因为只能选择一个副人格哦。","msg_combine_NETWORK_HELP_5",""
+"msg_combine_NETWORK_HELP_6","所以，如果成功与另一个世界的你进行通信，就可以召唤对方交换的人格面具。
+","msg_combine_NETWORK_HELP_6",""
+"msg_combine_NETWORK_HELP_7","如果能善加利用的话，
+或许就有机会获得强大的次要人设。","msg_combine_NETWORK_HELP_7",""
+"msg_combine_NETWORK_HELP_2_0","那么，我来解释一下“擦肩手账”，请仔细听哦。
+","msg_combine_NETWORK_HELP_2_0",""
+"msg_combine_NETWORK_HELP_2_1","这里有很多和这里一样的世界，
+那里也有“不是你的你”。","msg_combine_NETWORK_HELP_2_1",""
+"msg_combine_NETWORK_HELP_2_2","『すれちがい手帳』っていうのは、
+その別世界との通信に使うものだよ。","msg_combine_NETWORK_HELP_2_2",""
+"msg_combine_NETWORK_HELP_2_3","和“不是你的你”
+通信的话，可以交换一个人格面具。","msg_combine_NETWORK_HELP_2_3",""
+"msg_combine_NETWORK_HELP_2_4","方法是，在“巧遇手帐”
+上附上你们的信息和喜欢的人格面具。","msg_combine_NETWORK_HELP_2_4",""
+"msg_combine_NETWORK_HELP_2_5","啊，
+因为只能选择一个副人格哦。","msg_combine_NETWORK_HELP_2_5",""
+"msg_combine_NETWORK_HELP_2_6","所以，如果成功与另一个世界的你进行通信，就可以召唤对方交换的人格面具。
+","msg_combine_NETWORK_HELP_2_6",""
+"msg_combine_NETWORK_HELP_2_7","如果能善加利用的话，
+或许就有机会获得强大的次要人设。","msg_combine_NETWORK_HELP_2_7",""
+"msg_combine_NETWORK_HELP_3_0","我收到的“错过的手账”，如果你告诉我，我就可以确认。
+","msg_combine_NETWORK_HELP_3_0",""
+"msg_combine_NETWORK_HELP_3_1","顺便说一下，如果你得到了新的“擦肩手帐”，我会一起教给你。
+","msg_combine_NETWORK_HELP_3_1",""
+"msg_combine_NETWORK_HELP_3_2","但是“错过的手账”
+里，交换的东西并不能全部保存下来。","msg_combine_NETWORK_HELP_3_2",""
+"msg_combine_NETWORK_HELP_3_3","因为最多只能保存100个项目，
+所以最好保护好重要的数据。","msg_combine_NETWORK_HELP_3_3",""
+"msg_combine_NETWORK_HELP_3_4","要不然，就会按照旧数据的顺序逐渐消失，所以请注意。
+","msg_combine_NETWORK_HELP_3_4",""
+"msg_combine_NETWORK_HELP_3_5","哦，
+记得最多只能保护80个项目哦。","msg_combine_NETWORK_HELP_3_5",""
+"msg_combine_NETWORK_HELP_3_6","如果你在得到的“交错手帐”
+中想召唤某个人格面具的话，请告诉我。","msg_combine_NETWORK_HELP_3_6",""
+"msg_combine_NETWORK_HELP_3_7","对方会支付报酬，
+但是玛格丽特说小孩子们会召唤……","msg_combine_NETWORK_HELP_3_7",""
+"msg_combine_NETWORK_HELP_4_0","我收到的“错过的手账”，如果你告诉我，我就可以确认。
+","msg_combine_NETWORK_HELP_4_0",""
+"msg_combine_NETWORK_HELP_4_1","顺便说一下，如果你得到了新的“擦肩手帐”，我会一起教给你。
+","msg_combine_NETWORK_HELP_4_1",""
+"msg_combine_NETWORK_HELP_4_2","但是“错过的手账”
+里，交换的东西并不能全部保存下来。","msg_combine_NETWORK_HELP_4_2",""
+"msg_combine_NETWORK_HELP_4_3","因为最多只能保存100个项目，
+所以最好保护好重要的数据。","msg_combine_NETWORK_HELP_4_3",""
+"msg_combine_NETWORK_HELP_4_4","要不然，就会按照旧数据的顺序逐渐消失，所以请注意。
+","msg_combine_NETWORK_HELP_4_4",""
+"msg_combine_NETWORK_HELP_4_5","哦，
+记得最多只能保护80个项目哦。","msg_combine_NETWORK_HELP_4_5",""
+"msg_combine_NETWORK_HELP_4_6","如果你在得到的“交错手帐”
+中想召唤某个人格面具的话，请告诉我。","msg_combine_NETWORK_HELP_4_6",""
+"msg_combine_NETWORK_HELP_4_7","对方会支付报酬，
+但是玛格丽特说小孩子们会召唤……","msg_combine_NETWORK_HELP_4_7",""
+"msg_combine_NETWORK_HELP_5_0","“擦肩而过手账”
+的内容可以随时自由更改。","msg_combine_NETWORK_HELP_5_0",""
+"msg_combine_NETWORK_HELP_5_1","附加的子人设当然也包括遇见名和消息之类的。
+","msg_combine_NETWORK_HELP_5_1",""
+"msg_combine_NETWORK_HELP_5_2","心情好的话，更新一下“错过手账”
+可能会不错哦。","msg_combine_NETWORK_HELP_5_2",""
+"msg_combine_NETWORK_HELP_5_3","但是，不可以写出让“不是你的你”
+感到不愉快的名字或内容哦。","msg_combine_NETWORK_HELP_5_3",""
+"msg_combine_NETWORK_HELP_5_4","反正，如果把手帐做得让人看着开心，大家都会更幸福吧？
+","msg_combine_NETWORK_HELP_5_4",""
+"msg_combine_NETWORK_HELP_6_0","“擦肩而过手账”
+的内容可以随时自由更改。","msg_combine_NETWORK_HELP_6_0",""
+"msg_combine_NETWORK_HELP_6_1","附加的子人设当然也包括遇见名和消息之类的。
+","msg_combine_NETWORK_HELP_6_1",""
+"msg_combine_NETWORK_HELP_6_2","心情好的话，更新一下“错过手账”
+可能会不错哦。","msg_combine_NETWORK_HELP_6_2",""
+"msg_combine_NETWORK_HELP_6_3","但是，不可以写出让“不是你的你”
+感到不愉快的名字或内容哦。","msg_combine_NETWORK_HELP_6_3",""
+"msg_combine_NETWORK_HELP_6_4","反正，如果把手帐做得让人看着开心，大家都会更幸福吧？
+","msg_combine_NETWORK_HELP_6_4",""
+"msg_combine_NETWORK_HELP_7_0","『すれちがい手帳』は、『ＱＲコード』って
+いうのに変換できるんだってさ。","msg_combine_NETWORK_HELP_7_0",""
+"msg_combine_NETWORK_HELP_7_1","“QR码”
+似乎也可以交换“不是你的你”和“擦肩而过手账”。","msg_combine_NETWORK_HELP_7_1",""
+"msg_combine_NETWORK_HELP_7_2","如果通信出了问题，
+也可以考虑使用“QR码”。","msg_combine_NETWORK_HELP_7_2",""
+"msg_combine_NETWORK_HELP_7_3","你可以制作“QR码”，
+也可以扫描对方的“QR码”。","msg_combine_NETWORK_HELP_7_3",""
+"msg_combine_NETWORK_HELP_7_4","嗯，要不你就试着好好利用“擦肩而过手账”
+不断地交换吧？","msg_combine_NETWORK_HELP_7_4",""
+"msg_combine_NETWORK_HELP_8_0","『すれちがい手帳』は、『ＱＲコード』って
+いうのに変換できるんだってさ。","msg_combine_NETWORK_HELP_8_0",""
+"msg_combine_NETWORK_HELP_8_1","“QR码”
+似乎也可以交换“不是你的你”和“擦肩而过手账”。","msg_combine_NETWORK_HELP_8_1",""
+"msg_combine_NETWORK_HELP_8_2","如果通信出了问题，
+也可以考虑使用“QR码”。","msg_combine_NETWORK_HELP_8_2",""
+"msg_combine_NETWORK_HELP_8_3","你可以制作“QR码”，
+也可以扫描对方的“QR码”。","msg_combine_NETWORK_HELP_8_3",""
+"msg_combine_NETWORK_HELP_8_4","嗯，要不你就试着好好利用“擦肩而过手账”
+不断地交换吧？","msg_combine_NETWORK_HELP_8_4",""
+"msg_combine_MESSAGE044_0","谁在召唤我...","msg_combine_MESSAGE044_0",""
+"msg_combine_MESSAGE044_1","我が名は[F2 01 02 01]ゼウス[F2 01 01 01]。
+彼方より呼ばれし者…","msg_combine_MESSAGE044_1",""
+"msg_combine_MESSAGE044_2","与羁绊一同前往未踏之地的人啊...我将审视你的决心...
+","msg_combine_MESSAGE044_2",""
+"msg_combine_MESSAGE045_0","我是你，你是我...","msg_combine_MESSAGE045_0",""
+"msg_combine_MESSAGE045_1","真正以羁绊为力量的人啊……
+你是否渴望获得更多的自由呢……","msg_combine_MESSAGE045_1",""
+"msg_combine_MESSAGE045_2","那么就与你一起前往吧。
+这片遥远的自由之地……","msg_combine_MESSAGE045_2",""
+"msg_combine_MESSAGE046_0","我是汝...汝是我...我是汝心灵之海中的来者...
+","msg_combine_MESSAGE046_0",""
+"msg_combine_MESSAGE046_1","幽玄の奏者[F2 01 02 01]オルフェウス[F2 01 01 01]なり…","msg_combine_MESSAGE046_1",""
+"msg_combine_MESSAGE047_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+汝より生まれいで、汝の傍らに歩む者なり…","msg_combine_MESSAGE047_0",""
+"combine_regist_NG_0","这个人设已经被保护，
+无法由您自己注册。","combine_regist_NG_0",""
+"combine_regist_NG_Ex_0","这个人设已经被保护，
+无法由您自己注册。","combine_regist_NG_Ex_0",""
+"msg_combine_scr_error_0","这个人格已经无法再成长了。
+","msg_combine_scr_error_0",""
+"msg_combine_skcard_yet_0","这个人格面具还没有学会可以提取的技能。
+","msg_combine_skcard_yet_0",""
+"msg_combine_skcard_lost_0","这个角色已经放弃了可以提取的技能。
+","msg_combine_skcard_lost_0",""
+"msg_combine_NETWORK_STOC_3_0","啊...现在持有的副人格好像无法与“不在此世界”
+的交流。","msg_combine_NETWORK_STOC_3_0",""
+"msg_combine_NETWORK_STOC_3_1","准备另一个人格过来吧。","msg_combine_NETWORK_STOC_3_1",""
+"msg_combine_NETWORK_STOC_4_0","啊...现在持有的副人格好像无法与“不在此世界”
+的交流。","msg_combine_NETWORK_STOC_4_0",""
+"msg_combine_NETWORK_STOC_4_1","准备另一个人格过来吧。","msg_combine_NETWORK_STOC_4_1",""
+"combine_stock_lack_0","人格面具库中的人格面具数量不足。
+","combine_stock_lack_0",""
+"combine_sel_TICKET_0","收费合体","combine_sel_TICKET_0",""
+"combine_sel_TICKET_1","停止合体","combine_sel_TICKET_1",""
+"combine_sel_TICKET_2","使用门票","combine_sel_TICKET_2",""
+"msg_combine_sac_skill_ch_0","[F2 44 01 01][F2 01 01 01]を[F2 01 04 01][F2 44 03 01]枚[F2 01 01 01]お持ちですね。
+使用して[F2 01 02 01][F2 44 02 01][F2 01 01 01]を継承なさいます？","msg_combine_sac_skill_ch_0",""
+"msg_combine_sac_skill_ge_0","＞『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』は
+　『[F2 01 02 01][F2 44 02 01][F2 01 01 01]』を覚えた！","msg_combine_sac_skill_ge_0",""
+"msg_combine_sac_skill_ha_0","＞[F2 44 01 01]は
+　すでに持っている。","msg_combine_sac_skill_ha_0",""
+"msg_combine_stock_over_s_0","人格面具フィルムからの引出しに
+あと[F2 44 01 01]枠ストックの空きが必要ですよ。","msg_combine_stock_over_s_0",""
+"msg_combine_sac_cost_fre_0","这是第一次见到力量的共鸣。
+这次的费用是免费的。可以合体吗？","msg_combine_sac_cost_fre_0",""
+"msg_combine_sac_cost_che_0","イケニエ合体のために[F2 01 03 01][F2 44 01 01]円[F2 01 01 01]
+頂きます。宜しいでしょうか？","msg_combine_sac_cost_che_0",""
+"combine_money_caro_0","你的钱不够啊！
+真丢脸。","combine_money_caro_0",""
+"combine_book_summon_sel_0","召唤","combine_book_summon_sel_0",""
+"combine_book_summon_sel_1","不要了。","combine_book_summon_sel_1",""
+"combine_book_reg_all_sel_0","全部注册。","combine_book_reg_all_sel_0",""
+"combine_book_reg_all_sel_1","不要了。","combine_book_reg_all_sel_1",""
+"combine_book_reg_sel_0","注册","combine_book_reg_sel_0",""
+"combine_book_reg_sel_1","不要了。","combine_book_reg_sel_1",""
+"combine_cmb_sel_0","没问题","combine_cmb_sel_0",""
+"combine_cmb_sel_1","还是不行","combine_cmb_sel_1",""
+"combine_cmb_sac_free_sel_0","请多关照。","combine_cmb_sac_free_sel_0",""
+"combine_cmb_sac_free_sel_1","不要了。","combine_cmb_sac_free_sel_1",""
+"combine_cmb_sac_sel_0","没问题","combine_cmb_sac_sel_0",""
+"combine_cmb_sac_sel_1","还是不行","combine_cmb_sac_sel_1",""
+"combine_cmb_cpy_sel_0","没问题","combine_cmb_cpy_sel_0",""
+"combine_cmb_cpy_sel_1","不要了。","combine_cmb_cpy_sel_1",""
+"combine_wcard_sel_0","继承","combine_wcard_sel_0",""
+"combine_wcard_sel_1","不要了。","combine_wcard_sel_1",""
+"msg_combine_MESSAGE__048_0","僕は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。","msg_combine_MESSAGE__048_0",""
+"msg_combine_MESSAGE__048_1","成为恶作剧之神的力量吗？
+好吧，我会帮你证明自己的实力。","msg_combine_MESSAGE__048_1",""
+"msg_combine_MESSAGE__049_0","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。","msg_combine_MESSAGE__049_0",""
+"msg_combine_MESSAGE__049_1","从现在开始，我将成为你的特技大师，与你同在……
+","msg_combine_MESSAGE__049_1",""
+"msg_combine_MESSAGE__050_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…","msg_combine_MESSAGE__050_0",""
+"msg_combine_MESSAGE__050_1","从你诞生之时起，就是与你同行的存在……
+从现在开始，将成为恶作剧之神的力量。","msg_combine_MESSAGE__050_1",""
+"msg_combine_MESSAGE__051_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…","msg_combine_MESSAGE__051_0",""
+"msg_combine_MESSAGE__051_1","双眸睁开，Joker，现在发动吧……！
+","msg_combine_MESSAGE__051_1",""
+"msg_combine_MESSAGE__052_0","谁在召唤我...","msg_combine_MESSAGE__052_0",""
+"msg_combine_MESSAGE__052_1","数不尽的黑暗啊，作为照亮它的Joker，你是否将虚无视为自己的力量呢……
+","msg_combine_MESSAGE__052_1",""
+"msg_combine_MESSAGE__052_2","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+汝の道行きを見届けん…","msg_combine_MESSAGE__052_2",""
+"msg_combine_MESSAGE__053_0","谁在召唤我...","msg_combine_MESSAGE__053_0",""
+"msg_combine_MESSAGE__053_1","犹如照亮黑暗的夜晚般，闪耀的心灵……
+愿你成为Joker的力量……","msg_combine_MESSAGE__053_1",""
+"msg_combine_MESSAGE__053_2","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+その光、絶やさぬよう…","msg_combine_MESSAGE__053_2",""
+"msg_combine_MESSAGE__054_0","うちは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。","msg_combine_MESSAGE__054_0",""
+"msg_combine_MESSAGE__054_1","我将成为引领你走向胜利的女神。
+我会成为你的力量，一直陪伴着你！","msg_combine_MESSAGE__054_1",""
+"msg_combine_MESSAGE__055_0","うちは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。","msg_combine_MESSAGE__055_0",""
+"msg_combine_MESSAGE__055_1","Joker先生，加油啊！
+我会全力支持你，无论走到哪里！","msg_combine_MESSAGE__055_1",""
+"msg_combine_MESSAGE__056_0","俺は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。","msg_combine_MESSAGE__056_0",""
+"msg_combine_MESSAGE__056_1","右手中充满疯狂，左手中充满执念……来吧……我要从哪一个开始摧毁呢！？
+","msg_combine_MESSAGE__056_1",""
+"msg_combine_MESSAGE__057_0","俺は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。","msg_combine_MESSAGE__057_0",""
+"msg_combine_MESSAGE__057_1","恶作剧之神的力量……？
+无关紧要，我会随心所欲地胡闹！！","msg_combine_MESSAGE__057_1",""
+"msg_combine_MESSAGE__058_0","アハハハハ！
+我が名は[F2 01 02 01][F2 44 02 01][F2 01 01 01]！","msg_combine_MESSAGE__058_0",""
+"msg_combine_MESSAGE__058_1","成为我的力量吗？
+呵呵……如果你大意了，我会把你打垮！","msg_combine_MESSAGE__058_1",""
+"msg_combine_MESSAGE__059_0","アハハハハ！
+我が名は[F2 01 02 01][F2 44 02 01][F2 01 01 01]！","msg_combine_MESSAGE__059_0",""
+"msg_combine_MESSAGE__059_1","成为恶作剧之神的力量吧，
+嘿...好吧...我会把所有的敌人都干掉！","msg_combine_MESSAGE__059_1",""
+"cmb_cmm_quest02_0","那么接下来是……","cmb_cmm_quest02_0",""
+"cmb_cmm_quest02_1","“[F2 01 02 01]マハンマ[F2 01 01 01]”を持った“[F2 01 02 01]マタドール[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest02_1",""
+"cmb_cmm_quest02_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest02_2",""
+"cmb_cmm_quest03_0","那么接下来是……","cmb_cmm_quest03_0",""
+"cmb_cmm_quest03_1","“[F2 01 02 01]暴れまくり[F2 01 01 01]”を持った“[F2 01 02 01]ドゥン[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest03_1",""
+"cmb_cmm_quest03_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest03_2",""
+"cmb_cmm_quest04_0","那么接下来是……","cmb_cmm_quest04_0",""
+"cmb_cmm_quest04_1","“[F2 01 02 01]ブフーラ[F2 01 01 01]”を持った“[F2 01 02 01]ネコショウグン[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest04_1",""
+"cmb_cmm_quest04_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest04_2",""
+"cmb_cmm_quest05_0","那么接下来是……","cmb_cmm_quest05_0",""
+"cmb_cmm_quest05_1","“[F2 01 02 01]素早さの心得[F2 01 01 01]”を持った“[F2 01 02 01]ジャアクフロスト[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest05_1",""
+"cmb_cmm_quest05_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest05_2",""
+"cmb_cmm_quest06_0","那么接下来是……","cmb_cmm_quest06_0",""
+"cmb_cmm_quest06_1","“[F2 01 02 01]メギド[F2 01 01 01]”を持った“[F2 01 02 01]ヤタガラス[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest06_1",""
+"cmb_cmm_quest06_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest06_2",""
+"cmb_cmm_quest07_0","那么接下来是……","cmb_cmm_quest07_0",""
+"cmb_cmm_quest07_1","“[F2 01 02 01]メディラマ[F2 01 01 01]”を持った“[F2 01 02 01]ヤツフサ[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest07_1",""
+"cmb_cmm_quest07_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest07_2",""
+"cmb_cmm_quest08_0","那么接下来是……","cmb_cmm_quest08_0",""
+"cmb_cmm_quest08_1","“[F2 01 02 01]テトラカーン[F2 01 01 01]”を持った“[F2 01 02 01]ガネーシャ[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest08_1",""
+"cmb_cmm_quest08_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest08_2",""
+"cmb_cmm_quest09_0","那么接下来是……","cmb_cmm_quest09_0",""
+"cmb_cmm_quest09_1","“[F2 01 02 01]コンセントレイト[F2 01 01 01]”を持った“[F2 01 02 01]トランペッター[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest09_1",""
+"cmb_cmm_quest09_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest09_2",""
+"cmb_cmm_quest10_0","这样下去，不需要再让我看到你的心了。
+我已经足够了解了……","cmb_cmm_quest10_0",""
+"cmb_cmm_quest10_1","谢谢。","cmb_cmm_quest10_1",""
+"cmb_cmm_quest10_2","果然你就是我所想的那样的人...","cmb_cmm_quest10_2",""
+"cmb_cmm_quest10_3","时机到了，会给我答案的人。","cmb_cmm_quest10_3",""
+"cmb_cmm_quest10_4","呵呵...那个时候真让人期待呢...
+","cmb_cmm_quest10_4",""
+"speaker_ジュスティーヌ","贾斯汀","speaker_ジュスティーヌ",""
+"speaker_カロリーヌ","卡罗琳","speaker_カロリーヌ",""
+"speaker_マーガレット","玛格丽特","speaker_マーガレット",""
+"speaker_エリザベス","伊丽莎白","speaker_エリザベス",""
+"speaker_イゴール","イゴール","speaker_イゴール",""
+"speaker_マリー","玛丽","speaker_マリー",""

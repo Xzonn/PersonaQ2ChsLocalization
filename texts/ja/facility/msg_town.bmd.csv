@@ -1,0 +1,41 @@
+"source","target","id","developer_comments"
+"town_sel_0","はい","town_sel_0",""
+"town_sel_1","いいえ","town_sel_1",""
+"town_warning_quest_0","特別上映を受けてないけどいいの？","town_warning_quest_0","久慈川 りせ"
+"town_warning_persona_0","先輩、パーティに“サブ”のペルソナを
+装備していない人が居るよ、気をつけて。","town_warning_persona_0","久慈川 りせ"
+"town_warning_both_0","先輩、パーティに“サブ”のペルソナを
+装備していない人が居るよ、気をつけて。","town_warning_both_0","久慈川 りせ"
+"town_warning_both_1","あと、[F4 84 04 01 01 01 36 06]持ってないけど、
+いいの？","town_warning_both_1","久慈川 りせ"
+"town_goukon_event_p3_0","リーダー、その迷宮はまた後にして、
+今は次の迷宮へ行ってみましょう。","town_goukon_event_p3_0","山岸 風花"
+"town_goukon_event_p4_0","先輩、その迷宮はまた後にして、
+今は次の迷宮へ行ってみようよ。","town_goukon_event_p4_0","久慈川 りせ"
+"town_odekake_alone_0","＞校内で目立ったことは起きていない。
+　変化があったらまた訪れようか…","town_odekake_alone_0",""
+"town_1st_warning_p4_0","先輩、その迷宮はまた後にして、
+今は次の迷宮へ行ってみようよ。","town_1st_warning_p4_0","久慈川 りせ"
+"town_warning_dungeon_p4_0","センパイ、“カエレール”は持った？","town_warning_dungeon_p4_0","久慈川 りせ"
+"town_warning_dungeon_p4_1","“カエレール”を迷宮内で使うと、
+ここに戻って来れると思うよ。","town_warning_dungeon_p4_1","久慈川 りせ"
+"town_warning_dungeon_p4_2","ムリはしないで、体力がピンチに
+なったりしたら、すぐ使ってね。","town_warning_dungeon_p4_2","久慈川 りせ"
+"town_warning_dungeon_p4_3","こっちなら体力回復できるし、
+装備も変えられるから、
+焦んないで行こ！","town_warning_dungeon_p4_3","久慈川 りせ"
+"town_warning_dungeon_p3_0","リーダー、テオさんからもらった
+“カエレール”は持ちましたか？","town_warning_dungeon_p3_0","山岸 風花"
+"town_warning_dungeon_p3_1","“カエレール”を迷宮内で使うと、
+ここに戻って来られるみたいです。","town_warning_dungeon_p3_1","山岸 風花"
+"town_warning_dungeon_p3_2","体力がピンチになったりしたら、
+無理せず、すぐ使ってくださいね。","town_warning_dungeon_p3_2","山岸 風花"
+"town_warning_dungeon_p3_3","こちらで体力を回復できますし、
+装備も変えられますから、
+焦らないで行きましょう。","town_warning_dungeon_p3_3","山岸 風花"
+"town_quest_find_0","新たな特別上映が発生しました。
+『チケット』に行ってみましょう。","town_quest_find_0",""
+"town_party_ng_0","特別上映に必要なキャラクターが
+パーティに参加していません。","town_party_ng_0",""
+"speaker_久慈川 りせ","久慈川 りせ","speaker_久慈川 りせ",""
+"speaker_山岸 風花","山岸 風花","speaker_山岸 風花",""

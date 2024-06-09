@@ -1,0 +1,37 @@
+"source","target","id","developer_comments"
+"PARTY_EDIT_YESNO_0","はい","PARTY_EDIT_YESNO_0",""
+"PARTY_EDIT_YESNO_1","いいえ","PARTY_EDIT_YESNO_1",""
+"PARTY_EDIT_YESNO_CALL_0","はい","PARTY_EDIT_YESNO_CALL_0",""
+"PARTY_EDIT_YESNO_CALL_1","いいえ","PARTY_EDIT_YESNO_CALL_1",""
+"PARTY_EDIT_YESNO_CALL_DE_0","はい","PARTY_EDIT_YESNO_CALL_DE_0",""
+"PARTY_EDIT_YESNO_CALL_DE_1","いいえ","PARTY_EDIT_YESNO_CALL_DE_1",""
+"PARTY_EDIT_YESNO_REGIST__0","はい","PARTY_EDIT_YESNO_REGIST__0",""
+"PARTY_EDIT_YESNO_REGIST__1","いいえ","PARTY_EDIT_YESNO_REGIST__1",""
+"MSG_ORGIA000_0","オルギアモードの解説。
+なんたって、アートだからな。","MSG_ORGIA000_0",""
+"MSG_ORGIA000_1","絶賛、期待してるからな！","MSG_ORGIA000_1",""
+"PARTY_EDIT_MSG_CALL_COMF_0","＞この登録パーティを呼び出しますか？","PARTY_EDIT_MSG_CALL_COMF_0",""
+"PARTY_EDIT_MSG_SET_COMFI_0","＞パーティ『[F2 44 01 01]』を
+　登録してよろしいですか？","PARTY_EDIT_MSG_SET_COMFI_0",""
+"PARTY_EDIT_MSG_DEL_COMFI_0","＞パーティ『[F2 44 01 01]』を
+　消去してよろしいですか？","PARTY_EDIT_MSG_DEL_COMFI_0",""
+"PARTY_EDIT_MSG_CANCEL_CR_0","＞このパーティを登録せずに
+　終了してよろしいですか？","PARTY_EDIT_MSG_CANCEL_CR_0",""
+"PARTY_EDIT_MSG_NAME_ENTR_0","このパーティの名前を入力してください。
+タッチで文字を選択できます。","PARTY_EDIT_MSG_NAME_ENTR_0",""
+"PARTY_EDIT_MSG_CANCEL_ED_0","＞パーティ編成を変更しないで戻ります。
+　よろしいですか？","PARTY_EDIT_MSG_CANCEL_ED_0",""
+"PARTY_EDIT_MSG_PARTY_ALL_0","＞パーティに戦える仲間がいません。","PARTY_EDIT_MSG_PARTY_ALL_0",""
+"PARTY_EDIT_MSG_LEADER_NO_0","＞チームにリーダーが設定されていません
+　チームのリーダーは必ず設定してください","PARTY_EDIT_MSG_LEADER_NO_0",""
+"PARTY_EDIT_MSG_NO_MEMBER_0","＞パーティに仲間を指定してください。","PARTY_EDIT_MSG_NO_MEMBER_0",""
+"PARTY_EDIT_MSG_LEADER_NO_2_0","＞パーティのリーダーは
+　ワイルドの能力を持ったキャラクターを
+　選んでください。","PARTY_EDIT_MSG_LEADER_NO_2_0",""
+"PARTY_EDIT_MSG_FIRST_NAV_0","＞ナビが設定されていません
+　ナビは必ず設定してください。","PARTY_EDIT_MSG_FIRST_NAV_0",""
+"PARTY_EDIT_MSG_DUNGEON_N_0","＞フィールドナビが設定されていません
+　フィールドナビは必ず設定してください。","PARTY_EDIT_MSG_DUNGEON_N_0",""
+"PARTY_EDIT_RISKY_INVALID_0","＞難易度ＲＩＳＫＹは
+　Ｐ５主人公を外したパーティは
+　編成できません","PARTY_EDIT_RISKY_INVALID_0",""

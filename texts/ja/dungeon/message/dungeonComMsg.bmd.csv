@@ -1,0 +1,8 @@
+"source","target","id","developer_comments"
+"DG_MSG_QUEST_FIND_0","＞クエストを発見しました！！","DG_MSG_QUEST_FIND_0",""
+"DG_MSG_QUEST_FIND_QUESTI_0","＞クエスト中なのでクエストを
+　発見できませんでした！！","DG_MSG_QUEST_FIND_QUESTI_0",""
+"DG_MSG_LOCK_DOOR_NO_OPEN_0","＞鍵が掛かっていて開きません","DG_MSG_LOCK_DOOR_NO_OPEN_0",""
+"DG_MSG_SEL_QUEST_CLEAR_0","拠点に戻る","DG_MSG_SEL_QUEST_CLEAR_0",""
+"DG_MSG_SEL_QUEST_CLEAR_1","フリー探索をする","DG_MSG_SEL_QUEST_CLEAR_1",""
+"DG_MSG_QST_PROGRESS_ENEM_0","[F2 44 01 01]を[F2 44 02 01]体倒しました。","DG_MSG_QST_PROGRESS_ENEM_0",""

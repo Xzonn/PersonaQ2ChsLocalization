@@ -1,0 +1,16 @@
+"source","target","id","developer_comments"
+"OK_SEL_0","ＯＫ","OK_SEL_0",""
+"YESNO_SEL_0","はい","YESNO_SEL_0",""
+"YESNO_SEL_1","いいえ","YESNO_SEL_1",""
+"YESNO_SEL_TEAM_EDIT_CANC_0","はい","YESNO_SEL_TEAM_EDIT_CANC_0",""
+"YESNO_SEL_TEAM_EDIT_CANC_1","いいえ","YESNO_SEL_TEAM_EDIT_CANC_1",""
+"YESNO_SEL_NAVI_EDIT_CANC_0","はい","YESNO_SEL_NAVI_EDIT_CANC_0",""
+"YESNO_SEL_NAVI_EDIT_CANC_1","いいえ","YESNO_SEL_NAVI_EDIT_CANC_1",""
+"YESNO_SEL_REGISTRATION_C_0","はい","YESNO_SEL_REGISTRATION_C_0",""
+"YESNO_SEL_REGISTRATION_C_1","いいえ","YESNO_SEL_REGISTRATION_C_1",""
+"EDIT_CANCEL_0","＞パーティ編成を変更しないで戻ります。
+　よろしいですか？","EDIT_CANCEL_0",""
+"NAVI_EDIT_CANCEL_0","＞ナビ設定を変更しないで戻ります。
+　よろしいですか？","NAVI_EDIT_CANCEL_0",""
+"REGISTRATION_CANCEL_0","＞このパーティを登録せずに
+　終了してよろしいですか？","REGISTRATION_CANCEL_0",""

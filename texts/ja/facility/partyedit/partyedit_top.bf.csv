@@ -1,0 +1,12 @@
+"source","target","id","developer_comments"
+"OK_SEL_0","ＯＫ","OK_SEL_0",""
+"YESNO_SEL_0","はい","YESNO_SEL_0",""
+"YESNO_SEL_1","いいえ","YESNO_SEL_1",""
+"FIRST_LEADER_NOT_EXIST_0","＞ＦＩＲＳＴチームに
+　リーダーが存在しません","FIRST_LEADER_NOT_EXIST_0",""
+"SECOND_LEADER_NOT_EXIST_0","＞ＳＥＣＯＮＤチームに
+　リーダーが存在しません","SECOND_LEADER_NOT_EXIST_0",""
+"FIRST_NAVI_NOT_EXIST_0","＞ＦＩＲＳＴチームに
+　ナビが存在しません","FIRST_NAVI_NOT_EXIST_0",""
+"SECOND_NAVI_NOT_EXIST_0","＞ＳＥＣＯＮＤチームに
+　ナビが存在しません","SECOND_NAVI_NOT_EXIST_0",""

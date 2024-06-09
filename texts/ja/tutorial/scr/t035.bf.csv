@@ -1,0 +1,13 @@
+"source","target","id","developer_comments"
+"MSG_TUTORIAL_ZEKKOCHO_0_0","映画内に入る際、[F2 01 03 01]『ヤル気』状態[F2 01 01 01]の
+キャラからパーティへの編成を促す
+イベントが発生することがあります。","MSG_TUTORIAL_ZEKKOCHO_0_0",""
+"MSG_TUTORIAL_ZEKKOCHO_0_1","ヤル気状態となったキャラは
+[F2 01 03 01]・戦闘で取得できる経験値が増加[F2 01 01 01]
+[F2 01 03 01]・物理攻撃がクリティカルになりやすい[F2 01 01 01]
+[F2 01 03 01]・サブペルソナを装備した際のＨＰ・ＳＰの増加[F2 01 01 01]
+など、様々なボーナスを受けられます。","MSG_TUTORIAL_ZEKKOCHO_0_1",""
+"MSG_TUTORIAL_ZEKKOCHO_1_0","『ヤル気』状態の確認は、
+パーティ編成でも確認できます。","MSG_TUTORIAL_ZEKKOCHO_1_0",""
+"MSG_TUTORIAL_ZEKKOCHO_1_1","選ばれたキャラを有効に使い、
+パーティの強化を行いましょう。","MSG_TUTORIAL_ZEKKOCHO_1_1",""

@@ -1,0 +1,597 @@
+"source","target","id","developer_comments"
+"combine_sel_0","はい","combine_sel_0",""
+"combine_sel_1","いいえ","combine_sel_1",""
+"combine_check_zyusu_0","このペルソナですね？","combine_check_zyusu_0","ジュスティーヌ"
+"combine_check_karo_0","このペルソナでいいんだな？","combine_check_karo_0","カロリーヌ"
+"combine_not_level_0","このペルソナを生み出すには、
+貴様らのレベルが足りないぞ！
+恥を知れ！！","combine_not_level_0","カロリーヌ"
+"combine_possession_0","このペルソナは
+既に持っているじゃないか！","combine_possession_0","カロリーヌ"
+"combine_not_has_sorce_pe_0","素材となるペルソナを
+持っていないじゃないか！","combine_not_has_sorce_pe_0","カロリーヌ"
+"combine_stock_over_0","それ以上ペルソナは
+所持できないぞ！
+強欲な奴め！","combine_stock_over_0","カロリーヌ"
+"combine_free_ticket_chec_0","が[F2 44 01 01]枚ありますね。
+使用して無料で合体しますか？","combine_free_ticket_chec_0","ジュスティーヌ"
+"combine_money_0","所持金が足りないようね…","combine_money_0","マーガレット"
+"combine_money_conf_0","このペルソナを生み出すには
+[F2 01 03 01][F2 44 01 01]円[F2 01 01 01]頂きます。いいですね？","combine_money_conf_0","ジュスティーヌ"
+"combine_succession_0","継承するスキルを選びなさい。","combine_succession_0","ジュスティーヌ"
+"combine_get_card_0","ペルソナ『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』が
+心の中に生まれた。","combine_get_card_0",""
+"combine_accident_0","多少想定とは違うが…
+ま、まあ問題なかろう！","combine_accident_0","カロリーヌ"
+"combine_fool_accident_0","あら、これは…
+“ワイルドカード”ですね。","combine_fool_accident_0","マーガレット"
+"combine_accident_Ex_0","多少想定とは違うが…
+ま、まあ問題なかろう！","combine_accident_Ex_0","カロリーヌ"
+"combine_fool_accident_Ex_0","あら、これは…
+“ワイルドカード”ですね。","combine_fool_accident_Ex_0","エリザベス"
+"zensyo_summons_0","このペルソナを召喚するには、
+[F2 01 03 01][F2 44 01 01]円[F2 01 01 01]かかるぞ。いいんだな？","zensyo_summons_0","カロリーヌ"
+"zensyo_not_summons_0","所持金が足りません。
+…冷やかしなら結構です。","zensyo_not_summons_0","ジュスティーヌ"
+"zensyo_get_summons_0","ペルソナ『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』を
+召喚した。","zensyo_get_summons_0",""
+"zensyo_not2_summons_0","このペルソナは既に所持しているようです。
+ちゃんと確認なさい。","zensyo_not2_summons_0","ジュスティーヌ"
+"zensyo_not3_summons_0","このペルソナを生み出すには、
+まだ貴方のレベルが足りないようです…","zensyo_not3_summons_0","マーガレット"
+"zensyo_not4_summons_0","それ以上ペルソナは持てませんよ。
+あまり欲張らないように。","zensyo_not4_summons_0","ジュスティーヌ"
+"zensyo_regist_0","ペルソナフィルムに上書きしたぞ！","zensyo_regist_0","カロリーヌ"
+"zensyo_add_check_0","所持している[F2 01 02 01][F2 44 01 01][F2 01 01 01]を
+ペルソナフィルムに登録していいんだな？","zensyo_add_check_0","カロリーヌ"
+"zensyo_all_add_check_0","所持している全てのペルソナを
+ペルソナフィルムに登録していいんだな？","zensyo_all_add_check_0","カロリーヌ"
+"zensyo_mark_add_check_0","選択しているペルソナを
+ペルソナフィルムに登録していいんだな？","zensyo_mark_add_check_0","カロリーヌ"
+"zensyo_no_regist_0","全書に登録できるペルソナを
+所持していないようです。
+…呆れますね。","zensyo_no_regist_0","ジュスティーヌ"
+"powerup_message_0","このペルソナを強化しますか？","powerup_message_0","マーガレット"
+"powerup_cancel_0","あなたが現在身に着けている
+ペルソナに関しては、お預かり出来ません…","powerup_cancel_0","マーガレット"
+"powerup_non_0","強化素材となるペルソナを
+お持ちで無いご様子…","powerup_non_0","マーガレット"
+"powerup_receive_0","このペルソナの強化を中止し、
+引き取りますか？","powerup_receive_0","マーガレット"
+"powerup_receive1_0","現在お預かりしているペルソナは、
+ご覧の状態です。","powerup_receive1_0","マーガレット"
+"powerup_receive2_0","現在お預かりしているペルソナは、
+ご覧の状態です。","powerup_receive2_0","マーガレット"
+"powerup_receive3_0","現在お預かりしているペルソナは、
+ご覧の状態です。","powerup_receive3_0","マーガレット"
+"powerup_failed_0","残念な事になってしまいました…","powerup_failed_0","マーガレット"
+"powerup_no_receive_0","これ以上ペルソナを所持出来ないご様子…
+空きを作ってから引き取りにいらして下さい。","powerup_no_receive_0","マーガレット"
+"skill_powerup_0","ペルソナのスキルが強化しそうです。","skill_powerup_0","マーガレット"
+"skill_powerup_1","『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』を強化しますか？","skill_powerup_1","マーガレット"
+"cmb_comu_achieve_get_ite_0","＞[F4 45 04 01 00 00 01 01]を手に入れた。","cmb_comu_achieve_get_ite_0",""
+"comu_achieve_rank_A_0","私の忠告など、
+必要ありませんでしたね。","comu_achieve_rank_A_0","マーガレット"
+"comu_achieve_rank_B_0","素晴らしいペースです。","comu_achieve_rank_B_0","マーガレット"
+"comu_achieve_rank_B_1","コミュニティこそがあなたの“世界”を作る…
+どうぞお忘れなきよう…","comu_achieve_rank_B_1","マーガレット"
+"comu_achieve_rank_C_0","なかなかのペースですね。","comu_achieve_rank_C_0","マーガレット"
+"comu_achieve_rank_C_1","コミュニティこそがあなたの“世界”を作る…
+どうぞお忘れなきよう…","comu_achieve_rank_C_1","マーガレット"
+"comu_achieve_rank_D_0","もっと絆を大事になさった方がいいかと。","comu_achieve_rank_D_0","マーガレット"
+"comu_achieve_rank_D_1","コミュニティこそがあなたの“世界”を作る…
+どうぞお忘れなきよう…","comu_achieve_rank_D_1","マーガレット"
+"comu_achieve_rank_E_0","もっと絆を大事になさい。
+貴方の傍に、きっと見つかるはずなのだから。","comu_achieve_rank_E_0","マーガレット"
+"comu_achieve_rank_E_1","コミュニティこそがあなたの“世界”を作る…
+どうぞお忘れなきよう…","comu_achieve_rank_E_1","マーガレット"
+"cmb_comu_achieve_0","あら…？","cmb_comu_achieve_0","マーガレット"
+"cmb_comu_achieve_1","どうやら、貴方のコミュニティ達成率が、
+５０％を越えた様子…","cmb_comu_achieve_1","マーガレット"
+"cmb_comu_achieve_2","素晴らしいわ。
+なら…これを受け取ってちょうだい。","cmb_comu_achieve_2","マーガレット"
+"cmb_comu_achieve_3","コミュの充実こそが、
+あなたの“世界”の充実になる…","cmb_comu_achieve_3","マーガレット"
+"cmb_comu_achieve_4","私、あなたの“世界”を
+楽しみにしているわ。","cmb_comu_achieve_4","マーガレット"
+"cmb_comu_achieve_100_0","素晴らしいわ…","cmb_comu_achieve_100_0","マーガレット"
+"cmb_comu_achieve_100_1","貴方はとうとう、全てのコミュニティを
+真の絆へと育んだのね…","cmb_comu_achieve_100_1","マーガレット"
+"cmb_comu_achieve_100_2","誰にでも出来ることじゃないわ…","cmb_comu_achieve_100_2","マーガレット"
+"cmb_comu_achieve_100_3","やはり貴方は…私の思ったとおりの人。","cmb_comu_achieve_100_3","マーガレット"
+"cmb_comu_achieve_100_4","貴方の“世界”とは…
+どんなものなのかしら。","cmb_comu_achieve_100_4","マーガレット"
+"cmb_comu_achieve_100_5","出来るなら、その“世界”に
+私も連れて行って欲しいわね…","cmb_comu_achieve_100_5","マーガレット"
+"cmb_comu_achieve_100_6","…では、これを。
+私が長い時をかけて作ったものよ。","cmb_comu_achieve_100_6","マーガレット"
+"cmb_comu_achieve_100_7","きっと、貴方を守るわ。
+この私の代わりにね…","cmb_comu_achieve_100_7","マーガレット"
+"combine_before_comu_none_0","“[F2 44 01 01]”コミュはまだお持ちでないご様子。
+もっとも、“[F2 44 01 01]”コミュを築かれるのは、
+まだ先のようですが…","combine_before_comu_none_0","イゴール"
+"combine_before_comu_none_1","新たな力を授かる事はございませんが、
+このペルソナで宜しいですかな？","combine_before_comu_none_1","イゴール"
+"combine_before_comu_none_2_0","“[F2 44 01 01]”コミュはまだお持ちでないご様子。
+そろそろ現れる頃かと存じますが…","combine_before_comu_none_2_0","イゴール"
+"combine_before_comu_none_2_1","新たな力を授かる事はございませんが、
+このペルソナで宜しいですかな？","combine_before_comu_none_2_1","イゴール"
+"combine_before_comu_none_3_0","“[F2 44 01 01]”コミュはまだお持ちでないご様子。","combine_before_comu_none_3_0","イゴール"
+"combine_before_comu_none_3_1","新たな力を授かる事はございませんが、
+このペルソナで宜しいですかな？","combine_before_comu_none_3_1","イゴール"
+"combine_comu_rank_00_0","対応する“コミュ”をお持ちでないご様子…
+新たな力を授かる事はございませんな。","combine_comu_rank_00_0","イゴール"
+"combine_comu_rank_00_1","このペルソナで宜しいですかな？","combine_comu_rank_00_1","イゴール"
+"combine_comu_rank_01_0","対応する“コミュ”のランクは１…
+さて…力をどれほど授かるでしょうな。","combine_comu_rank_01_0","イゴール"
+"combine_comu_rank_01_1","このペルソナで宜しいですかな？","combine_comu_rank_01_1","イゴール"
+"combine_comu_rank_02_0","対応する“コミュ”のランクは２…
+幾らかは力を授かって生まれるでしょうな…","combine_comu_rank_02_0","イゴール"
+"combine_comu_rank_02_1","このペルソナで宜しいですかな？","combine_comu_rank_02_1","イゴール"
+"combine_comu_rank_03_0","対応する“コミュ”のランクは３…
+幾らかは力を授かって生まれるでしょうな…","combine_comu_rank_03_0","イゴール"
+"combine_comu_rank_03_1","このペルソナで宜しいですかな？","combine_comu_rank_03_1","イゴール"
+"combine_comu_rank_04_0","対応する“コミュ”のランクは４…
+なかなかの力を授かって生まれそうですな。","combine_comu_rank_04_0","イゴール"
+"combine_comu_rank_04_1","このペルソナで宜しいですかな？","combine_comu_rank_04_1","イゴール"
+"combine_comu_rank_05_0","対応する“コミュ”のランクは５…
+なかなかの力を授かって生まれそうですな。","combine_comu_rank_05_0","イゴール"
+"combine_comu_rank_05_1","このペルソナで宜しいですかな？","combine_comu_rank_05_1","イゴール"
+"combine_comu_rank_06_0","対応する“コミュ”のランクは６…
+かなりの力を授かって生まれそうですな。","combine_comu_rank_06_0","イゴール"
+"combine_comu_rank_06_1","このペルソナで宜しいですかな？","combine_comu_rank_06_1","イゴール"
+"combine_comu_rank_07_0","対応する“コミュ”のランクは７…
+かなりの力を授かって生まれそうですな。","combine_comu_rank_07_0","イゴール"
+"combine_comu_rank_07_1","このペルソナで宜しいですかな？","combine_comu_rank_07_1","イゴール"
+"combine_comu_rank_08_0","対応する“コミュ”のランクは８…
+大きな力を授かって生まれて参りますな…","combine_comu_rank_08_0","イゴール"
+"combine_comu_rank_08_1","このペルソナで宜しいですかな？","combine_comu_rank_08_1","イゴール"
+"combine_comu_rank_09_0","対応する“コミュ”のランクは９…
+大きな力を授かって生まれて参りますな…","combine_comu_rank_09_0","イゴール"
+"combine_comu_rank_09_1","このペルソナで宜しいですかな？","combine_comu_rank_09_1","イゴール"
+"combine_comu_rank_10_0","対応する“コミュ”のランクは１０…","combine_comu_rank_10_0","イゴール"
+"combine_comu_rank_10_1","ほう…これは間違いなく、
+強大な力を授かって生まれて参りますな。","combine_comu_rank_10_1","イゴール"
+"combine_comu_rank_10_2","このペルソナで宜しいですかな？","combine_comu_rank_10_2","イゴール"
+"combine_comu_world_0","このペルソナで宜しいですかな？","combine_comu_world_0","イゴール"
+"msg_combine_MHELP001_M_0","『ペルソナフィルム』に登録された
+ペルソナの情報は、いつでも閲覧可能だ。","msg_combine_MHELP001_M_0","カロリーヌ"
+"msg_combine_MHELP001_M_1","さらに、登録されたペルソナは
+代価を払えばそのまま呼び出してやろう！","msg_combine_MHELP001_M_1","カロリーヌ"
+"msg_combine_MHELP001_M_2","ただし、呼び出すペルソナが強力なほど
+代価は当然上がっていくからな。","msg_combine_MHELP001_M_2","カロリーヌ"
+"msg_combine_MHELP001_M_3","フィルムの登録が進めば、割り引きも
+考えないことはない。精々励むことだな！","msg_combine_MHELP001_M_3","カロリーヌ"
+"msg_combine_MHELP002_M_0","ペルソナフィルムには、初めて入手した時の
+状態が登録されます。","msg_combine_MHELP002_M_0","ジュスティーヌ"
+"msg_combine_MHELP002_M_1","ですが、成長させたりして強化した状態を
+フィルムに上書き登録することができます。","msg_combine_MHELP002_M_1","ジュスティーヌ"
+"msg_combine_MHELP002_M_2","代価は不要ですが、上書きは申告制です。","msg_combine_MHELP002_M_2","ジュスティーヌ"
+"msg_combine_MHELP002_M_3","上書きを希望する際は、
+『ペルソナフィルムに上書きする』から、
+その旨を伝えなさい…いいですね？","msg_combine_MHELP002_M_3","ジュスティーヌ"
+"msg_combine_MESSAGE000_0","私はだみ～よ","msg_combine_MESSAGE000_0",""
+"msg_combine_MESSAGE001_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…","msg_combine_MESSAGE001_0",""
+"msg_combine_MESSAGE001_1","双眸見開きて、
+汝、今こそ発せよ…！","msg_combine_MESSAGE001_1",""
+"msg_combine_MESSAGE002_0","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+姿違えど、私は貴方…コンゴトモヨロシク。","msg_combine_MESSAGE002_0",""
+"msg_combine_MESSAGE003_0","私を喚んだのはお前か…？","msg_combine_MESSAGE003_0",""
+"msg_combine_MESSAGE003_1","お前の強き眼差し…悪くない。
+いいだろう、お前と共に行こう。","msg_combine_MESSAGE003_1",""
+"msg_combine_MESSAGE003_2","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+コンゴトモヨロシク…","msg_combine_MESSAGE003_2",""
+"msg_combine_MESSAGE004_0","わたしは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+あなたのために、微力ながら尽くしますわ。","msg_combine_MESSAGE004_0",""
+"msg_combine_MESSAGE005_0","わたしは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+あなたの心の海よりいでし者…","msg_combine_MESSAGE005_0",""
+"msg_combine_MESSAGE006_0","わたしは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+精一杯、お守りいたします！","msg_combine_MESSAGE006_0",""
+"msg_combine_MESSAGE007_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+この名、忘れえぬものとなるだろう…","msg_combine_MESSAGE007_0",""
+"msg_combine_MESSAGE008_0","我が名は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+共に参りましょう、長き道行きを…","msg_combine_MESSAGE008_0",""
+"msg_combine_MESSAGE009_0","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+貴方の盾、貴方の剣、貴方の友…","msg_combine_MESSAGE009_0",""
+"msg_combine_MESSAGE010_0","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+まさしく貴方自身…お忘れなきよう。","msg_combine_MESSAGE010_0",""
+"msg_combine_MESSAGE011_0","わたくしは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+その身を護り、その傷を癒す心の泉…","msg_combine_MESSAGE011_0",""
+"msg_combine_MESSAGE012_0","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]！
+この力、その目でとくと御覧あれ！","msg_combine_MESSAGE012_0",""
+"msg_combine_MESSAGE013_0","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+この剣、お前の為に振るうとしよう！","msg_combine_MESSAGE013_0",""
+"msg_combine_MESSAGE014_0","わたしは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+貴方の御力になれるよう、頑張りますわ。","msg_combine_MESSAGE014_0",""
+"msg_combine_MESSAGE015_0","アタシは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+どーんと、お姉さんに任せなさい！","msg_combine_MESSAGE015_0",""
+"msg_combine_MESSAGE016_0","あたし、[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+えっと…頑張るから、そばにおいててね？","msg_combine_MESSAGE016_0",""
+"msg_combine_MESSAGE017_0","オレは[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+オメェの覚悟、見せてもらうぜ。","msg_combine_MESSAGE017_0",""
+"msg_combine_MESSAGE018_0","わらわは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+おんしの力、見せておくれやす…","msg_combine_MESSAGE018_0",""
+"msg_combine_MESSAGE019_0","我こそは[F2 01 02 01][F2 44 02 01][F2 01 01 01]！
+汝の手に勝利をもたらそうぞ！","msg_combine_MESSAGE019_0",""
+"msg_combine_MESSAGE020_0","わらわは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+お傍には、いつもわらわがおりますゆえ…","msg_combine_MESSAGE020_0",""
+"msg_combine_MESSAGE021_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+輝ける道を築くため、共に行かん…","msg_combine_MESSAGE021_0",""
+"msg_combine_MESSAGE022_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+いいだろう、しばし汝に力を貸すとしよう…","msg_combine_MESSAGE022_0",""
+"msg_combine_MESSAGE023_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+いざ共に行かん、栄光の道を！","msg_combine_MESSAGE023_0",""
+"msg_combine_MESSAGE024_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+汝の守護こそ我が使命なり！","msg_combine_MESSAGE024_0",""
+"msg_combine_MESSAGE025_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+力を求める猛き心に応えたり…","msg_combine_MESSAGE025_0",""
+"msg_combine_MESSAGE026_0","オレサマ　[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+オレサマ　オマエ　マルカジリ。","msg_combine_MESSAGE026_0",""
+"msg_combine_MESSAGE027_0","我ハ　[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+ウヌヨリ生マレ　ウヌニ還ル者ナリ…","msg_combine_MESSAGE027_0",""
+"msg_combine_MESSAGE028_0","俺は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+俺に賭けな、勝たせてやるぜ…","msg_combine_MESSAGE028_0",""
+"msg_combine_MESSAGE029_0","うぉ　うぉれは　[F2 01 02 01][F2 44 02 01][F2 01 01 01]！
+うぉまえも　[F2 01 02 01][F2 44 02 01][F2 01 01 01]！！","msg_combine_MESSAGE029_0",""
+"msg_combine_MESSAGE030_0","ハアシラ　[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+ソンヨトコ　モロシグ…","msg_combine_MESSAGE030_0",""
+"msg_combine_MESSAGE031_0","[F2 44 02 01][F2 01 01 01]だ…
+乗りなよ、地獄の向こう行きだ…","msg_combine_MESSAGE031_0",""
+"msg_combine_MESSAGE032_0","ここに在るは[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+常勝の将にして、貴方に忠誠を誓う者…","msg_combine_MESSAGE032_0",""
+"msg_combine_MESSAGE033_0","こんちわ、ボク、[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+チミといっしょに、行こうよウィズユー。","msg_combine_MESSAGE033_0",""
+"msg_combine_MESSAGE034_0","オレは[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+まー、しばらくは面倒見てやっか…","msg_combine_MESSAGE034_0",""
+"msg_combine_MESSAGE035_0","おいらは[F2 01 02 01][F2 44 02 01][F2 01 01 01]だホ！
+コンゴトモヨロシク！　ヒホホー！！","msg_combine_MESSAGE035_0",""
+"msg_combine_MESSAGE036_0","わたし、[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+ずっと一緒に、遊んでくれる？","msg_combine_MESSAGE036_0",""
+"msg_combine_MESSAGE037_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+汝が勝ち戦の、猛き先駈けとなるニャー！","msg_combine_MESSAGE037_0",""
+"msg_combine_MESSAGE038_0","おいらは[F2 01 02 01][F2 44 02 01][F2 01 01 01]だホー！
+舐めんじゃねぇよ、ヒホホー！！","msg_combine_MESSAGE038_0",""
+"msg_combine_MESSAGE039_0","我を喚ぶのは誰ぞ…","msg_combine_MESSAGE039_0",""
+"msg_combine_MESSAGE039_1","己の闇に目を背けぬその強さ…
+気に入ったぞ、小僧…","msg_combine_MESSAGE039_1",""
+"msg_combine_MESSAGE039_2","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+暫くは小僧に力を貸すとしよう…","msg_combine_MESSAGE039_2",""
+"msg_combine_MESSAGE040_0","我を喚ぶのは誰ぞ…","msg_combine_MESSAGE040_0",""
+"msg_combine_MESSAGE040_1","強き光を宿す、気高き人の子よ…
+汝に加護を与えよう…","msg_combine_MESSAGE040_1",""
+"msg_combine_MESSAGE040_2","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+汝の心に寄り添うもの…","msg_combine_MESSAGE040_2",""
+"msg_combine_MESSAGE041_0","我は汝…汝は我…
+我は汝の心の海より出ずるもの…","msg_combine_MESSAGE041_0",""
+"msg_combine_MESSAGE041_1","すべての始まりの引き金、
+汝の道行きを照らす導とならん…","msg_combine_MESSAGE041_1",""
+"msg_combine_MESSAGE041_2","我は、始まりの神…
+[F2 01 02 01][F2 44 02 01][F2 01 01 01]なり…","msg_combine_MESSAGE041_2",""
+"msg_combine_MESSAGE042_0","我を喚ぶのは誰ぞ…","msg_combine_MESSAGE042_0",""
+"msg_combine_MESSAGE042_1","暗き夜を照らすが如き、眩き心…
+汝の力となりましょう…","msg_combine_MESSAGE042_1",""
+"msg_combine_MESSAGE042_2","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+その光、絶やさぬよう…","msg_combine_MESSAGE042_2",""
+"msg_combine_MESSAGE043_0","我を喚ぶのは誰ぞ…","msg_combine_MESSAGE043_0",""
+"msg_combine_MESSAGE043_1","数多の闇を照らす者よ、
+虚ろなる無さえ己が力とするか…","msg_combine_MESSAGE043_1",""
+"msg_combine_MESSAGE043_2","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+汝の道行きを見届けん…","msg_combine_MESSAGE043_2",""
+"msg_combine_NETWORK_STOC_0","ダメだよ。
+サブペルソナ持ってないじゃん。","msg_combine_NETWORK_STOC_0","マリー"
+"msg_combine_NETWORK_STOC_1","通信を始めるにはサブペルソナが
+必要だから、用意してきて。","msg_combine_NETWORK_STOC_1","マリー"
+"msg_combine_NETWORK_STOC_2_0","ダメだよ。
+サブペルソナ持ってないじゃん。","msg_combine_NETWORK_STOC_2_0","マリー"
+"msg_combine_NETWORK_STOC_2_1","通信を始めるにはサブペルソナが
+必要だから、用意してきて。","msg_combine_NETWORK_STOC_2_1","マリー"
+"msg_combine_sacrifice_co_0","イケニエの力で成長させるのは、
+このペルソナでいいんだな？","msg_combine_sacrifice_co_0","カロリーヌ"
+"msg_combine_sacrifice_bo_0","＞イケニエとなったペルソナの力が、
+　[F2 01 02 01][F2 44 01 01][F2 01 01 01]に注ぎ込まれる…","msg_combine_sacrifice_bo_0",""
+"msg_combine_sacrifice_it_0","＞イケニエとなったペルソナのスキルが
+　[F2 01 02 01][F2 44 01 01][F2 01 01 01]に宿っていく…","msg_combine_sacrifice_it_0",""
+"msg_combine_sacrifice_it_2_0","　　　　を手に入れた！","msg_combine_sacrifice_it_2_0",""
+"msg_combine_sacrifice_it_3_0","＞スキルが一杯です。
+　忘れるスキルを選んでください。","msg_combine_sacrifice_it_3_0",""
+"msg_combine_skcard_money_0","所持金が足りないようね…","msg_combine_skcard_money_0","マーガレット"
+"msg_combine_HELP_ACCIDEN_0","ペルソナ合体は、とても繊細な作業。","msg_combine_HELP_ACCIDEN_0","ジュスティーヌ"
+"msg_combine_HELP_ACCIDEN_1","ごく稀ではありますが、つい手元が狂い…
+『事故』を生じてしまう事があります。","msg_combine_HELP_ACCIDEN_1","ジュスティーヌ"
+"msg_combine_HELP_ACCIDEN_2","事故の際には、事前の通達と異なる
+ペルソナが生まれてしまう場合があります。","msg_combine_HELP_ACCIDEN_2","ジュスティーヌ"
+"msg_combine_HELP_ACCIDEN_3","何が生まれるかは、我々にも分かりません。
+…細かい事は気にしない方が賢明です。","msg_combine_HELP_ACCIDEN_3","ジュスティーヌ"
+"msg_combine_HELP_KENSAKU_0","検索合体では、所持中のペルソナから、
+現在生み出せる全ペルソナの確認が可能だ！","msg_combine_HELP_KENSAKU_0","カロリーヌ"
+"msg_combine_HELP_KENSAKU_1","生み出せる候補から、最もレベルの高い
+ペルソナを探したり…","msg_combine_HELP_KENSAKU_1","カロリーヌ"
+"msg_combine_HELP_KENSAKU_2","ペルソナフィルムに、登録のないペルソナを
+探す時なんかにも便利に使えるはずだ。","msg_combine_HELP_KENSAKU_2","カロリーヌ"
+"msg_combine_HELP_3SIN_0","『３体合体』とは、３体のペルソナを素に、
+より高位のペルソナを生み出す合体です。","msg_combine_HELP_3SIN_0","ジュスティーヌ"
+"msg_combine_HELP_3SIN_1","使用した３体は消滅してしまいますが、
+強力なペルソナになる事は期待できます。","msg_combine_HELP_3SIN_1","ジュスティーヌ"
+"msg_combine_HELP_3SIN_2","更なる力を求めるのであれば、
+活用するのが賢明な判断でしょう。","msg_combine_HELP_3SIN_2","ジュスティーヌ"
+"msg_combine_HELP_TOKUSYU_0","『特殊合体』は、特定のペルソナを素に、
+特殊な特定のペルソナを生み出す合体だ。","msg_combine_HELP_TOKUSYU_0","カロリーヌ"
+"msg_combine_HELP_TOKUSYU_1","特殊合体で生み出せるペルソナは、
+他の合体では決して生み出せないものだ。","msg_combine_HELP_TOKUSYU_1","カロリーヌ"
+"msg_combine_HELP_TOKUSYU_2","そう簡単には作れないかもしれないが、
+相応に強力なペルソナばかりだぞ。","msg_combine_HELP_TOKUSYU_2","カロリーヌ"
+"msg_combine_HELP_TOKUSYU_3","まぁ、やらない手は無いな。
+しっかりと活用しろよ！","msg_combine_HELP_TOKUSYU_3","カロリーヌ"
+"msg_combine_HELP_SACRIFI_0","こちらは、私が担当させて頂いております。","msg_combine_HELP_SACRIFI_0","マーガレット"
+"msg_combine_HELP_SACRIFI_1","『イケニエ合体』とは、
+１体のペルソナをイケニエにして、
+別の１体の成長を促す秘儀。","msg_combine_HELP_SACRIFI_1","マーガレット"
+"msg_combine_HELP_SACRIFI_2","成長の度合いは、イケニエにするペルソナの
+レベルが高いほど、より大きくなります。","msg_combine_HELP_SACRIFI_2","マーガレット"
+"msg_combine_HELP_SACRIFI_3","通常、この秘儀には相応の代価が
+必要なのだけれど…","msg_combine_HELP_SACRIFI_3","マーガレット"
+"msg_combine_HELP_SACRIFI_4","この世界の研究のため、今回だけ特別な
+措置をとらせて頂くわ。","msg_combine_HELP_SACRIFI_4","マーガレット"
+"msg_combine_HELP_SACRIFI_5","各ペルソナにつき、イケニエとするのが
+初回の場合のみ、無料で結構よ。","msg_combine_HELP_SACRIFI_5","マーガレット"
+"msg_combine_HELP_SACRIFI_6","成長させるのは、メインペルソナも可能よ。
+戦力の底上げにも良いかもしれないわね。","msg_combine_HELP_SACRIFI_6","マーガレット"
+"msg_combine_HELP_SACRIFI_7","初めてのペルソナを手に入れたら、一度、
+イケニエ合体に使用してみては如何かしら？","msg_combine_HELP_SACRIFI_7","マーガレット"
+"msg_combine_NETWORK_HELP_0","じゃあ、『すれちがい手帳』について
+説明するから、よーく聞いてね。","msg_combine_NETWORK_HELP_0","マリー"
+"msg_combine_NETWORK_HELP_1","ここと同じような世界はいっぱいあって、
+そこにも『キミじゃないキミ』がいる。","msg_combine_NETWORK_HELP_1","マリー"
+"msg_combine_NETWORK_HELP_2","『すれちがい手帳』っていうのは、
+その別世界との通信に使うものだよ。","msg_combine_NETWORK_HELP_2","マリー"
+"msg_combine_NETWORK_HELP_3","『キミじゃないキミ』と通信をするとね、
+ペルソナを１体交換することが出来るんだ。","msg_combine_NETWORK_HELP_3","マリー"
+"msg_combine_NETWORK_HELP_4","方法は、『すれちがい手帳』にキミ達の情報と
+お気に入りのペルソナを添付するの。","msg_combine_NETWORK_HELP_4","マリー"
+"msg_combine_NETWORK_HELP_5","あ、選択できるペルソナは
+サブペルソナのうちの１体だけだからね。","msg_combine_NETWORK_HELP_5","マリー"
+"msg_combine_NETWORK_HELP_6","で、別の世界のキミと通信が成功したら、
+相手と交換したペルソナを召喚できるよ。","msg_combine_NETWORK_HELP_6","マリー"
+"msg_combine_NETWORK_HELP_7","上手く利用すれば、強いサブペルソナを
+手に入れられるチャンスかもね。","msg_combine_NETWORK_HELP_7","マリー"
+"msg_combine_NETWORK_HELP_2_0","じゃあ、『すれちがい手帳』について
+説明するから、よーく聞いてね。","msg_combine_NETWORK_HELP_2_0","マリー"
+"msg_combine_NETWORK_HELP_2_1","ここと同じような世界はいっぱいあって、
+そこにも『キミじゃないキミ』がいる。","msg_combine_NETWORK_HELP_2_1","マリー"
+"msg_combine_NETWORK_HELP_2_2","『すれちがい手帳』っていうのは、
+その別世界との通信に使うものだよ。","msg_combine_NETWORK_HELP_2_2","マリー"
+"msg_combine_NETWORK_HELP_2_3","『キミじゃないキミ』と通信をするとね、
+ペルソナを１体交換することが出来るんだ。","msg_combine_NETWORK_HELP_2_3","マリー"
+"msg_combine_NETWORK_HELP_2_4","方法は、『すれちがい手帳』にキミ達の情報と
+お気に入りのペルソナを添付するの。","msg_combine_NETWORK_HELP_2_4","マリー"
+"msg_combine_NETWORK_HELP_2_5","あ、選択できるペルソナは
+サブペルソナのうちの１体だけだからね。","msg_combine_NETWORK_HELP_2_5","マリー"
+"msg_combine_NETWORK_HELP_2_6","で、別の世界のキミと通信が成功したら、
+相手と交換したペルソナを召喚できるよ。","msg_combine_NETWORK_HELP_2_6","マリー"
+"msg_combine_NETWORK_HELP_2_7","上手く利用すれば、強いサブペルソナを
+手に入れられるチャンスかもね。","msg_combine_NETWORK_HELP_2_7","マリー"
+"msg_combine_NETWORK_HELP_3_0","貰った『すれちがい手帳』は、
+私に言ってくれれば確認できるよ。","msg_combine_NETWORK_HELP_3_0","マリー"
+"msg_combine_NETWORK_HELP_3_1","ついでに、新しく『すれちがい手帳』を
+もらった時は一緒に教えてあげる。","msg_combine_NETWORK_HELP_3_1","マリー"
+"msg_combine_NETWORK_HELP_3_2","だけど『すれちがい手帳』も、
+交換したもの全部は残しておけないんだ。","msg_combine_NETWORK_HELP_3_2","マリー"
+"msg_combine_NETWORK_HELP_3_3","最大『１００』件までだから、大事な
+データは『保護』しておくといいよ。","msg_combine_NETWORK_HELP_3_3","マリー"
+"msg_combine_NETWORK_HELP_3_4","じゃないと、古いデータから順番に
+消えてっちゃうから注意して。","msg_combine_NETWORK_HELP_3_4","マリー"
+"msg_combine_NETWORK_HELP_3_5","あ、保護は最大で『８０』件までだから、
+それも忘れないでおいてね。","msg_combine_NETWORK_HELP_3_5","マリー"
+"msg_combine_NETWORK_HELP_3_6","それと、貰った『すれちがい手帳』の中から
+召喚したいペルソナがいたら、言って。","msg_combine_NETWORK_HELP_3_6","マリー"
+"msg_combine_NETWORK_HELP_3_7","対価は払ってもらうけど、ちびっ子たちが
+召喚する…って、マーガレットが言ってた。","msg_combine_NETWORK_HELP_3_7","マリー"
+"msg_combine_NETWORK_HELP_4_0","貰った『すれちがい手帳』は、
+私に言ってくれれば確認できるよ。","msg_combine_NETWORK_HELP_4_0","マリー"
+"msg_combine_NETWORK_HELP_4_1","ついでに、新しく『すれちがい手帳』を
+もらった時は一緒に教えてあげる。","msg_combine_NETWORK_HELP_4_1","マリー"
+"msg_combine_NETWORK_HELP_4_2","だけど『すれちがい手帳』も、
+交換したもの全部は残しておけないんだ。","msg_combine_NETWORK_HELP_4_2","マリー"
+"msg_combine_NETWORK_HELP_4_3","最大『１００』件までだから、大事な
+データは『保護』しておくといいよ。","msg_combine_NETWORK_HELP_4_3","マリー"
+"msg_combine_NETWORK_HELP_4_4","じゃないと、古いデータから順番に
+消えてっちゃうから注意して。","msg_combine_NETWORK_HELP_4_4","マリー"
+"msg_combine_NETWORK_HELP_4_5","あ、保護は最大で『８０』件までだから、
+それも忘れないでおいてね。","msg_combine_NETWORK_HELP_4_5","マリー"
+"msg_combine_NETWORK_HELP_4_6","それと、貰った『すれちがい手帳』の中から
+召喚したいペルソナがいたら、言って。","msg_combine_NETWORK_HELP_4_6","マリー"
+"msg_combine_NETWORK_HELP_4_7","対価は払ってもらうけど、ちびっ子たちが
+召喚する…って、マーガレットが言ってた。","msg_combine_NETWORK_HELP_4_7","マリー"
+"msg_combine_NETWORK_HELP_5_0","『すれちがい手帳』の内容は、
+いつでも自由に変更できるよ。","msg_combine_NETWORK_HELP_5_0","マリー"
+"msg_combine_NETWORK_HELP_5_1","添付するサブペルソナはもちろん、
+すれちがいネームやメッセージとかもね。","msg_combine_NETWORK_HELP_5_1","マリー"
+"msg_combine_NETWORK_HELP_5_2","気分が向いたら、『すれちがい手帳』を
+更新したらいいんじゃないかな。","msg_combine_NETWORK_HELP_5_2","マリー"
+"msg_combine_NETWORK_HELP_5_3","だけど、『キミじゃないキミ』が不快になる
+ような名前や内容は書いちゃダメだよ。","msg_combine_NETWORK_HELP_5_3","マリー"
+"msg_combine_NETWORK_HELP_5_4","どーせなら、見てて楽しくなるような
+手帳にした方がみんな幸せでしょ？","msg_combine_NETWORK_HELP_5_4","マリー"
+"msg_combine_NETWORK_HELP_6_0","『すれちがい手帳』の内容は、
+いつでも自由に変更できるよ。","msg_combine_NETWORK_HELP_6_0","マリー"
+"msg_combine_NETWORK_HELP_6_1","添付するサブペルソナはもちろん、
+すれちがいネームやメッセージとかもね。","msg_combine_NETWORK_HELP_6_1","マリー"
+"msg_combine_NETWORK_HELP_6_2","気分が向いたら、『すれちがい手帳』を
+更新したらいいんじゃないかな。","msg_combine_NETWORK_HELP_6_2","マリー"
+"msg_combine_NETWORK_HELP_6_3","だけど、『キミじゃないキミ』が不快になる
+ような名前や内容は書いちゃダメだよ。","msg_combine_NETWORK_HELP_6_3","マリー"
+"msg_combine_NETWORK_HELP_6_4","どーせなら、見てて楽しくなるような
+手帳にした方がみんな幸せでしょ？","msg_combine_NETWORK_HELP_6_4","マリー"
+"msg_combine_NETWORK_HELP_7_0","『すれちがい手帳』は、『ＱＲコード』って
+いうのに変換できるんだってさ。","msg_combine_NETWORK_HELP_7_0","マリー"
+"msg_combine_NETWORK_HELP_7_1","『ＱＲコード』でも『キミじゃないキミ』と
+『すれちがい手帳』の交換ができるみたい。","msg_combine_NETWORK_HELP_7_1","マリー"
+"msg_combine_NETWORK_HELP_7_2","もし、通信が上手くいかなかったりした
+場合は『ＱＲコード』を使うのもアリだよ。","msg_combine_NETWORK_HELP_7_2","マリー"
+"msg_combine_NETWORK_HELP_7_3","キミが『ＱＲコード』を作るでもいいし、
+相手の『ＱＲコード』を読み込むでもＯＫ。","msg_combine_NETWORK_HELP_7_3","マリー"
+"msg_combine_NETWORK_HELP_7_4","まあ、上手く使って『すれちがい手帳』を
+どんどん交換してみたらいいんじゃない？","msg_combine_NETWORK_HELP_7_4","マリー"
+"msg_combine_NETWORK_HELP_8_0","『すれちがい手帳』は、『ＱＲコード』って
+いうのに変換できるんだってさ。","msg_combine_NETWORK_HELP_8_0","マリー"
+"msg_combine_NETWORK_HELP_8_1","『ＱＲコード』でも『キミじゃないキミ』と
+『すれちがい手帳』の交換ができるみたい。","msg_combine_NETWORK_HELP_8_1","マリー"
+"msg_combine_NETWORK_HELP_8_2","もし、通信が上手くいかなかったりした
+場合は『ＱＲコード』を使うのもアリだよ。","msg_combine_NETWORK_HELP_8_2","マリー"
+"msg_combine_NETWORK_HELP_8_3","キミが『ＱＲコード』を作るでもいいし、
+相手の『ＱＲコード』を読み込むでもＯＫ。","msg_combine_NETWORK_HELP_8_3","マリー"
+"msg_combine_NETWORK_HELP_8_4","まあ、上手く使って『すれちがい手帳』を
+どんどん交換してみたらいいんじゃない？","msg_combine_NETWORK_HELP_8_4","マリー"
+"msg_combine_MESSAGE044_0","我を喚ぶのは誰ぞ…","msg_combine_MESSAGE044_0",""
+"msg_combine_MESSAGE044_1","我が名は[F2 01 02 01]ゼウス[F2 01 01 01]。
+彼方より呼ばれし者…","msg_combine_MESSAGE044_1",""
+"msg_combine_MESSAGE044_2","絆と共に未踏の地を行く者よ…
+その覚悟を見極めん…","msg_combine_MESSAGE044_2",""
+"msg_combine_MESSAGE045_0","我は汝、汝は我…","msg_combine_MESSAGE045_0",""
+"msg_combine_MESSAGE045_1","真に絆を力とする者よ…
+更なる自由を得んと欲するか…","msg_combine_MESSAGE045_1",""
+"msg_combine_MESSAGE045_2","ならば汝と往かん。
+この遥かなる自由の地を…","msg_combine_MESSAGE045_2",""
+"msg_combine_MESSAGE046_0","我は汝…汝は我…
+我は汝の心の海よりいでし者…","msg_combine_MESSAGE046_0",""
+"msg_combine_MESSAGE046_1","幽玄の奏者[F2 01 02 01]オルフェウス[F2 01 01 01]なり…","msg_combine_MESSAGE046_1",""
+"msg_combine_MESSAGE047_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…
+汝より生まれいで、汝の傍らに歩む者なり…","msg_combine_MESSAGE047_0",""
+"combine_regist_NG_0","このペルソナは、貴方自身の手で
+登録できないように保護されています。","combine_regist_NG_0","ジュスティーヌ"
+"combine_regist_NG_Ex_0","このペルソナは、貴方自身の手で
+登録できないように保護されています。","combine_regist_NG_Ex_0","ジュスティーヌ"
+"msg_combine_scr_error_0","これ以上そのペルソナは
+成長させられないわ。","msg_combine_scr_error_0","マーガレット"
+"msg_combine_skcard_yet_0","このペルソナは、抽出できるスキルを
+まだ覚えていないわ。","msg_combine_skcard_yet_0","マーガレット"
+"msg_combine_skcard_lost_0","このペルソナは、抽出できるスキルを
+捨ててしまっているわ。","msg_combine_skcard_lost_0","マーガレット"
+"msg_combine_NETWORK_STOC_3_0","あ…今持ってるサブペルソナは『ここでは
+ない世界』との交信には使えないみたい。","msg_combine_NETWORK_STOC_3_0","マリー"
+"msg_combine_NETWORK_STOC_3_1","別のペルソナを用意してきてよ。","msg_combine_NETWORK_STOC_3_1","マリー"
+"msg_combine_NETWORK_STOC_4_0","あ…今持ってるサブペルソナは『ここでは
+ない世界』との交信には使えないみたい。","msg_combine_NETWORK_STOC_4_0","マリー"
+"msg_combine_NETWORK_STOC_4_1","別のペルソナを用意してきてよ。","msg_combine_NETWORK_STOC_4_1","マリー"
+"combine_stock_lack_0","ペルソナストックにある
+ペルソナの数が足りません。","combine_stock_lack_0",""
+"combine_sel_TICKET_0","有料で合体","combine_sel_TICKET_0",""
+"combine_sel_TICKET_1","合体をやめる","combine_sel_TICKET_1",""
+"combine_sel_TICKET_2","チケットを使う","combine_sel_TICKET_2",""
+"msg_combine_sac_skill_ch_0","[F2 44 01 01][F2 01 01 01]を[F2 01 04 01][F2 44 03 01]枚[F2 01 01 01]お持ちですね。
+使用して[F2 01 02 01][F2 44 02 01][F2 01 01 01]を継承なさいます？","msg_combine_sac_skill_ch_0","マーガレット"
+"msg_combine_sac_skill_ge_0","＞『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』は
+　『[F2 01 02 01][F2 44 02 01][F2 01 01 01]』を覚えた！","msg_combine_sac_skill_ge_0",""
+"msg_combine_sac_skill_ha_0","＞[F2 44 01 01]は
+　すでに持っている。","msg_combine_sac_skill_ha_0",""
+"msg_combine_stock_over_s_0","ペルソナフィルムからの引出しに
+あと[F2 44 01 01]枠ストックの空きが必要ですよ。","msg_combine_stock_over_s_0","ジュスティーヌ"
+"msg_combine_sac_cost_fre_0","これは初めて見る力の共鳴。今回の費用は
+無料です。合体して宜しいでしょうか？","msg_combine_sac_cost_fre_0","マーガレット"
+"msg_combine_sac_cost_che_0","イケニエ合体のために[F2 01 03 01][F2 44 01 01]円[F2 01 01 01]
+頂きます。宜しいでしょうか？","msg_combine_sac_cost_che_0","マーガレット"
+"combine_money_caro_0","所持金が足りないじゃないか！
+無様なものだな。","combine_money_caro_0","カロリーヌ"
+"combine_book_summon_sel_0","召喚する","combine_book_summon_sel_0",""
+"combine_book_summon_sel_1","やめておく","combine_book_summon_sel_1",""
+"combine_book_reg_all_sel_0","全て登録する","combine_book_reg_all_sel_0",""
+"combine_book_reg_all_sel_1","やめておく","combine_book_reg_all_sel_1",""
+"combine_book_reg_sel_0","登録する","combine_book_reg_sel_0",""
+"combine_book_reg_sel_1","やめておく","combine_book_reg_sel_1",""
+"combine_cmb_sel_0","問題ない","combine_cmb_sel_0",""
+"combine_cmb_sel_1","やっぱりだめ","combine_cmb_sel_1",""
+"combine_cmb_sac_free_sel_0","よろしく","combine_cmb_sac_free_sel_0",""
+"combine_cmb_sac_free_sel_1","やめておく","combine_cmb_sac_free_sel_1",""
+"combine_cmb_sac_sel_0","問題ない","combine_cmb_sac_sel_0",""
+"combine_cmb_sac_sel_1","やっぱりだめ","combine_cmb_sac_sel_1",""
+"combine_cmb_cpy_sel_0","問題ない","combine_cmb_cpy_sel_0",""
+"combine_cmb_cpy_sel_1","やめておく","combine_cmb_cpy_sel_1",""
+"combine_wcard_sel_0","継承する","combine_wcard_sel_0",""
+"combine_wcard_sel_1","やめておく","combine_wcard_sel_1",""
+"msg_combine_MESSAGE__048_0","僕は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。","msg_combine_MESSAGE__048_0",""
+"msg_combine_MESSAGE__048_1","トリックスターの力になれ…か。
+わかった、君の証を立てる手助けをしよう。","msg_combine_MESSAGE__048_1",""
+"msg_combine_MESSAGE__049_0","私は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。","msg_combine_MESSAGE__049_0",""
+"msg_combine_MESSAGE__049_1","これよりはトリックスターの力となり、
+貴方と共に在りましょう…","msg_combine_MESSAGE__049_1",""
+"msg_combine_MESSAGE__050_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…","msg_combine_MESSAGE__050_0",""
+"msg_combine_MESSAGE__050_1","汝より生まれ出で、汝の傍らに歩む者なり…
+これよりトリックスターの力とならん。","msg_combine_MESSAGE__050_1",""
+"msg_combine_MESSAGE__051_0","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]…","msg_combine_MESSAGE__051_0",""
+"msg_combine_MESSAGE__051_1","双眸見開きて、
+トリックスターよ、今こそ発せよ…！","msg_combine_MESSAGE__051_1",""
+"msg_combine_MESSAGE__052_0","我を喚ぶのは誰ぞ…","msg_combine_MESSAGE__052_0",""
+"msg_combine_MESSAGE__052_1","数多の闇を照らすトリックスターよ、
+虚ろなる無さえ己が力とするか…","msg_combine_MESSAGE__052_1",""
+"msg_combine_MESSAGE__052_2","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+汝の道行きを見届けん…","msg_combine_MESSAGE__052_2",""
+"msg_combine_MESSAGE__053_0","我を喚ぶのは誰ぞ…","msg_combine_MESSAGE__053_0",""
+"msg_combine_MESSAGE__053_1","暗き夜を照らすが如き、眩き心…
+汝、トリックスターの力となりましょう…","msg_combine_MESSAGE__053_1",""
+"msg_combine_MESSAGE__053_2","我は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。
+その光、絶やさぬよう…","msg_combine_MESSAGE__053_2",""
+"msg_combine_MESSAGE__054_0","うちは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。","msg_combine_MESSAGE__054_0",""
+"msg_combine_MESSAGE__054_1","アンタを勝利へと導く女神や。
+うちが力となって、ついてくで！","msg_combine_MESSAGE__054_1",""
+"msg_combine_MESSAGE__055_0","うちは[F2 01 02 01][F2 44 02 01][F2 01 01 01]。","msg_combine_MESSAGE__055_0",""
+"msg_combine_MESSAGE__055_1","トリックスターさん、ファイトやで！
+うちが力となって、何処までもついてくで！","msg_combine_MESSAGE__055_1",""
+"msg_combine_MESSAGE__056_0","俺は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。","msg_combine_MESSAGE__056_0",""
+"msg_combine_MESSAGE__056_1","右手に狂気、左手に執念…
+さあ…どいつから壊してやろうか！？","msg_combine_MESSAGE__056_1",""
+"msg_combine_MESSAGE__057_0","俺は[F2 01 02 01][F2 44 02 01][F2 01 01 01]。","msg_combine_MESSAGE__057_0",""
+"msg_combine_MESSAGE__057_1","トリックスターの力…？
+関係ないな、好きに暴れさせてもらう！！","msg_combine_MESSAGE__057_1",""
+"msg_combine_MESSAGE__058_0","アハハハハ！
+我が名は[F2 01 02 01][F2 44 02 01][F2 01 01 01]！","msg_combine_MESSAGE__058_0",""
+"msg_combine_MESSAGE__058_1","力になれって…？
+クク…油断してるとオマエからぶっ壊す！","msg_combine_MESSAGE__058_1",""
+"msg_combine_MESSAGE__059_0","アハハハハ！
+我が名は[F2 01 02 01][F2 44 02 01][F2 01 01 01]！","msg_combine_MESSAGE__059_0",""
+"msg_combine_MESSAGE__059_1","トリックスターの力となれ、か…
+いいね…敵を全部ぶっ壊してやるよ！","msg_combine_MESSAGE__059_1",""
+"cmb_cmm_quest02_0","では次は…","cmb_cmm_quest02_0","マーガレット"
+"cmb_cmm_quest02_1","“[F2 01 02 01]マハンマ[F2 01 01 01]”を持った“[F2 01 02 01]マタドール[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest02_1","マーガレット"
+"cmb_cmm_quest02_2","楽しみに、お待ちしております。","cmb_cmm_quest02_2","マーガレット"
+"cmb_cmm_quest03_0","では次は…","cmb_cmm_quest03_0","マーガレット"
+"cmb_cmm_quest03_1","“[F2 01 02 01]暴れまくり[F2 01 01 01]”を持った“[F2 01 02 01]ドゥン[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest03_1","マーガレット"
+"cmb_cmm_quest03_2","楽しみに、お待ちしております。","cmb_cmm_quest03_2","マーガレット"
+"cmb_cmm_quest04_0","では次は…","cmb_cmm_quest04_0","マーガレット"
+"cmb_cmm_quest04_1","“[F2 01 02 01]ブフーラ[F2 01 01 01]”を持った“[F2 01 02 01]ネコショウグン[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest04_1","マーガレット"
+"cmb_cmm_quest04_2","楽しみに、お待ちしております。","cmb_cmm_quest04_2","マーガレット"
+"cmb_cmm_quest05_0","では次は…","cmb_cmm_quest05_0","マーガレット"
+"cmb_cmm_quest05_1","“[F2 01 02 01]素早さの心得[F2 01 01 01]”を持った“[F2 01 02 01]ジャアクフロスト[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest05_1","マーガレット"
+"cmb_cmm_quest05_2","楽しみに、お待ちしております。","cmb_cmm_quest05_2","マーガレット"
+"cmb_cmm_quest06_0","では次は…","cmb_cmm_quest06_0","マーガレット"
+"cmb_cmm_quest06_1","“[F2 01 02 01]メギド[F2 01 01 01]”を持った“[F2 01 02 01]ヤタガラス[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest06_1","マーガレット"
+"cmb_cmm_quest06_2","楽しみに、お待ちしております。","cmb_cmm_quest06_2","マーガレット"
+"cmb_cmm_quest07_0","では次は…","cmb_cmm_quest07_0","マーガレット"
+"cmb_cmm_quest07_1","“[F2 01 02 01]メディラマ[F2 01 01 01]”を持った“[F2 01 02 01]ヤツフサ[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest07_1","マーガレット"
+"cmb_cmm_quest07_2","楽しみに、お待ちしております。","cmb_cmm_quest07_2","マーガレット"
+"cmb_cmm_quest08_0","では次は…","cmb_cmm_quest08_0","マーガレット"
+"cmb_cmm_quest08_1","“[F2 01 02 01]テトラカーン[F2 01 01 01]”を持った“[F2 01 02 01]ガネーシャ[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest08_1","マーガレット"
+"cmb_cmm_quest08_2","楽しみに、お待ちしております。","cmb_cmm_quest08_2","マーガレット"
+"cmb_cmm_quest09_0","では次は…","cmb_cmm_quest09_0","マーガレット"
+"cmb_cmm_quest09_1","“[F2 01 02 01]コンセントレイト[F2 01 01 01]”を持った“[F2 01 02 01]トランペッター[F2 01 01 01]”…
+貴方なら見せてくださるわね。","cmb_cmm_quest09_1","マーガレット"
+"cmb_cmm_quest09_2","楽しみに、お待ちしております。","cmb_cmm_quest09_2","マーガレット"
+"cmb_cmm_quest10_0","これ以上、貴方の心を見せてくれなくていいわ。
+もう充分、分かっているから…","cmb_cmm_quest10_0","マーガレット"
+"cmb_cmm_quest10_1","…ありがとう。","cmb_cmm_quest10_1","マーガレット"
+"cmb_cmm_quest10_2","やはり貴方は、私が思った通りの人…","cmb_cmm_quest10_2","マーガレット"
+"cmb_cmm_quest10_3","時が来たら…私に答えをくれる人だわ…","cmb_cmm_quest10_3","マーガレット"
+"cmb_cmm_quest10_4","ふふっ…
+その時が楽しみね…","cmb_cmm_quest10_4","マーガレット"
+"speaker_ジュスティーヌ","ジュスティーヌ","speaker_ジュスティーヌ",""
+"speaker_カロリーヌ","カロリーヌ","speaker_カロリーヌ",""
+"speaker_マーガレット","マーガレット","speaker_マーガレット",""
+"speaker_エリザベス","エリザベス","speaker_エリザベス",""
+"speaker_イゴール","イゴール","speaker_イゴール",""
+"speaker_マリー","マリー","speaker_マリー",""

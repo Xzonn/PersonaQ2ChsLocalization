@@ -1,0 +1,13 @@
+"source","target","id","developer_comments"
+"Y_FCL_DIALOG_MSG_EITHER_0","はい","Y_FCL_DIALOG_MSG_EITHER_0",""
+"Y_FCL_DIALOG_MSG_EITHER_1","いいえ","Y_FCL_DIALOG_MSG_EITHER_1",""
+"Y_FCLSHOP_BUY_MSG_0","＞[F4 45 04 01 00 00 01 01]を購入しますか？","Y_FCLSHOP_BUY_MSG_0",""
+"Y_FCLSHOP_SELL_MSG_0","＞[F4 45 04 01 00 00 01 01]を[F2 44 02 01]個売却しますか？","Y_FCLSHOP_SELL_MSG_0",""
+"Y_FCLSHOP_EQUIP_0","＞[F4 45 04 01 00 00 01 01]を装備しますか？","Y_FCLSHOP_EQUIP_0",""
+"Y_FCLSHOP_TRADE_0","＞今まで装備していた
+　[F4 45 04 01 00 00 01 01]を売りますか？","Y_FCLSHOP_TRADE_0",""
+"CSHOP_ADDNEW_0","＞新規入荷メッセージ","CSHOP_ADDNEW_0",""
+"CSHOP_HELLO_0","＞入店時挨拶","CSHOP_HELLO_0",""
+"CSHOP_HELLO_RAIN_0","＞入店時挨拶","CSHOP_HELLO_RAIN_0",""
+"CSHOP_MSG_EQUIP_SET_0","＞この衣装はセットになっています。
+　全員、この衣装を装備しますか？","CSHOP_MSG_EQUIP_SET_0",""

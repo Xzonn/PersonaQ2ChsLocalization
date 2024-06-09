@@ -1,0 +1,9 @@
+"source","target","id","developer_comments"
+"YESNO_SEL_0","はい","YESNO_SEL_0",""
+"YESNO_SEL_1","いいえ","YESNO_SEL_1",""
+"DEAD_SEL_0","戦闘続行","DEAD_SEL_0",""
+"DEAD_SEL_1","退却","DEAD_SEL_1",""
+"BTL_CONTINUE_0","＞現在の難易度は『ＳＡＦＥＴＹ』です。
+　コンティニューしますか？","BTL_CONTINUE_0",""
+"BTL_TEAM_DEAD_0","＞チームが全滅しました。
+　戦闘を続行しますか？","BTL_TEAM_DEAD_0",""

@@ -1,0 +1,117 @@
+"source","target","id","developer_comments"
+"FCL_NETWORK_MSG_YN_0","はい","FCL_NETWORK_MSG_YN_0",""
+"FCL_NETWORK_MSG_YN_1","いいえ","FCL_NETWORK_MSG_YN_1",""
+"FCL_NETWORK_SUBPERSONA_C_0","これでいい","FCL_NETWORK_SUBPERSONA_C_0",""
+"FCL_NETWORK_SUBPERSONA_C_1","考え直す","FCL_NETWORK_SUBPERSONA_C_1",""
+"FCL_NETWORK_SETTING_0","＞すれちがい通信に登録することで、
+　すれちがった相手と
+　『すれちがい手帳の交換』が行えます。","FCL_NETWORK_SETTING_0",""
+"FCL_NETWORK_SETTING_1","＞ニンテンドー３ＤＳ本体に
+　ペルソナＱ２のすれちがい通信を
+　登録しますか？","FCL_NETWORK_SETTING_1",""
+"FCL_NETWORK_SETTING_SUCC_0","＞ペルソナＱ２のすれちがい通信を
+　ニンテンドー３ＤＳ本体に登録しました。","FCL_NETWORK_SETTING_SUCC_0",""
+"FCL_NETWORK_SETTING_SUCC_1","＞このゲームを終了しても
+　すれちがい通信は自動で行われます。","FCL_NETWORK_SETTING_SUCC_1",""
+"FCL_NETWORK_SETTING_SUCC_2","＞ＨＯＭＥメニューから『本体設定』を選び
+　『データ管理』の『すれちがい通信管理』で
+　すれちがい通信を停止する事ができます。","FCL_NETWORK_SETTING_SUCC_2",""
+"FCL_NETWORK_SETTING_EXIS_0","＞ペルソナＱ２のすれちがい通信は
+　すでに登録されています。","FCL_NETWORK_SETTING_EXIS_0",""
+"FCL_NETWORK_SETTING_EXIS_1","＞すれちがい通信をやめるときは
+　ＨＯＭＥメニューから『本体設定』を選び","FCL_NETWORK_SETTING_EXIS_1",""
+"FCL_NETWORK_SETTING_EXIS_2","＞『データ管理』の『すれちがい通信管理』で
+　中止することができます。","FCL_NETWORK_SETTING_EXIS_2",""
+"FCL_NETWORK_SETTING_FULL_0","＞ニンテンドー３ＤＳ本体にこれ以上
+　すれちがい通信を登録できません。","FCL_NETWORK_SETTING_FULL_0",""
+"FCL_NETWORK_SETTING_FULL_1","＞『本体設定』の『すれちがい通信管理』で
+　ほかのソフトのすれちがい通信をやめて
+　ください。","FCL_NETWORK_SETTING_FULL_1",""
+"FCL_NETWORK_SETTING_EULA_0","＞すれちがい通信を利用するには
+　最新の利用規約に同意する必要が
+　あります。","FCL_NETWORK_SETTING_EULA_0",""
+"FCL_NETWORK_SETTING_EULA_1","＞本体設定で『インターネット設定』⇒
+　『その他の情報』⇒『利用規約の確認』を
+　選び最新の利用規約に同意してください。","FCL_NETWORK_SETTING_EULA_1",""
+"FCL_NETWORK_SETTING_PARE_0","＞『他のユーザーとのすれちがい通信』が、
+　保護者により制限されているため
+　すれちがい通信を利用できません。","FCL_NETWORK_SETTING_PARE_0",""
+"FCL_NETWORK_QR_ALERT_0","＞他者を不快にしたり、その権利を侵害する
+　文章や自身や他人のプライベートな情報は
+　他人に渡したり公開しないでください","FCL_NETWORK_QR_ALERT_0",""
+"FCL_NETWORK_QR_MAKE_0","＞自分のすれちがい手帳のＱＲコードと
+　画像データをＳＤカードに出力します。
+　既にデータが存在する場合は上書きします。","FCL_NETWORK_QR_MAKE_0",""
+"FCL_NETWORK_QR_MAKE_1","＞ＳＤカードに出力してよろしいですか？","FCL_NETWORK_QR_MAKE_1",""
+"FCL_NETWORK_QR_SD_WRITIN_0","＞ＳＤカードに書きこんでいます","FCL_NETWORK_QR_SD_WRITIN_0",""
+"FCL_NETWORK_QR_SD_NONE_0","＞ＳＤカードが差されていません。","FCL_NETWORK_QR_SD_NONE_0",""
+"FCL_NETWORK_QR_SD_SHORTA_0","＞ＳＤカードの空き容量が足りません。","FCL_NETWORK_QR_SD_SHORTA_0",""
+"FCL_NETWORK_QR_SD_PHOTO__0","＞ＳＤカードの写真がいっぱいなので
+　保存できません。","FCL_NETWORK_QR_SD_PHOTO__0",""
+"FCL_NETWORK_QR_SD_ERROR_0","＞ＳＤカードを認識できませんでした。","FCL_NETWORK_QR_SD_ERROR_0",""
+"FCL_NETWORK_QR_MAKE_SUCC_0","＞ＤＣＩＭ／１００ＮＩＮ０３
+　にＱＲコードの画像データを出力しました。","FCL_NETWORK_QR_MAKE_SUCC_0",""
+"FCL_NETWORK_QR_LOAD_0","＞外側カメラでペルソナＱ２の
+　ＱＲコードを写してください。","FCL_NETWORK_QR_LOAD_0",""
+"FCL_NETWORK_QR_LOAD_SUCC_0","＞すれちがい手帳を登録しますか？","FCL_NETWORK_QR_LOAD_SUCC_0",""
+"FCL_NETWORK_QR_SAVING_0","＞読み込んだすれちがい手帳をセーブしています","FCL_NETWORK_QR_SAVING_0",""
+"FCL_NETWORK_QR_INVALID_D_0","＞ペルソナＱ２の
+　ＱＲコードではありません。","FCL_NETWORK_QR_INVALID_D_0",""
+"FCL_NETWORK_QR_DECODE_ER_0","＞ＱＲコードが認識できませんでした。","FCL_NETWORK_QR_DECODE_ER_0",""
+"FCL_NETWORK_INBOX_RECEIV_0","＞新しいすれちがい手帳を受け取りますか？","FCL_NETWORK_INBOX_RECEIV_0",""
+"FCL_NETWORK_INBOX_CHECKI_0","＞すれちがい通信のデータを
+　確認しています。","FCL_NETWORK_INBOX_CHECKI_0",""
+"FCL_NETWORK_PERSONA_DELE_0","このすれちがい手帳、捨てていいの？","FCL_NETWORK_PERSONA_DELE_0","マリー"
+"FCL_NETWORK_PERSONA_DELE_2_0","このすれちがい手帳を処分して
+宜しいでしょうか？","FCL_NETWORK_PERSONA_DELE_2_0","エリザベス"
+"FCL_NETWORK_PERSONA_SUMM_0","このペルソナを召喚するには、
+[F2 44 01 01]円かかるけど、
+いいの？","FCL_NETWORK_PERSONA_SUMM_0","マリー"
+"FCL_NETWORK_PERSONA_SUMM_2_0","このペルソナを召喚するには、
+[F2 44 01 01]円かかります。
+宜しいでしょうか？","FCL_NETWORK_PERSONA_SUMM_2_0","エリザベス"
+"FCL_NETWORK_PERSONA_SUMM_3_0","＞ペルソナ“[F2 01 02 01][F2 44 01 01][F2 01 01 01]”を
+　召喚した。","FCL_NETWORK_PERSONA_SUMM_3_0",""
+"FCL_NETWORK_PERSONA_EXIS_0","このペルソナはもう持ってるよ。","FCL_NETWORK_PERSONA_EXIS_0","マリー"
+"FCL_NETWORK_PERSONA_EXIS_2_0","このペルソナは
+既にお持ちでございます。","FCL_NETWORK_PERSONA_EXIS_2_0","エリザベス"
+"FCL_NETWORK_PERSONA_MONE_0","このペルソナを召喚するには、
+お金が足りないよ。","FCL_NETWORK_PERSONA_MONE_0","マリー"
+"FCL_NETWORK_PERSONA_MONE_2_0","このペルソナを召喚するには、
+所持金が足りないようです…","FCL_NETWORK_PERSONA_MONE_2_0","エリザベス"
+"FCL_NETWORK_PERSONA_STOC_0","それ以上はペルソナを持てないよ。","FCL_NETWORK_PERSONA_STOC_0","マリー"
+"FCL_NETWORK_PERSONA_STOC_2_0","それ以上はペルソナを
+所持できないようです。","FCL_NETWORK_PERSONA_STOC_2_0","エリザベス"
+"FCL_NETWORK_PERSONA_LV_M_0","このペルソナを召喚するには、
+キミのレベルが足りないよ。","FCL_NETWORK_PERSONA_LV_M_0","マリー"
+"FCL_NETWORK_PERSONA_LV_E_0","このペルソナを生み出すには、
+あなたのレベルが足りない
+ようですね。","FCL_NETWORK_PERSONA_LV_E_0","エリザベス"
+"FCL_NETWORK_ATTACH_M_0","このペルソナでいいの？","FCL_NETWORK_ATTACH_M_0","マリー"
+"FCL_NETWORK_ATTACH_E_0","このペルソナでいいの？","FCL_NETWORK_ATTACH_E_0","マリー"
+"FCL_NETWORK_INPUT_ATTENT_0","＞個人情報や受け取った人が、
+　不快に思う事は書かないでください。","FCL_NETWORK_INPUT_ATTENT_0",""
+"FCL_NETWORK_INPUT_NGWORD_0","＞不適切な内容です。
+　もう一度、入力してください。","FCL_NETWORK_INPUT_NGWORD_0",""
+"FCL_NETWORK_INPUT_NUMBER_0","＞数字は５文字までしか入力できません。
+　もう一度、入力してください。","FCL_NETWORK_INPUT_NUMBER_0",""
+"FCL_NETWORK_NAME_OPEN_0","＞主人公の名前を公開しますか？","FCL_NETWORK_NAME_OPEN_0",""
+"FCL_NETWORK_NAME_OPEN_SE_0","公開する","FCL_NETWORK_NAME_OPEN_SE_0",""
+"FCL_NETWORK_NAME_OPEN_SE_1","公開しない","FCL_NETWORK_NAME_OPEN_SE_1",""
+"FCL_NETWORK_EDIT_SAVE_0","＞すれちがい手帳の内容が、
+　更新されています。","FCL_NETWORK_EDIT_SAVE_0",""
+"FCL_NETWORK_EDIT_SAVE_1","＞すれちがい通信に反映する為、
+　セーブを行いますか？","FCL_NETWORK_EDIT_SAVE_1",""
+"FCL_NETWORK_EDIT_CANCEL_0","＞更新内容をすれちがい通信に
+　反映せずに、編集を終了します。
+　よろしいですか？","FCL_NETWORK_EDIT_CANCEL_0",""
+"FCL_NETWORK_NOT_EDIT_PER_0","そのペルソナはキミたちだけのだよ。
+“ここではない世界”との交信には
+使えないみたい。","FCL_NETWORK_NOT_EDIT_PER_0","マリー"
+"FCL_NETWORK_NOT_EDIT_PER_1","別のペルソナを選び直してよ。","FCL_NETWORK_NOT_EDIT_PER_1","マリー"
+"FCL_NETWORK_NOT_EDIT_PER_2_0","そのペルソナはキミたちだけのだよ。
+“ここではない世界”との交信には
+使えないみたい。","FCL_NETWORK_NOT_EDIT_PER_2_0","マリー"
+"FCL_NETWORK_NOT_EDIT_PER_2_1","別のペルソナを選び直してよ。","FCL_NETWORK_NOT_EDIT_PER_2_1","マリー"
+"speaker_マリー","マリー","speaker_マリー",""
+"speaker_エリザベス","エリザベス","speaker_エリザベス",""

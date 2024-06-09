@@ -1,0 +1,8 @@
+"source","target","id","developer_comments"
+"DG_MSG_QUEST_FIND_0","我发现了任务！！","DG_MSG_QUEST_FIND_0",""
+"DG_MSG_QUEST_FIND_QUESTI_0","由于正在进行任务，
+无法发现任务！！","DG_MSG_QUEST_FIND_QUESTI_0",""
+"DG_MSG_LOCK_DOOR_NO_OPEN_0","钥匙锁着，无法打开。","DG_MSG_LOCK_DOOR_NO_OPEN_0",""
+"DG_MSG_SEL_QUEST_CLEAR_0","返回基地","DG_MSG_SEL_QUEST_CLEAR_0",""
+"DG_MSG_SEL_QUEST_CLEAR_1","进行自由探索。","DG_MSG_SEL_QUEST_CLEAR_1",""
+"DG_MSG_QST_PROGRESS_ENEM_0","[F2 44 01 01]を[F2 44 02 01]体倒しました。","DG_MSG_QST_PROGRESS_ENEM_0",""

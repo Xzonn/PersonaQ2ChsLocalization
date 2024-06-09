@@ -1,0 +1,5 @@
+"source","target","id","developer_comments"
+"MSG_NONE_0","TEST NONE","MSG_NONE_0",""
+"MSG_NEWGAME_0","TEST NEWGAME","MSG_NEWGAME_0",""
+"MSG_CONTINUE_0","＞セーブデータをロードしました。","MSG_CONTINUE_0",""
+"MSG_GAMEOVER_0","TEST GAMEOVER","MSG_GAMEOVER_0",""

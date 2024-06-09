@@ -1,0 +1,7 @@
+"source","target","id","developer_comments"
+"MSG_TUTORIAL_ENEMY_UI_0","『エネミーアピアランス』[F2 01 01 01]は、
+[F2 01 03 01]戦闘が発生する危険度[F2 01 01 01]を表しています。","MSG_TUTORIAL_ENEMY_UI_0",""
+"MSG_TUTORIAL_ENEMY_UI_1","灰色は[F2 01 03 01]安全な状態[F2 01 01 01]です。
+移動するたびに緑、黄、赤へと変化します。","MSG_TUTORIAL_ENEMY_UI_1",""
+"MSG_TUTORIAL_ENEMY_UI_2","赤は[F2 01 03 01]戦闘発生の可能性が非常に高い状態[F2 01 01 01]です。
+注意しましょう。","MSG_TUTORIAL_ENEMY_UI_2",""
