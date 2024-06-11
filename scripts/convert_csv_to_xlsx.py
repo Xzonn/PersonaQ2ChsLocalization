@@ -1,8 +1,6 @@
 import os
 from openpyxl import Workbook
-from openpyxl.formatting import Rule
-from openpyxl.styles import DEFAULT_FONT, Font, Alignment, PatternFill, Protection
-from openpyxl.styles.differential import DifferentialStyle
+from openpyxl.styles import DEFAULT_FONT, Font, Alignment, Protection
 
 from helper import DIR_CSV_ROOT, DIR_XLSX_ROOT, load_csv
 
@@ -41,7 +39,7 @@ def convert_csv_to_xlsx(csv_root_without_language: str, language: str, xlsx_root
       workbook = Workbook()
       sheet = workbook.active
       sheet.protection.sheet = True
-      sheet.append(("id", "source", "target", "comment_1", "comment_2", "comment_3"))
+      sheet.append(("id", "source", "target", "comment_1", "comment_2", "comment_3", sheet_name))
 
       for i, (original_line, translated_line) in enumerate(zip(original, translated)):
         sheet.append((
