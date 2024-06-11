@@ -39,7 +39,7 @@ python ..\..\bin\3dstools\bcfnt.py -c -y -f ..\patch102\font\seurapro_13_13.bcfn
 Pop-Location
 
 # FIXME: Remove top.arc to avoid the game crash
-Remove-Item "\temp\patch102\facility\pack\top.arc" -Force
+Remove-Item "temp\patch102\facility\pack\top.arc" -Force
 
 # Repack cpk
 & $cpkmakec "temp\patch102" "out\00040000001CBE00\romfs\patch102.cpk" -mode=FILENAME -forcecompress
