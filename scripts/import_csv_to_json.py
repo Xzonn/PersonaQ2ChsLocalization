@@ -13,11 +13,15 @@ def import_csv_to_json(csv_root: str, json_input_root: str, json_output_root: st
         continue
 
       sheet_name = os.path.relpath(f"{root}/{file_name}", csv_root).replace("\\", "/").removesuffix(".csv")
+      json_path = f"{json_input_root}/{sheet_name}.json"
+      if not os.path.exists(json_path):
+        continue
+
       print(f"Importing: {sheet_name}.csv")
 
       translations = load_translations(csv_root, sheet_name)
 
-      with open(f"{json_input_root}/{sheet_name}.json", "r", -1, "utf8") as reader:
+      with open(json_path, "r", -1, "utf8") as reader:
         json_input = json.load(reader)
 
       for k, v in json_input.items():
