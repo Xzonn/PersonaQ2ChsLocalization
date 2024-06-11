@@ -2,8 +2,14 @@ $cpkmakec = "bin\CRI_File_System_Tools_v2.40.13.0\cpkmakec.exe"
 $pq2helper = "bin\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper\bin\Release\net8.0\publish\PersonaQ2ChsLocalizationHelper.exe"
 
 # Clean output folder
-Remove-Item -Recurse -Force "temp\"
-Remove-Item -Recurse -Force "out\"
+try {
+  Remove-Item -Recurse -Force "temp\"
+}
+catch {}
+try {
+  Remove-Item -Recurse -Force "out\"
+}
+catch {}
 
 # Prepare for tools
 dotnet publish -c Release --framework net8.0 "bin\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper.csproj"
