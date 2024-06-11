@@ -55,8 +55,8 @@
 "MSG_020_1","仿佛是从体内重新诞生一般……
 这究竟是什么？","MSG_020_1",""
 "MSG_DAMAGE_KUMA_0","熊的HP减少了一点！","MSG_DAMAGE_KUMA_0",""
-"MSG_DAMAGE_YUSUKE_0","祐介的HP减少了一点！","MSG_DAMAGE_YUSUKE_0",""
-"MSG_CURE_SP_0","祐介和熊的SP稍微恢复了！
+"MSG_DAMAGE_YUSUKE_0","佑介的HP减少了一点！","MSG_DAMAGE_YUSUKE_0",""
+"MSG_CURE_SP_0","佑介和熊的SP稍微恢复了！
 ","MSG_CURE_SP_0",""
 "MSG_021_0","原来如此。
 看来这是一种具有觉醒效果的果实呢。","MSG_021_0",""
@@ -69,8 +69,8 @@
 "MSG_023_0","停下来！","MSG_023_0",""
 "MSG_023_1","哈啊...如果再呆在这里就很危险了。
 走吧，Joker。","MSG_023_1",""
-"speaker_喜多川 祐介","喜多川祐介","speaker_喜多川 祐介",""
-"speaker_高巻 杏","高巻 杏","speaker_高巻 杏",""
+"speaker_喜多川 祐介","喜多川佑介","speaker_喜多川 祐介",""
+"speaker_高巻 杏","高卷杏","speaker_高巻 杏",""
 "speaker_クマ","小熊","speaker_クマ",""
 "speaker_新島 真","新岛真","speaker_新島 真",""
 "speaker_Ｐ４主人公","P4主人公","speaker_Ｐ４主人公",""

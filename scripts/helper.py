@@ -1,3 +1,4 @@
+import csv
 import json
 import re
 
@@ -6,6 +7,7 @@ DIR_MESSAGE_ROOT = "temp/messages"
 DIR_MESSAGE_NEW_ROOT = "temp/messages_new"
 DIR_JSON_ROOT = "files/normalized"
 DIR_CSV_ROOT = "texts"
+DIR_XLSX_ROOT = "out/xlsx"
 
 ZH_HANS_2_KANJI_PATH = "files/zh_Hans_2_kanji.json"
 CHAR_TABLE_PATH = "out/char_table.json"
@@ -72,3 +74,31 @@ def convert_zh_hans_to_shift_jis(zh_hans: str) -> str:
         output.append("?")
 
   return "".join(output)
+
+
+def load_translations(root: str, sheet_name: str) -> dict[str, str]:
+  with open(f"{root}/{sheet_name}.csv", "r", -1, "utf8", "ignore", "") as csvfile:
+    reader = csv.reader(csvfile)
+
+    row_iter = reader
+    headers = next(row_iter)
+    translations = {}
+    for row in row_iter:
+      item_dict = dict(zip(headers, row))
+      translations[item_dict["id"]] = item_dict["target"].replace("\\r", "\r")
+
+  return translations
+
+
+def load_csv(root: str, sheet_name: str) -> list[dict[str, str]]:
+  with open(f"{root}/{sheet_name}.csv", "r", -1, "utf8", "ignore", "") as csvfile:
+    reader = csv.reader(csvfile)
+
+    row_iter = reader
+    headers = next(row_iter)
+    lines = []
+    for row in row_iter:
+      item_dict = dict(zip(headers, row))
+      lines.append(item_dict)
+
+  return lines

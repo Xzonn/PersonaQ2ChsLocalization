@@ -1,24 +1,9 @@
-import csv
 import json
 import os
 
-from helper import DIR_CSV_ROOT, DIR_JSON_ROOT
+from helper import DIR_CSV_ROOT, DIR_JSON_ROOT, load_translations
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
-
-
-def load_translations(root: str, sheet_name: str) -> bool:
-  with open(f"{root}/{sheet_name}.csv", "r", -1, "utf8", "ignore", "") as csvfile:
-    reader = csv.reader(csvfile)
-
-    row_iter = reader
-    headers = next(row_iter)
-    translations: dict[str, str] = {}
-    for row in row_iter:
-      item_dict = dict(zip(headers, row))
-      translations[item_dict["id"]] = item_dict["target"].replace("\\r", "\r")
-
-  return translations
 
 
 def import_csv_to_json(csv_root: str, json_input_root: str, json_output_root: str):
