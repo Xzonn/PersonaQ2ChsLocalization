@@ -1,0 +1,85 @@
+"source","target","id","developer_comments"
+"system_yes_no_0","好的。","system_yes_no_0","机翻辅助：
+
+好的。
+
+是的
+
+是"
+"system_yes_no_1","不。","system_yes_no_1","机翻辅助：
+
+不。
+
+否
+
+没有"
+"system_camp_card_drop_0","このペルソナを消滅させます。
+宜しいですか？","system_camp_card_drop_0",""
+"system_camp_card_drop_ng_0","装備中のペルソナは消滅出来ません。","system_camp_card_drop_ng_0",""
+"system_camp_card_set_0","このペルソナを装備しますか？","system_camp_card_set_0",""
+"system_camp_config_title_0","セーブしていないデータは
+消えてしまいますが、
+タイトル画面に戻って宜しいですか？","system_camp_config_title_0",""
+"system_camp_quest_offer_0","＞クエスト[F2 44 02 01]“[F2 01 02 01][F2 44 01 01][F2 01 01 01]”の
+　依頼を受けた。","system_camp_quest_offer_0",""
+"system_camp_quest_end_0","＞クエスト[F2 44 02 01]“[F2 01 02 01][F2 44 01 01][F2 01 01 01]”の
+　依頼を達成した。","system_camp_quest_end_0",""
+"system_camp_quest_first_0","依頼されたクエストは
+メニュー画面の“Ｑｕｅｓｔ”で確認できます。","system_camp_quest_first_0",""
+"system_camp_skillcard_al_0","＞[F2 01 02 01][F2 44 01 01][F2 01 01 01]は、
+　既に覚えている。","system_camp_skillcard_al_0",""
+"system_camp_skillcard_ch_0","＞[F2 01 02 01][F2 44 01 01][F2 01 01 01]を覚えさせますか？","system_camp_skillcard_ch_0",""
+"system_camp_skillcard_en_0","＞[F2 01 02 01][F2 44 02 01][F2 01 01 01]は
+　[F2 01 02 01][F2 44 01 01][F2 01 01 01]を覚えた！","system_camp_skillcard_en_0",""
+"system_camp_skillcard_rm_0","＞スキルが一杯です。
+　捨てるスキルを選んでください。","system_camp_skillcard_rm_0",""
+"system_camp_skillcard_rm_2_0","＞“[F2 01 02 01][F2 44 01 01][F2 01 01 01]”を捨てますか？","system_camp_skillcard_rm_2_0",""
+"system_camp_skillcard_ch_2_0","＞“[F2 01 02 01][F2 44 01 01][F2 01 01 01]”は
+　“[F2 01 02 01][F2 44 02 01][F2 01 01 01]”を覚えた。","system_camp_skillcard_ch_2_0",""
+"system_camp_equip_change_0","＞このペルソナは既に装備している。","system_camp_equip_change_0",""
+"system_book_read_0","＞[F4 45 04 01 00 00 01 01]を読みますか？","system_book_read_0",""
+"system_config_cancel_0","設定を変更しないで戻ります。
+宜しいですか？","system_config_cancel_0",""
+"system_camp_quest_pictur_0","何か依頼のある人は、頭上にアイコンが表示されます。
+依頼を受けると色が変わります。
+見つけたら、積極的に話かけてみましょう。","system_camp_quest_pictur_0",""
+"system_camp_equip_swap_0","＞このペルソナは、
+　[F2 01 01 01][F2 44 01 01][F2 01 01 01]が装備しています。
+　外して装備しますか？","system_camp_equip_swap_0",""
+"system_camp_item_check1_0","＞[F2 01 01 01][F2 44 01 01][F2 01 01 01]を使用して
+　この迷宮から脱出しますか？","system_camp_item_check1_0",""
+"system_camp_item_check2_0","＞[F2 01 01 01][F2 44 01 01][F2 01 01 01]を使用して
+　この階の入り口まで戻りますか？","system_camp_item_check2_0",""
+"system_camp_suspend_chec_0","中断セーブをして
+タイトル画面に戻ります。
+宜しいですか？","system_camp_suspend_chec_0",""
+"system_camp_difficult_sa_0","『ＳＡＦＥＴＹ』は、安心して物語を
+楽しみたい方向けのモードです。
+戦闘の難易度が最も低く、全滅しても
+その場ですぐ復活できます。
+難易度は後からでも変更が可能です。","system_camp_difficult_sa_0",""
+"system_camp_difficult_ea_0","『ＥＡＳＹ』は、戦闘の難易度が低めに
+設定された、気軽にプレイを楽しみたい
+方に適したモードです。
+　
+難易度は後からでも変更が可能です。","system_camp_difficult_ea_0",""
+"system_camp_difficult_no_0","『ＮＯＲＭＡＬ』は、適度な緊張感ある
+戦闘を楽しめる、戦闘の攻略も存分に
+味わいたい方にオススメのモードです。
+　
+難易度は後からでも変更が可能です。","system_camp_difficult_no_0",""
+"system_camp_difficult_ha_0","『ＨＡＲＤ』は、より難易度の高い戦闘で
+シビアな駆け引きを楽しむことができる
+上級者向けのモードです。
+　
+難易度は後からでも変更が可能です。","system_camp_difficult_ha_0",""
+"system_camp_difficult_ri_0","『ＲＩＳＫＹ』は、死と隣り合わせの
+超上級者向けのモードです。主人公を
+戦闘から外せず、主人公が死亡すると、
+その時点でゲームオーバーとなります。
+[F2 01 03 01]後からの難易度変更はできません[F2 01 01 01]。","system_camp_difficult_ri_0",""
+"eqp_bag_max_err_0","外した装備を持ち切れないため、
+装備を外せません。","eqp_bag_max_err_0",""
+"system_camp_persona_equi_0","すでに装備しています。","system_camp_persona_equi_0",""
+"system_camp_item_drop_ng_0","お気に入りなので捨てられません。","system_camp_item_drop_ng_0",""
+"system_camp_item_dlc_dis_0","捨てられないＤＬＣアイテムです。","system_camp_item_dlc_dis_0",""

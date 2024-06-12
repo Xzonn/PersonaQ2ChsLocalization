@@ -10,6 +10,7 @@ DIR_CSV_ROOT = "texts"
 DIR_XLSX_ROOT = "out/xlsx"
 
 ZH_HANS_2_KANJI_PATH = "files/zh_Hans_2_kanji.json"
+DUPLICATE_FILES_INFO_PATH = "files/duplicate_files.json"
 CHAR_TABLE_PATH = "out/char_table.json"
 
 CONTROL_PATTERN = re.compile(r"(\[[0-9A-F]{2}(?: [0-9A-F]{2})*\]|\n)")

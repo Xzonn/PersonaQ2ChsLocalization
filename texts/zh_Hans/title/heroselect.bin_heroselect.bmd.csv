@@ -1,0 +1,36 @@
+"source","target","id","developer_comments"
+"MSG_ROOT_SELECT_01_0","＞ようこそ、ペルソナＱの世界へ。","MSG_ROOT_SELECT_01_0",""
+"MSG_ROOT_SELECT_01_1","＞今作では、物語の主人公を
+　選択して遊んでいただけます。","MSG_ROOT_SELECT_01_1",""
+"MSG_ROOT_SELECT_01_2","＞主人公により、物語の展開が変わります。","MSG_ROOT_SELECT_01_2",""
+"MSG_P3_HELP_0","「ペルソナ３」の主人公。
+月光館学園高等部の２年生で、
+影時間に出現する謎の塔”タルタロス”を探索し
+人類の影人間化を食い止めるために日夜戦う、
+”特別課外活動部”のリーダー。","MSG_P3_HELP_0",""
+"MSG_P4_HELP_0","「ペルソナ４」の主人公。
+八十神高校の２年生で、
+転校先の田舎町”八十稲羽”で起こる
+不気味な連続殺人事件の解決に奔走する、
+”特別捜査隊”のリーダー。","MSG_P4_HELP_0",""
+"MSG_P3_HELP2_0","「ペルソナ３」の仲間たちを中心とした
+物語をお楽しみいただけます。","MSG_P3_HELP2_0",""
+"MSG_P4_HELP2_0","「ペルソナ４」の仲間たちを中心とした
+物語をお楽しみいただけます。","MSG_P4_HELP2_0",""
+"MSG_GAME_START_0","＞それでは、ごゆっくり本編を
+　お楽しみください。","MSG_GAME_START_0",""
+"MSG_RETURN_TITLE_0","＞タイトル画面に戻りますか？","MSG_RETURN_TITLE_0",""
+"SEL_RETURN_TITLE_0","好的。","SEL_RETURN_TITLE_0","机翻辅助：
+
+好的。
+
+是的
+
+是"
+"SEL_RETURN_TITLE_1","不。","SEL_RETURN_TITLE_1","机翻辅助：
+
+不。
+
+否
+
+没有"

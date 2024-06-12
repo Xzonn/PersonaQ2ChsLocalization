@@ -1,0 +1,23 @@
+"source","target","id","developer_comments"
+"MSG_DIFFICULTY_SELECT_01_0","＞はじめにゲームの難易度を
+　お選びください。","MSG_DIFFICULTY_SELECT_01_0",""
+"MSG_DIFFICULTY_SELECT_01_1","＞どの難易度を選んでも、物語に変化は
+　ありませんので、遊び方に合った
+　難易度をお勧めいたします。","MSG_DIFFICULTY_SELECT_01_1",""
+"MSG_DIFFICULTY_SELECT_01_2","＞難易度は、ゲーム開始後も
+　途中で変更が可能です。","MSG_DIFFICULTY_SELECT_01_2",""
+"MSG_DIFFICULTY_SELECT_01_3","＞ただし難易度“ＲＩＳＫＹ”だけは、
+　途中変更はできません。
+　ご注意ください。","MSG_DIFFICULTY_SELECT_01_3",""
+"MSG_DIFFICULTY_CONFIRM_0","＞難易度“[F2 44 01 01]”で
+　始めてよろしいですか？","MSG_DIFFICULTY_CONFIRM_0",""
+"SEL_DIFFICULTY_CONFIRM_0","はい","SEL_DIFFICULTY_CONFIRM_0",""
+"SEL_DIFFICULTY_CONFIRM_1","いいえ","SEL_DIFFICULTY_CONFIRM_1",""
+"MSG_DIFFICULTY_CONFIRM_R_0","＞難易度“ＲＩＳＫＹ”は、
+　ゲームの途中で変更できません。","MSG_DIFFICULTY_CONFIRM_R_0",""
+"MSG_DIFFICULTY_CONFIRM_R_1","＞難易度“ＲＩＳＫＹ”で
+　始めてよろしいですか？","MSG_DIFFICULTY_CONFIRM_R_1",""
+"MSG_DIFFICULTY_CONFIRM_R_2_0","＞本当によろしいですか？","MSG_DIFFICULTY_CONFIRM_R_2_0",""
+"MSG_RETURN_TITLE_0","＞タイトル画面に戻りますか？","MSG_RETURN_TITLE_0",""
+"SEL_RETURN_TITLE_0","はい","SEL_RETURN_TITLE_0",""
+"SEL_RETURN_TITLE_1","いいえ","SEL_RETURN_TITLE_1",""

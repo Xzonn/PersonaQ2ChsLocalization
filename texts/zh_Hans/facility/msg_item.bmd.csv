@@ -1,6 +1,18 @@
 "source","target","id","developer_comments"
-"ISHOP_MSG_EITHER_0","是的。","ISHOP_MSG_EITHER_0",""
-"ISHOP_MSG_EITHER_1","不是","ISHOP_MSG_EITHER_1",""
+"ISHOP_MSG_EITHER_0","是的。","ISHOP_MSG_EITHER_0","机翻辅助：
+
+好的。
+
+是的
+
+是"
+"ISHOP_MSG_EITHER_1","不是","ISHOP_MSG_EITHER_1","机翻辅助：
+
+不。
+
+否
+
+没有"
 "ISHOP_BUY_MSG2_0","＞[F2 44 02 01]個で[F2 44 03 01]円になります。
 　購入しますか？","ISHOP_BUY_MSG2_0",""
 "ISHOP_ADDNEW_0","我们有新货进货了哦。","ISHOP_ADDNEW_0",""

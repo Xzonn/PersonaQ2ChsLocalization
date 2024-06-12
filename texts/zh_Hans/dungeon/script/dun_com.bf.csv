@@ -1,6 +1,18 @@
 "source","target","id","developer_comments"
-"YESNO_SEL_0","是的。","YESNO_SEL_0",""
-"YESNO_SEL_1","不是","YESNO_SEL_1",""
+"YESNO_SEL_0","是的。","YESNO_SEL_0","机翻辅助：
+
+好的。
+
+是的
+
+是"
+"YESNO_SEL_1","不是","YESNO_SEL_1","机翻辅助：
+
+不。
+
+否
+
+没有"
 "GET_ITEM_MES_0","＞[F4 45 04 01 00 00 01 01]を手に入れた。","GET_ITEM_MES_0",""
 "GET_MONEY_MES_0","＞[F2 44 01 01]円を手に入れた。","GET_MONEY_MES_0",""
 "TBOX_ENEMY_APPEAR_0","啊呀！！","TBOX_ENEMY_APPEAR_0",""
@@ -159,6 +171,10 @@
 我们走吧！","MSG_foe_exist_move_short_4_1",""
 "MSG_GET_TRESURE_MAP_0","＞地図にこの映画内に隠された
 [F2 01 03 01]『宝の在り処』[F2 01 01 01]が示された。","MSG_GET_TRESURE_MAP_0",""
-"speaker_佐倉 双葉","佐仓双叶","speaker_佐倉 双葉",""
-"speaker_久慈川 りせ","久慈川理世","speaker_久慈川 りせ",""
+"speaker_佐倉 双葉","佐仓双叶","speaker_佐倉 双葉","机翻辅助：
+
+佐仓双叶"
+"speaker_久慈川 りせ","久慈川理世","speaker_久慈川 りせ","机翻辅助：
+
+久慈川理世"
 "speaker_山岸 風花","山岸风花","speaker_山岸 風花",""

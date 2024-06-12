@@ -1,6 +1,18 @@
 "source","target","id","developer_comments"
-"FCL_PERSONA_YN_0","是的。","FCL_PERSONA_YN_0",""
-"FCL_PERSONA_YN_1","不是","FCL_PERSONA_YN_1",""
+"FCL_PERSONA_YN_0","是的。","FCL_PERSONA_YN_0","机翻辅助：
+
+好的。
+
+是的
+
+是"
+"FCL_PERSONA_YN_1","不是","FCL_PERSONA_YN_1","机翻辅助：
+
+不。
+
+否
+
+没有"
 "FCL_PERSONA_LVUP_0","＞人格面具『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』の
 　レベルが上がった！","FCL_PERSONA_LVUP_0",""
 "FCL_PERSONA_PARAMUP_0","＞『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』が『[F2 01 02 01][F2 44 02 01][F2 01 01 01]』上がった！","FCL_PERSONA_PARAMUP_0",""

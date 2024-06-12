@@ -77,14 +77,32 @@
 "MSG_038_0","奥尔！","MSG_038_0",""
 "MSG_039_0","喂！
 我说了不是吉祥物啊！","MSG_039_0",""
-"speaker_エリザベス","伊丽莎白","speaker_エリザベス",""
-"speaker_クマ","小熊","speaker_クマ",""
-"speaker_モルガナ","摩尔加纳","speaker_モルガナ",""
-"speaker_巽 完二","巽完二","speaker_巽 完二",""
-"speaker_坂本 竜司","坂本龙司","speaker_坂本 竜司",""
-"speaker_Ｐ４主人公","P4主人公","speaker_Ｐ４主人公",""
-"speaker_高巻 杏","高卷杏","speaker_高巻 杏",""
+"speaker_エリザベス","伊丽莎白","speaker_エリザベス","机翻辅助：
+
+伊丽莎白"
+"speaker_クマ","小熊","speaker_クマ","机翻辅助：
+
+小熊"
+"speaker_モルガナ","摩尔加纳","speaker_モルガナ","机翻辅助：
+
+摩尔加纳"
+"speaker_巽 完二","巽完二","speaker_巽 完二","机翻辅助：
+
+巽完二"
+"speaker_坂本 竜司","坂本龙司","speaker_坂本 竜司","机翻辅助：
+
+坂本龙司"
+"speaker_Ｐ４主人公","P4主人公","speaker_Ｐ４主人公","机翻辅助：
+
+P4主角
+
+P4主人公"
+"speaker_高巻 杏","高卷杏","speaker_高巻 杏","机翻辅助：
+
+高卷杏"
 "speaker_アイギス","埃癸斯","speaker_アイギス",""
-"speaker_新島 真","新岛真","speaker_新島 真",""
+"speaker_新島 真","新岛真","speaker_新島 真","机翻辅助：
+
+新岛真"
 "speaker_真田 明彦","真田明彦","speaker_真田 明彦",""
 "speaker_コロマル","虎狼丸","speaker_コロマル",""

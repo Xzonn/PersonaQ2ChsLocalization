@@ -1,6 +1,18 @@
 "source","target","id","developer_comments"
-"IP_EXCESS_YESNO_0","是的。","IP_EXCESS_YESNO_0",""
-"IP_EXCESS_YESNO_1","不是","IP_EXCESS_YESNO_1",""
+"IP_EXCESS_YESNO_0","是的。","IP_EXCESS_YESNO_0","机翻辅助：
+
+好的。
+
+是的
+
+是"
+"IP_EXCESS_YESNO_1","不是","IP_EXCESS_YESNO_1","机翻辅助：
+
+不。
+
+否
+
+没有"
 "IP_EXCESS_ITEM_0","＞選択されたアイテムを捨てます。
 　よろしいですか？","IP_EXCESS_ITEM_0",""
 "IP_EXCESS_PERSONA_0","＞『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』を消滅させます。

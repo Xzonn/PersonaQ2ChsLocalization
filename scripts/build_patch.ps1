@@ -2,14 +2,15 @@ $cpkmakec = "bin\CRI_File_System_Tools_v2.40.13.0\cpkmakec.exe"
 $pq2helper = "bin\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper\bin\Release\net8.0\publish\PersonaQ2ChsLocalizationHelper.exe"
 
 # Clean output folder
-try {
-  Remove-Item -Recurse -Force "temp\"
-}
-catch {}
-try {
+if (Test-Path -Path "out\" -PathType "Container") {
   Remove-Item -Recurse -Force "out\"
 }
-catch {}
+if (Test-Path -Path "temp\" -PathType "Container") {
+  Remove-Item -Recurse -Force "temp\"
+}
+if (Test-Path -Path "files\normalized\" -PathType "Container") {
+  Remove-Item -Recurse -Force "files\normalized\"
+}
 
 # Prepare for tools
 dotnet publish -c Release --framework net8.0 "bin\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper.csproj"
@@ -19,10 +20,12 @@ dotnet publish -c Release --framework net8.0 "bin\PersonaQ2ChsLocalizationHelper
 & $pq2helper export -i "original_files\unpacked" -o "temp\messages"
 
 # Convert texts and create a character table
+python scripts\remove_duplicate_files.py
 python scripts\convert_msg_to_json.py
 python scripts\import_csv_to_json.py
 python scripts\generate_char_table.py
 python scripts\convert_json_to_msg.py
+python scripts\copy_duplicate_files.py
 & $pq2helper import -i "original_files\unpacked" -j "temp\messages_new" -o "temp\patch102"
 
 # Create new font
