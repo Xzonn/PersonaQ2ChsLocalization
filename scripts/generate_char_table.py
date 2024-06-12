@@ -62,7 +62,8 @@ def generate_char_table(json_root: str) -> dict[str, str]:
   char_table: dict[str, str] = {}
   shift_jis_characters = set()
   with open(ZH_HANS_2_KANJI_PATH, "r", -1, "utf8") as reader:
-    zh_Hans_2_kanji: dict[str, str] = json.load(reader)
+    _: dict[str, str] = json.load(reader)
+  zh_Hans_2_kanji = {k: v for k, v in _.items() if v.encode("cp932")[0] < 0xa0}
 
   generator = generate_cp932(set(zh_Hans_2_kanji.values()))
 

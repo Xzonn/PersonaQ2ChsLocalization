@@ -29,7 +29,7 @@ def convert_csv_to_xlsx(csv_root_without_language: str, language: str, xlsx_root
 
   for root, dirs, files in os.walk(f"{csv_root_without_language}/ja"):
     for file_name in files:
-      if not file_name.endswith(".bf.csv"):
+      if not file_name.endswith(".csv"):
         continue
 
       sheet_name = os.path.relpath(
