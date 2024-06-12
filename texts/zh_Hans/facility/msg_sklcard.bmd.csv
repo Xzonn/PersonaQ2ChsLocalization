@@ -1,5 +1,5 @@
 "source","target","id","developer_comments"
-"sklcard_sel_0","是的。","sklcard_sel_0","机翻辅助：
+"sklcard_sel_0","是的","sklcard_sel_0","机翻辅助：
 
 好的。
 
@@ -28,13 +28,13 @@
 それからは何枚でも買えるようになるから。","sklcard_tutorial_2",""
 "sklcard_tutorial_3","あ、でもスキルカードの効果によって、
 値段とか違うから覚えといて。","sklcard_tutorial_3",""
-"sklcard_tutorial_4","人格面具、強くしたかったら、
+"sklcard_tutorial_4","ペルソナ、強くしたかったら、
 色んなカードを複製しておいた方がいいよ。","sklcard_tutorial_4",""
 "sklcard_conf_m_0","您要购买吗？","sklcard_conf_m_0",""
 "sklcard_sell_conf_m_0","可以给我吗？","sklcard_sell_conf_m_0",""
 "sklcard_sell_all_m_0","お持ちのスキルカードを、
 全て頂戴して宜しいですか？","sklcard_sell_all_m_0",""
-"sklcard_all_registered_m_0","...完成了。","sklcard_all_registered_m_0",""
+"sklcard_all_registered_m_0","…完成了。","sklcard_all_registered_m_0",""
 "sklcard_all_registered_m_1","複製可能なスキルカードを、
 全て購入リストに登録致しました。","sklcard_all_registered_m_1",""
 "skilcard_tutorial_m_0","では、“スキルカードの複製”について
@@ -45,10 +45,10 @@
 以後は何枚でもお求め頂けるようになります。","skilcard_tutorial_m_2",""
 "skilcard_tutorial_m_3","但し、その際はスキルカードの効果に応じた
 料金を頂戴しておりますので、ご了承下さい。","skilcard_tutorial_m_3",""
-"skilcard_tutorial_m_4","人格面具を強化するため、様々なスキルカードを
+"skilcard_tutorial_m_4","ペルソナを強化するため、様々なスキルカードを
 複製なさる事をお勧め致します。","skilcard_tutorial_m_4",""
-"sklcard_conf2_0","あ…[F4 45 04 01 00 00 01 01]を買うの？","sklcard_conf2_0",""
-"sklcard_sell_conf2_0","…[F4 45 04 01 00 00 01 01]を貰っていいの？","sklcard_sell_conf2_0",""
+"sklcard_conf2_0","あ…[占位B 01]を買うの？","sklcard_conf2_0",""
+"sklcard_sell_conf2_0","…[占位B 01]を貰っていいの？","sklcard_sell_conf2_0",""
 "sklcard_sell_all2_0","…キミの持ってるカード、
 全部、貰っていいんだよね？","sklcard_sell_all2_0",""
 "sklcard_all_registered2_0","结束了。","sklcard_all_registered2_0",""

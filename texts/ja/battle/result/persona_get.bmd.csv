@@ -1,11 +1,11 @@
 "source","target","id","developer_comments"
-"P_GET_MSGID_GET_0","＞ペルソナ[F2 01 02 01]『[F2 44 01 01]』[F2 01 01 01]を手に入れた！","P_GET_MSGID_GET_0",""
+"P_GET_MSGID_GET_0","＞ペルソナ[颜色 02]『[占位A 01]』[颜色 01]を手に入れた！","P_GET_MSGID_GET_0",""
 "P_GET_MSGID_RUNKUP_0","＞より多くのスキルを所持する
 　ペルソナが現れた！","P_GET_MSGID_RUNKUP_0",""
-"P_GET_MSGID_RUNKUP_1","＞ペルソナ[F2 01 02 01]『[F2 44 01 01]』[F2 01 01 01]を
+"P_GET_MSGID_RUNKUP_1","＞ペルソナ[颜色 02]『[占位A 01]』[颜色 01]を
 　手に入れた！","P_GET_MSGID_RUNKUP_1",""
 "P_GET_MSGID_HIGH_RUNKUP_0","＞高レベルのペルソナが現れた！","P_GET_MSGID_HIGH_RUNKUP_0",""
-"P_GET_MSGID_HIGH_RUNKUP_1","＞ペルソナ[F2 01 02 01]『[F2 44 01 01]』[F2 01 01 01]を
+"P_GET_MSGID_HIGH_RUNKUP_1","＞ペルソナ[颜色 02]『[占位A 01]』[颜色 01]を
 　手に入れた！","P_GET_MSGID_HIGH_RUNKUP_1",""
 "P_GET_MSGID_TUTORIAL_0","戦闘に勝利するとペルソナを
 手に入れられることがあります。","P_GET_MSGID_TUTORIAL_0",""

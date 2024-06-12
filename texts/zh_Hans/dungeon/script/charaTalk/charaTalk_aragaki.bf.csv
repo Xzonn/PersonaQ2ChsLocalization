@@ -1,10 +1,10 @@
 "source","target","id","developer_comments"
 "ITEM_POINT_SEL_0","警惕地搜索","ITEM_POINT_SEL_0",""
-"ITEM_POINT_SEL_1","专注于采取行动。","ITEM_POINT_SEL_1",""
+"ITEM_POINT_SEL_1","专注于采取行动","ITEM_POINT_SEL_1",""
 "ITEM_POINT_SEL_2","停止","ITEM_POINT_SEL_2",""
 "ITEM_POINT_FORCE_BTL_SEL_0","寻找","ITEM_POINT_FORCE_BTL_SEL_0",""
 "ITEM_POINT_FORCE_BTL_SEL_1","停止","ITEM_POINT_FORCE_BTL_SEL_1",""
-"SHORTCUT_SEL_0","通る -","SHORTCUT_SEL_0",""
+"SHORTCUT_SEL_0","通る","SHORTCUT_SEL_0",""
 "SHORTCUT_SEL_1","通不过","SHORTCUT_SEL_1",""
 "ENTRANCE_SEL_0","返回","ENTRANCE_SEL_0",""
 "ENTRANCE_SEL_1","不会回来","ENTRANCE_SEL_1",""
@@ -16,17 +16,17 @@
 我们来找找看吧。","MSG_002_0",""
 "MSG_003_0","那样啊……","MSG_003_0",""
 "MSG_004_0","这就结束了吧。","MSG_004_0",""
-"MSG_005_0","嗯...","MSG_005_0",""
+"MSG_005_0","嗯…","MSG_005_0",""
 "MSG_006_0","不错。","MSG_006_0",""
 "MSG_007_0","我会收下的。","MSG_007_0",""
 "MSG_008_0","时机已到。","MSG_008_0",""
 "MSG_009_0","这真是厉害。","MSG_009_0",""
 "MSG_010_0","太好了。","MSG_010_0",""
 "MSG_011_0","哦，好稀奇。","MSG_011_0",""
-"MSG_012_0","近路吗...你打算怎么办？","MSG_012_0",""
-"MSG_015_0","哼...看来我们是过不去了。
+"MSG_012_0","近路吗……你打算怎么办？","MSG_012_0",""
+"MSG_015_0","哼……看来我们是过不去了。
 ","MSG_015_0",""
-"MSG_018_0","这里有一种不好的气氛...怎么办？
+"MSG_018_0","这里有一种不好的气氛……怎么办？
 ","MSG_018_0",""
 "MSG_019_0","好的。
 那么，加油吧。","MSG_019_0",""
@@ -40,4 +40,6 @@
 "MSG_025_0","哎呀，果然还是出现了。","MSG_025_0",""
 "MSG_026_0","你要回电影院吗？","MSG_026_0",""
 "MSG_027_0","把握！！","MSG_027_0",""
-"speaker_荒垣 真次郎","荒垣真次郎","speaker_荒垣 真次郎",""
+"speaker_荒垣 真次郎","荒垣真次郎","speaker_荒垣 真次郎","机翻辅助：
+
+荒垣真次郎"

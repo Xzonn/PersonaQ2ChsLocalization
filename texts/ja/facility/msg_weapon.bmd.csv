@@ -23,23 +23,23 @@
 "Y_FCLSHOP_YESNO_COSTODY__4_1","やめておく","Y_FCLSHOP_YESNO_COSTODY__4_1",""
 "Y_FCLSHOP_YESNO_COSTODY__5_0","引き出す","Y_FCLSHOP_YESNO_COSTODY__5_0",""
 "Y_FCLSHOP_YESNO_COSTODY__5_1","やめておく","Y_FCLSHOP_YESNO_COSTODY__5_1",""
-"Y_FCLSHOP_BUY_MSG_0","は[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]です。
+"Y_FCLSHOP_BUY_MSG_0","[占位B 01]は[颜色 03][占位A 02]円[颜色 01]です。
 宜しいですか？","Y_FCLSHOP_BUY_MSG_0","テオドア"
-"Y_FCLSHOP_USE_BUY_MSG_0","[F2 44 01 01]個で[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]になります。
+"Y_FCLSHOP_USE_BUY_MSG_0","[占位A 01]個で[颜色 03][占位A 02]円[颜色 01]になります。
 宜しいですか？","Y_FCLSHOP_USE_BUY_MSG_0","テオドア"
-"Y_FCLSHOP_SELL_MSG_0","を[F2 44 02 01]個
+"Y_FCLSHOP_SELL_MSG_0","[占位B 01]を[占位A 02]個
 お売り頂けるのですか？","Y_FCLSHOP_SELL_MSG_0","テオドア"
-"Y_FCLSHOP_SELL_MULUTI_MS_0","これら[F2 44 01 01]個をお売りになると
-[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]です。宜しいですか？","Y_FCLSHOP_SELL_MULUTI_MS_0","テオドア"
+"Y_FCLSHOP_SELL_MULUTI_MS_0","これら[占位A 01]個をお売りになると
+[颜色 03][占位A 02]円[颜色 01]です。宜しいですか？","Y_FCLSHOP_SELL_MULUTI_MS_0","テオドア"
 "Y_FCLSHOP_FAV_NG_0","お気に入り登録されているため売却できません。","Y_FCLSHOP_FAV_NG_0",""
 "Y_FCLSHOP_DLC_NG_0","ＤＬＣアイテムは売却できません。","Y_FCLSHOP_DLC_NG_0",""
-"Y_FCLSHOP_ADD_LIST_0","＞[F4 45 04 01 00 00 01 01]が商品に追加された！","Y_FCLSHOP_ADD_LIST_0","テオドア"
-"Y_FCLSHOP_EQUIP_0","を
+"Y_FCLSHOP_ADD_LIST_0","＞[占位B 01]が商品に追加された！","Y_FCLSHOP_ADD_LIST_0","テオドア"
+"Y_FCLSHOP_EQUIP_0","[占位B 01]を
 すぐに装備なさいますか？","Y_FCLSHOP_EQUIP_0","テオドア"
-"Y_FCLSHOP_TRADE_0","今まで装備されていた[F4 45 04 01 00 00 01 01]を
-[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]でお売りになりますか？","Y_FCLSHOP_TRADE_0","テオドア"
+"Y_FCLSHOP_TRADE_0","今まで装備されていた[占位B 01]を
+[颜色 03][占位A 02]円[颜色 01]でお売りになりますか？","Y_FCLSHOP_TRADE_0","テオドア"
 "Y_FCLSHOP_ALLSELL_0","お持ちの素材を全てお売りになると
-[F2 01 03 01][F2 44 01 01]円[F2 01 01 01]です。宜しいですか?","Y_FCLSHOP_ALLSELL_0","テオドア"
+[颜色 03][占位A 01]円[颜色 01]です。宜しいですか?","Y_FCLSHOP_ALLSELL_0","テオドア"
 "Y_FCLSHOP_SELL_MES_NORMA_0","これはまた面白い素材ですね！
 何ができるか今から楽しみです。","Y_FCLSHOP_SELL_MES_NORMA_0","テオドア"
 "Y_FCLSHOP_SELL_MES_NORMA_1","それでは、少々お待ちを。","Y_FCLSHOP_SELL_MES_NORMA_1","テオドア"
@@ -72,13 +72,13 @@
 "Y_FCLSHOP_ADD_MES_HIGH_R_2","あっ、まだ話は終わっていません！","Y_FCLSHOP_ADD_MES_HIGH_R_2","テオドア"
 "WSHOP_KEEP_MATERIAL_0","あと少し素材が集まれば、
 このようなモノもお作りできそうです。","WSHOP_KEEP_MATERIAL_0","テオドア"
-"CSHOP_DEP_CONF_0","[F2 44 01 01]個の荷物を
+"CSHOP_DEP_CONF_0","[占位A 01]個の荷物を
 お預かりいたしますか？","CSHOP_DEP_CONF_0","テオドア"
-"CSHOP_DEP_CONF_OK_0","[F2 44 01 01]個の荷物を
+"CSHOP_DEP_CONF_OK_0","[占位A 01]個の荷物を
 お預かりいたしました。","CSHOP_DEP_CONF_OK_0","テオドア"
-"CSHOP_PUL_CONF_0","[F2 44 01 01]個の荷物を
+"CSHOP_PUL_CONF_0","[占位A 01]個の荷物を
 お引き出しされますか？","CSHOP_PUL_CONF_0","テオドア"
-"CSHOP_PUL_CONF_OK_0","[F2 44 01 01]個の荷物を
+"CSHOP_PUL_CONF_OK_0","[占位A 01]個の荷物を
 お返しいたしました。","CSHOP_PUL_CONF_OK_0","テオドア"
 "CSHOP_COMMON_NG_1_0","…おや、荷物がいっぱいですね。
 申し訳ないのですが、これ以上は
@@ -145,28 +145,28 @@
 同じ場所にお預かりできません。","WSHOP_EXP_CLOAKROOM_M_6","ナギ"
 "WSHOP_EXP_CLOAKROOM_M_7","その点だけお気をつけくださいね。","WSHOP_EXP_CLOAKROOM_M_7","ナギ"
 "WSHOP_MATERIAL_HELP_NONE_0","情報がありません","WSHOP_MATERIAL_HELP_NONE_0",""
-"Y_FCLSHOP_BUY_MSG_Ex_0","は[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]です。
+"Y_FCLSHOP_BUY_MSG_Ex_0","[占位B 01]は[颜色 03][占位A 02]円[颜色 01]です。
 宜しいかしら？","Y_FCLSHOP_BUY_MSG_Ex_0","ナギ"
-"Y_FCLSHOP_USE_BUY_MSG_Ex_0","[F2 44 01 01]個で[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]になるわ。
+"Y_FCLSHOP_USE_BUY_MSG_Ex_0","[占位A 01]個で[颜色 03][占位A 02]円[颜色 01]になるわ。
 宜しいかしら？","Y_FCLSHOP_USE_BUY_MSG_Ex_0","ナギ"
-"Y_FCLSHOP_SELL_MSG_Ex_0","を[F2 44 02 01]個
+"Y_FCLSHOP_SELL_MSG_Ex_0","[占位B 01]を[占位A 02]個
 お売りになりますか？","Y_FCLSHOP_SELL_MSG_Ex_0","ナギ"
-"Y_FCLSHOP_SELL_MULUTI_MS_2_0","これら[F2 44 01 01]個をお売りになると
-[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]です。宜しいかしら？","Y_FCLSHOP_SELL_MULUTI_MS_2_0","ナギ"
-"Y_FCLSHOP_ADD_LIST_Ex_0","＞[F4 45 04 01 00 00 01 01]が商品に追加された！","Y_FCLSHOP_ADD_LIST_Ex_0","ナギ"
-"Y_FCLSHOP_EQUIP_Ex_0","を
+"Y_FCLSHOP_SELL_MULUTI_MS_2_0","これら[占位A 01]個をお売りになると
+[颜色 03][占位A 02]円[颜色 01]です。宜しいかしら？","Y_FCLSHOP_SELL_MULUTI_MS_2_0","ナギ"
+"Y_FCLSHOP_ADD_LIST_Ex_0","＞[占位B 01]が商品に追加された！","Y_FCLSHOP_ADD_LIST_Ex_0","ナギ"
+"Y_FCLSHOP_EQUIP_Ex_0","[占位B 01]を
 すぐに装備されますか？","Y_FCLSHOP_EQUIP_Ex_0","ナギ"
-"Y_FCLSHOP_TRADE_Ex_0","今まで装備されていた[F4 45 04 01 00 00 01 01]を
-[F2 01 03 01][F2 44 02 01]円[F2 01 01 01]でお売りになりますか？","Y_FCLSHOP_TRADE_Ex_0","ナギ"
+"Y_FCLSHOP_TRADE_Ex_0","今まで装備されていた[占位B 01]を
+[颜色 03][占位A 02]円[颜色 01]でお売りになりますか？","Y_FCLSHOP_TRADE_Ex_0","ナギ"
 "Y_FCLSHOP_ALLSELL_Ex_0","お持ちの素材を全てお売りになると
-[F2 01 03 01][F2 44 01 01]円[F2 01 01 01]です。宜しいかしら？","Y_FCLSHOP_ALLSELL_Ex_0","ナギ"
-"CSHOP_DEP_CONF_Ex_0","[F2 44 01 01]個の荷物を
+[颜色 03][占位A 01]円[颜色 01]です。宜しいかしら？","Y_FCLSHOP_ALLSELL_Ex_0","ナギ"
+"CSHOP_DEP_CONF_Ex_0","[占位A 01]個の荷物を
 お預かりしますか？","CSHOP_DEP_CONF_Ex_0","ナギ"
-"CSHOP_DEP_CONF_OK_Ex_0","[F2 44 01 01]個の荷物を
+"CSHOP_DEP_CONF_OK_Ex_0","[占位A 01]個の荷物を
 お預かりしました。","CSHOP_DEP_CONF_OK_Ex_0","ナギ"
-"CSHOP_PUL_CONF_Ex_0","[F2 44 01 01]個の荷物を
+"CSHOP_PUL_CONF_Ex_0","[占位A 01]個の荷物を
 お引き出しされますか？","CSHOP_PUL_CONF_Ex_0","ナギ"
-"CSHOP_PUL_CONF_OK_Ex_0","[F2 44 01 01]個の荷物を
+"CSHOP_PUL_CONF_OK_Ex_0","[占位A 01]個の荷物を
 お返ししました。","CSHOP_PUL_CONF_OK_Ex_0","ナギ"
 "CSHOP_COMMON_NG_1_Ex_0","まぁ、荷物を置くスペースが満杯で
 預かれないわ…ごめんなさいね","CSHOP_COMMON_NG_1_Ex_0","ナギ"
@@ -421,13 +421,13 @@
 返しに行くってのもなぁ…","WSHOP_TALKCMM001_2","だいだら．のオヤジ"
 "WSHOP_TALKCMM001_3","＞ひさ乃が言っていた手紙のことだろうか…","WSHOP_TALKCMM001_3","だいだら．のオヤジ"
 "WSHOP_TALKCMM001_4","＞手紙を預かることにした。","WSHOP_TALKCMM001_4","だいだら．のオヤジ"
-"WSHOP_TALKCMM001_5","＞[F4 45 04 01 00 00 01 01]を手に入れた。","WSHOP_TALKCMM001_5","だいだら．のオヤジ"
+"WSHOP_TALKCMM001_5","＞[占位B 01]を手に入れた。","WSHOP_TALKCMM001_5","だいだら．のオヤジ"
 "WSHOP_TALKCMM002_0","むぅっ！　オメェ、良い所に来た！","WSHOP_TALKCMM002_0","だいだら．のオヤジ"
 "WSHOP_TALKCMM002_1","この間の手紙なんだがぁ…
 また出てきやがってよ。","WSHOP_TALKCMM002_1","だいだら．のオヤジ"
 "WSHOP_TALKCMM002_2","良かったら、また預かってくれねぇか…","WSHOP_TALKCMM002_2","だいだら．のオヤジ"
 "WSHOP_TALKCMM002_3","＞手紙を預かることにした。","WSHOP_TALKCMM002_3","だいだら．のオヤジ"
-"WSHOP_TALKCMM002_4","＞[F4 45 04 01 00 00 01 01]を手に入れた。","WSHOP_TALKCMM002_4","だいだら．のオヤジ"
+"WSHOP_TALKCMM002_4","＞[占位B 01]を手に入れた。","WSHOP_TALKCMM002_4","だいだら．のオヤジ"
 "speaker_テオドア","テオドア","speaker_テオドア",""
 "speaker_　","　","speaker_　",""
 "speaker_マーガレット","マーガレット","speaker_マーガレット",""

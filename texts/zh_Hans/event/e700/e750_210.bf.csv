@@ -1,5 +1,5 @@
 "source","target","id","developer_comments"
-"MSG_000_0","等一下...","MSG_000_0",""
+"MSG_000_0","等一下…","MSG_000_0",""
 "MSG_000_1","那里虽然没有风吹，但是有风的反应呢……
 为什么呢？","MSG_000_1",""
 "MSG_001_0","也许这部薄膜能挡风吗？
@@ -12,17 +12,23 @@
 啊……或许最好还是加上标记以防万一。","MSG_003_0",""
 "MSG_004_0","那么，设计就交给我吧。
 放心吧。","MSG_004_0",""
-"MSG_ICON_BLOCKWALL_OPEN_0","下画面の地図に[F2 01 03 01]『防風壁』[F2 01 01 01]の
+"MSG_ICON_BLOCKWALL_OPEN_0","下画面の地図に[颜色 03]『防風壁』[颜色 01]の
 アイコンが追加されました。","MSG_ICON_BLOCKWALL_OPEN_0",""
 "MSG_ICON_BLOCKWALL_OPEN_1","如果您想再次确认图标的使用用途
 ","MSG_ICON_BLOCKWALL_OPEN_1",""
-"MSG_ICON_BLOCKWALL_OPEN_2","地図の右下にある[F2 01 03 01]ＨＥＬＰ[F2 01 01 01]の[F2 01 03 01]アイコンの種類[F2 01 01 01]
+"MSG_ICON_BLOCKWALL_OPEN_2","地図の右下にある[颜色 03]ＨＥＬＰ[颜色 01]の[颜色 03]アイコンの種類[颜色 01]
 から、確認する事が出来ます。","MSG_ICON_BLOCKWALL_OPEN_2",""
 "speaker_久慈川 りせ","久慈川理世","speaker_久慈川 りせ","机翻辅助：
 
 久慈川理世"
-"speaker_Ｐ３主人公","P3主人公","speaker_Ｐ３主人公",""
-"speaker_山岸 風花","山岸风花","speaker_山岸 風花",""
+"speaker_Ｐ３主人公","P3主人公","speaker_Ｐ３主人公","机翻辅助：
+
+P3主角
+
+P3主人公"
+"speaker_山岸 風花","山岸风花","speaker_山岸 風花","机翻辅助：
+
+山岸风花"
 "speaker_明智 吾郎","明智吾郎","speaker_明智 吾郎","机翻辅助：
 
 明智吾郎"

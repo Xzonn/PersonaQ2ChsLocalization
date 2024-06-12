@@ -6,81 +6,81 @@
 "explain_03_quest_00_0","クエスト００
 説明文","explain_03_quest_00_0",""
 "explain_01_quest_01_0","“バザルト”を倒そう。","explain_01_quest_01_0",""
-"explain_02_quest_01_0","“クエスト１”[F2 01 06 01]テストメッセージ2","explain_02_quest_01_0",""
-"explain_03_quest_01_0","この特別上映は[F2 01 03 01]達成済み[F2 01 01 01]となります。","explain_03_quest_01_0",""
-"explain_01_quest_02_0","“目的地”[F2 01 06 01]に到達しよう。","explain_01_quest_02_0",""
-"explain_02_quest_02_0","“クエスト２”[F2 01 06 01]テストメッセージ2","explain_02_quest_02_0",""
-"explain_03_quest_02_0","この特別上映は[F2 01 03 01]達成済み[F2 01 01 01]となります。","explain_03_quest_02_0",""
-"explain_01_quest_03_0","“闘魂のギガス”[F2 01 06 01]を討伐しよう。","explain_01_quest_03_0",""
-"explain_02_quest_03_0","クエストのクリア条件を満たしました。
-[F2 01 06 01]一度拠点に戻り、""クエスト受注施設""から
-[F2 01 09 01]""クエストクリア報告""[F2 01 06 01]を行いましょう。","explain_02_quest_03_0",""
-"explain_03_quest_03_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_03_0",""
-"explain_01_quest_04_0","“監視カメラ”[F2 01 06 01]に気をつけながら
-[F2 01 09 01]“３F”[F2 01 06 01]の奥を目指そう。","explain_01_quest_04_0",""
-"explain_02_quest_04_0","クエストのクリア条件を満たしました。
-[F2 01 06 01]一度拠点に戻り、""クエスト受注施設""から
-[F2 01 09 01]""クエストクリア報告""[F2 01 06 01]を行いましょう。","explain_02_quest_04_0",""
-"explain_03_quest_04_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_04_0",""
+"explain_02_quest_01_0","[颜色 09]“クエスト１”[颜色 06]テストメッセージ2","explain_02_quest_01_0",""
+"explain_03_quest_01_0","この特別上映は[颜色 03]達成済み[颜色 01]となります。","explain_03_quest_01_0",""
+"explain_01_quest_02_0","[颜色 09]“目的地”[颜色 06]に到達しよう。","explain_01_quest_02_0",""
+"explain_02_quest_02_0","[颜色 09]“クエスト２”[颜色 06]テストメッセージ2","explain_02_quest_02_0",""
+"explain_03_quest_02_0","この特別上映は[颜色 03]達成済み[颜色 01]となります。","explain_03_quest_02_0",""
+"explain_01_quest_03_0","[颜色 09]“闘魂のギガス”[颜色 06]を討伐しよう。","explain_01_quest_03_0",""
+"explain_02_quest_03_0","[颜色 06]クエストのクリア条件を満たしました。
+[颜色 06]一度拠点に戻り、""クエスト受注施設""から
+[颜色 09]""クエストクリア報告""[颜色 06]を行いましょう。","explain_02_quest_03_0",""
+"explain_03_quest_03_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_03_0",""
+"explain_01_quest_04_0","[颜色 09]“監視カメラ”[颜色 06]に気をつけながら
+[颜色 09]“３F”[颜色 06]の奥を目指そう。","explain_01_quest_04_0",""
+"explain_02_quest_04_0","[颜色 06]クエストのクリア条件を満たしました。
+[颜色 06]一度拠点に戻り、""クエスト受注施設""から
+[颜色 09]""クエストクリア報告""[颜色 06]を行いましょう。","explain_02_quest_04_0",""
+"explain_03_quest_04_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_04_0",""
 "explain_01_quest_05_0","大きな『Ｋ』と描かれた看板の
 お店を探して巡ろう。","explain_01_quest_05_0",""
-"explain_02_quest_05_0","クエストのクリア条件を満たしました。
-[F2 01 06 01]一度拠点に戻り、""クエスト受注施設""から
-[F2 01 09 01]""クエストクリア報告""[F2 01 06 01]を行いましょう。","explain_02_quest_05_0",""
-"explain_03_quest_05_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_05_0",""
+"explain_02_quest_05_0","[颜色 06]クエストのクリア条件を満たしました。
+[颜色 06]一度拠点に戻り、""クエスト受注施設""から
+[颜色 09]""クエストクリア報告""[颜色 06]を行いましょう。","explain_02_quest_05_0",""
+"explain_03_quest_05_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_05_0",""
 "explain_01_quest_06_0","密林を巡り、太古の生態を調査しよう。","explain_01_quest_06_0",""
-"explain_02_quest_06_0","クエストのクリア条件を満たしました。
-[F2 01 06 01]一度拠点に戻り、""クエスト受注施設""から
-[F2 01 09 01]""クエストクリア報告""[F2 01 06 01]を行いましょう。","explain_02_quest_06_0",""
-"explain_03_quest_06_0","この特別上映は[F2 01 09 01]クリア報告済み[F2 01 06 01]となります。","explain_03_quest_06_0",""
+"explain_02_quest_06_0","[颜色 06]クエストのクリア条件を満たしました。
+[颜色 06]一度拠点に戻り、""クエスト受注施設""から
+[颜色 09]""クエストクリア報告""[颜色 06]を行いましょう。","explain_02_quest_06_0",""
+"explain_03_quest_06_0","[颜色 06]この特別上映は[颜色 09]クリア報告済み[颜色 06]となります。","explain_03_quest_06_0",""
 "explain_01_quest_07_0","チキンヒーローを討伐しよう","explain_01_quest_07_0",""
-"explain_02_quest_07_0","クエストのクリア条件を満たしました。
-[F2 01 06 01]一度拠点に戻り、""クエスト受注施設""から
-[F2 01 09 01]""クエストクリア報告""[F2 01 06 01]を行いましょう。","explain_02_quest_07_0",""
-"explain_03_quest_07_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_07_0",""
+"explain_02_quest_07_0","[颜色 06]クエストのクリア条件を満たしました。
+[颜色 06]一度拠点に戻り、""クエスト受注施設""から
+[颜色 09]""クエストクリア報告""[颜色 06]を行いましょう。","explain_02_quest_07_0",""
+"explain_03_quest_07_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_07_0",""
 "explain_01_quest_08_0","街の中にいるはずの
 偽者の警官を探し出そう","explain_01_quest_08_0",""
 "explain_02_quest_08_0","だみー","explain_02_quest_08_0",""
-"explain_03_quest_08_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_08_0",""
+"explain_03_quest_08_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_08_0",""
 "explain_01_quest_09_0","街中にある落書きの中から
 他と違うものを探し出そう","explain_01_quest_09_0",""
 "explain_02_quest_09_0","だみー","explain_02_quest_09_0",""
-"explain_03_quest_09_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_09_0",""
+"explain_03_quest_09_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_09_0",""
 "explain_01_quest_10_0","魚釣りができるスポットに向かおう","explain_01_quest_10_0",""
 "explain_02_quest_10_0","だみー","explain_02_quest_10_0",""
-"explain_03_quest_10_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_10_0",""
+"explain_03_quest_10_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_10_0",""
 "explain_01_quest_11_0","翼竜が隠したオタカラを
 手に入れよう","explain_01_quest_11_0",""
 "explain_02_quest_11_0","だみー","explain_02_quest_11_0",""
-"explain_03_quest_11_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_11_0",""
+"explain_03_quest_11_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_11_0",""
 "explain_01_quest_12_0","食べられそうな果物を
 探してこよう","explain_01_quest_12_0",""
 "explain_02_quest_12_0","だみー","explain_02_quest_12_0",""
-"explain_03_quest_12_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_12_0",""
+"explain_03_quest_12_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_12_0",""
 "explain_01_quest_13_0","ポップコーン用の素材を集めよう","explain_01_quest_13_0",""
 "explain_02_quest_13_0","だみー","explain_02_quest_13_0",""
-"explain_03_quest_13_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_13_0",""
+"explain_03_quest_13_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_13_0",""
 "explain_01_quest_14_0","子恐竜を助けよう","explain_01_quest_14_0",""
 "explain_02_quest_14_0","だみー","explain_02_quest_14_0",""
-"explain_03_quest_14_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_14_0",""
+"explain_03_quest_14_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_14_0",""
 "explain_01_quest_15_0","ジャングルを荒らしている
 原因を突き止めよう","explain_01_quest_15_0",""
 "explain_02_quest_15_0","だみー","explain_02_quest_15_0",""
-"explain_03_quest_15_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_15_0",""
+"explain_03_quest_15_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_15_0",""
 "explain_01_quest_16_0","ジャングルにある
 コンテナを巡っていこう","explain_01_quest_16_0",""
 "explain_02_quest_16_0","だみー","explain_02_quest_16_0",""
-"explain_03_quest_16_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_16_0",""
+"explain_03_quest_16_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_16_0",""
 "explain_01_quest_17_0","聞き込みをして怪しい人物を
 見つけ出そう","explain_01_quest_17_0",""
 "explain_02_quest_17_0","だみー","explain_02_quest_17_0",""
-"explain_03_quest_17_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_17_0",""
+"explain_03_quest_17_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_17_0",""
 "explain_01_quest_18_0","目的のシャドウを討伐しよう","explain_01_quest_18_0",""
 "explain_02_quest_18_0","だみー","explain_02_quest_18_0",""
-"explain_03_quest_18_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_18_0",""
+"explain_03_quest_18_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_18_0",""
 "explain_01_quest_19_0","大型の店舗を探そう","explain_01_quest_19_0",""
 "explain_02_quest_19_0","だみー","explain_02_quest_19_0",""
-"explain_03_quest_19_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_19_0",""
+"explain_03_quest_19_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_19_0",""
 "explain_01_quest_20_0","ティラノの生態調査のために
 捕獲を行おう","explain_01_quest_20_0",""
 "explain_02_quest_20_0","だみー","explain_02_quest_20_0",""
@@ -89,108 +89,108 @@
 探してこよう","explain_01_quest_21_0",""
 "explain_02_quest_21_0","食べられそうな食材を
 探してこよう","explain_02_quest_21_0",""
-"explain_03_quest_21_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_21_0",""
+"explain_03_quest_21_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_21_0",""
 "explain_01_quest_22_0","目的のシャドウを討伐してこよう","explain_01_quest_22_0",""
 "explain_02_quest_22_0","だみー","explain_02_quest_22_0",""
-"explain_03_quest_22_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_22_0",""
+"explain_03_quest_22_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_22_0",""
 "explain_01_quest_23_0","トレーニングになりそうな
 シャドウを討伐してこよう","explain_01_quest_23_0",""
 "explain_02_quest_23_0","だみー","explain_02_quest_23_0",""
-"explain_03_quest_23_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_23_0",""
+"explain_03_quest_23_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_23_0",""
 "explain_01_quest_24_0","変化してしまった扉の
 先へ向かおう！","explain_01_quest_24_0",""
 "explain_02_quest_24_0","だみー","explain_02_quest_24_0",""
-"explain_03_quest_24_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_24_0",""
+"explain_03_quest_24_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_24_0",""
 "explain_01_quest_25_0","ロマンあふれる
 シャドウを討伐してこよう！","explain_01_quest_25_0",""
 "explain_02_quest_25_0","だみー","explain_02_quest_25_0",""
-"explain_03_quest_25_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_25_0",""
+"explain_03_quest_25_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_25_0",""
 "explain_01_quest_26_0","最強のマスコットを決める戦いに
 赴こう","explain_01_quest_26_0",""
 "explain_02_quest_26_0","だみー","explain_02_quest_26_0",""
-"explain_03_quest_26_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_26_0",""
+"explain_03_quest_26_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_26_0",""
 "explain_01_quest_27_0","フライヤーの素材になる
 オタカラを集めてこよう","explain_01_quest_27_0",""
 "explain_02_quest_27_0","だみー","explain_02_quest_27_0",""
-"explain_03_quest_27_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_27_0",""
+"explain_03_quest_27_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_27_0",""
 "explain_01_quest_28_0","壊れたロボットを
 修理しよう","explain_01_quest_28_0",""
 "explain_02_quest_28_0","だみー","explain_02_quest_28_0",""
-"explain_03_quest_28_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_28_0",""
+"explain_03_quest_28_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_28_0",""
 "explain_01_quest_29_0","大型Ｆ．Ｏ．Ｅを討伐しよう","explain_01_quest_29_0",""
 "explain_02_quest_29_0","だみー","explain_02_quest_29_0",""
-"explain_03_quest_29_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_29_0",""
+"explain_03_quest_29_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_29_0",""
 "explain_01_quest_30_0","変化した扉ギミックを
 攻略しよう","explain_01_quest_30_0",""
 "explain_02_quest_30_0","だみー","explain_02_quest_30_0",""
-"explain_03_quest_30_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_30_0",""
+"explain_03_quest_30_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_30_0",""
 "explain_01_quest_31_0","バーへ向かおう","explain_01_quest_31_0",""
 "explain_02_quest_31_0","だみー","explain_02_quest_31_0",""
-"explain_03_quest_31_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_31_0",""
+"explain_03_quest_31_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_31_0",""
 "explain_01_quest_32_0","美少女たちで先へ進もう","explain_01_quest_32_0",""
 "explain_02_quest_32_0","だみー","explain_02_quest_32_0",""
-"explain_03_quest_32_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_32_0",""
+"explain_03_quest_32_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_32_0",""
 "explain_01_quest_33_0","オタカラスポットを
 巡ろう","explain_01_quest_33_0",""
 "explain_02_quest_33_0","だみー","explain_02_quest_33_0",""
-"explain_03_quest_33_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_33_0",""
+"explain_03_quest_33_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_33_0",""
 "explain_01_quest_34_0","　カット予定","explain_01_quest_34_0",""
 "explain_02_quest_34_0","だみー","explain_02_quest_34_0",""
-"explain_03_quest_34_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_34_0",""
+"explain_03_quest_34_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_34_0",""
 "explain_01_quest_35_0","イースターエッグ探しを
 しよう","explain_01_quest_35_0",""
 "explain_02_quest_35_0","だみー","explain_02_quest_35_0",""
-"explain_03_quest_35_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_35_0",""
+"explain_03_quest_35_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_35_0",""
 "explain_01_quest_36_0","通信機のパーツを
 集めてこよう","explain_01_quest_36_0",""
 "explain_02_quest_36_0","だみー","explain_02_quest_36_0",""
-"explain_03_quest_36_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_36_0",""
+"explain_03_quest_36_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_36_0",""
 "explain_01_quest_37_0","腕試しのために
 Ｆ．Ｏ．Ｅを討伐しよう","explain_01_quest_37_0",""
 "explain_02_quest_37_0","だみー","explain_02_quest_37_0",""
-"explain_03_quest_37_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_37_0",""
+"explain_03_quest_37_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_37_0",""
 "explain_01_quest_38_0","Ｆ．Ｏ．Ｅを討伐しよう","explain_01_quest_38_0",""
 "explain_02_quest_38_0","だみー","explain_02_quest_38_0",""
-"explain_03_quest_38_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_38_0",""
+"explain_03_quest_38_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_38_0",""
 "explain_01_quest_39_0","ひかりの探し物を
 みつけだそう","explain_01_quest_39_0",""
 "explain_02_quest_39_0","だみー","explain_02_quest_39_0",""
-"explain_03_quest_39_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_39_0",""
+"explain_03_quest_39_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_39_0",""
 "explain_01_quest_40_0","シナモンを手に入れよう","explain_01_quest_40_0",""
 "explain_02_quest_40_0","だみー","explain_02_quest_40_0",""
-"explain_03_quest_40_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_40_0",""
+"explain_03_quest_40_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_40_0",""
 "explain_01_quest_41_0","マリーの願いをかなえよう","explain_01_quest_41_0",""
 "explain_02_quest_41_0","だみー","explain_02_quest_41_0",""
-"explain_03_quest_41_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_41_0",""
+"explain_03_quest_41_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_41_0",""
 "explain_01_quest_42_0","蝶を追え！","explain_01_quest_42_0",""
 "explain_02_quest_42_0","だみー","explain_02_quest_42_0",""
-"explain_03_quest_42_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_42_0",""
+"explain_03_quest_42_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_42_0",""
 "explain_01_quest_43_0","迷宮の奥へ進め","explain_01_quest_43_0",""
 "explain_02_quest_43_0","だみー","explain_02_quest_43_0",""
-"explain_03_quest_43_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_43_0",""
+"explain_03_quest_43_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_43_0",""
 "explain_01_quest_44_0","カット予定","explain_01_quest_44_0",""
 "explain_02_quest_44_0","だみー","explain_02_quest_44_0",""
-"explain_03_quest_44_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_44_0",""
+"explain_03_quest_44_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_44_0",""
 "explain_01_quest_45_0","Ｆ．Ｏ．Ｅを討伐しよう","explain_01_quest_45_0",""
 "explain_02_quest_45_0","だみー","explain_02_quest_45_0",""
-"explain_03_quest_45_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_45_0",""
+"explain_03_quest_45_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_45_0",""
 "explain_01_quest_46_0","迷宮にあるものを
 持ち帰ろう","explain_01_quest_46_0",""
 "explain_02_quest_46_0","だみー","explain_02_quest_46_0",""
-"explain_03_quest_46_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_46_0",""
+"explain_03_quest_46_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_46_0",""
 "explain_01_quest_47_0","新たに現れた脅威を
 排除しよう","explain_01_quest_47_0",""
 "explain_02_quest_47_0","だみー","explain_02_quest_47_0",""
-"explain_03_quest_47_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_47_0",""
+"explain_03_quest_47_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_47_0",""
 "explain_01_quest_48_0","新たに現れた脅威を
 排除しよう","explain_01_quest_48_0",""
 "explain_02_quest_48_0","だみー","explain_02_quest_48_0",""
-"explain_03_quest_48_0","この特別上映は[F2 01 09 01]達成済み[F2 01 06 01]となります。","explain_03_quest_48_0",""
+"explain_03_quest_48_0","[颜色 06]この特別上映は[颜色 09]達成済み[颜色 06]となります。","explain_03_quest_48_0",""
 "explain_01_quest_49_0","新たに現れた脅威を
 排除しよう","explain_01_quest_49_0",""
 "explain_02_quest_49_0","だみー","explain_02_quest_49_0",""
-"explain_03_quest_49_0","この特別上映は[F2 01 03 01]達成済み[F2 01 01 01]となります。","explain_03_quest_49_0",""
+"explain_03_quest_49_0","この特別上映は[颜色 03]達成済み[颜色 01]となります。","explain_03_quest_49_0",""
 "explain_01_quest_50_0","新たに現れた脅威を
 排除しよう","explain_01_quest_50_0",""
 "explain_02_quest_50_0","だみー","explain_02_quest_50_0",""
-"explain_03_quest_50_0","この特別上映は[F2 01 03 01]達成済み[F2 01 01 01]となります。","explain_03_quest_50_0",""
+"explain_03_quest_50_0","この特別上映は[颜色 03]達成済み[颜色 01]となります。","explain_03_quest_50_0",""

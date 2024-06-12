@@ -1,5 +1,5 @@
 "source","target","id","developer_comments"
-"unite_sel_0","是的。","unite_sel_0","机翻辅助：
+"unite_sel_0","是的","unite_sel_0","机翻辅助：
 
 好的。
 
@@ -14,5 +14,5 @@
 
 没有"
 "unite_check_0","这把武器可以吗？","unite_check_0",""
-"msg_unite_ok_0","＞[F2 01 02 01][F2 44 01 01][F2 01 01 01]を
+"msg_unite_ok_0","＞[颜色 02][占位A 01][颜色 01]を
 手に入れた。","msg_unite_ok_0",""

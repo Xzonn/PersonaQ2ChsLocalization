@@ -1,14 +1,14 @@
 "source","target","id","developer_comments"
 "ITEM_POINT_SEL_0","警惕地搜索","ITEM_POINT_SEL_0",""
-"ITEM_POINT_SEL_1","专注于采取行动。","ITEM_POINT_SEL_1",""
+"ITEM_POINT_SEL_1","专注于采取行动","ITEM_POINT_SEL_1",""
 "ITEM_POINT_SEL_2","停止","ITEM_POINT_SEL_2",""
 "ITEM_POINT_FORCE_BTL_SEL_0","寻找","ITEM_POINT_FORCE_BTL_SEL_0",""
 "ITEM_POINT_FORCE_BTL_SEL_1","停止","ITEM_POINT_FORCE_BTL_SEL_1",""
-"SHORTCUT_SEL_0","通る -","SHORTCUT_SEL_0",""
+"SHORTCUT_SEL_0","通る","SHORTCUT_SEL_0",""
 "SHORTCUT_SEL_1","通不过","SHORTCUT_SEL_1",""
 "ENTRANCE_SEL_0","返回","ENTRANCE_SEL_0",""
 "ENTRANCE_SEL_1","不会回来","ENTRANCE_SEL_1",""
-"MSG_000_0","这附近是宝藏点吗...要怎么办呢？
+"MSG_000_0","这附近是宝藏点吗……要怎么办呢？
 ","MSG_000_0",""
 "MSG_001_0","知道了。
 我们试着不放松警惕去做吧。","MSG_001_0",""
@@ -22,18 +22,22 @@
 我还能再战。","MSG_008_0",""
 "MSG_009_0","很少见。","MSG_009_0",""
 "MSG_010_0","好像很珍贵。","MSG_010_0",""
-"MSG_011_0","干得好。","MSG_011_0",""
+"MSG_011_0","干得好。","MSG_011_0","机翻辅助：
+
+成功了。
+
+太好了。"
 "MSG_012_0","剪个短发吗？
 要试试看吗？","MSG_012_0",""
 "MSG_015_0","这边是通不过的。","MSG_015_0",""
 "MSG_018_0","哦，
-感觉有强敌的气息...要去吗？","MSG_018_0",""
+感觉有强敌的气息……要去吗？","MSG_018_0",""
 "MSG_019_0","好！交给我吧！","MSG_019_0",""
 "MSG_020_0","是吗。
 准备很重要啊。","MSG_020_0",""
 "MSG_021_0","呵呵，这是一场有意思的战斗。
 不仅取得了胜利，还能够采集资源，一举两得。","MSG_021_0",""
-"MSG_022_0","有阴影的气息...要动手了吗！
+"MSG_022_0","有阴影的气息……要动手了吗！
 ","MSG_022_0",""
 "MSG_023_0","啊，交给我吧！","MSG_023_0",""
 "MSG_024_0","这样啊。","MSG_024_0",""
@@ -41,4 +45,6 @@
 "MSG_026_0","从这里回去吧。
 要去电影院吗？","MSG_026_0",""
 "MSG_027_0","把握！！","MSG_027_0",""
-"speaker_真田 明彦","真田明彦","speaker_真田 明彦",""
+"speaker_真田 明彦","真田明彦","speaker_真田 明彦","机翻辅助：
+
+真田明彦"

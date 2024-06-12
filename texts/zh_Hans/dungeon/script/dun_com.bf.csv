@@ -1,5 +1,5 @@
 "source","target","id","developer_comments"
-"YESNO_SEL_0","是的。","YESNO_SEL_0","机翻辅助：
+"YESNO_SEL_0","是的","YESNO_SEL_0","机翻辅助：
 
 好的。
 
@@ -13,23 +13,23 @@
 否
 
 没有"
-"GET_ITEM_MES_0","＞[F4 45 04 01 00 00 01 01]を手に入れた。","GET_ITEM_MES_0",""
-"GET_MONEY_MES_0","＞[F2 44 01 01]円を手に入れた。","GET_MONEY_MES_0",""
+"GET_ITEM_MES_0","＞[占位B 01]を手に入れた。","GET_ITEM_MES_0",""
+"GET_MONEY_MES_0","＞[占位A 01]円を手に入れた。","GET_MONEY_MES_0",""
 "TBOX_ENEMY_APPEAR_0","啊呀！！","TBOX_ENEMY_APPEAR_0",""
 "NOT_OPEN_SHORTCUT_0","从这边似乎无法通过……","NOT_OPEN_SHORTCUT_0",""
 "OPENED_BOX_0","已经什么都没有了呢……","OPENED_BOX_0",""
 "EXIT_DUNGEON_SEL_0","从这部电影中逃出来吧……","EXIT_DUNGEON_SEL_0",""
-"SHORTCUT_ASK_0","有捷径...","SHORTCUT_ASK_0",""
-"SEL_SHORTCUT_ASK_0","通る -","SEL_SHORTCUT_ASK_0",""
+"SHORTCUT_ASK_0","有捷径…","SHORTCUT_ASK_0",""
+"SEL_SHORTCUT_ASK_0","通る","SEL_SHORTCUT_ASK_0",""
 "SEL_SHORTCUT_ASK_1","通不过","SEL_SHORTCUT_ASK_1",""
 "ONEWAY_ASK_0","＞抜け道がある。
-　[F2 01 03 01]向こう側からは帰って来られなそうだ…","ONEWAY_ASK_0",""
-"SEL_ONEWAY_ASK_0","通る -","SEL_ONEWAY_ASK_0",""
+　[颜色 03]向こう側からは帰って来られなそうだ…","ONEWAY_ASK_0",""
+"SEL_ONEWAY_ASK_0","通る","SEL_ONEWAY_ASK_0",""
 "SEL_ONEWAY_ASK_1","通不过","SEL_ONEWAY_ASK_1",""
 "BAG_FULL_0","看起来东西很多呢……","BAG_FULL_0",""
-"GATHER_SUSPENSE_0","查看了采取的要点...","GATHER_SUSPENSE_0",""
+"GATHER_SUSPENSE_0","查看了采取的要点…","GATHER_SUSPENSE_0",""
 "GATHER_SUSPENSE_1","请问有什么问","GATHER_SUSPENSE_1",""
-"JIJIKU_SEL_0","保存。","JIJIKU_SEL_0",""
+"JIJIKU_SEL_0","保存","JIJIKU_SEL_0",""
 "JIJIKU_SEL_1","迷宫中逃脱","JIJIKU_SEL_1",""
 "JIJIKU_SEL_2","停止","JIJIKU_SEL_2",""
 "JIJIKU_ASK_0","你要怎么做？","JIJIKU_ASK_0",""
@@ -46,11 +46,11 @@
 "MAPPING_FAILED_MSG_1","还有一些从未去过的地方似乎在吸引着我……
 ","MAPPING_FAILED_MSG_1",""
 "POWER_SPOT_SEL_0","警惕地搜索","POWER_SPOT_SEL_0",""
-"POWER_SPOT_SEL_1","专注于采取行动。","POWER_SPOT_SEL_1",""
+"POWER_SPOT_SEL_1","专注于采取行动","POWER_SPOT_SEL_1",""
 "POWER_SPOT_SEL_2","停止","POWER_SPOT_SEL_2",""
 "USE_AUTO_RECOVER_ASK_0","您要使用自动恢复吗？","USE_AUTO_RECOVER_ASK_0",""
-"AUTO_RECOVER_SEL_0","使用。","AUTO_RECOVER_SEL_0",""
-"AUTO_RECOVER_SEL_1","不使用。","AUTO_RECOVER_SEL_1",""
+"AUTO_RECOVER_SEL_0","使用","AUTO_RECOVER_SEL_0",""
+"AUTO_RECOVER_SEL_1","不使用","AUTO_RECOVER_SEL_1",""
 "AUTO_RECOVER_NOT_USE_MSG_0","没有回复","AUTO_RECOVER_NOT_USE_MSG_0",""
 "AUTO_RECOVER_NOT_USE_MSG_2_0","现在没有角色体力减少。
 ","AUTO_RECOVER_NOT_USE_MSG_2_0",""
@@ -61,21 +61,21 @@
 "MSG_TUTORIAL_OTAKARA_GET_0","“果然，如果在这里调查的话就能找到宝物。”，“但是，也感受到了敌人的气息……”
 这样的事件
 ","MSG_TUTORIAL_OTAKARA_GET_0",""
-"MSG_TUTORIAL_POWERSPOT_1_0","「オタカラスポット」では[F2 01 03 01]様々なアイテム[F2 01 01 01]を
+"MSG_TUTORIAL_POWERSPOT_1_0","「オタカラスポット」では[颜色 03]様々なアイテム[颜色 01]を
 入手することができます。","MSG_TUTORIAL_POWERSPOT_1_0",""
 "MSG_TUTORIAL_POWERSPOT_2_0","最初の選択肢で
-[F2 01 03 01]「採取に専念する」[F2 01 01 01]を選ぶと、","MSG_TUTORIAL_POWERSPOT_2_0",""
-"MSG_TUTORIAL_POWERSPOT_2_1","最大５個[F2 01 01 01]までアイテムを入手することが可能で
+[颜色 03]「採取に専念する」[颜色 01]を選ぶと、","MSG_TUTORIAL_POWERSPOT_2_0",""
+"MSG_TUTORIAL_POWERSPOT_2_1","[颜色 03]最大５個[颜色 01]までアイテムを入手することが可能で
 レアアイテムが出現する確率も高くなりますが","MSG_TUTORIAL_POWERSPOT_2_1",""
 "MSG_TUTORIAL_POWERSPOT_2_2","战斗发生的危险性也会增加。","MSG_TUTORIAL_POWERSPOT_2_2",""
 "MSG_TUTORIAL_POWERSPOT_3_0","最初の選択肢で
-[F2 01 03 01]「警戒しながら探す」[F2 01 01 01]を選ぶと、","MSG_TUTORIAL_POWERSPOT_3_0",""
-"MSG_TUTORIAL_POWERSPOT_3_1","最大３個[F2 01 01 01]までしかアイテムを入手できませんが
+[颜色 03]「警戒しながら探す」[颜色 01]を選ぶと、","MSG_TUTORIAL_POWERSPOT_3_0",""
+"MSG_TUTORIAL_POWERSPOT_3_1","[颜色 03]最大３個[颜色 01]までしかアイテムを入手できませんが
 戦闘が発生する危険度は低くなります。","MSG_TUTORIAL_POWERSPOT_3_1",""
 "MSG_TUTORIAL_POWERSPOT_4_0","それぞれ入手回数は限られていますが
-[F2 01 03 01]一度迷宮から出る[F2 01 01 01]と
+[颜色 03]一度迷宮から出る[颜色 01]と
 一部の「オタカラスポット」で
-[F2 01 03 01]再度、アイテムが入手可能[F2 01 01 01]となります。
+[颜色 03]再度、アイテムが入手可能[颜色 01]となります。
 　
 「オタカラスポット」を有効に活用し
 どんどんアイテムを入手していきましょう。","MSG_TUTORIAL_POWERSPOT_4_0",""
@@ -88,24 +88,24 @@
 我决定再回去一趟”，
 这是一个事件。","MSG_TUTORIAL_OTAKARA_BAG_0",""
 "MSG_TUTORIAL_QUEST_MAP_0_0","クエストとして迷宮に入ると
-[F2 01 03 01]そのクエストでのみ進行不可になる通路[F2 01 01 01]など","MSG_TUTORIAL_QUEST_MAP_0_0",""
-"MSG_TUTORIAL_QUEST_MAP_0_1","MAPに変化が起こる[F2 01 01 01]場合があります。
+[颜色 03]そのクエストでのみ進行不可になる通路[颜色 01]など","MSG_TUTORIAL_QUEST_MAP_0_0",""
+"MSG_TUTORIAL_QUEST_MAP_0_1","[颜色 03]MAPに変化が起こる[颜色 01]場合があります。
 新たに進行不可となったルートは","MSG_TUTORIAL_QUEST_MAP_0_1",""
-"MSG_TUTORIAL_QUEST_MAP_1_0","下画面にて[F2 01 03 01]赤い塗り潰し[F2 01 01 01]と
-[F2 01 03 01]専用アイコン[F2 01 01 01]として表示されます。","MSG_TUTORIAL_QUEST_MAP_1_0",""
+"MSG_TUTORIAL_QUEST_MAP_1_0","下画面にて[颜色 03]赤い塗り潰し[颜色 01]と
+[颜色 03]専用アイコン[颜色 01]として表示されます。","MSG_TUTORIAL_QUEST_MAP_1_0",""
 "MSG_TUTORIAL_QUEST_MAP_1_1","在探索迷宫的任务中，请仔细查看下屏幕，并注意前进。
 ","MSG_TUTORIAL_QUEST_MAP_1_1",""
 "MSG_TUTORIAL_QUEST_MAP_2_0","またクエスト中は下画面に
-[F2 01 03 01]“Quest”パレット[F2 01 01 01]が表示されます。","MSG_TUTORIAL_QUEST_MAP_2_0",""
+[颜色 03]“Quest”パレット[颜色 01]が表示されます。","MSG_TUTORIAL_QUEST_MAP_2_0",""
 "MSG_TUTORIAL_QUEST_MAP_2_1","このパレットに格納されたアイコンは
-[F2 01 03 01]クエスト中のみ配置が可能[F2 01 01 01]となっており","MSG_TUTORIAL_QUEST_MAP_2_1",""
-"MSG_TUTORIAL_QUEST_MAP_2_2","クスエト中のみ発生するイベントなど[F2 01 01 01]に       
+[颜色 03]クエスト中のみ配置が可能[颜色 01]となっており","MSG_TUTORIAL_QUEST_MAP_2_1",""
+"MSG_TUTORIAL_QUEST_MAP_2_2","[颜色 03]クスエト中のみ発生するイベントなど[颜色 01]に       
 目印をつけておくのに有効です。       ","MSG_TUTORIAL_QUEST_MAP_2_2",""
 "MSG_TUTORIAL_QUEST_MAP_2_3","使用“Quest”
 调色板，努力完成任务目标。","MSG_TUTORIAL_QUEST_MAP_2_3",""
-"MSG_TUTORIAL_QUEST_TREAS_0","迷宮内には[F2 01 03 01]特定クエストの間のみ
-出現する宝箱[F2 01 01 01]があります。","MSG_TUTORIAL_QUEST_TREAS_0",""
-"MSG_TUTORIAL_QUEST_TREAS_1","中には[F2 01 03 01]探索に役立つアイテム[F2 01 01 01]が
+"MSG_TUTORIAL_QUEST_TREAS_0","迷宮内には[颜色 03]特定クエストの間のみ
+出現する宝箱[颜色 01]があります。","MSG_TUTORIAL_QUEST_TREAS_0",""
+"MSG_TUTORIAL_QUEST_TREAS_1","中には[颜色 03]探索に役立つアイテム[颜色 01]が
 入っているので、見逃さずに手に入れましょう。","MSG_TUTORIAL_QUEST_TREAS_1",""
 "MSG_FUTABA_IP_BTL_MSG_1_0","“收割的对象”
 啊……有危险的东西过来了……！！","MSG_FUTABA_IP_BTL_MSG_1_0",""
@@ -115,7 +115,7 @@
 请小心！","MSG_FUKA_IP_BTL_MSG_1_0",""
 "MSG_FUKA_IP_BTL_MSG_2_0","“收割者”
 正在接近！请注意！","MSG_FUKA_IP_BTL_MSG_2_0",""
-"MSG_FUKA_IP_BTL_MSG_3_0","这个反应是...“收割之物”！
+"MSG_FUKA_IP_BTL_MSG_3_0","这个反应是……“收割之物”！
 小心！","MSG_FUKA_IP_BTL_MSG_3_0",""
 "MSG_RISE_IP_BTL_MSG_1_0","危险！有“收割者”的气息！小心！
 ","MSG_RISE_IP_BTL_MSG_1_0",""
@@ -132,13 +132,13 @@
 "MSG_CAROLIN_IP_BTL_MSG_1_0","“收割的对象”就在附近！","MSG_CAROLIN_IP_BTL_MSG_1_0",""
 "MSG_CAROLIN_IP_BTL_MSG_2_0","小心！
 这是“收割者”！","MSG_CAROLIN_IP_BTL_MSG_2_0",""
-"MSG_CAROLIN_IP_BTL_MSG_3_0","这个声音...是在收割东西！
+"MSG_CAROLIN_IP_BTL_MSG_3_0","这个声音……是在收割东西！
 ","MSG_CAROLIN_IP_BTL_MSG_3_0",""
 "MSG_ELIZABETH_IP_BTL_MSG_0","“收割之物”，
 登场了。","MSG_ELIZABETH_IP_BTL_MSG_0",""
 "MSG_ELIZABETH_IP_BTL_MSG_2_0","被召唤出来，
 我是“收割者”。","MSG_ELIZABETH_IP_BTL_MSG_2_0",""
-"MSG_ELIZABETH_IP_BTL_MSG_3_0","这个声音...我看到了“收割者”。
+"MSG_ELIZABETH_IP_BTL_MSG_3_0","这个声音……我看到了“收割者”。
 ","MSG_ELIZABETH_IP_BTL_MSG_3_0",""
 "MSG_THEODOR_IP_BTL_MSG_1_0","请小心，
 这是“收割者”！","MSG_THEODOR_IP_BTL_MSG_1_0",""
@@ -170,11 +170,13 @@
 "MSG_foe_exist_move_short_4_1","自从Ｆ．Ｏ．Ｅ不在了，
 我们走吧！","MSG_foe_exist_move_short_4_1",""
 "MSG_GET_TRESURE_MAP_0","＞地図にこの映画内に隠された
-[F2 01 03 01]『宝の在り処』[F2 01 01 01]が示された。","MSG_GET_TRESURE_MAP_0",""
+[颜色 03]『宝の在り処』[颜色 01]が示された。","MSG_GET_TRESURE_MAP_0",""
 "speaker_佐倉 双葉","佐仓双叶","speaker_佐倉 双葉","机翻辅助：
 
 佐仓双叶"
 "speaker_久慈川 りせ","久慈川理世","speaker_久慈川 りせ","机翻辅助：
 
 久慈川理世"
-"speaker_山岸 風花","山岸风花","speaker_山岸 風花",""
+"speaker_山岸 風花","山岸风花","speaker_山岸 風花","机翻辅助：
+
+山岸风花"

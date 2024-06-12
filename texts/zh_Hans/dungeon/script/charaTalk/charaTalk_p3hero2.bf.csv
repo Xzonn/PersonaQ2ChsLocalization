@@ -1,10 +1,10 @@
 "source","target","id","developer_comments"
 "ITEM_POINT_SEL_0","警惕地搜索","ITEM_POINT_SEL_0",""
-"ITEM_POINT_SEL_1","专注于采取行动。","ITEM_POINT_SEL_1",""
+"ITEM_POINT_SEL_1","专注于采取行动","ITEM_POINT_SEL_1",""
 "ITEM_POINT_SEL_2","停止","ITEM_POINT_SEL_2",""
 "ITEM_POINT_FORCE_BTL_SEL_0","寻找","ITEM_POINT_FORCE_BTL_SEL_0",""
 "ITEM_POINT_FORCE_BTL_SEL_1","停止","ITEM_POINT_FORCE_BTL_SEL_1",""
-"SHORTCUT_SEL_0","通る -","SHORTCUT_SEL_0",""
+"SHORTCUT_SEL_0","通る","SHORTCUT_SEL_0",""
 "SHORTCUT_SEL_1","通不过","SHORTCUT_SEL_1",""
 "ENTRANCE_SEL_0","返回","ENTRANCE_SEL_0",""
 "ENTRANCE_SEL_1","不会回来","ENTRANCE_SEL_1",""
@@ -24,7 +24,7 @@
 喂！
 
 噢！"
-"MSG_008_0","好险啊...总算是全部都采到了呢！
+"MSG_008_0","好险啊……总算是全部都采到了呢！
 ","MSG_008_0",""
 "MSG_009_0","抓住了！","MSG_009_0",""
 "MSG_010_0","厉害了！","MSG_010_0",""
@@ -40,7 +40,7 @@
 "MSG_020_0","是的，
 不知道会有什么突发状况呢。","MSG_020_0",""
 "MSG_021_0","哇，吓我一跳～
-...大家都平安吗？","MSG_021_0",""
+……大家都平安吗？","MSG_021_0",""
 "MSG_022_0","这里，有很多阴影的气息呢。
 怎么办？","MSG_022_0",""
 "MSG_023_0","了解！

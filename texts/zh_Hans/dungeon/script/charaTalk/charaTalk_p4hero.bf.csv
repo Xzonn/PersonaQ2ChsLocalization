@@ -1,10 +1,10 @@
 "source","target","id","developer_comments"
 "ITEM_POINT_SEL_0","警惕地搜索","ITEM_POINT_SEL_0",""
-"ITEM_POINT_SEL_1","专注于采取行动。","ITEM_POINT_SEL_1",""
+"ITEM_POINT_SEL_1","专注于采取行动","ITEM_POINT_SEL_1",""
 "ITEM_POINT_SEL_2","停止","ITEM_POINT_SEL_2",""
 "ITEM_POINT_FORCE_BTL_SEL_0","寻找","ITEM_POINT_FORCE_BTL_SEL_0",""
 "ITEM_POINT_FORCE_BTL_SEL_1","停止","ITEM_POINT_FORCE_BTL_SEL_1",""
-"SHORTCUT_SEL_0","通る -","SHORTCUT_SEL_0",""
+"SHORTCUT_SEL_0","通る","SHORTCUT_SEL_0",""
 "SHORTCUT_SEL_1","通不过","SHORTCUT_SEL_1",""
 "ENTRANCE_SEL_0","返回","ENTRANCE_SEL_0",""
 "ENTRANCE_SEL_1","不会回来","ENTRANCE_SEL_1",""
@@ -27,7 +27,7 @@
 "MSG_012_0","这是一个快捷方式。
 要打开吗？","MSG_012_0",""
 "MSG_015_0","这边好像无法通过……","MSG_015_0",""
-"MSG_018_0","感觉到非常危险的气息...","MSG_018_0",""
+"MSG_018_0","感觉到非常危险的气息…","MSG_018_0",""
 "MSG_019_0","明白了。
 我们不能放松警惕，继续前进吧。","MSG_019_0",""
 "MSG_020_0","那样啊。

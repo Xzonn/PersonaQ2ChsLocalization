@@ -1,10 +1,10 @@
 "source","target","id","developer_comments"
 "ITEM_POINT_SEL_0","警惕地搜索","ITEM_POINT_SEL_0",""
-"ITEM_POINT_SEL_1","专注于采取行动。","ITEM_POINT_SEL_1",""
+"ITEM_POINT_SEL_1","专注于采取行动","ITEM_POINT_SEL_1",""
 "ITEM_POINT_SEL_2","停止","ITEM_POINT_SEL_2",""
 "ITEM_POINT_FORCE_BTL_SEL_0","寻找","ITEM_POINT_FORCE_BTL_SEL_0",""
 "ITEM_POINT_FORCE_BTL_SEL_1","停止","ITEM_POINT_FORCE_BTL_SEL_1",""
-"SHORTCUT_SEL_0","通る -","SHORTCUT_SEL_0",""
+"SHORTCUT_SEL_0","通る","SHORTCUT_SEL_0",""
 "SHORTCUT_SEL_1","通不过","SHORTCUT_SEL_1",""
 "ENTRANCE_SEL_0","返回","ENTRANCE_SEL_0",""
 "ENTRANCE_SEL_1","不会回来","ENTRANCE_SEL_1",""
@@ -14,11 +14,19 @@
 请小心地搜索。","MSG_001_0",""
 "MSG_002_0","明白了。
 不顾一切地寻找。","MSG_002_0",""
-"MSG_003_0","了解。","MSG_003_0",""
+"MSG_003_0","了解。","MSG_003_0","机翻辅助：
+
+了解。
+
+明白了。"
 "MSG_004_0","彻底结束了。","MSG_004_0",""
 "MSG_005_0","获取。","MSG_005_0",""
 "MSG_006_0","这样的事情发生了。","MSG_006_0",""
-"MSG_007_0","明白了。","MSG_007_0",""
+"MSG_007_0","明白了。","MSG_007_0","机翻辅助：
+
+原来如此啊。
+
+原来如此。"
 "MSG_008_0","敌人进行了干扰。
 采集工作到此结束。","MSG_008_0",""
 "MSG_009_0","这是个意外的发现。","MSG_009_0",""
@@ -50,4 +58,8 @@
 大意是危险。","MSG_025_0",""
 "MSG_026_0","你要回电影院吗？","MSG_026_0",""
 "MSG_027_0","把握！！","MSG_027_0",""
-"speaker_アイギス","埃癸斯","speaker_アイギス",""
+"speaker_アイギス","埃癸斯","speaker_アイギス","机翻辅助：
+
+埃癸斯
+
+尘埃癸斯"

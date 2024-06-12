@@ -15,20 +15,20 @@
 没有"
 "IP_EXCESS_ITEM_0","＞選択されたアイテムを捨てます。
 　よろしいですか？","IP_EXCESS_ITEM_0",""
-"IP_EXCESS_PERSONA_0","＞『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』を消滅させます。
+"IP_EXCESS_PERSONA_0","＞『[颜色 02][占位A 01][颜色 01]』を消滅させます。
 　よろしいですか?","IP_EXCESS_PERSONA_0",""
-"IP_EXCESS_PERSONA_BUSY_0","＞『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』を消滅させます。
-　装備中の人格面具ですが、
+"IP_EXCESS_PERSONA_BUSY_0","＞『[颜色 02][占位A 01][颜色 01]』を消滅させます。
+　装備中のペルソナですが、
 　よろしいですか？","IP_EXCESS_PERSONA_BUSY_0",""
-"IP_EXCESS_PERSONA_END_0","＞人格面具『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』が
+"IP_EXCESS_PERSONA_END_0","＞ペルソナ『[颜色 02][占位A 01][颜色 01]』が
 　意識から消え去った。","IP_EXCESS_PERSONA_END_0",""
-"IP_EXCESS_PERSONA_MULTI_0","＞選択された人格面具を消滅させます。
+"IP_EXCESS_PERSONA_MULTI_0","＞選択されたペルソナを消滅させます。
 　よろしいですか？","IP_EXCESS_PERSONA_MULTI_0",""
-"IP_EXCESS_PERSONA_BUSY_M_0","＞選択された人格面具を消滅させます。
-　装備中の人格面具が含まれていますが
+"IP_EXCESS_PERSONA_BUSY_M_0","＞選択されたペルソナを消滅させます。
+　装備中のペルソナが含まれていますが
 　よろしいですか？","IP_EXCESS_PERSONA_BUSY_M_0",""
-"IP_EXCESS_PERSONA_END_MU_0","＞選択された人格面具が
+"IP_EXCESS_PERSONA_END_MU_0","＞選択されたペルソナが
 　意識から消え去った。","IP_EXCESS_PERSONA_END_MU_0",""
-"IP_EXCESS_HELP_0","これ以上人格面具を所持できません。
-消滅させる人格面具を選んでください。","IP_EXCESS_HELP_0",""
+"IP_EXCESS_HELP_0","これ以上ペルソナを所持できません。
+消滅させるペルソナを選んでください。","IP_EXCESS_HELP_0",""
 "IP_EXCESS_CANT_DELETE_DL_0","无法舍弃的DLC物品。","IP_EXCESS_CANT_DELETE_DL_0",""

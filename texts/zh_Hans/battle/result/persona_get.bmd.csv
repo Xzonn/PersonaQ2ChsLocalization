@@ -1,15 +1,15 @@
 "source","target","id","developer_comments"
-"P_GET_MSGID_GET_0","＞人格面具[F2 01 02 01]『[F2 44 01 01]』[F2 01 01 01]を手に入れた！","P_GET_MSGID_GET_0",""
+"P_GET_MSGID_GET_0","＞ペルソナ[颜色 02]『[占位A 01]』[颜色 01]を手に入れた！","P_GET_MSGID_GET_0",""
 "P_GET_MSGID_RUNKUP_0","＞より多くのスキルを所持する
-　人格面具が現れた！","P_GET_MSGID_RUNKUP_0",""
-"P_GET_MSGID_RUNKUP_1","＞人格面具[F2 01 02 01]『[F2 44 01 01]』[F2 01 01 01]を
+　ペルソナが現れた！","P_GET_MSGID_RUNKUP_0",""
+"P_GET_MSGID_RUNKUP_1","＞ペルソナ[颜色 02]『[占位A 01]』[颜色 01]を
 　手に入れた！","P_GET_MSGID_RUNKUP_1",""
 "P_GET_MSGID_HIGH_RUNKUP_0","高级的人格面具出现了！","P_GET_MSGID_HIGH_RUNKUP_0",""
-"P_GET_MSGID_HIGH_RUNKUP_1","＞人格面具[F2 01 02 01]『[F2 44 01 01]』[F2 01 01 01]を
+"P_GET_MSGID_HIGH_RUNKUP_1","＞ペルソナ[颜色 02]『[占位A 01]』[颜色 01]を
 　手に入れた！","P_GET_MSGID_HIGH_RUNKUP_1",""
-"P_GET_MSGID_TUTORIAL_0","戦闘に勝利すると人格面具を
+"P_GET_MSGID_TUTORIAL_0","戦闘に勝利するとペルソナを
 手に入れられることがあります。","P_GET_MSGID_TUTORIAL_0",""
-"P_GET_MSGID_TUTORIAL_1","人格面具を手に入れられる可能性は
+"P_GET_MSGID_TUTORIAL_1","ペルソナを手に入れられる可能性は
 戦闘終了時の“ブースト状態”の
 人数が多いほど、高くなります。
 　

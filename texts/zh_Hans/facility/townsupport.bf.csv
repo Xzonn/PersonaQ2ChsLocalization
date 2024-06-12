@@ -1,7 +1,7 @@
 "source","target","id","developer_comments"
 "town_okaeri_HIKARI_mes01_0","受伤了吗？没事吧？","town_okaeri_HIKARI_mes01_0",""
 "town_okaeri_HIKARI_mes02_0","辛苦了。","town_okaeri_HIKARI_mes02_0",""
-"town_okaeri_HIKARI_mes03_0","大家...欢迎回来。","town_okaeri_HIKARI_mes03_0",""
+"town_okaeri_HIKARI_mes03_0","大家……欢迎回来。","town_okaeri_HIKARI_mes03_0",""
 "town_okaeri_HIKARI_mes04_0","好好准备，我们再出发吧。","town_okaeri_HIKARI_mes04_0",""
 "town_okaeri_HIKARI_mes05_0","欢迎回来！大家！","town_okaeri_HIKARI_mes05_0",""
 "town_okaeri_NAGI_mes01_0","各位，请慢慢地休息吧。","town_okaeri_NAGI_mes01_0",""
@@ -23,13 +23,15 @@
 "town_okaeri_NAOTO_mes_0","在可以休息的时候就休息吧。","town_okaeri_NAOTO_mes_0",""
 "town_okaeri_KUMA_mes_0","熊表现得非常出色啊！","town_okaeri_KUMA_mes_0",""
 "town_okaeri_YOUSUKE_mes_0","休息一下，然后再出发吧！","town_okaeri_YOUSUKE_mes_0",""
-"town_okaeri_YUKARI_mes_0","哎呀...腿都快肿了...","town_okaeri_YUKARI_mes_0",""
+"town_okaeri_YUKARI_mes_0","哎呀……腿都快肿了…","town_okaeri_YUKARI_mes_0",""
 "town_okaeri_JUNPEI_mes_0","我们休息一下！","town_okaeri_JUNPEI_mes_0",""
 "town_okaeri_SANADA_mes_0","好的！是要先冷却肌肉吗？","town_okaeri_SANADA_mes_0",""
 "town_okaeri_MITURU_mes_0","补给也是一种出色的战术。","town_okaeri_MITURU_mes_0",""
 "town_okaeri_FUKA_mes_0","各位，辛苦了！","town_okaeri_FUKA_mes_0",""
 "town_okaeri_AMADA_mes_0","我觉得我还可以再走一点点，但是……","town_okaeri_AMADA_mes_0",""
-"town_okaeri_KOROMARU_mes_0","汪汪！","town_okaeri_KOROMARU_mes_0",""
+"town_okaeri_KOROMARU_mes_0","汪汪！","town_okaeri_KOROMARU_mes_0","机翻辅助：
+
+汪汪！"
 "town_okaeri_ARAGAKI_mes_0","稍微休息一下，就出发了……","town_okaeri_ARAGAKI_mes_0",""
 "town_okaeri_P3HERO_mes_0","休息也很重要的哦。","town_okaeri_P3HERO_mes_0",""
 "town_okaeri_AEGIS_mes_0","希望进行维护！","town_okaeri_AEGIS_mes_0",""
@@ -65,7 +67,7 @@
 "town_new_quest_ANN_mes_0","你不看看售票处吗？","town_new_quest_ANN_mes_0",""
 "town_new_quest_MONA_mes_0","售票处，
 记得经常确认一下。","town_new_quest_MONA_mes_0",""
-"town_new_quest_YUSUKE_me_0","从售票处感受到了视线的注视...
+"town_new_quest_YUSUKE_me_0","从售票处感受到了视线的注视……
 ","town_new_quest_YUSUKE_me_0",""
 "town_new_quest_FUTABA_me_0","偶尔也要去检查一下售票处。
 ","town_new_quest_FUTABA_me_0",""
@@ -101,7 +103,7 @@
 "town_persona_max_ANN_mes_0","人格面具的持有数量好多啊！","town_persona_max_ANN_mes_0",""
 "town_persona_max_MONA_me_0","人格数量满了吧！
 ","town_persona_max_MONA_me_0",""
-"town_persona_max_YUSUKE__0","我已经不能再拥有更多的人格面具了吗...
+"town_persona_max_YUSUKE__0","我已经不能再拥有更多的人格面具了吗……
 ","town_persona_max_YUSUKE__0",""
 "town_persona_max_FUTABA__0","不能再拥有更多的人格面具了！","town_persona_max_FUTABA__0",""
 "town_persona_max_AKECHI__0","看起来你的人格面具数量已经满了呢。
@@ -128,7 +130,7 @@
 ","town_persona_max_SANADA__0",""
 "town_persona_max_MITURU__0","人格数量已经满了。","town_persona_max_MITURU__0",""
 "town_persona_max_FUKA_me_0","看起来，
-人格面具的持有数量已经满了...","town_persona_max_FUKA_me_0",""
+人格面具的持有数量已经满了…","town_persona_max_FUKA_me_0",""
 "town_persona_max_AMADA_m_0","拥有的人格数量已经满了呢……","town_persona_max_AMADA_m_0",""
 "town_persona_max_ARAGAKI_0","喂，人格面具的持有数量已经满了。","town_persona_max_ARAGAKI_0",""
 "town_persona_max_P3HERO__0","人物角色的数量已经满了呢。","town_persona_max_P3HERO__0",""
@@ -165,10 +167,10 @@
 "town_item_max_FUKA_mes_0","那个，要不要减少随身行李呢？","town_item_max_FUKA_mes_0",""
 "town_item_max_AMADA_mes_0","请问，行李太多了吗？","town_item_max_AMADA_mes_0",""
 "town_item_max_ARAGAKI_me_0","减少行李会更好吧？","town_item_max_ARAGAKI_me_0",""
-"town_item_max_P3HERO_mes_0","嗯...看起来行李很多。","town_item_max_P3HERO_mes_0",""
+"town_item_max_P3HERO_mes_0","嗯……看起来行李很多。","town_item_max_P3HERO_mes_0",""
 "town_item_max_AEGIS_mes_0","行李太多了！","town_item_max_AEGIS_mes_0",""
 "town_bg00_HIKARI_mes01_0","娜姬……","town_bg00_HIKARI_mes01_0",""
-"town_bg00_HIKARI_mes02_0","嗯...","town_bg00_HIKARI_mes02_0","机翻辅助：
+"town_bg00_HIKARI_mes02_0","嗯…","town_bg00_HIKARI_mes02_0","机翻辅助：
 
 嗯……"
 "town_bg00_NAGI_mes01_0","让我们在我们的能力范围内合作吧。","town_bg00_NAGI_mes01_0",""
@@ -180,7 +182,7 @@
 "town_bg00_YUSUKE_mes01_0","首先要填饱肚子。","town_bg00_YUSUKE_mes01_0",""
 "town_bg00_YUSUKE_mes02_0","观众似乎没有其他人。","town_bg00_YUSUKE_mes02_0",""
 "town_bg00_YUSUKE_mes03_0","不需要支付门票费吗？
-我没有带够钱...","town_bg00_YUSUKE_mes03_0",""
+我没有带够钱…","town_bg00_YUSUKE_mes03_0",""
 "town_bg00_FUTABA_mes01_0","哎呀，肚子里的虫子真吵。","town_bg00_FUTABA_mes01_0",""
 "town_bg00_FUTABA_mes02_0","真和春都让人担心啊……","town_bg00_FUTABA_mes02_0",""
 "town_bg00_FUTABA_mes03_0","电影院，感觉像是包场一样！","town_bg00_FUTABA_mes03_0",""
@@ -188,11 +190,11 @@
 "town_bg00_AKECHI_mes02_0","快点去帮助那两个人。","town_bg00_AKECHI_mes02_0",""
 "town_bg00_AKECHI_mes03_0","有趣的，神秘的世界呢。","town_bg00_AKECHI_mes03_0",""
 "town_bg01_HIKARI_mes01_0","……","town_bg01_HIKARI_mes01_0",""
-"town_bg01_HIKARI_mes02_0","那个，嗯...大家...","town_bg01_HIKARI_mes02_0",""
+"town_bg01_HIKARI_mes02_0","那个，嗯……大家…","town_bg01_HIKARI_mes02_0",""
 "town_bg01_HIKARI_mes03_0","电影节……","town_bg01_HIKARI_mes03_0",""
 "town_bg01_RYUJI_mes01_0","哎呀，一开始吃起来就停不下来。","town_bg01_RYUJI_mes01_0",""
 "town_bg01_RYUJI_mes02_0","你们，稍微冷静一点。","town_bg01_RYUJI_mes02_0",""
-"town_bg01_RYUJI_mes03_0","と[F5 C1 1B 01 01 01 01 01 01 01]って
+"town_bg01_RYUJI_mes03_0","[P5名]と[P3P姓]って
 なんか気が合いそうだよな。","town_bg01_RYUJI_mes03_0",""
 "town_bg01_MONA_mes01_0","哇！会洒出来了！","town_bg01_MONA_mes01_0",""
 "town_bg01_MONA_mes02_0","这个果汁真好喝！","town_bg01_MONA_mes02_0",""
@@ -203,13 +205,13 @@
 "town_bg01_P3HERO2_mes02_0","在屏幕截图中，
 我们将在暑假举办电影节！","town_bg01_P3HERO2_mes02_0",""
 "town_bg01_P3HERO2_mes03_0","哇，居然住在咖啡店的二楼！","town_bg01_P3HERO2_mes03_0",""
-"town_bg02_HIKARI_mes01_0","啊，那个... 呃...","town_bg02_HIKARI_mes01_0",""
-"town_bg02_HIKARI_mes02_0","哇，我是...那个...","town_bg02_HIKARI_mes02_0",""
+"town_bg02_HIKARI_mes01_0","啊，那个…… 呃…","town_bg02_HIKARI_mes01_0",""
+"town_bg02_HIKARI_mes02_0","哇，我是……那个…","town_bg02_HIKARI_mes02_0",""
 "town_bg02_HIKARI_mes03_0","哇？是，是的！","town_bg02_HIKARI_mes03_0",""
-"town_bg02_NAGI_mes01_0","哎呀哎呀... 呵呵。","town_bg02_NAGI_mes01_0",""
+"town_bg02_NAGI_mes01_0","哎呀哎呀…… 呵呵。","town_bg02_NAGI_mes01_0",""
 "town_bg02_NAGI_mes02_0","光先生……呵呵。","town_bg02_NAGI_mes02_0",""
 "town_bg02_MAKOTO_mes01_0","光，你看到“巴乌特零时”了吗？","town_bg02_MAKOTO_mes01_0",""
-"town_bg02_MAKOTO_mes02_0","恐龙的乐园...真的存在吗...","town_bg02_MAKOTO_mes02_0",""
+"town_bg02_MAKOTO_mes02_0","恐龙的乐园……真的存在吗…","town_bg02_MAKOTO_mes02_0",""
 "town_bg02_MAKOTO_mes03_0","大家，都好好吃饭了吗？
 过度节食可不好哦。","town_bg02_MAKOTO_mes03_0",""
 "town_bg02_HARU_mes01_0","ZAW的发布真让人期待。","town_bg02_HARU_mes01_0",""
@@ -233,21 +235,21 @@
 会弄乱我的毛发的。","town_bg03_MONA_mes02_0",""
 "town_bg03_TEODOA_mes01_0","我已经与物品融为一体了，但是如果需要的话，请到西奥多商店。
 ","town_bg03_TEODOA_mes01_0",""
-"town_bg03_YUSUKE_mes01_0","太棒了...这是多么前卫的形式啊！
+"town_bg03_YUSUKE_mes01_0","太棒了……这是多么前卫的形式啊！
 ","town_bg03_YUSUKE_mes01_0",""
 "town_bg03_YUSUKE_mes02_0","等一下，不要动！还有3个小时！","town_bg03_YUSUKE_mes02_0",""
 "town_bg03_AKECHI_mes01_0","白钟君，我一直想和你慢慢地聊聊。
 很荣幸。","town_bg03_AKECHI_mes01_0",""
 "town_bg03_AKECHI_mes02_0","首先，
 能不能听听白钟君的意见？","town_bg03_AKECHI_mes02_0",""
-"town_bg03_KANJI_mes01_0","那个...可以稍微借一下吗？
+"town_bg03_KANJI_mes01_0","那个……可以稍微借一下吗？
 只是一点点哦！","town_bg03_KANJI_mes01_0",""
-"town_bg03_KANJI_mes02_0","嗯、嗯嗯...毛茸茸的天堂...","town_bg03_KANJI_mes02_0",""
-"town_bg03_NAOTO_mes01_0","嗯...如果可以的话，
+"town_bg03_KANJI_mes02_0","嗯、嗯嗯……毛茸茸的天堂…","town_bg03_KANJI_mes02_0",""
+"town_bg03_NAOTO_mes01_0","嗯……如果可以的话，
 我随时都可以。","town_bg03_NAOTO_mes01_0",""
 "town_bg03_NAOTO_mes02_0","这种奇怪的情况似乎可以进行各种推理。
 ","town_bg03_NAOTO_mes02_0",""
-"town_bg03_KUMA_mes01_0","哦呦呦...啊，我的脚麻了，熊...
+"town_bg03_KUMA_mes01_0","哦呦呦……啊，我的脚麻了，熊……
 ","town_bg03_KUMA_mes01_0",""
 "town_bg03_KUMA_mes02_0","被这样盯着看的话……
 熊会觉得身体发痒……","town_bg03_KUMA_mes02_0",""
@@ -264,7 +266,7 @@
 "town_bg04_P4HERO_mes01_0","伙伴增加了，感觉心里更有底气。","town_bg04_P4HERO_mes01_0",""
 "town_bg04_P4HERO_mes02_0","好的。
 让我们继续保持警惕。","town_bg04_P4HERO_mes02_0",""
-"town_bg04_KANJI_mes01_0","啊...不要一直盯着看啊！
+"town_bg04_KANJI_mes01_0","啊……不要一直盯着看啊！
 我会编织针织衫的！","town_bg04_KANJI_mes01_0",""
 "town_bg04_KANJI_mes02_0","编织的方法也有很多种，
 但是要这样钩住这里……","town_bg04_KANJI_mes02_0",""
@@ -291,7 +293,7 @@
 "town_bg05_YOUSUKE_mes03_0","なぁ、ひかりちゃん！
 映画の結末、楽しみにしててくれな。","town_bg05_YOUSUKE_mes03_0",""
 "town_bg06_HIKARI_mes01_0","嗯。双叶，加油哦。","town_bg06_HIKARI_mes01_0",""
-"town_bg06_HIKARI_mes02_0","支持的力量啊...太厉害了...","town_bg06_HIKARI_mes02_0",""
+"town_bg06_HIKARI_mes02_0","支持的力量啊……太厉害了…","town_bg06_HIKARI_mes02_0",""
 "town_bg06_HIKARI_mes03_0","双叶，电脑真厉害呢。
 我都佩服起来了……","town_bg06_HIKARI_mes03_0",""
 "town_bg06_YUSUKE_mes01_0","爆米花也不错，
@@ -302,14 +304,16 @@
 "town_bg06_FUTABA_mes01_0","电影要换了，光，记得好好看哦！
 ","town_bg06_FUTABA_mes01_0",""
 "town_bg06_FUTABA_mes02_0","哦，交给我吧！","town_bg06_FUTABA_mes02_0",""
-"town_bg06_FUTABA_mes03_0","这样做...啊，这里也要采取对策...好好，嗯嗯...
+"town_bg06_FUTABA_mes03_0","这样做……啊，这里也要采取对策……好好，嗯嗯……
 ","town_bg06_FUTABA_mes03_0",""
 "town_bg06_RISE_mes01_0","风花也来了，
 支援完美！","town_bg06_RISE_mes01_0",""
 "town_bg06_RISE_mes02_0","在提供支持的同时，我意识到除了负责的事情之外，我们也可以进行信息交流哦！
 ","town_bg06_RISE_mes02_0",""
 "town_bg06_SANADA_mes01_0","虎の子のプロテインバーだが、食うか？","town_bg06_SANADA_mes01_0",""
-"town_bg06_ZABES_mes01_0","原来如此……","town_bg06_ZABES_mes01_0",""
+"town_bg06_ZABES_mes01_0","原来如此……","town_bg06_ZABES_mes01_0","机翻辅助：
+
+原来如此……"
 "town_bg06_FUKA_mes01_0","战斗和野外任务都可以分工，
 而且现场还有双叶小姐在。","town_bg06_FUKA_mes01_0",""
 "town_bg06_FUKA_mes02_0","好吧，
@@ -326,14 +330,20 @@
 "town_bg07_YUKIKO_mes01_0","亲爱的，坐下！","town_bg07_YUKIKO_mes01_0",""
 "town_bg07_ZABES_mes01_0","哎呀哎呀，小熊大人……
 嫉妒之火在熊熊燃烧……","town_bg07_ZABES_mes01_0",""
-"town_bg07_KUMA_mes01_0","嗯嗯嗯...大家都知道有一只叫做熊的动物...
+"town_bg07_KUMA_mes01_0","嗯嗯嗯……大家都知道有一只叫做熊的动物……
 ","town_bg07_KUMA_mes01_0",""
-"town_bg07_KUMA_mes02_0","呜呜呜...你这只狗...","town_bg07_KUMA_mes02_0",""
+"town_bg07_KUMA_mes02_0","呜呜呜……你这只狗…","town_bg07_KUMA_mes02_0",""
 "town_bg07_YUKARI_mes01_0","可乐酱真是个治愈系的存在呢。
 而且聪明又乖巧。","town_bg07_YUKARI_mes01_0",""
-"town_bg07_KOROMARU_mes01_0","汪汪！","town_bg07_KOROMARU_mes01_0",""
-"town_bg07_KOROMARU_mes02_0","汪！","town_bg07_KOROMARU_mes02_0",""
-"town_bg07_KOROMARU_mes03_0","哈哈哈哈...","town_bg07_KOROMARU_mes03_0",""
+"town_bg07_KOROMARU_mes01_0","汪汪！","town_bg07_KOROMARU_mes01_0","机翻辅助：
+
+汪汪！"
+"town_bg07_KOROMARU_mes02_0","汪！","town_bg07_KOROMARU_mes02_0","机翻辅助：
+
+汪！
+
+哇！"
+"town_bg07_KOROMARU_mes03_0","哈哈哈哈…","town_bg07_KOROMARU_mes03_0",""
 "town_bg08_FUTABA_mes01_0","哇哦哦哦！好酷啊！","town_bg08_FUTABA_mes01_0",""
 "town_bg08_FUTABA_mes02_0","嗨，直斗。
 正在与蝴蝶结的数据进行核对和验证中！","town_bg08_FUTABA_mes02_0",""
@@ -344,10 +354,10 @@
 "town_bg08_HARU_mes03_0","双叶和直斗都对埃癸斯很感兴趣呢。
 ","town_bg08_HARU_mes03_0",""
 "town_bg08_NAOTO_mes01_0","那个，
-艾基斯先生...那只手臂到底要怎么使用呢？","town_bg08_NAOTO_mes01_0",""
+艾基斯先生……那只手臂到底要怎么使用呢？","town_bg08_NAOTO_mes01_0",""
 "town_bg08_NAOTO_mes02_0","佐仓小姐，
 您是在收集埃癸斯先生的数据吗？","town_bg08_NAOTO_mes02_0",""
-"town_bg08_ZABES_mes01_0","呵呵呵...发生了让心跳加速的事情很多呢。
+"town_bg08_ZABES_mes01_0","呵呵呵……发生了让心跳加速的事情很多呢。
 ","town_bg08_ZABES_mes01_0",""
 "town_bg08_FUKA_mes01_0","那么，奥村先生的斧头技艺才真是厉害！
 每次都那么精彩，让人看得入迷。","town_bg08_FUKA_mes01_0",""
@@ -363,7 +373,7 @@
 看来终于被发现偷吃了科罗玛鲁大人的零食呢……","town_bg09_ZABES_mes01_0",""
 "town_bg09_MONA_mes01_0","不要那么吵闹。
 也休息不了吧。","town_bg09_MONA_mes01_0",""
-"town_bg09_MONA_mes02_0","咕噜咕噜...吾乃高级寿司...还要更多的金枪鱼...
+"town_bg09_MONA_mes02_0","咕噜咕噜……吾乃高级寿司……还要更多的金枪鱼……
 ","town_bg09_MONA_mes02_0",""
 "town_bg09_MONA_mes03_0","今天就睡吧。","town_bg09_MONA_mes03_0",""
 "town_bg09_MAKOTO_mes01_0","试试不同的派对组合也许也不错哦。
@@ -374,7 +384,7 @@
 就在电影院的时候多包容一点吧。","town_bg09_MAKOTO_mes03_0",""
 "town_bg09_KUMA_mes01_0","呜啊！
 对不起，熊啊～！","town_bg09_KUMA_mes01_0",""
-"town_bg09_KUMA_mes02_0","小熊は美味しくない小熊よ～～！","town_bg09_KUMA_mes02_0",""
+"town_bg09_KUMA_mes02_0","クマは美味しくないクマよ～～！","town_bg09_KUMA_mes02_0",""
 "town_bg09_MITURU_mes01_0","大家庭已经变得如此之大，
 我们需要更多地了解彼此。","town_bg09_MITURU_mes01_0",""
 "town_bg09_MITURU_mes02_0","好的。
@@ -382,7 +392,7 @@
 "town_bg09_MITURU_mes03_0","真是一群吵闹的家伙啊。
 连科罗曼都兴奋得……","town_bg09_MITURU_mes03_0",""
 "town_bg09_KOROMARU_mes01_0","咕噜！","town_bg09_KOROMARU_mes01_0",""
-"town_bg09_KOROMARU_mes02_0","咕噜噜...","town_bg09_KOROMARU_mes02_0",""
+"town_bg09_KOROMARU_mes02_0","咕噜噜…","town_bg09_KOROMARU_mes02_0",""
 "town_bg10_ZABES_mes01_0","绒绒绒～绒绒绒～我们的～主人～有着长长的鼻子～
 ","town_bg10_ZABES_mes01_0",""
 "town_bg10_RYUJI_mes01_0","哦，用这个就可以召唤出来吗？","town_bg10_RYUJI_mes01_0",""
@@ -398,7 +408,7 @@
 "town_bg10_YOUSUKE_mes02_0","哇，笨蛋！
 不要把枪口对准这边！","town_bg10_YOUSUKE_mes02_0",""
 "town_bg10_JUNPEI_mes01_0","そーそー。そいつを頭にあてて、
-バーンって人格面具召喚ってわけ！","town_bg10_JUNPEI_mes01_0",""
+バーンってペルソナ召喚ってわけ！","town_bg10_JUNPEI_mes01_0",""
 "town_bg10_JUNPEI_mes02_0","召唤器即使知道也会吓一跳呢。
 我刚开始也是这样的。","town_bg10_JUNPEI_mes02_0",""
 "town_bg10_AMADA_mes01_0","明智先生是侦探吧？
@@ -437,7 +447,7 @@
 "town_bg12_ANN_mes01_0","好的！加油，让我们去吧！","town_bg12_ANN_mes01_0",""
 "town_bg12_ANN_mes03_0","如果有准备的话，就决定好了，我们走吧。","town_bg12_ANN_mes03_0",""
 "town_bg12_P4HERO_mes01_0","我们能做到的……一定。","town_bg12_P4HERO_mes01_0",""
-"town_bg12_P4HERO_mes02_0","终于到了啊...不能输。","town_bg12_P4HERO_mes02_0",""
+"town_bg12_P4HERO_mes02_0","终于到了啊……不能输。","town_bg12_P4HERO_mes02_0",""
 "town_bg12_P4HERO_mes03_0","俺たちの可能性を見せよう。","town_bg12_P4HERO_mes03_0",""
 "town_bg12_YOUSUKE_mes01_0","要不要组成阵型？","town_bg12_YOUSUKE_mes01_0",""
 "town_bg12_YOUSUKE_mes02_0","来吧，伙计，让我们一起做吧！","town_bg12_YOUSUKE_mes02_0",""

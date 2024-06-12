@@ -1,12 +1,12 @@
 import json
 import os
 import struct
-from helper import CHINESE_TO_JAPANESE, DIR_JSON_ROOT, KANA_PATTERN, CONTROL_PATTERN, ZH_HANS_2_KANJI_PATH, CHAR_TABLE_PATH
+from helper import CHINESE_TO_JAPANESE, DIR_JSON_ROOT, KANA_PATTERN, CONTROL_PATTERN, SPECLAL_CONTROL_PATTERN, ZH_HANS_2_KANJI_PATH, CHAR_TABLE_PATH
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
 
-def generate_cp932():
+def generate_cp932(used_kanjis: set[str]):
   for high in range(0x88, 0xa0):
     for low in range(0x40, 0xfd):
       if low == 0x7f:
@@ -14,13 +14,30 @@ def generate_cp932():
       code = (high << 8) | low
       try:
         char = struct.pack(">H", code).decode("cp932")
+        if char in used_kanjis:
+          continue
       except:
         continue
       yield char
 
 
 def generate_char_table(json_root: str) -> dict[str, str]:
-  characters = set()
+  characters = set("".join((
+    "结城理",
+    "有里凑",
+    "汐见朔也",
+    "鬼太郎",
+    "汐见琴音",
+    "哈姆子",
+    "鸣上悠",
+    "濑多总司",
+    "浅川隼人",
+    "番长",
+    "雨宫莲",
+    "来栖晓",
+    "波特",
+    "周可",
+  )))
   for root, dirs, files in os.walk(json_root):
     for file_name in files:
       if not file_name.endswith(".json"):
@@ -33,12 +50,12 @@ def generate_char_table(json_root: str) -> dict[str, str]:
         if v.get("trash", False):
           continue
 
-        content = CONTROL_PATTERN.sub("", v["content"].replace("\n", ""))
-        for k, v in CHINESE_TO_JAPANESE.items():
-          content = content.replace(k, v)
-
+        content = SPECLAL_CONTROL_PATTERN.sub("", CONTROL_PATTERN.sub("", v["content"].replace("\n", "")))
         if KANA_PATTERN.search(content):
           continue
+
+        for k, v in CHINESE_TO_JAPANESE.items():
+          content = content.replace(k, v)
         for char in content:
           characters.add(char)
 
@@ -47,7 +64,7 @@ def generate_char_table(json_root: str) -> dict[str, str]:
   with open(ZH_HANS_2_KANJI_PATH, "r", -1, "utf8") as reader:
     zh_Hans_2_kanji: dict[str, str] = json.load(reader)
 
-  generator = generate_cp932()
+  generator = generate_cp932(set(zh_Hans_2_kanji.values()))
 
   def insert_char(char: str):
     shift_jis_char = next(generator)

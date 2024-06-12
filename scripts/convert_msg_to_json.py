@@ -1,7 +1,7 @@
 import json
 import os
 
-from helper import DIR_JSON_ROOT, DIR_MESSAGE_ROOT, TRASH_PATTERN, remove_controls
+from helper import DIR_JSON_ROOT, DIR_MESSAGE_ROOT, TRASH_PATTERN, convert_special_controls, remove_controls
 
 
 def convert_msg_to_json(msg_root: str, json_root: str):
@@ -29,7 +29,7 @@ def convert_msg_to_json(msg_root: str, json_root: str):
         line_keys.add(line_id)
 
         for line_i, line in enumerate(message["lines"]):
-          line: str = line.replace("{", "[").replace("}", "]")
+          line: str = convert_special_controls(line)
           prefix, content, suffix = remove_controls(line)
 
           item = {

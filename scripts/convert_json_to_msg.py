@@ -1,6 +1,6 @@
 import json
 import os
-from helper import DIR_JSON_ROOT, DIR_MESSAGE_ROOT, DIR_MESSAGE_NEW_ROOT, convert_zh_hans_to_shift_jis
+from helper import DIR_JSON_ROOT, DIR_MESSAGE_ROOT, DIR_MESSAGE_NEW_ROOT, convert_back_special_controls, convert_zh_hans_to_shift_jis
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
@@ -52,11 +52,11 @@ def convert_json_to_msg(json_root: str, msg_root: str, msg_new_root: str):
               f_0_3_65024_i += 1
             content = "".join(new_contents)
 
-          message["lines"][line_i] = "".join((
+          message["lines"][line_i] = convert_back_special_controls("".join((
             v["prefix"],
             convert_zh_hans_to_shift_jis(content),
             v["suffix"],
-          )).replace("[", "{").replace("]", "}")
+          )))
 
       for speaker_i, speaker in enumerate(messages["speakers"]):
         if f"speaker_{speaker}" in json_input:

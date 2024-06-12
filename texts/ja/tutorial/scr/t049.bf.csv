@@ -1,5 +1,5 @@
 "source","target","id","developer_comments"
 "MSG_TUTORIAL_TREASURE_BO_0","宝箱のあった場所には
-専用の[F2 01 03 01]宝箱アイコン[F2 01 01 01]を配置しておくと、","MSG_TUTORIAL_TREASURE_BO_0",""
-"MSG_TUTORIAL_TREASURE_BO_1","各宝箱の開閉状況[F2 01 01 01]を確認することが可能です。
+専用の[颜色 03]宝箱アイコン[颜色 01]を配置しておくと、","MSG_TUTORIAL_TREASURE_BO_0",""
+"MSG_TUTORIAL_TREASURE_BO_1","[颜色 03]各宝箱の開閉状況[颜色 01]を確認することが可能です。
 忘れずに配置しておくようにしましょう。","MSG_TUTORIAL_TREASURE_BO_1",""

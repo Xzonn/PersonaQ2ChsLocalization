@@ -1,10 +1,10 @@
 "source","target","id","developer_comments"
 "ITEM_POINT_SEL_0","警惕地搜索","ITEM_POINT_SEL_0",""
-"ITEM_POINT_SEL_1","专注于采取行动。","ITEM_POINT_SEL_1",""
+"ITEM_POINT_SEL_1","专注于采取行动","ITEM_POINT_SEL_1",""
 "ITEM_POINT_SEL_2","停止","ITEM_POINT_SEL_2",""
 "ITEM_POINT_FORCE_BTL_SEL_0","寻找","ITEM_POINT_FORCE_BTL_SEL_0",""
 "ITEM_POINT_FORCE_BTL_SEL_1","停止","ITEM_POINT_FORCE_BTL_SEL_1",""
-"SHORTCUT_SEL_0","通る -","SHORTCUT_SEL_0",""
+"SHORTCUT_SEL_0","通る","SHORTCUT_SEL_0",""
 "SHORTCUT_SEL_1","通不过","SHORTCUT_SEL_1",""
 "ENTRANCE_SEL_0","返回","ENTRANCE_SEL_0",""
 "ENTRANCE_SEL_1","不会回来","ENTRANCE_SEL_1",""
@@ -19,7 +19,7 @@
 "MSG_005_0","嗯。","MSG_005_0",""
 "MSG_006_0","不错。","MSG_006_0",""
 "MSG_007_0","相当不错。","MSG_007_0",""
-"MSG_008_0","真是的...一刻也不能放松啊。
+"MSG_008_0","真是的……一刻也不能放松啊。
 不过，看来顺利完成了。","MSG_008_0",""
 "MSG_009_0","太棒了！","MSG_009_0",""
 "MSG_010_0","太棒了。","MSG_010_0",""
@@ -34,7 +34,7 @@
 "MSG_020_0","这样啊。
 是个努力的判断。","MSG_020_0",""
 "MSG_021_0","强敌啊……","MSG_021_0",""
-"MSG_022_0","这里有很多暗影的气息...你打算怎么办？
+"MSG_022_0","这里有很多暗影的气息……你打算怎么办？
 ","MSG_022_0",""
 "MSG_023_0","不要放松警惕，继续前进。","MSG_023_0",""
 "MSG_024_0","那样啊。
@@ -43,4 +43,6 @@
 "MSG_026_0","你可以回到电影院吗？
 你打算怎么办？","MSG_026_0",""
 "MSG_027_0","把握！！","MSG_027_0",""
-"speaker_桐条 美鶴","桐条美鹤","speaker_桐条 美鶴",""
+"speaker_桐条 美鶴","桐条美鹤","speaker_桐条 美鶴","机翻辅助：
+
+桐条美鹤"

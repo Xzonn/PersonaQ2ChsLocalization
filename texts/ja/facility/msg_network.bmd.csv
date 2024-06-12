@@ -65,12 +65,12 @@
 "FCL_NETWORK_PERSONA_DELE_2_0","このすれちがい手帳を処分して
 宜しいでしょうか？","FCL_NETWORK_PERSONA_DELE_2_0","エリザベス"
 "FCL_NETWORK_PERSONA_SUMM_0","このペルソナを召喚するには、
-[F2 44 01 01]円かかるけど、
+[占位A 01]円かかるけど、
 いいの？","FCL_NETWORK_PERSONA_SUMM_0","マリー"
 "FCL_NETWORK_PERSONA_SUMM_2_0","このペルソナを召喚するには、
-[F2 44 01 01]円かかります。
+[占位A 01]円かかります。
 宜しいでしょうか？","FCL_NETWORK_PERSONA_SUMM_2_0","エリザベス"
-"FCL_NETWORK_PERSONA_SUMM_3_0","＞ペルソナ“[F2 01 02 01][F2 44 01 01][F2 01 01 01]”を
+"FCL_NETWORK_PERSONA_SUMM_3_0","＞ペルソナ“[颜色 02][占位A 01][颜色 01]”を
 　召喚した。","FCL_NETWORK_PERSONA_SUMM_3_0",""
 "FCL_NETWORK_PERSONA_EXIS_0","このペルソナはもう持ってるよ。","FCL_NETWORK_PERSONA_EXIS_0","マリー"
 "FCL_NETWORK_PERSONA_EXIS_2_0","このペルソナは

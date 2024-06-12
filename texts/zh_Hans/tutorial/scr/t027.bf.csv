@@ -1,7 +1,7 @@
 "source","target","id","developer_comments"
-"MSG_TUTORIAL_AUTO_RECOVE_0","迷宮内にて[F2 01 03 01]『ＳＴＡＲＴボタン』[F2 01 01 01]を
-押すことで[F2 01 03 01]オートリカバーが使用可能[F2 01 01 01]です。","MSG_TUTORIAL_AUTO_RECOVE_0",""
+"MSG_TUTORIAL_AUTO_RECOVE_0","迷宮内にて[颜色 03]『ＳＴＡＲＴボタン』[颜色 01]を
+押すことで[颜色 03]オートリカバーが使用可能[颜色 01]です。","MSG_TUTORIAL_AUTO_RECOVE_0",""
 "MSG_TUTORIAL_AUTO_RECOVE_1","オートリカバーを使用すると、
-最適な回復スキルを[F2 01 03 01]自動で使用[F2 01 01 01]し","MSG_TUTORIAL_AUTO_RECOVE_1",""
-"MSG_TUTORIAL_AUTO_RECOVE_2","パーティ全員を回復[F2 01 01 01]することが可能です。
+最適な回復スキルを[颜色 03]自動で使用[颜色 01]し","MSG_TUTORIAL_AUTO_RECOVE_1",""
+"MSG_TUTORIAL_AUTO_RECOVE_2","[颜色 03]パーティ全員を回復[颜色 01]することが可能です。
 状況にあわせて便利に活用していきましょう。","MSG_TUTORIAL_AUTO_RECOVE_2",""

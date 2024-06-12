@@ -1,5 +1,5 @@
 "source","target","id","developer_comments"
-"market_sel_0","是的。","market_sel_0","机翻辅助：
+"market_sel_0","是的","market_sel_0","机翻辅助：
 
 好的。
 
@@ -13,7 +13,7 @@
 否
 
 没有"
-"MSHOP_BUY_MSG2_0","＞[F2 44 02 01]個で[F2 44 03 01]円になります。
+"MSHOP_BUY_MSG2_0","＞[占位A 02]個で[占位A 03]円になります。
 　購入しますか？","MSHOP_BUY_MSG2_0",""
 "market_conf_0","这样上市卖出可以吗？","market_conf_0",""
 "speaker_　","　","speaker_　",""

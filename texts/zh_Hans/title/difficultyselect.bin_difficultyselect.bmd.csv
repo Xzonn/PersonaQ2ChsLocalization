@@ -1,16 +1,59 @@
 "source","target","id","developer_comments"
-"MSG_DIFFICULTY_SELECT_01_0","＞はじめにゲームの難易度を
-　お選びください。","MSG_DIFFICULTY_SELECT_01_0",""
-"MSG_DIFFICULTY_SELECT_01_1","＞どの難易度を選んでも、物語に変化は
-　ありませんので、遊び方に合った
-　難易度をお勧めいたします。","MSG_DIFFICULTY_SELECT_01_1",""
-"MSG_DIFFICULTY_SELECT_01_2","＞難易度は、ゲーム開始後も
-　途中で変更が可能です。","MSG_DIFFICULTY_SELECT_01_2",""
-"MSG_DIFFICULTY_SELECT_01_3","＞ただし難易度“ＲＩＳＫＹ”だけは、
-　途中変更はできません。
-　ご注意ください。","MSG_DIFFICULTY_SELECT_01_3",""
-"MSG_DIFFICULTY_CONFIRM_0","＞難易度“[F2 44 01 01]”で
-　始めてよろしいですか？","MSG_DIFFICULTY_CONFIRM_0",""
+"MSG_DIFFICULTY_SELECT_01_0","＞请
+选择游戏难易度。","MSG_DIFFICULTY_SELECT_01_0","机翻辅助：
+
+＞请
+选择游戏难易度。
+
+>首先请选择
+游戏的难易度。
+
+>请先选择游戏的难易度。"
+"MSG_DIFFICULTY_SELECT_01_1","＞无论选择哪个难易度，故事
+都没有变化，建议选择适合游玩方式的
+难易度。","MSG_DIFFICULTY_SELECT_01_1","机翻辅助：
+
+＞无论选择哪个难易度，故事
+都没有变化，建议选择适合游玩方式的
+难易度。
+
+>无论选择哪个难易度，故事都没有变化，所以推荐适合玩法的难易度。"
+"MSG_DIFFICULTY_SELECT_01_2","＞游戏开始后，难易度
+也能中途变更。","MSG_DIFFICULTY_SELECT_01_2","机翻辅助：
+
+＞游戏开始后，难易度
+也能中途变更。
+
+>难易度，游戏开始后
+也可以中途变更。
+
+>难度在游戏开始后
+中途也可以变更。"
+"MSG_DIFFICULTY_SELECT_01_3","＞但只有难易度“RISKY”
+不能中途变更。
+请注意。","MSG_DIFFICULTY_SELECT_01_3","机翻辅助：
+
+＞但只有难易度“RISKY”
+不能中途变更。
+请注意。
+
+只是难易度“RISKY”不能中途变更。
+请注意。
+
+
+只是难易度“RISKY”，
+中途不能变更。请注意。"
+"MSG_DIFFICULTY_CONFIRM_0","＞要以难易度“[占位A 01]”
+开始吗？","MSG_DIFFICULTY_CONFIRM_0","机翻辅助：
+
+＞要以难易度“[占位A 01]”
+开始吗？
+
+>难易度“[占位A 01]”
+可以开始了吗？
+
+以难易度“[占位A 01]”开始
+可以吗？"
 "SEL_DIFFICULTY_CONFIRM_0","好的。","SEL_DIFFICULTY_CONFIRM_0","机翻辅助：
 
 好的。
@@ -25,12 +68,40 @@
 否
 
 没有"
-"MSG_DIFFICULTY_CONFIRM_R_0","＞難易度“ＲＩＳＫＹ”は、
-　ゲームの途中で変更できません。","MSG_DIFFICULTY_CONFIRM_R_0",""
-"MSG_DIFFICULTY_CONFIRM_R_1","＞難易度“ＲＩＳＫＹ”で
-　始めてよろしいですか？","MSG_DIFFICULTY_CONFIRM_R_1",""
-"MSG_DIFFICULTY_CONFIRM_R_2_0","＞本当によろしいですか？","MSG_DIFFICULTY_CONFIRM_R_2_0",""
-"MSG_RETURN_TITLE_0","＞タイトル画面に戻りますか？","MSG_RETURN_TITLE_0",""
+"MSG_DIFFICULTY_CONFIRM_R_0","＞难易度“RISKY”
+不能在游戏途中变更。","MSG_DIFFICULTY_CONFIRM_R_0","机翻辅助：
+
+＞难易度“RISKY”
+不能在游戏途中变更。
+
+难易度“RISKY”，
+游戏的中途不能变更。
+
+难易度“RISKY”在
+游戏中途不能变更。"
+"MSG_DIFFICULTY_CONFIRM_R_1","
+可以开始进行难度“RISKY”吗？","MSG_DIFFICULTY_CONFIRM_R_1","机翻辅助：
+
+
+可以开始进行难度“RISKY”吗？
+
+>难易度“RISKY”
+可以开始了吗？
+
+难易度“RISKY”
+可以开始吗？"
+"MSG_DIFFICULTY_CONFIRM_R_2_0","＞真的可以吗？","MSG_DIFFICULTY_CONFIRM_R_2_0","机翻辅助：
+
+＞真的可以吗？
+
+真的可以吗？"
+"MSG_RETURN_TITLE_0","＞要回到标题画面吗？","MSG_RETURN_TITLE_0","机翻辅助：
+
+＞要回到标题画面吗？
+
+＞返回标题画面吗？
+
+>返回标题画面吗？"
 "SEL_RETURN_TITLE_0","好的。","SEL_RETURN_TITLE_0","机翻辅助：
 
 好的。

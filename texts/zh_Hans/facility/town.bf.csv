@@ -1,57 +1,57 @@
 "source","target","id","developer_comments"
-"TOWN_PRE_PARTY_JOIN_0","“パーティ編成”[F2 01 01 01]を
+"TOWN_PRE_PARTY_JOIN_0","[颜色 03]“パーティ編成”[颜色 01]を
 利用できるようになりました。
 　
 先程行ったパーティ編成の他、
 パーティの登録や呼び出し、
 ナビキャラの設定なども行えます。","TOWN_PRE_PARTY_JOIN_0",""
 "TOWN_TUTORIAL_CAMP_PERSO_0","Ｘボタンで開けるメニューに
-[F2 01 03 01]“ＰＥＲＳＯＮＡ”[F2 01 01 01]が追加されました。","TOWN_TUTORIAL_CAMP_PERSO_0",""
-"TOWN_TUTORIAL_CAMP_PERSO_1","付け替え可能な“サブ人格面具”は、メニューの
-[F2 01 03 01]“ＰＥＲＳＯＮＡ”[F2 01 01 01]から装備する事ができます。","TOWN_TUTORIAL_CAMP_PERSO_1",""
-"TOWN_TUTORIAL_PARTY_JOIN_0","新たなメンバーが加入[F2 01 01 01]しました。
+[颜色 03]“ＰＥＲＳＯＮＡ”[颜色 01]が追加されました。","TOWN_TUTORIAL_CAMP_PERSO_0",""
+"TOWN_TUTORIAL_CAMP_PERSO_1","付け替え可能な“サブペルソナ”は、メニューの
+[颜色 03]“ＰＥＲＳＯＮＡ”[颜色 01]から装備する事ができます。","TOWN_TUTORIAL_CAMP_PERSO_1",""
+"TOWN_TUTORIAL_PARTY_JOIN_0","[颜色 03]新たなメンバーが加入[颜色 01]しました。
 　
 パーティ編成の幅が広がりますので、
 色々な組み合わせを試してみるのも
 良いでしょう。","TOWN_TUTORIAL_PARTY_JOIN_0",""
-"TOWN_TUTORIAL_VELVET_OPE_0","“ベルベットルーム”[F2 01 01 01]を
+"TOWN_TUTORIAL_VELVET_OPE_0","[颜色 03]“ベルベットルーム”[颜色 01]を
 利用できるようになりました。
 　
-合体により新たな人格面具生み出したり、
-人格面具全書で人格面具を
+合体により新たなペルソナ生み出したり、
+ペルソナ全書でペルソナを
 閲覧・召喚することができます。","TOWN_TUTORIAL_VELVET_OPE_0",""
-"TOWN_TUTORIAL_NOFFICE_OP_0","“保健室”[F2 01 01 01]を
+"TOWN_TUTORIAL_NOFFICE_OP_0","[颜色 03]“保健室”[颜色 01]を
 利用できるようになりました。
 　
 治療を受けることで、
 傷ついたメンバーを回復できます。","TOWN_TUTORIAL_NOFFICE_OP_0",""
-"TOWN_TUTORIAL_SHOP_OPEN_0","“ショップ”[F2 01 01 01]を
+"TOWN_TUTORIAL_SHOP_OPEN_0","[颜色 03]“ショップ”[颜色 01]を
 利用できるようになりました。
 　
 装備品やアイテムを売買したり、
 手荷物を預けることができます。","TOWN_TUTORIAL_SHOP_OPEN_0",""
-"TOWN_TUTORIAL_DUNGEON_OP_0","“映画に入る”[F2 01 01 01]を
+"TOWN_TUTORIAL_DUNGEON_OP_0","[颜色 03]“映画に入る”[颜色 01]を
 利用できるようになりました。
 　
 迷宮へ入り、
 ストーリーや依頼を進めることができます。","TOWN_TUTORIAL_DUNGEON_OP_0",""
 "MSG_FCL_QUEST_OPEN_0","听说售票处开业了！","MSG_FCL_QUEST_OPEN_0",""
-"TOWN_TUTORIAL_ODEKAKE_OP_0","“校内散策”[F2 01 01 01]で
+"TOWN_TUTORIAL_ODEKAKE_OP_0","[颜色 03]“校内散策”[颜色 01]で
 校内で仲間たちと過ごす事が
 できるようになりました。","TOWN_TUTORIAL_ODEKAKE_OP_0",""
 "TOWN_TUTORIAL_VELVET_TRI_0","ベルベットルームで
-３体の人格面具を使用する合体、
-[F2 01 03 01]“トライアングル・スプレッド”[F2 01 01 01]が
+３体のペルソナを使用する合体、
+[颜色 03]“トライアングル・スプレッド”[颜色 01]が
 できるようになりました。","TOWN_TUTORIAL_VELVET_TRI_0",""
-"TOWN_TUTORIAL_NOFFICE_QU_0","保健室で[F2 01 03 01]“依頼”[F2 01 01 01]を受ける事が
+"TOWN_TUTORIAL_NOFFICE_QU_0","保健室で[颜色 03]“依頼”[颜色 01]を受ける事が
 できるようになりました。","TOWN_TUTORIAL_NOFFICE_QU_0",""
 "TOWN_TUTORIAL_CAMP_QUEST_0","依頼はＸボタンで開けるメニューの
-[F2 01 03 01]“ＳＹＳＴＥＭ”[F2 01 01 01]から確認できます。","TOWN_TUTORIAL_CAMP_QUEST_0",""
+[颜色 03]“ＳＹＳＴＥＭ”[颜色 01]から確認できます。","TOWN_TUTORIAL_CAMP_QUEST_0",""
 "TOWN_TUTORIAL_CAMP_QUEST_2_0","您可以确认收到的请求。","TOWN_TUTORIAL_CAMP_QUEST_2_0",""
 "TOWN_TUTORIAL_CAMP_QUEST_3_0","依頼を選択すると、
-[F2 01 03 01]“詳細”[F2 01 01 01]を確認することもできます。","TOWN_TUTORIAL_CAMP_QUEST_3_0",""
+[颜色 03]“詳細”[颜色 01]を確認することもできます。","TOWN_TUTORIAL_CAMP_QUEST_3_0",""
 "TOWN_TUTORIAL_QUEST_REPO_0","依頼の達成条件を満たしたら、
-保健室へ[F2 01 03 01]“報告”[F2 01 01 01]しに行きましょう。
+保健室へ[颜色 03]“報告”[颜色 01]しに行きましょう。
 　
 報告しないと報酬は受け取れません。
 注意しましょう。","TOWN_TUTORIAL_QUEST_REPO_0",""
@@ -71,31 +71,31 @@
 好像有什么大声的声音！","MSG_SHOP_OPEN_0",""
 "MSG_V_ROOM_ONLY_0","现在去绒毛房间吧！","MSG_V_ROOM_ONLY_0",""
 "MSG_TUTORIAL_NAVI_OPEN_S_0","新たなメンバーの加入により、
-ナビの役割を[F2 01 03 01]戦闘[F2 01 01 01]と[F2 01 03 01]探索[F2 01 01 01]に分け、
+ナビの役割を[颜色 03]戦闘[颜色 01]と[颜色 03]探索[颜色 01]に分け、
 二人に分担できるようになりました。
 　
 パーティ編成メニューの
-[F2 01 03 01]『ナビ設定』[F2 01 01 01]から設定を行うことが
+[颜色 03]『ナビ設定』[颜色 01]から設定を行うことが
 できます。","MSG_TUTORIAL_NAVI_OPEN_S_0",""
-"MSG_SUB_PERSONA_OPEN_0","『サブ人格面具』[F2 01 01 01]が解禁しました。","MSG_SUB_PERSONA_OPEN_0",""
-"MSG_CAMP_MENU_OPEN_0","Ｘボタン[F2 01 01 01]で『メニュー』が
+"MSG_SUB_PERSONA_OPEN_0","[颜色 03]『サブペルソナ』[颜色 01]が解禁しました。","MSG_SUB_PERSONA_OPEN_0",""
+"MSG_CAMP_MENU_OPEN_0","[颜色 03]Ｘボタン[颜色 01]で『メニュー』が
 開けるようになりました。
 　
 アイテムの使用や装備の変更を行ったり
 各種ステータスの確認ができます。","MSG_CAMP_MENU_OPEN_0",""
 "MSG_CAMP_MENU_OPEN_1","また、ダンジョン探索中にメニューを開き、
-[F2 01 03 01]ＳＴＡＲＴボタン[F2 01 01 01]で
+[颜色 03]ＳＴＡＲＴボタン[颜色 01]で
 中断セーブを行うこともできます。","MSG_CAMP_MENU_OPEN_1",""
-"MSG_SHOP_OPEN_GUIDE_0","施設[F2 01 03 01]『ショップ』[F2 01 01 01]が
+"MSG_SHOP_OPEN_GUIDE_0","施設[颜色 03]『ショップ』[颜色 01]が
 利用できるようになりました。
 　
 ダンジョン探索を有利に進めるためにも
-[F2 01 03 01]『消費アイテム』[F2 01 01 01]や[F2 01 03 01]『装備品』[F2 01 01 01]などを
+[颜色 03]『消費アイテム』[颜色 01]や[颜色 03]『装備品』[颜色 01]などを
 購入してみましょう。","MSG_SHOP_OPEN_GUIDE_0",""
 "MSG_FCL_ITE_RETURN_ALERT_0","嘿，你没有卡车吗？没事吧？需要卡车，一定要有！
 ","MSG_FCL_ITE_RETURN_ALERT_0",""
 "PERSONA_STOCK_UP_MSG_0","新たなワイルドが仲間に加わった事で、
-人格面具ストック数が[F2 01 03 01][F2 44 01 01]体[F2 01 01 01]に増加しました。","PERSONA_STOCK_UP_MSG_0",""
+ペルソナストック数が[颜色 03][占位A 01]体[颜色 01]に増加しました。","PERSONA_STOCK_UP_MSG_0",""
 "speaker_佐倉 双葉","佐仓双叶","speaker_佐倉 双葉","机翻辅助：
 
 佐仓双叶"

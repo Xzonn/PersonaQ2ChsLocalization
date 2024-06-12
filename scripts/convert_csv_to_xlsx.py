@@ -1,6 +1,8 @@
 import os
 from openpyxl import Workbook
-from openpyxl.styles import DEFAULT_FONT, Font, Alignment, Protection
+from openpyxl.formatting import Rule
+from openpyxl.styles import DEFAULT_FONT, Font, Alignment, PatternFill, Protection
+from openpyxl.styles.differential import DifferentialStyle
 
 from helper import DIR_CSV_ROOT, DIR_XLSX_ROOT, load_csv
 
@@ -19,6 +21,9 @@ def convert_csv_to_xlsx(csv_root_without_language: str, language: str, xlsx_root
   normal_japanese = Font(name="Meiryo", sz=10)
 
   gray_chinese = Font(name="微软雅黑", sz=10, color="666666")
+
+  rule_control = Rule(type="expression", dxf=DifferentialStyle(fill=PatternFill(bgColor="ffcccc")), stopIfTrue=True)
+  rule_control.formula = ["$H2"]
 
   protection_none = Protection(locked=False)
 
@@ -39,7 +44,16 @@ def convert_csv_to_xlsx(csv_root_without_language: str, language: str, xlsx_root
       workbook = Workbook()
       sheet = workbook.active
       sheet.protection.sheet = True
-      sheet.append(("id", "source", "target", "comment_1", "comment_2", "comment_3", sheet_name))
+      sheet.append((
+        "id",
+        "source",
+        "target",
+        "comment_1",
+        "comment_2",
+        "comment_3",
+        sheet_name,
+        "control_check",
+      ))
 
       for i, (original_line, translated_line) in enumerate(zip(original, translated)):
         sheet.append((
@@ -48,6 +62,9 @@ def convert_csv_to_xlsx(csv_root_without_language: str, language: str, xlsx_root
           translated_line["target"],
           original_line["developer_comments"],
           translated_line["developer_comments"],
+          "",
+          "",
+          f'=OR(LEN(B{i + 2})-LEN(SUBSTITUTE(SUBSTITUTE(B{i + 2},"[",""),"]",""))<>LEN(C{i + 2})-LEN(SUBSTITUTE(SUBSTITUTE(C{i + 2},"[",""),"]","")),LEN(C{i + 2})-LEN(SUBSTITUTE(C{i + 2},"[",""))<>LEN(C{i + 2})-LEN(SUBSTITUTE(C{i + 2},"]","")))',
         ))
 
         for col in "ABCDEF":
@@ -65,16 +82,19 @@ def convert_csv_to_xlsx(csv_root_without_language: str, language: str, xlsx_root
           else:
             cell.alignment = top_left_wrap
 
-      for col in "ABCDEF":
+      for col in "ABCDEFGH":
         column = sheet.column_dimensions[col]
         if col in "AD":
           column.width = 15
           column.alignment = center_wrap
-        else:
-          column.width = 45
+        elif col in "BCEF":
+          column.width = 35
           column.alignment = top_left_wrap
+        elif col in "GH":
+          column.hidden = True
 
       sheet.freeze_panes = "B2"
+      sheet.conditional_formatting.add(f"C2:C{sheet.max_row}", rule_control)
 
       output_path = f"{xlsx_root}/{sheet_name}.xlsx"
       os.makedirs(os.path.dirname(output_path), exist_ok=True)

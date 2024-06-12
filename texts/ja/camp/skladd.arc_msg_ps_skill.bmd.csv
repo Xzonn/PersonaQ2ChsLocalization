@@ -1,19 +1,19 @@
 "source","target","id","developer_comments"
 "msg_ps_skill_sel_0","はい","msg_ps_skill_sel_0",""
 "msg_ps_skill_sel_1","いいえ","msg_ps_skill_sel_1",""
-"msg_ps_skill_get_0","＞『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』は
-　『[F2 01 02 01][F2 44 02 01][F2 01 01 01]』を覚えた！","msg_ps_skill_get_0",""
+"msg_ps_skill_get_0","＞『[颜色 02][占位A 01][颜色 01]』は
+　『[颜色 02][占位A 02][颜色 01]』を覚えた！","msg_ps_skill_get_0",""
 "msg_ps_skill_rmskill_0","＞スキルが一杯です。
 　消すスキルを選んでください。","msg_ps_skill_rmskill_0",""
-"msg_ps_skill_rmskill_q_0","＞『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』を消しますか？","msg_ps_skill_rmskill_q_0",""
-"msg_ps_skill_rmskill0_0","＞『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』は
-　『[F2 01 02 01][F2 44 02 01][F2 01 01 01]』を忘れた。","msg_ps_skill_rmskill0_0",""
-"msg_ps_skill_rmskill1_0","＞『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』を
-　『[F2 01 02 01][F2 44 02 01][F2 01 01 01]』に入れ替えた。","msg_ps_skill_rmskill1_0",""
-"msg_ps_skill_rmskill2_0","＞『[F2 01 02 01][F2 44 01 01][F2 01 01 01]』が
-　『[F2 01 02 01][F2 44 02 01][F2 01 01 01]』にグレードアップした！","msg_ps_skill_rmskill2_0",""
+"msg_ps_skill_rmskill_q_0","＞『[颜色 02][占位A 01][颜色 01]』を消しますか？","msg_ps_skill_rmskill_q_0",""
+"msg_ps_skill_rmskill0_0","＞『[颜色 02][占位A 01][颜色 01]』は
+　『[颜色 02][占位A 02][颜色 01]』を忘れた。","msg_ps_skill_rmskill0_0",""
+"msg_ps_skill_rmskill1_0","＞『[颜色 02][占位A 01][颜色 01]』を
+　『[颜色 02][占位A 02][颜色 01]』に入れ替えた。","msg_ps_skill_rmskill1_0",""
+"msg_ps_skill_rmskill2_0","＞『[颜色 02][占位A 01][颜色 01]』が
+　『[颜色 02][占位A 02][颜色 01]』にグレードアップした！","msg_ps_skill_rmskill2_0",""
 "msg_ps_skill_chgend_0","＞スキルの入れ替えを終了します。
 　宜しいですか？","msg_ps_skill_chgend_0",""
-"msg_ps_skill_check_money_0","＞[F2 44 01 01]円かかります。
+"msg_ps_skill_check_money_0","＞[占位A 01]円かかります。
 　宜しいですか？","msg_ps_skill_check_money_0",""
 "msg_ps_skill_check_money_2_0","＞お金が足りません。","msg_ps_skill_check_money_2_0",""

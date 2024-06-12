@@ -8,35 +8,35 @@
 "system_camp_config_title_0","セーブしていないデータは
 消えてしまいますが、
 タイトル画面に戻って宜しいですか？","system_camp_config_title_0",""
-"system_camp_quest_offer_0","＞クエスト[F2 44 02 01]“[F2 01 02 01][F2 44 01 01][F2 01 01 01]”の
+"system_camp_quest_offer_0","＞クエスト[占位A 02]“[颜色 02][占位A 01][颜色 01]”の
 　依頼を受けた。","system_camp_quest_offer_0",""
-"system_camp_quest_end_0","＞クエスト[F2 44 02 01]“[F2 01 02 01][F2 44 01 01][F2 01 01 01]”の
+"system_camp_quest_end_0","＞クエスト[占位A 02]“[颜色 02][占位A 01][颜色 01]”の
 　依頼を達成した。","system_camp_quest_end_0",""
 "system_camp_quest_first_0","依頼されたクエストは
 メニュー画面の“Ｑｕｅｓｔ”で確認できます。","system_camp_quest_first_0",""
-"system_camp_skillcard_al_0","＞[F2 01 02 01][F2 44 01 01][F2 01 01 01]は、
+"system_camp_skillcard_al_0","＞[颜色 02][占位A 01][颜色 01]は、
 　既に覚えている。","system_camp_skillcard_al_0",""
-"system_camp_skillcard_ch_0","＞[F2 01 02 01][F2 44 01 01][F2 01 01 01]を覚えさせますか？","system_camp_skillcard_ch_0",""
-"system_camp_skillcard_en_0","＞[F2 01 02 01][F2 44 02 01][F2 01 01 01]は
-　[F2 01 02 01][F2 44 01 01][F2 01 01 01]を覚えた！","system_camp_skillcard_en_0",""
+"system_camp_skillcard_ch_0","＞[颜色 02][占位A 01][颜色 01]を覚えさせますか？","system_camp_skillcard_ch_0",""
+"system_camp_skillcard_en_0","＞[颜色 02][占位A 02][颜色 01]は
+　[颜色 02][占位A 01][颜色 01]を覚えた！","system_camp_skillcard_en_0",""
 "system_camp_skillcard_rm_0","＞スキルが一杯です。
 　捨てるスキルを選んでください。","system_camp_skillcard_rm_0",""
-"system_camp_skillcard_rm_2_0","＞“[F2 01 02 01][F2 44 01 01][F2 01 01 01]”を捨てますか？","system_camp_skillcard_rm_2_0",""
-"system_camp_skillcard_ch_2_0","＞“[F2 01 02 01][F2 44 01 01][F2 01 01 01]”は
-　“[F2 01 02 01][F2 44 02 01][F2 01 01 01]”を覚えた。","system_camp_skillcard_ch_2_0",""
+"system_camp_skillcard_rm_2_0","＞“[颜色 02][占位A 01][颜色 01]”を捨てますか？","system_camp_skillcard_rm_2_0",""
+"system_camp_skillcard_ch_2_0","＞“[颜色 02][占位A 01][颜色 01]”は
+　“[颜色 02][占位A 02][颜色 01]”を覚えた。","system_camp_skillcard_ch_2_0",""
 "system_camp_equip_change_0","＞このペルソナは既に装備している。","system_camp_equip_change_0",""
-"system_book_read_0","＞[F4 45 04 01 00 00 01 01]を読みますか？","system_book_read_0",""
+"system_book_read_0","＞[占位B 01]を読みますか？","system_book_read_0",""
 "system_config_cancel_0","設定を変更しないで戻ります。
 宜しいですか？","system_config_cancel_0",""
 "system_camp_quest_pictur_0","何か依頼のある人は、頭上にアイコンが表示されます。
 依頼を受けると色が変わります。
 見つけたら、積極的に話かけてみましょう。","system_camp_quest_pictur_0",""
 "system_camp_equip_swap_0","＞このペルソナは、
-　[F2 01 01 01][F2 44 01 01][F2 01 01 01]が装備しています。
+　[颜色 01][占位A 01][颜色 01]が装備しています。
 　外して装備しますか？","system_camp_equip_swap_0",""
-"system_camp_item_check1_0","＞[F2 01 01 01][F2 44 01 01][F2 01 01 01]を使用して
+"system_camp_item_check1_0","＞[颜色 01][占位A 01][颜色 01]を使用して
 　この迷宮から脱出しますか？","system_camp_item_check1_0",""
-"system_camp_item_check2_0","＞[F2 01 01 01][F2 44 01 01][F2 01 01 01]を使用して
+"system_camp_item_check2_0","＞[颜色 01][占位A 01][颜色 01]を使用して
 　この階の入り口まで戻りますか？","system_camp_item_check2_0",""
 "system_camp_suspend_chec_0","中断セーブをして
 タイトル画面に戻ります。
@@ -65,7 +65,7 @@
 超上級者向けのモードです。主人公を
 戦闘から外せず、主人公が死亡すると、
 その時点でゲームオーバーとなります。
-[F2 01 03 01]後からの難易度変更はできません[F2 01 01 01]。","system_camp_difficult_ri_0",""
+[颜色 03]後からの難易度変更はできません[颜色 01]。","system_camp_difficult_ri_0",""
 "eqp_bag_max_err_0","外した装備を持ち切れないため、
 装備を外せません。","eqp_bag_max_err_0",""
 "system_camp_persona_equi_0","すでに装備しています。","system_camp_persona_equi_0",""

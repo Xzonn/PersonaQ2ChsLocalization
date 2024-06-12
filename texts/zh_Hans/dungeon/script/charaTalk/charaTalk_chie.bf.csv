@@ -1,10 +1,10 @@
 "source","target","id","developer_comments"
 "ITEM_POINT_SEL_0","警惕地搜索","ITEM_POINT_SEL_0",""
-"ITEM_POINT_SEL_1","专注于采取行动。","ITEM_POINT_SEL_1",""
+"ITEM_POINT_SEL_1","专注于采取行动","ITEM_POINT_SEL_1",""
 "ITEM_POINT_SEL_2","停止","ITEM_POINT_SEL_2",""
 "ITEM_POINT_FORCE_BTL_SEL_0","寻找","ITEM_POINT_FORCE_BTL_SEL_0",""
 "ITEM_POINT_FORCE_BTL_SEL_1","停止","ITEM_POINT_FORCE_BTL_SEL_1",""
-"SHORTCUT_SEL_0","通る -","SHORTCUT_SEL_0",""
+"SHORTCUT_SEL_0","通る","SHORTCUT_SEL_0",""
 "SHORTCUT_SEL_1","通不过","SHORTCUT_SEL_1",""
 "ENTRANCE_SEL_0","返回","ENTRANCE_SEL_0",""
 "ENTRANCE_SEL_1","不会回来","ENTRANCE_SEL_1",""
@@ -25,7 +25,7 @@
 我们结束吧？","MSG_008_0",""
 "MSG_009_0","好厉害啊！","MSG_009_0",""
 "MSG_010_0","稀有啊！","MSG_010_0",""
-"MSG_011_0","厉害...","MSG_011_0",""
+"MSG_011_0","厉害…","MSG_011_0",""
 "MSG_012_0","哦，发现捷径了！
 要走走看吗？","MSG_012_0",""
 "MSG_015_0","这边过不去呢……
@@ -36,12 +36,12 @@
 知道了……我去查一下。","MSG_019_0",""
 "MSG_020_0","嗯嗯，就这样吧！","MSG_020_0",""
 "MSG_021_0","太强了～
-竟然有那样的敌人，危险...","MSG_021_0",""
+竟然有那样的敌人，危险…","MSG_021_0",""
 "MSG_022_0","嗯？
-感觉有很强的暗影气息...","MSG_022_0",""
+感觉有很强的暗影气息…","MSG_022_0",""
 "MSG_023_0","好的！小心地进行调查！","MSG_023_0",""
 "MSG_024_0","这个，要我帮你停下来吗？","MSG_024_0",""
-"MSG_025_0","吓我一跳...突然冒出来的。
+"MSG_025_0","吓我一跳……突然冒出来的。
 ","MSG_025_0",""
 "MSG_026_0","哦？要回电影院吗？","MSG_026_0",""
 "MSG_027_0","把握！！","MSG_027_0",""

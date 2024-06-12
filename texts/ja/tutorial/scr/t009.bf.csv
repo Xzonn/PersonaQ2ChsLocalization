@@ -1,20 +1,20 @@
 "source","target","id","developer_comments"
-"MSG_TUTORIAL_QUEST_MAP_0_0","『特別上映』で映画に入ると、[F2 01 03 01]迷宮に変化[F2 01 01 01]が起こります。
+"MSG_TUTORIAL_QUEST_MAP_0_0","『特別上映』で映画に入ると、[颜色 03]迷宮に変化[颜色 01]が起こります。
 　
 扉やショートカットが通れなくなっていたり、
 探索できるエリアが限られたりします。
 　
-また、[F2 01 03 01]新たなオタカラスポットや宝箱、
-Ｆ．Ｏ．Ｅが出現していることもあります。","MSG_TUTORIAL_QUEST_MAP_0_0",""
-"MSG_TUTORIAL_QUEST_MAP_1_0","エリアの制限は下画面の地図に[F2 01 03 01]赤い塗り潰し[F2 01 01 01]と
-[F2 01 03 01]専用のアイコン[F2 01 01 01]で表示されます。","MSG_TUTORIAL_QUEST_MAP_1_0",""
+また、[颜色 03]新たなオタカラスポットや宝箱、
+Ｆ．Ｏ．Ｅが出現していることもあります。[颜色 01]","MSG_TUTORIAL_QUEST_MAP_0_0",""
+"MSG_TUTORIAL_QUEST_MAP_1_0","エリアの制限は下画面の地図に[颜色 03]赤い塗り潰し[颜色 01]と
+[颜色 03]専用のアイコン[颜色 01]で表示されます。","MSG_TUTORIAL_QUEST_MAP_1_0",""
 "MSG_TUTORIAL_QUEST_MAP_1_1","『特別上映』での探索中は、下画面を確認し、
 注意して進みましょう。","MSG_TUTORIAL_QUEST_MAP_1_1",""
 "MSG_TUTORIAL_QUEST_MAP_2_0","また特別上映中は下画面に
-[F2 01 03 01]『特別上映専用パレット』[F2 01 01 01]が表示されます。","MSG_TUTORIAL_QUEST_MAP_2_0",""
+[颜色 03]『特別上映専用パレット』[颜色 01]が表示されます。","MSG_TUTORIAL_QUEST_MAP_2_0",""
 "MSG_TUTORIAL_QUEST_MAP_2_1","このパレットに格納されたアイコンは
-[F2 01 03 01]特別上映中のみ配置が可能[F2 01 01 01]となっており、","MSG_TUTORIAL_QUEST_MAP_2_1",""
-"MSG_TUTORIAL_QUEST_MAP_2_2","特別上映中での変化[F2 01 01 01]に
+[颜色 03]特別上映中のみ配置が可能[颜色 01]となっており、","MSG_TUTORIAL_QUEST_MAP_2_1",""
+"MSG_TUTORIAL_QUEST_MAP_2_2","[颜色 03]特別上映中での変化[颜色 01]に
 目印をつけておくのに便利です。","MSG_TUTORIAL_QUEST_MAP_2_2",""
 "MSG_TUTORIAL_QUEST_MAP_2_3","ただし特別上映以外で配置した
 アイコンの上には、","MSG_TUTORIAL_QUEST_MAP_2_3",""
