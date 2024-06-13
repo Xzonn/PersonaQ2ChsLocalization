@@ -1,13 +1,14 @@
 from copy import deepcopy
 import json
 from math import ceil
+import math
 import os
 from PIL import Image, ImageDraw, ImageFont
 
-from helper import CHAR_TABLE_PATH
+from helper import CHAR_TABLE_PATH, FONT_PATHS, CHINESE_PUNCTUATIONS_LEFT, CHINESE_PUNCTUATIONS_RIGHT, CHINESE_PUNCTUATIONS_CENTER
 
 
-def create_new_font(file_name: str, input_dir: str, output_dir: str, char_table: dict[str, str], font_path: str):
+def create_new_font(file_name: str, input_dir: str, output_dir: str, char_table: dict[str, str], font_paths: list[str]):
   SCALE = 8
 
   with open(f"{input_dir}/{file_name}_manifest.json", "r", -1, "utf8") as reader:
@@ -50,7 +51,11 @@ def create_new_font(file_name: str, input_dir: str, output_dir: str, char_table:
   sheet = Image.new("RGBA", (sheet_width, sheet_height))
   font_size = manifest["fontInfo"]["width"] - 1
   ascent = manifest["fontInfo"]["ascent"] + 0.5
-  font = ImageFont.truetype(font_path, font_size * SCALE)
+  fonts = [ImageFont.truetype(font_path, font_size * SCALE) for font_path in font_paths if os.path.exists(font_path)]
+
+  check_image_cols = math.ceil(math.sqrt(len(new_characters)))
+  check_image_rows = math.ceil(len(new_characters) / check_image_cols)
+  check_image = Image.new("RGBA", (check_image_cols * glyph_width, check_image_rows * glyph_height), (0, 0, 0, 255))
 
   old_sheet_cache = {}
   for i, char in enumerate(new_characters):
@@ -70,13 +75,18 @@ def create_new_font(file_name: str, input_dir: str, output_dir: str, char_table:
     else:
       glyph = Image.new("RGBA", (glyph_width * SCALE, glyph_height * SCALE))
       draw = ImageDraw.Draw(glyph)
-      draw.text(
-        (0 * SCALE, ascent * SCALE),
-        char_table[char],
-        (0, 0, 0, 255),
-        font,
-        "ls",
-      )
+      for font in fonts:
+        left, top, right, bottom = font.getbbox(char_table[char])
+        if left == right or top == bottom:
+          continue
+        draw.text(
+          (0 * SCALE, ascent * SCALE),
+          char_table[char],
+          (255, 255, 255, 255),
+          font,
+          "ls",
+        )
+        break
       glyph = glyph.resize((glyph_width, glyph_height), Image.LANCZOS)
       char_info = {
         "char": font_size,
@@ -84,7 +94,19 @@ def create_new_font(file_name: str, input_dir: str, output_dir: str, char_table:
         "left": 0,
       }
 
+    if char in CHINESE_PUNCTUATIONS_LEFT:
+      char_info["char"] = font_size
+      char_info["glyph"] = char_info["char"]
+    elif char in CHINESE_PUNCTUATIONS_RIGHT:
+      char_info["left"] = font_size - char_info["char"]
+      char_info["glyph"] = char_info["char"]
+    elif char in CHINESE_PUNCTUATIONS_CENTER:
+      char_info["left"] = (font_size - char_info["char"]) // 2
+      char_info["char"] = font_size - char_info["left"]
+      char_info["glyph"] = char_info["char"]
+
     sheet.paste(glyph, (x * glyph_width + 1, y * glyph_height + 2))
+    check_image.paste(glyph, (i % check_image_cols * glyph_width, i // check_image_cols * glyph_height), glyph)
     new_widths[str(i)] = char_info
     x += 1
     if x == cols:
@@ -106,11 +128,12 @@ def create_new_font(file_name: str, input_dir: str, output_dir: str, char_table:
 
   with open(f"{output_dir}/{file_name}_manifest.json", "w", -1, "utf8") as writer:
     json.dump(new_manifest, writer, ensure_ascii=False, indent=2)
+  check_image.save(f"{output_dir}/{file_name}.png")
 
 
 if __name__ == "__main__":
   with open(CHAR_TABLE_PATH, "r", -1, "utf8") as reader:
     char_table = json.load(reader)
 
-  create_new_font("seurapro_12_12", "temp/font", "temp/new_font", char_table, "files/fonts/FZFWQingYinTiJWB.ttf")
-  create_new_font("seurapro_13_13", "temp/font", "temp/new_font", char_table, "files/fonts/FZFWQingYinTiJWB.ttf")
+  create_new_font("seurapro_12_12", "temp/font", "temp/new_font", char_table, FONT_PATHS)
+  create_new_font("seurapro_13_13", "temp/font", "temp/new_font", char_table, FONT_PATHS)

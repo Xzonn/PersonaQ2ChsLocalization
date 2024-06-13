@@ -1,8 +1,8 @@
 "source","target","id","developer_comments"
-"BTLMSGID_AP_SINGLE_0","[f 2 4 0]出现了！","BTLMSGID_AP_SINGLE_0","机翻辅助：
+"BTLMSGID_AP_SINGLE_0","[占位A 01]出现了！","BTLMSGID_AP_SINGLE_0","机翻辅助：
 
 [占位A 01]出现了！"
-"BTLMSGID_AP_S_MANY_0","[f 2 4 0]达到了！","BTLMSGID_AP_S_MANY_0","机翻辅助：
+"BTLMSGID_AP_S_MANY_0","[占位A 01]出现了！","BTLMSGID_AP_S_MANY_0","机翻辅助：
 
 [占位A 01]出现了！
 
@@ -30,7 +30,7 @@
 但是，[占位A 02]预测到了突然袭击。
 
 但是，[占位A 02]预想到了意外的袭击。"
-"BTLMSGID_AP_S_SUP_0","[f 2 4 0]抢先出手了！","BTLMSGID_AP_S_SUP_0","机翻辅助：
+"BTLMSGID_AP_S_SUP_0","[占位A 01]抢占了先机！","BTLMSGID_AP_S_SUP_0","机翻辅助：
 
 [占位A 01]抢占了先机！
 
@@ -44,7 +44,7 @@
 我方先发制人的攻击！
 
 我方的先发制人！"
-"BTLMSGID_ADDENEMY_OPEN_0","[f 2 4 0]被叫出来了！","BTLMSGID_ADDENEMY_OPEN_0","机翻辅助：
+"BTLMSGID_ADDENEMY_OPEN_0","[占位A 01]已调用！","BTLMSGID_ADDENEMY_OPEN_0","机翻辅助：
 
 [占位A 01]已调用！
 
@@ -64,7 +64,7 @@
 "BLTMSGID_CMD_0","你要怎么办？","BLTMSGID_CMD_0","机翻辅助：
 
 怎么办？"
-"BLTMSGID_CMD_NO_0","[f 2 4 0]无法动！","BLTMSGID_CMD_NO_0","机翻辅助：
+"BLTMSGID_CMD_NO_0","[占位A 01]不能动！","BLTMSGID_CMD_NO_0","机翻辅助：
 
 [占位A 01]不能动！
 
@@ -74,82 +74,82 @@
 伙伴们动不了！
 
 伙伴们不能动！"
-"BLTMSGID_STONE_0","[f 2 4 0]它变成了石头！","BLTMSGID_STONE_0","机翻辅助：
+"BLTMSGID_STONE_0","[占位A 01]是石化的！","BLTMSGID_STONE_0","机翻辅助：
 
 [占位A 01]是石化的！
 
 [占位A 01]已经石化了！
 
 [占位A 01]石化了！"
-"BLTMSGID_SLEEP_0","[f 2 4 0]正在睡觉。","BLTMSGID_SLEEP_0","机翻辅助：
+"BLTMSGID_SLEEP_0","[占位A 01]在睡觉","BLTMSGID_SLEEP_0","机翻辅助：
 
 [占位A 01]在睡觉
 
 [占位A 01]睡着了！"
-"BLTMSGID_CONFUSE_0","[f 2 4 0]我很困惑！","BLTMSGID_CONFUSE_0","机翻辅助：
+"BLTMSGID_CONFUSE_0","[占位A 01]是混乱的！","BLTMSGID_CONFUSE_0","机翻辅助：
 
 [占位A 01]是混乱的！
 
 [占位A 01]混乱了！
 
 [占位A 01]陷入混乱！"
-"BLTMSGID_PARA_0","[f 2 4 0]我麻痹了，动不了！","BLTMSGID_PARA_0","机翻辅助：
+"BLTMSGID_PARA_0","[占位A 01]麻痹不能动！","BLTMSGID_PARA_0","机翻辅助：
 
 [占位A 01]麻痹不能动！
 
 [占位A 01]我瘫痪了，动不了！
 
 [占位A 01]麻痹而动不了！"
-"BLTMSGID_TERROR_0","[f 2 4 0]处于恐慌状态，动弹不得！","BLTMSGID_TERROR_0","机翻辅助：
+"BLTMSGID_TERROR_0","[占位A 01]是泰勒状态不能动！","BLTMSGID_TERROR_0","机翻辅助：
 
 [占位A 01]是泰勒状态不能动！
 
 [占位A 01]处于静止状态动弹不得！
 
 [占位A 01]因恐惧而动不了！"
-"BLTMSGID_STUN_0","[f 2 4 0]我累坏了！","BLTMSGID_STUN_0","机翻辅助：
+"BLTMSGID_STUN_0","[占位A 01]瘫软在地！","BLTMSGID_STUN_0","机翻辅助：
 
 [占位A 01]瘫软在地！
 
 [占位A 01]筋疲力尽！
 
 [占位A 01]软磨硬泡的！"
-"BTLMSGID_F_SEAL_HEAD_0","[f 2 4 0]用封魔效果无法使用技能！","BTLMSGID_F_SEAL_HEAD_0","机翻辅助：
+"BTLMSGID_F_SEAL_HEAD_0","[占位A 01]因封印技能效果无法使用技能！","BTLMSGID_F_SEAL_HEAD_0","机翻辅助：
 
 [占位A 01]因封印技能效果无法使用技能！
 
 [占位A 01]由于魔封效果技能不能使用！
 
 [占位A 01]的封魔效果不能使用技能！"
-"BTLMSGID_F_SEAL_ARM_0","[f 2 4 0]用封印技能无法使用技能！","BTLMSGID_F_SEAL_ARM_0","机翻辅助：
+"BTLMSGID_F_SEAL_ARM_0","[占位A 01]因封印技能效果无法使用技能！","BTLMSGID_F_SEAL_ARM_0","机翻辅助：
 
 [占位A 01]因封印技能效果无法使用技能！
 
 [占位A 01]因为力封效果技能不能使用！
 
 [占位A 01]力封效果不能使用技能！"
-"BTLMSGID_F_SEAL_LEG_0","[f 2 4 0]无法逃脱速封的效果！","BTLMSGID_F_SEAL_LEG_0","机翻辅助：
+"BTLMSGID_F_SEAL_LEG_0","[占位A 01]因封印速度效果无法逃走！","BTLMSGID_F_SEAL_LEG_0","机翻辅助：
 
 [占位A 01]因封印速度效果无法逃走！
 
 [占位A 01]由于速封效果不能逃跑！
 
 [占位A 01]由于速封效果无法逃跑！"
-"BTLMSGID_CRITICALHIT_P_0","[f 2 4 1]他已经停止呼吸了！","BTLMSGID_CRITICALHIT_P_0","机翻辅助：
+"BTLMSGID_CRITICALHIT_P_0","[占位A 02]已断气！","BTLMSGID_CRITICALHIT_P_0","机翻辅助：
 
 [占位A 02]已断气！
 
 [占位A 02]气绝了！
 
 [占位A 02]断气了！"
-"BTLMSGID_CRITICALHIT_E_0","[f 2 4 1]扼杀了他的呼吸！","BTLMSGID_CRITICALHIT_E_0","机翻辅助：
+"BTLMSGID_CRITICALHIT_E_0","[占位A 02]已杀死！","BTLMSGID_CRITICALHIT_E_0","机翻辅助：
 
 [占位A 02]已杀死！
 
 [占位A 02]停止了呼吸！
 
 [占位A 02]的死根！"
-"BTLMSGID_ATTACK_0","[f 2 4 0]攻击！","BTLMSGID_ATTACK_0","机翻辅助：
+"BTLMSGID_ATTACK_0","[占位A 01]的攻击！","BTLMSGID_ATTACK_0","机翻辅助：
 
 [占位A 01]的攻击！"
 "BTLMSGID_DAMAGE_P_E_0","[占位A 02]对造成[占位A 03]伤害！","BTLMSGID_DAMAGE_P_E_0","机翻辅助：
@@ -159,7 +159,7 @@
 [占位A 02]给予了[占位A 03]的伤害！
 
 [占位A 02]给予了二[占位A 03]的伤害！"
-"BTLMSGID_DAMAGE_P_E_C_0","[f 2 4 2]造成了伤害！","BTLMSGID_DAMAGE_P_E_C_0","机翻辅助：
+"BTLMSGID_DAMAGE_P_E_C_0","[占位A 03]对造成伤害！","BTLMSGID_DAMAGE_P_E_C_0","机翻辅助：
 
 [占位A 03]对造成伤害！
 
@@ -187,31 +187,31 @@
 [占位A 01]使用了哈[占位A 04]！
 
 [占位A 01]使用了！[占位A 04]"
-"BTLMSGID_HPHEAL_0","[f 2 4 1]血量恢复了！","BTLMSGID_HPHEAL_0","机翻辅助：
+"BTLMSGID_HPHEAL_0","[占位A 02]的HP恢复！","BTLMSGID_HPHEAL_0","机翻辅助：
 
 [占位A 02]的HP恢复！
 
 [占位A 02]的HP恢复了！
 
 [占位A 02]的HP回复了！"
-"BTLMSGID_HPHEAL_ALL_0","[f 2 4 1]HP已完全恢复！","BTLMSGID_HPHEAL_ALL_0","机翻辅助：
+"BTLMSGID_HPHEAL_ALL_0","[占位A 02]的HP完全恢复！","BTLMSGID_HPHEAL_ALL_0","机翻辅助：
 
 [占位A 02]的HP完全恢复！
 
 [占位A 02]的HP完全恢复了！
 
 [占位A 02]的生命值完全恢复了！"
-"BTLMSGID_TPHEAL_0","[f 2 4 1]SP值恢复了！","BTLMSGID_TPHEAL_0","机翻辅助：
+"BTLMSGID_TPHEAL_0","[占位A 02]的SP恢复！","BTLMSGID_TPHEAL_0","机翻辅助：
 
 [占位A 02]的SP恢复！
 
 [占位A 02]的SP恢复了！"
-"BTLMSGID_TPHEAL_ALL_0","[f 2 4 1]SP完全恢复了！","BTLMSGID_TPHEAL_ALL_0","机翻辅助：
+"BTLMSGID_TPHEAL_ALL_0","[占位A 02]的SP完全恢复！","BTLMSGID_TPHEAL_ALL_0","机翻辅助：
 
 [占位A 02]的SP完全恢复！
 
 [占位A 02]的SP完全恢复了！"
-"BTLMSGID_DISCHARGE_0","[f 2 4 0]武器发出光芒！！","BTLMSGID_DISCHARGE_0","机翻辅助：
+"BTLMSGID_DISCHARGE_0","[占位A 01]的武器发出光芒！！","BTLMSGID_DISCHARGE_0","机翻辅助：
 
 [占位A 01]的武器发出光芒！！
 
@@ -232,193 +232,193 @@
 [占位A 01]使用了哈[占位A 04]！
 
 [占位A 01]使用了！[占位A 04]"
-"BTLMSGID_DEFENCE_0","[f 2 4 0]他在保护自己。","BTLMSGID_DEFENCE_0","机翻辅助：
+"BTLMSGID_DEFENCE_0","[占位A 01]保护自己！","BTLMSGID_DEFENCE_0","机翻辅助：
 
 [占位A 01]保护自己！
 
 [占位A 01]守护着自己。
 
 [占位A 01]是在保护自己。"
-"BTLMSGID_SUMMON_0","[f 2 4 0]召集了伙伴！","BTLMSGID_SUMMON_0","机翻辅助：
+"BTLMSGID_SUMMON_0","[占位A 01]呼叫同伴！","BTLMSGID_SUMMON_0","机翻辅助：
 
 [占位A 01]呼叫同伴！
 
 [占位A 01]呼唤同伴！
 
 [占位A 01]叫同伴来了！"
-"BLTMSGID_BST_DEAD_0","[f 2 4 1]他立刻死了！","BLTMSGID_BST_DEAD_0","机翻辅助：
+"BLTMSGID_BST_DEAD_0","[占位A 02]立即死亡！","BLTMSGID_BST_DEAD_0","机翻辅助：
 
 [占位A 02]立即死亡！
 
 [占位A 02]当场死亡！
 
 [占位A 02]马上就死了！"
-"BLTMSGID_BST_STONE_0","[f 2 4 1]变成了石头！","BLTMSGID_BST_STONE_0","机翻辅助：
+"BLTMSGID_BST_STONE_0","[占位A 02]石化！","BLTMSGID_BST_STONE_0","机翻辅助：
 
 [占位A 02]石化！
 
 [占位A 02]石化了！
 
 [占位A 02]哈石化了！"
-"BLTMSGID_BST_SLEEP_0","[f 2 4 1]他睡着了！","BLTMSGID_BST_SLEEP_0","机翻辅助：
+"BLTMSGID_BST_SLEEP_0","[占位A 02]陷入沉睡！","BLTMSGID_BST_SLEEP_0","机翻辅助：
 
 [占位A 02]陷入沉睡！
 
 [占位A 02]睡起来了！
 
 [占位A 02]我睡着了！"
-"BLTMSGID_BST_CONFUSE_0","[f 2 4 1]我很困惑！","BLTMSGID_BST_CONFUSE_0","机翻辅助：
+"BLTMSGID_BST_CONFUSE_0","[占位A 02]陷入混乱！","BLTMSGID_BST_CONFUSE_0","机翻辅助：
 
 [占位A 02]陷入混乱！
 
 [占位A 02]混乱了！"
-"BLTMSGID_BST_POINSON_EX_0","[f 2 4 1]毒感染了！","BLTMSGID_BST_POINSON_EX_0","机翻辅助：
+"BLTMSGID_BST_POINSON_EX_0","[占位A 02]中毒！","BLTMSGID_BST_POINSON_EX_0","机翻辅助：
 
 [占位A 02]中毒！
 
 [占位A 02]毒感染了！
 
 [占位A 02]中了毒！"
-"BLTMSGID_BST_POISON_0","[f 2 4 1]给了毒！","BLTMSGID_BST_POISON_0","机翻辅助：
+"BLTMSGID_BST_POISON_0","[占位A 02]中毒！","BLTMSGID_BST_POISON_0","机翻辅助：
 
 [占位A 02]中毒！
 
 [占位A 02]毒害！
 
 [占位A 02]中了毒！"
-"BLTMSGID_BST_BLIND_0","[f 2 4 1]变成了盲人！","BLTMSGID_BST_BLIND_0","机翻辅助：
+"BLTMSGID_BST_BLIND_0","[占位A 02]盲目！","BLTMSGID_BST_BLIND_0","机翻辅助：
 
 [占位A 02]盲目！
 
 [占位A 02]我瞎了！
 
 [占位A 02]瞎了！"
-"BLTMSGID_BST_CURSE_0","[f 2 4 1]被诅咒了！","BLTMSGID_BST_CURSE_0","机翻辅助：
+"BLTMSGID_BST_CURSE_0","[占位A 02]被诅咒！","BLTMSGID_BST_CURSE_0","机翻辅助：
 
 [占位A 02]被诅咒！
 
 [占位A 02]被诅咒了！"
-"BLTMSGID_BST_PARA_0","[f 2 4 1]我麻痹了！","BLTMSGID_BST_PARA_0","机翻辅助：
+"BLTMSGID_BST_PARA_0","[占位A 02]麻痹！","BLTMSGID_BST_PARA_0","机翻辅助：
 
 [占位A 02]麻痹！
 
 [占位A 02]麻木了！
 
 [占位A 02]麻痹了！"
-"BLTMSGID_BST_STUN_0","[f 2 4 1]他晕倒了！","BLTMSGID_BST_STUN_0","机翻辅助：
+"BLTMSGID_BST_STUN_0","[占位A 02]昏厥！","BLTMSGID_BST_STUN_0","机翻辅助：
 
 [占位A 02]昏厥！
 
 [占位A 02]晕过去了！"
-"BLTMSGID_BST_SEAL_MA_0","[f 2 4 1]将其封印为魔封状态！","BLTMSGID_BST_SEAL_MA_0","机翻辅助：
+"BLTMSGID_BST_SEAL_MA_0","[占位A 02]封印技能状态！","BLTMSGID_BST_SEAL_MA_0","机翻辅助：
 
 [占位A 02]封印技能状态！
 
 [占位A 02]的魔封状态！
 
 [占位A 02]变成了魔封状态！"
-"BLTMSGID_BST_SEAL_RIKI_0","[f 2 4 1]将其封印在力量中！","BLTMSGID_BST_SEAL_RIKI_0","机翻辅助：
+"BLTMSGID_BST_SEAL_RIKI_0","[占位A 02]封印力量状态！","BLTMSGID_BST_SEAL_RIKI_0","机翻辅助：
 
 [占位A 02]封印力量状态！
 
 [占位A 02]变成了力封状态！
 
 [占位A 02]力封状态！"
-"BLTMSGID_BST_SEAL_SOKU_0","[f 2 4 1]将其封锁状态加速！","BLTMSGID_BST_SEAL_SOKU_0","机翻辅助：
+"BLTMSGID_BST_SEAL_SOKU_0","[占位A 02]封印速度状态！","BLTMSGID_BST_SEAL_SOKU_0","机翻辅助：
 
 [占位A 02]封印速度状态！
 
 [占位A 02]变成了速封状态！
 
 [占位A 02]的速封状态！"
-"BLTMSGID_RIVIVE_0","[f 2 4 1]他重新回到了战线上！","BLTMSGID_RIVIVE_0","机翻辅助：
+"BLTMSGID_RIVIVE_0","[占位A 02]重返战线！","BLTMSGID_RIVIVE_0","机翻辅助：
 
 [占位A 02]重返战线！
 
 [占位A 02]回到了战线！
 
 [占位A 02]回到前线了！"
-"BTLMSGID_BSTH_STONE_0","[f 2 4 1]石化解除了！","BTLMSGID_BSTH_STONE_0","机翻辅助：
+"BTLMSGID_BSTH_STONE_0","[占位A 02]解除石化！","BTLMSGID_BSTH_STONE_0","机翻辅助：
 
 [占位A 02]解除石化！
 
 [占位A 02]的石化解开了！
 
 [占位A 02]的石化融化了！"
-"BTLMSGID_BSTH_SLEEP_0","[f 2 4 1]他醒了！","BTLMSGID_BSTH_SLEEP_0","机翻辅助：
+"BTLMSGID_BSTH_SLEEP_0","[占位A 02]清醒！","BTLMSGID_BSTH_SLEEP_0","机翻辅助：
 
 [占位A 02]清醒！
 
 [占位A 02]我醒了！
 
 [占位A 02]醒了！"
-"BTLMSGID_BSTH_CONFUSION_0","[f 2 4 1]我恢复正常了！","BTLMSGID_BSTH_CONFUSION_0","机翻辅助：
+"BTLMSGID_BSTH_CONFUSION_0","[占位A 02]恢复正常！","BTLMSGID_BSTH_CONFUSION_0","机翻辅助：
 
 [占位A 02]恢复正常！
 
 [占位A 02]回到正气！
 
 [占位A 02]恢复正常了！"
-"BTLMSGID_BSTH_STINK_0","[f 2 4 1]她振作起来了！","BTLMSGID_BSTH_STINK_0","机翻辅助：
+"BTLMSGID_BSTH_STINK_0","[占位A 02]重新振作！","BTLMSGID_BSTH_STINK_0","机翻辅助：
 
 [占位A 02]重新振作！
 
 [占位A 02]重新站起来了！"
-"BTLMSGID_BSTH_POISON_0","[f 2 4 1]毒已经消失了！","BTLMSGID_BSTH_POISON_0","机翻辅助：
+"BTLMSGID_BSTH_POISON_0","[占位A 02]的毒消失！","BTLMSGID_BSTH_POISON_0","机翻辅助：
 
 [占位A 02]的毒消失！
 
 [占位A 02]的毒药消失了！
 
 [占位A 02]的毒消失了！"
-"BTLMSGID_BSTH_BLIND_0","[f 2 4 1]眼睛好了！","BTLMSGID_BSTH_BLIND_0","机翻辅助：
+"BTLMSGID_BSTH_BLIND_0","[占位A 02]的眼睛痊愈！","BTLMSGID_BSTH_BLIND_0","机翻辅助：
 
 [占位A 02]的眼睛痊愈！
 
 [占位A 02]眼睛好了！
 
 [占位A 02]的眼睛治好了！"
-"BTLMSGID_BSTH_CURSE_0","[f 2 4 1]诅咒解除了！","BTLMSGID_BSTH_CURSE_0","机翻辅助：
+"BTLMSGID_BSTH_CURSE_0","[占位A 02]的诅咒解除！","BTLMSGID_BSTH_CURSE_0","机翻辅助：
 
 [占位A 02]的诅咒解除！
 
 [占位A 02]的诅咒解除了！"
-"BTLMSGID_BSTH_PARALYSIS_0","[f 2 4 1]我的麻痹解除了！","BTLMSGID_BSTH_PARALYSIS_0","机翻辅助：
+"BTLMSGID_BSTH_PARALYSIS_0","[占位A 02]的麻痹解除！","BTLMSGID_BSTH_PARALYSIS_0","机翻辅助：
 
 [占位A 02]的麻痹解除！
 
 [占位A 02]的麻痹解开了！
 
 [占位A 02]的麻痹解除了！"
-"BTLMSGID_BSTH_HEAD_0","[f 2 4 1]解除了封印状态！","BTLMSGID_BSTH_HEAD_0","机翻辅助：
+"BTLMSGID_BSTH_HEAD_0","[占位A 02]解除封印技能状态！","BTLMSGID_BSTH_HEAD_0","机翻辅助：
 
 [占位A 02]解除封印技能状态！
 
 [占位A 02]的魔封状态解开了！
 
 [占位A 02]的魔封状态解除了！"
-"BTLMSGID_BSTH_ARM_0","[f 2 4 1]解除了封印状态！","BTLMSGID_BSTH_ARM_0","机翻辅助：
+"BTLMSGID_BSTH_ARM_0","[占位A 02]解除封印力量状态！","BTLMSGID_BSTH_ARM_0","机翻辅助：
 
 [占位A 02]解除封印力量状态！
 
 [占位A 02]的力封状态解开了！
 
 [占位A 02]的力量封印状态解除了！"
-"BTLMSGID_BSTH_LEG_0","[f 2 4 1]解除了封印状态！","BTLMSGID_BSTH_LEG_0","机翻辅助：
+"BTLMSGID_BSTH_LEG_0","[占位A 02]解除封印速度状态！","BTLMSGID_BSTH_LEG_0","机翻辅助：
 
 [占位A 02]解除封印速度状态！
 
 [占位A 02]的速封状态解开了！
 
 [占位A 02]的速封状态解除了！"
-"BTLMSGID_ESCAPE_0","[f 2 4 0]他逃跑了！","BTLMSGID_ESCAPE_0","机翻辅助：
+"BTLMSGID_ESCAPE_0","[占位A 01]逃走！","BTLMSGID_ESCAPE_0","机翻辅助：
 
 [占位A 01]逃走！
 
 [占位A 01]逃跑了！
 
 [占位A 01]逃走了！"
-"BTLMSGID_NOT_ESCAPE_0","[f 2 4 0]无法逃脱！","BTLMSGID_NOT_ESCAPE_0","机翻辅助：
+"BTLMSGID_NOT_ESCAPE_0","[占位A 01]无法逃走！","BTLMSGID_NOT_ESCAPE_0","机翻辅助：
 
 [占位A 01]无法逃走！
 
@@ -437,26 +437,26 @@
 无法逃离！！
 
 逃不掉！！"
-"BTLMSGID_NOT_ESCAPE_LEG_0","[f 2 4 0]无法逃脱！","BTLMSGID_NOT_ESCAPE_LEG_0","机翻辅助：
+"BTLMSGID_NOT_ESCAPE_LEG_0","[占位A 01]无法逃走！","BTLMSGID_NOT_ESCAPE_LEG_0","机翻辅助：
 
 [占位A 01]无法逃走！
 
 [占位A 01]没能逃掉！
 
 [占位A 01]不能逃跑！"
-"BTLMSGID_UNITDEAD_E_0","[f 2 4 1]打倒了！","BTLMSGID_UNITDEAD_E_0","机翻辅助：
+"BTLMSGID_UNITDEAD_E_0","[占位A 02]打倒！","BTLMSGID_UNITDEAD_E_0","机翻辅助：
 
 [占位A 02]打倒！
 
 [占位A 02]打倒了！"
-"BTLMSGID_UNITDEAD_P_0","[f 2 4 1]力量耗尽了！","BTLMSGID_UNITDEAD_P_0","机翻辅助：
+"BTLMSGID_UNITDEAD_P_0","[占位A 02]力竭身亡！","BTLMSGID_UNITDEAD_P_0","机翻辅助：
 
 [占位A 02]力竭身亡！
 
 [占位A 02]已经筋疲力尽了！
 
 [占位A 02]筋疲力尽了！"
-"BTLMSGID_PARTYDEAD_E_S_0","[f 2 4 1]击败了！","BTLMSGID_PARTYDEAD_E_S_0","机翻辅助：
+"BTLMSGID_PARTYDEAD_E_S_0","[占位A 02]击败！","BTLMSGID_PARTYDEAD_E_S_0","机翻辅助：
 
 [占位A 02]击败！
 
@@ -475,21 +475,21 @@
 派对全军覆没……
 
 派对全灭了……"
-"BTLMSGID_KUISHIBARI_0","[f 2 4 1]成功抵抗了攻击！","BTLMSGID_KUISHIBARI_0","机翻辅助：
+"BTLMSGID_KUISHIBARI_0","[占位A 02]承受攻击！","BTLMSGID_KUISHIBARI_0","机翻辅助：
 
 [占位A 02]承受攻击！
 
 [占位A 02]顶住了攻击！
 
 [占位A 02]抵抗了攻击！"
-"BTLMSGID_LIMITSUMMON_0","[f 2 4 0]我们合作召集了伙伴！","BTLMSGID_LIMITSUMMON_0","机翻辅助：
+"BTLMSGID_LIMITSUMMON_0","[占位A 01]合作呼叫同伴！","BTLMSGID_LIMITSUMMON_0","机翻辅助：
 
 [占位A 01]合作呼叫同伴！
 
 [占位A 01]合作召唤了同伴！
 
 [占位A 01]帮忙叫伙伴了！"
-"BTLMSGID_MEGAN_0","[f 2 4 1]已经力尽了……","BTLMSGID_MEGAN_0","机翻辅助：
+"BTLMSGID_MEGAN_0","[占位A 02]力竭身亡……","BTLMSGID_MEGAN_0","机翻辅助：
 
 [占位A 02]力竭身亡……
 
@@ -501,7 +501,7 @@
 全体
 
 总体"
-"BTLMSGID_SUMMON_SACRIFIC_0","[f 2 4 1]已经断气了…","BTLMSGID_SUMMON_SACRIFIC_0","机翻辅助：
+"BTLMSGID_SUMMON_SACRIFIC_0","[占位A 02]断气了……","BTLMSGID_SUMMON_SACRIFIC_0","机翻辅助：
 
 [占位A 02]断气了……
 
@@ -511,14 +511,14 @@
 可是，同伴没有出现！
 
 但是，同伴没有出现！"
-"BTLMSGID_POISONDAMAGE_0","[f 2 4 1]受到了毒伤害！","BTLMSGID_POISONDAMAGE_0","机翻辅助：
+"BTLMSGID_POISONDAMAGE_0","[占位A 02]受到毒系伤害！","BTLMSGID_POISONDAMAGE_0","机翻辅助：
 
 [占位A 02]受到毒系伤害！
 
 [占位A 02]受到了毒伤害！
 
 [占位A 02]受到了毒的伤害！"
-"BTLMSGID_SACRIFICE_0","[f 2 4 0]出现了！","BTLMSGID_SACRIFICE_0","机翻辅助：
+"BTLMSGID_SACRIFICE_0","[占位A 01]出现了！","BTLMSGID_SACRIFICE_0","机翻辅助：
 
 [占位A 01]出现了！"
 "BTLMSGID_CHANGE_0","[占位A 01]和[占位A 02]交换了！","BTLMSGID_CHANGE_0","机翻辅助：
@@ -528,7 +528,7 @@
 [占位A 01]和[占位A 02]交替了！
 
 [占位A 01]和[占位A 02]互换了！"
-"BTLMSGID_MOVE_0","[f 2 4 0]已经移动了！","BTLMSGID_MOVE_0","机翻辅助：
+"BTLMSGID_MOVE_0","[占位A 01]移动了！","BTLMSGID_MOVE_0","机翻辅助：
 
 [占位A 01]移动了！"
 "BTLMSGID_RANGEOUT_0","但是，攻击没有命中！","BTLMSGID_RANGEOUT_0","机翻辅助：
@@ -538,14 +538,14 @@
 但是，攻击无法到达！
 
 但是，攻击功亏一篑！"
-"BTLMSGID_MISS_0","[f 2 4 1]对此没有效果。","BTLMSGID_MISS_0","机翻辅助：
+"BTLMSGID_MISS_0","[占位A 02]对无效。","BTLMSGID_MISS_0","机翻辅助：
 
 [占位A 02]对无效。
 
 [占位A 02]中没有效果。
 
 [占位A 02]没有效果。"
-"BTLMSGID_AVOID_0","[f 2 4 1]成功躲避了攻击！","BTLMSGID_AVOID_0","机翻辅助：
+"BTLMSGID_AVOID_0","[占位A 02]躲掉了攻击！","BTLMSGID_AVOID_0","机翻辅助：
 
 [占位A 02]躲掉了攻击！
 
@@ -557,21 +557,21 @@
 [占位A 02]阻止了[占位A 01]的行动！
 
 [占位A 02]打断了叶[占位A 01]的行动！"
-"BTLMSGID_REFUP_CRITICAL_0","[f 2 4 1]暴击率上升！","BTLMSGID_REFUP_CRITICAL_0","机翻辅助：
+"BTLMSGID_REFUP_CRITICAL_0","[占位A 02]的会心一击率上升！","BTLMSGID_REFUP_CRITICAL_0","机翻辅助：
 
 [占位A 02]的会心一击率上升！
 
 [占位A 02]的临界率上升！
 
 [占位A 02]的关键率上升！"
-"BTLMSGID_REFUP_HEALEFF_0","[f 2 4 1]附带了恢复效果！","BTLMSGID_REFUP_HEALEFF_0","机翻辅助：
+"BTLMSGID_REFUP_HEALEFF_0","[占位A 02]附带恢复效果！","BTLMSGID_REFUP_HEALEFF_0","机翻辅助：
 
 [占位A 02]附带恢复效果！
 
 [占位A 02]恢复效果！
 
 [占位A 02]中附有恢复效果！"
-"BTLMSGID_BS3_UROKOCHASE_0","[f 2 4 0]火焰被点燃并蔓延开来！","BTLMSGID_BS3_UROKOCHASE_0","机翻辅助：
+"BTLMSGID_BS3_UROKOCHASE_0","[占位A 01]对敌人产生反应，喷出火焰！","BTLMSGID_BS3_UROKOCHASE_0","机翻辅助：
 
 [占位A 01]对敌人产生反应，喷出火焰！
 
@@ -585,21 +585,21 @@
 伤害无效化！
 
 伤害变成无效化了！"
-"BTLMSGID_DSUMMON_0","[f 2 4 0]他对同伴的死有所反应！","BTLMSGID_DSUMMON_0","机翻辅助：
+"BTLMSGID_DSUMMON_0","[占位A 01]对同伴的死产生反应！","BTLMSGID_DSUMMON_0","机翻辅助：
 
 [占位A 01]对同伴的死产生反应！
 
 [占位A 01]对同伴的死作出了反应！
 
 [占位A 01]对同伴的死做出了反应！"
-"BTLMSGID_REFDOWN_CRITICA_0","[f 2 4 1]暴击率下降了！","BTLMSGID_REFDOWN_CRITICA_0","机翻辅助：
+"BTLMSGID_REFDOWN_CRITICA_0","[占位A 02]的会心一击率下降！","BTLMSGID_REFDOWN_CRITICA_0","机翻辅助：
 
 [占位A 02]的会心一击率下降！
 
 [占位A 02]的关键率降低了！
 
 [占位A 02]的临界率下降了！"
-"BTLMSGID_ANDROSTOP_0","[f 2 4 0]他停止了行动！","BTLMSGID_ANDROSTOP_0","机翻辅助：
+"BTLMSGID_ANDROSTOP_0","[占位A 01]暂时停止行动！","BTLMSGID_ANDROSTOP_0","机翻辅助：
 
 [占位A 01]暂时停止行动！
 
@@ -613,7 +613,7 @@
 [占位A 01]把[占位A 02]咬碎了！
 
 [占位A 01]撕咬了牙[占位A 02]！"
-"BTLMSGID_LIMITON_0","[f 2 4 0]我感到紧张！","BTLMSGID_LIMITON_0","机翻辅助：
+"BTLMSGID_LIMITON_0","[占位A 01]摆出架式！","BTLMSGID_LIMITON_0","机翻辅助：
 
 [占位A 01]摆出架式！
 
@@ -625,10 +625,10 @@
 可是，和[占位A 02]的联手行动以失败告终！
 
 但是，和[占位A 02]的合作以失败告终！"
-"BTLMSGID_MIRROR_1_0","[f 2 4 0]出现了影子！","BTLMSGID_MIRROR_1_0","机翻辅助：
+"BTLMSGID_MIRROR_1_0","[占位A 01]的影子出现了！","BTLMSGID_MIRROR_1_0","机翻辅助：
 
 [占位A 01]的影子出现了！"
-"BTLMSGID_MIRROR_2_0","[f 2 4 0]分身出现了！","BTLMSGID_MIRROR_2_0","机翻辅助：
+"BTLMSGID_MIRROR_2_0","[占位A 01]的分身出现了！","BTLMSGID_MIRROR_2_0","机翻辅助：
 
 [占位A 01]的分身出现了！"
 "BTLMSGID_6BOSS_BURSTMISS_0","可是，没有发动[占位A 04]！","BTLMSGID_6BOSS_BURSTMISS_0","机翻辅助：
@@ -648,31 +648,31 @@
 要移动到哪里？
 
 移动到哪里？"
-"BTLMSGID_BOOT_0","[f 2 4 3]触发了！","BTLMSGID_BOOT_0","机翻辅助：
+"BTLMSGID_BOOT_0","[占位A 04]发动！","BTLMSGID_BOOT_0","机翻辅助：
 
 [占位A 04]发动！"
-"BTLMSGID_BLOCK_0","[f 2 4 1]无效化了伤害！","BTLMSGID_BLOCK_0","机翻辅助：
+"BTLMSGID_BLOCK_0","[占位A 02]抵销了伤害！","BTLMSGID_BLOCK_0","机翻辅助：
 
 [占位A 02]抵销了伤害！
 
 [占位A 02]伤害无效化！
 
 [占位A 02]伤害无效化了！"
-"BTLMSGID_DEAD_P_0","[f 2 4 1]被吹飞了！","BTLMSGID_DEAD_P_0","机翻辅助：
+"BTLMSGID_DEAD_P_0","[占位A 02]被打飞了！","BTLMSGID_DEAD_P_0","机翻辅助：
 
 [占位A 02]被打飞了！
 
 [占位A 02]吹跑了！
 
 [占位A 02]吹飞了！"
-"BTLMSGID_ONESTOP_0","[f 2 4 0]是的，行动受阻动不了！","BTLMSGID_ONESTOP_0","机翻辅助：
+"BTLMSGID_ONESTOP_0","[占位A 01]被阻止行动，动弹不得！","BTLMSGID_ONESTOP_0","机翻辅助：
 
 [占位A 01]被阻止行动，动弹不得！
 
 [占位A 01]是，行动被打断不能动！
 
 [占位A 01]被打断了行动，动弹不得！"
-"BTLMSGID_ANALYZE_0","[f 2 4 1]分析了他的能力！","BTLMSGID_ANALYZE_0","机翻辅助：
+"BTLMSGID_ANALYZE_0","[占位A 02]解析了的能力！","BTLMSGID_ANALYZE_0","机翻辅助：
 
 [占位A 02]解析了的能力！
 
@@ -682,7 +682,7 @@
 [占位A 02]的最大HP减少了[占位A 03]！
 
 [占位A 02]的最大HP[占位A 03]减少了！"
-"BTLMSGID_MITIBIKI_0","[f 2 4 0]他开始静静地祈祷了！","BTLMSGID_MITIBIKI_0","机翻辅助：
+"BTLMSGID_MITIBIKI_0","[占位A 01]开始静静地祈祷！","BTLMSGID_MITIBIKI_0","机翻辅助：
 
 [占位A 01]开始静静地祈祷！
 
@@ -704,22 +704,22 @@
 可是，没有效果！
 
 但是，没有效果！"
-"BTLMSGID_MISSCOUNTER_0","[f 2 4 1]化为伏兵袭击敌人！","BTLMSGID_MISSCOUNTER_0","机翻辅助：
+"BTLMSGID_MISSCOUNTER_0","[占位A 02]化为伏兵，袭击敌人！","BTLMSGID_MISSCOUNTER_0","机翻辅助：
 
 [占位A 02]化为伏兵，袭击敌人！
 
 [占位A 02]化为伏兵袭击敌人！"
-"BTLMSGID_NOTCHANGE_0","[f 2 4 0]无法交换！","BTLMSGID_NOTCHANGE_0","机翻辅助：
+"BTLMSGID_NOTCHANGE_0","[占位A 01]没有交换！","BTLMSGID_NOTCHANGE_0","机翻辅助：
 
 [占位A 01]没有交换！
 
 [占位A 01]没有被替换！"
-"BTLMSGID_SEPARATE_MISS_0","[f 2 4 0]分离失败了！","BTLMSGID_SEPARATE_MISS_0","机翻辅助：
+"BTLMSGID_SEPARATE_MISS_0","[占位A 01]分离失败！","BTLMSGID_SEPARATE_MISS_0","机翻辅助：
 
 [占位A 01]分离失败！
 
 [占位A 01]分离失败了！"
-"BTLMSGID_PORATA_MISS_0","[f 2 4 0]合体失败了！","BTLMSGID_PORATA_MISS_0","机翻辅助：
+"BTLMSGID_PORATA_MISS_0","[占位A 01]合体失败！","BTLMSGID_PORATA_MISS_0","机翻辅助：
 
 [占位A 01]合体失败！
 
@@ -755,12 +755,12 @@
 准备追加攻击的机会！
 
 准备好了追加攻击的机会！"
-"BTLMSGID_ACT_ACTCUT_0","[f 2 4 1]集中注意力在动向上！","BTLMSGID_ACT_ACTCUT_0","机翻辅助：
+"BTLMSGID_ACT_ACTCUT_0","[占位A 02]集中意识，注意的动向！","BTLMSGID_ACT_ACTCUT_0","机翻辅助：
 
 [占位A 02]集中意识，注意的动向！
 
 [占位A 02]的动向集中了意识！"
-"BTLMSGID_BEASTOFF_0","[f 2 4 0]他走了回去…","BTLMSGID_BEASTOFF_0","机翻辅助：
+"BTLMSGID_BEASTOFF_0","[占位A 01]回去了……","BTLMSGID_BEASTOFF_0","机翻辅助：
 
 [占位A 01]回去了……
 
@@ -772,22 +772,22 @@
 [占位A 01]出现了[占位A 02]！
 
 [占位A 01]卡拉[占位A 02]出现了！"
-"BTLMSGID_ROCKETJUMP_0","[f 2 4 1]它高高飞起来了！","BTLMSGID_ROCKETJUMP_0","机翻辅助：
+"BTLMSGID_ROCKETJUMP_0","[占位A 02]高高跃起！","BTLMSGID_ROCKETJUMP_0","机翻辅助：
 
 [占位A 02]高高跃起！
 
 [占位A 02]高高飘扬！
 
 [占位A 02]飞高了！"
-"BTLMSGID_PROTECT_FRONT_0","[f 2 4 3]他保护了前排的同伴！","BTLMSGID_PROTECT_FRONT_0","机翻辅助：
+"BTLMSGID_PROTECT_FRONT_0","[占位A 04]保护了前排的同伴！","BTLMSGID_PROTECT_FRONT_0","机翻辅助：
 
 [占位A 04]保护了前排的同伴！"
-"BTLMSGID_PROTECT_REAR_0","[f 2 4 3]他为后排的同伴辩护了！","BTLMSGID_PROTECT_REAR_0","机翻辅助：
+"BTLMSGID_PROTECT_REAR_0","[占位A 04]保护了后列的同伴！","BTLMSGID_PROTECT_REAR_0","机翻辅助：
 
 [占位A 04]保护了后列的同伴！
 
 [占位A 04]保护了后排的同伴！"
-"BTLMSGID_COVER_UP_0","[f 2 4 1]他为了朋友挺身而出！","BTLMSGID_COVER_UP_0","机翻辅助：
+"BTLMSGID_COVER_UP_0","[占位A 02]保护了同伴！","BTLMSGID_COVER_UP_0","机翻辅助：
 
 [占位A 02]保护了同伴！
 
@@ -799,199 +799,199 @@
 [占位A 04]保护了[占位A 02]！
 
 [占位A 04]袒护了羽[占位A 02]！"
-"BTLMSGID_REPEAT_0","[f 2 4 1]是正在受到其影响。","BTLMSGID_REPEAT_0","机翻辅助：
+"BTLMSGID_REPEAT_0","[占位A 02]受到HA的效果影响","BTLMSGID_REPEAT_0","机翻辅助：
 
 [占位A 02]受到HA的效果影响
 
 [占位A 02]受到了那个效果
 
 [占位A 02]受其影响"
-"BTLMSGID_OVERWRITE_0","[f 2 4 2]效果延长了！","BTLMSGID_OVERWRITE_0","机翻辅助：
+"BTLMSGID_OVERWRITE_0","[占位A 03]的效果延长了！","BTLMSGID_OVERWRITE_0","机翻辅助：
 
 [占位A 03]的效果延长了！
 
 [占位A 03]的效果被延长了！"
-"BTLMSGID_REFUPCLEAR_0","[f 2 4 1]打消了其强化效果！","BTLMSGID_REFUPCLEAR_0","机翻辅助：
+"BTLMSGID_REFUPCLEAR_0","[占位A 02]抵销了“魔黑雷帝”的强化效果！","BTLMSGID_REFUPCLEAR_0","机翻辅助：
 
 [占位A 02]抵销了“魔黑雷帝”的强化效果！
 
 [占位A 02]的强化效果消失了！
 
 [占位A 02]的强化效果抵消了！"
-"BTLMSGID_REFDOWNCLEAR_0","[f 2 4 1]打消了虚弱效果！","BTLMSGID_REFDOWNCLEAR_0","机翻辅助：
+"BTLMSGID_REFDOWNCLEAR_0","[占位A 02]抵销了的弱化效果！","BTLMSGID_REFDOWNCLEAR_0","机翻辅助：
 
 [占位A 02]抵销了的弱化效果！
 
 [占位A 02]的弱弱效果消失了！
 
 [占位A 02]抵消了减弱效果！"
-"BTLMSGID_UPOFF_0","[f 2 4 1]消除了强化！","BTLMSGID_UPOFF_0","机翻辅助：
+"BTLMSGID_UPOFF_0","[占位A 02]消除了强化！","BTLMSGID_UPOFF_0","机翻辅助：
 
 [占位A 02]消除了强化！
 
 [占位A 02]的强化消失了！
 
 [占位A 02]消去了的强化！"
-"BTLMSGID_DOWNOFF_0","[f 2 4 1]消除了弱点！","BTLMSGID_DOWNOFF_0","机翻辅助：
+"BTLMSGID_DOWNOFF_0","[占位A 02]弱化效果消失了！","BTLMSGID_DOWNOFF_0","机翻辅助：
 
 [占位A 02]弱化效果消失了！
 
 [占位A 02]的弱点消失了！
 
 [占位A 02]消去了的虚弱！"
-"BTLMSGID_REF_ATTACK_UPC_0","[f 2 4 1]打消了攻击强化！","BTLMSGID_REF_ATTACK_UPC_0","机翻辅助：
+"BTLMSGID_REF_ATTACK_UPC_0","[占位A 02]抵销了的攻击强化！","BTLMSGID_REF_ATTACK_UPC_0","机翻辅助：
 
 [占位A 02]抵销了的攻击强化！
 
 [占位A 02]的攻击强化打消了！
 
 [占位A 02]的攻击强化抵消了！"
-"BTLMSGID_REF_DEFENCE_UPC_0","[f 2 4 1]打消了防御强化！","BTLMSGID_REF_DEFENCE_UPC_0","机翻辅助：
+"BTLMSGID_REF_DEFENCE_UPC_0","[占位A 02]抵销了的防御强化！","BTLMSGID_REF_DEFENCE_UPC_0","机翻辅助：
 
 [占位A 02]抵销了的防御强化！
 
 [占位A 02]的防御强化打消了！"
-"BTLMSGID_REF_SPEED_UPC_0","[f 2 4 1]取消了行动速度强化！","BTLMSGID_REF_SPEED_UPC_0","机翻辅助：
+"BTLMSGID_REF_SPEED_UPC_0","[占位A 02]抵销了的行动速度强化！","BTLMSGID_REF_SPEED_UPC_0","机翻辅助：
 
 [占位A 02]抵销了的行动速度强化！
 
 [占位A 02]的行动速度强化！
 
 [占位A 02]的行动速度强化抵消了！"
-"BTLMSGID_REF_HITRATIO_UP_0","[f 2 4 1]击败了命中率强化！","BTLMSGID_REF_HITRATIO_UP_0","机翻辅助：
+"BTLMSGID_REF_HITRATIO_UP_0","[占位A 02]抵销了的命中率强化！","BTLMSGID_REF_HITRATIO_UP_0","机翻辅助：
 
 [占位A 02]抵销了的命中率强化！
 
 [占位A 02]的命中率强化抵消了！
 
 [占位A 02]的命中率强化！"
-"BTLMSGID_REF_AVOID_UPC_0","[f 2 4 1]抵消了回避率强化！","BTLMSGID_REF_AVOID_UPC_0","机翻辅助：
+"BTLMSGID_REF_AVOID_UPC_0","[占位A 02]抵销了的回避率强化！","BTLMSGID_REF_AVOID_UPC_0","机翻辅助：
 
 [占位A 02]抵销了的回避率强化！
 
 [占位A 02]的回避率强化抵消了！
 
 [占位A 02]的回避率强化取消了！"
-"BTLMSGID_REF_ATTACK_DOWN_0","[f 2 4 1]抵消了攻击的削弱！","BTLMSGID_REF_ATTACK_DOWN_0","机翻辅助：
+"BTLMSGID_REF_ATTACK_DOWN_0","[占位A 02]抵销了的攻击弱化！","BTLMSGID_REF_ATTACK_DOWN_0","机翻辅助：
 
 [占位A 02]抵销了的攻击弱化！
 
 [占位A 02]的攻击弱化打消了！
 
 [占位A 02]的攻击减弱抵消了！"
-"BTLMSGID_REF_DEFENCE_DOW_0","[f 2 4 1]成功抵消了防御削弱！","BTLMSGID_REF_DEFENCE_DOW_0","机翻辅助：
+"BTLMSGID_REF_DEFENCE_DOW_0","[占位A 02]抵销了的防御弱化！","BTLMSGID_REF_DEFENCE_DOW_0","机翻辅助：
 
 [占位A 02]抵销了的防御弱化！
 
 [占位A 02]的防御弱化消除了！
 
 [占位A 02]的防御减弱抵消了！"
-"BTLMSGID_REF_SPEED_DOWNC_0","[f 2 4 1]行动速度减弱效果被解除了！","BTLMSGID_REF_SPEED_DOWNC_0","机翻辅助：
+"BTLMSGID_REF_SPEED_DOWNC_0","[占位A 02]抵销了的行动速度弱化！","BTLMSGID_REF_SPEED_DOWNC_0","机翻辅助：
 
 [占位A 02]抵销了的行动速度弱化！
 
 [占位A 02]的行动速度打消了弱点！
 
 [占位A 02]的行动速度减弱抵消了！"
-"BTLMSGID_REF_HITRATIO_DO_0","[f 2 4 1]命中率下降被抵消了！","BTLMSGID_REF_HITRATIO_DO_0","机翻辅助：
+"BTLMSGID_REF_HITRATIO_DO_0","[占位A 02]抵销了的命中率弱化！","BTLMSGID_REF_HITRATIO_DO_0","机翻辅助：
 
 [占位A 02]抵销了的命中率弱化！
 
 [占位A 02]的命中率打消了弱点！
 
 [占位A 02]抵消了减弱的命中率！"
-"BTLMSGID_REF_AVOID_DOWNC_0","[f 2 4 1]成功抵消了闪避率削弱！","BTLMSGID_REF_AVOID_DOWNC_0","机翻辅助：
+"BTLMSGID_REF_AVOID_DOWNC_0","[占位A 02]抵销了回避率的弱化！","BTLMSGID_REF_AVOID_DOWNC_0","机翻辅助：
 
 [占位A 02]抵销了回避率的弱化！
 
 [占位A 02]的回避率消除了弱点！
 
 [占位A 02]的回避率减弱抵消了！"
-"BTLMSGID_REF_ATTACK_UP_0","[f 2 4 1]攻击力提升了！","BTLMSGID_REF_ATTACK_UP_0","机翻辅助：
+"BTLMSGID_REF_ATTACK_UP_0","[占位A 02]的攻击力提升了！","BTLMSGID_REF_ATTACK_UP_0","机翻辅助：
 
 [占位A 02]的攻击力提升了！
 
 [占位A 02]的攻击力上升了！"
-"BTLMSGID_REF_DEFENCE_UP_0","[f 2 4 1]防御力提升了！","BTLMSGID_REF_DEFENCE_UP_0","机翻辅助：
+"BTLMSGID_REF_DEFENCE_UP_0","[占位A 02]的防御力提升了！","BTLMSGID_REF_DEFENCE_UP_0","机翻辅助：
 
 [占位A 02]的防御力提升了！
 
 [占位A 02]的防御力上升了！"
-"BTLMSGID_REF_SPEED_UP_0","[f 2 4 1]是第一个能动起来了！","BTLMSGID_REF_SPEED_UP_0","机翻辅助：
+"BTLMSGID_REF_SPEED_UP_0","[占位A 02]我终于可以率先行动了！","BTLMSGID_REF_SPEED_UP_0","机翻辅助：
 
 [占位A 02]我终于可以率先行动了！
 
 [占位A 02]现在可以最先行动了！
 
 [占位A 02]第一个能行动了！"
-"BTLMSGID_REF_HITRATIO_UP_2_0","[f 2 4 1]命中率上升了！","BTLMSGID_REF_HITRATIO_UP_2_0","机翻辅助：
+"BTLMSGID_REF_HITRATIO_UP_2_0","[占位A 02]的命中率上升了！","BTLMSGID_REF_HITRATIO_UP_2_0","机翻辅助：
 
 [占位A 02]的命中率上升了！"
-"BTLMSGID_REF_AVOID_UP_0","[f 2 4 1]回避率提升了！","BTLMSGID_REF_AVOID_UP_0","机翻辅助：
+"BTLMSGID_REF_AVOID_UP_0","[占位A 02]的回避率上升了！","BTLMSGID_REF_AVOID_UP_0","机翻辅助：
 
 [占位A 02]的回避率上升了！"
-"BTLMSGID_REF_ATTACK_DOWN_2_0","[f 2 4 1]攻击力下降了！","BTLMSGID_REF_ATTACK_DOWN_2_0","机翻辅助：
+"BTLMSGID_REF_ATTACK_DOWN_2_0","[占位A 02]的攻击力下降了！","BTLMSGID_REF_ATTACK_DOWN_2_0","机翻辅助：
 
 [占位A 02]的攻击力下降了！"
-"BTLMSGID_REF_DEFENCE_DOW_2_0","[f 2 4 1]防御力下降了！","BTLMSGID_REF_DEFENCE_DOW_2_0","机翻辅助：
+"BTLMSGID_REF_DEFENCE_DOW_2_0","[占位A 02]的防御力下降了！","BTLMSGID_REF_DEFENCE_DOW_2_0","机翻辅助：
 
 [占位A 02]的防御力下降了！"
-"BTLMSGID_REF_SPEED_DOWN_0","[f 2 4 1]他故意拖延行动！","BTLMSGID_REF_SPEED_DOWN_0","机翻辅助：
+"BTLMSGID_REF_SPEED_DOWN_0","[占位A 02]故意拖延行动！","BTLMSGID_REF_SPEED_DOWN_0","机翻辅助：
 
 [占位A 02]故意拖延行动！
 
 [占位A 02]故意拖延了行动！"
-"BTLMSGID_REF_HITRATIO_DO_2_0","[f 2 4 1]命中率和回避率下降了！","BTLMSGID_REF_HITRATIO_DO_2_0","机翻辅助：
+"BTLMSGID_REF_HITRATIO_DO_2_0","[占位A 02]命中率、回避率下降！","BTLMSGID_REF_HITRATIO_DO_2_0","机翻辅助：
 
 [占位A 02]命中率、回避率下降！
 
 [占位A 02]的命中，回避率降低了！"
-"BTLMSGID_REF_AVOID_DOWN_0","[f 2 4 1]回避率下降了！","BTLMSGID_REF_AVOID_DOWN_0","机翻辅助：
+"BTLMSGID_REF_AVOID_DOWN_0","[占位A 02]的回避率下降了！","BTLMSGID_REF_AVOID_DOWN_0","机翻辅助：
 
 [占位A 02]的回避率下降了！
 
 [占位A 02]的回避率降低了！"
-"BTLMSGID_REF_ATTR_WEPUP__0","[f 2 4 1]通常攻击附带了火焰属性！","BTLMSGID_REF_ATTR_WEPUP__0","机翻辅助：
+"BTLMSGID_REF_ATTR_WEPUP__0","[占位A 02]的普通攻击附带火焰属性！","BTLMSGID_REF_ATTR_WEPUP__0","机翻辅助：
 
 [占位A 02]的普通攻击附带火焰属性！
 
 [占位A 02]的通常攻击附有火焰属性！
 
 [占位A 02]的普通攻击附有火焰属性！"
-"BTLMSGID_REF_ATTR_WEPUP__2_0","[f 2 4 1]通常攻击附带了冰冻属性！","BTLMSGID_REF_ATTR_WEPUP__2_0","机翻辅助：
+"BTLMSGID_REF_ATTR_WEPUP__2_0","[占位A 02]的普通攻击附带了冰冻属性！","BTLMSGID_REF_ATTR_WEPUP__2_0","机翻辅助：
 
 [占位A 02]的普通攻击附带了冰冻属性！
 
 [占位A 02]的通常攻击附有结冰属性！
 
 [占位A 02]的通常攻击附有了冰冻属性！"
-"BTLMSGID_REF_ATTR_WEPUP__3_0","[f 2 4 1]通常攻击附带了电击属性！","BTLMSGID_REF_ATTR_WEPUP__3_0","机翻辅助：
+"BTLMSGID_REF_ATTR_WEPUP__3_0","[占位A 02]的普通攻击附带了电击属性！","BTLMSGID_REF_ATTR_WEPUP__3_0","机翻辅助：
 
 [占位A 02]的普通攻击附带了电击属性！
 
 [占位A 02]的通常攻击附有电击属性！
 
 [占位A 02]的普通攻击附加了电击属性！"
-"BTLMSGID_REF_H_UP_0","[f 2 4 1]吸引了敌人的注意！","BTLMSGID_REF_H_UP_0","机翻辅助：
+"BTLMSGID_REF_H_UP_0","[占位A 02]吸引了敌人的注意力！","BTLMSGID_REF_H_UP_0","机翻辅助：
 
 [占位A 02]吸引了敌人的注意力！
 
 [占位A 02]引起了敌人的注意！"
-"BTLMSGID_REF_H_DOWN_0","[f 2 4 1]被敌人瞄准的可能性降低了！","BTLMSGID_REF_H_DOWN_0","机翻辅助：
+"BTLMSGID_REF_H_DOWN_0","[占位A 02]这样就比较不容易被敌人盯上了！","BTLMSGID_REF_H_DOWN_0","机翻辅助：
 
 [占位A 02]这样就比较不容易被敌人盯上了！
 
 [占位A 02]很难被敌人盯上了！
 
 [占位A 02]不容易被敌人盯上！"
-"BTLMSGID_REF_STNONE_0","[f 2 4 1]状态异常不起作用了！","BTLMSGID_REF_STNONE_0","机翻辅助：
+"BTLMSGID_REF_STNONE_0","[占位A 02]异常状态无效化！","BTLMSGID_REF_STNONE_0","机翻辅助：
 
 [占位A 02]异常状态无效化！
 
 [占位A 02]状态异常不起作用了！
 
 [占位A 02]状态异常失效了！"
-"BTLMSGID_REF_HP_UP_0","[f 2 4 1]最大生命值提升了！","BTLMSGID_REF_HP_UP_0","机翻辅助：
+"BTLMSGID_REF_HP_UP_0","[占位A 02]的最大HP上升了！","BTLMSGID_REF_HP_UP_0","机翻辅助：
 
 [占位A 02]的最大HP上升了！
 
@@ -1017,7 +1017,7 @@ Divide Guard Message
 请稍等。
 
 请稍等一下。"
-"BTLMSGID_TRNS_CMNDSELECT_0","[f 2 4 0]华丽地变换了！","BTLMSGID_TRNS_CMNDSELECT_0","机翻辅助：
+"BTLMSGID_TRNS_CMNDSELECT_0","[占位A 01]华丽地闪开了！","BTLMSGID_TRNS_CMNDSELECT_0","机翻辅助：
 
 [占位A 01]华丽地闪开了！
 
@@ -1034,7 +1034,7 @@ Divide Guard Message
 请稍等。
 
 其他的PLAYER正在输入。请稍等。"
-"BTLMSGID_ES_ACT_COUNTER_0","[f 2 4 1]他很警惕！","BTLMSGID_ES_ACT_COUNTER_0","机翻辅助：
+"BTLMSGID_ES_ACT_COUNTER_0","[占位A 02]摆出架式！","BTLMSGID_ES_ACT_COUNTER_0","机翻辅助：
 
 [占位A 02]摆出架式！
 
@@ -1048,14 +1048,14 @@ Divide Guard Message
 [占位A 01]投了[占位A 02]！
 
 [占位A 01]把牙扔了！[占位A 02]"
-"BTLMSGID_ES_PATIENCE_0","[f 2 4 1]我忍耐着！","BTLMSGID_ES_PATIENCE_0","机翻辅助：
+"BTLMSGID_ES_PATIENCE_0","[占位A 02]忍耐！","BTLMSGID_ES_PATIENCE_0","机翻辅助：
 
 [占位A 02]忍耐！
 
 [占位A 02]我忍耐着！
 
 [占位A 02]忍着！"
-"BTLMSGID_ES_PATIENCE_ACT_0","[f 2 4 1]我的忍耐爆发了！","BTLMSGID_ES_PATIENCE_ACT_0","机翻辅助：
+"BTLMSGID_ES_PATIENCE_ACT_0","[占位A 02]的忍耐爆发！","BTLMSGID_ES_PATIENCE_ACT_0","机翻辅助：
 
 [占位A 02]的忍耐爆发！
 
@@ -1072,14 +1072,14 @@ Divide Guard Message
 [占位A 01]用最后的力量举起了[占位A 04]！
 
 [占位A 01]用最后的力量抬起了[占位A 04]！"
-"BTLMSGID_RARE_DASH_0","[f 2 4 0]正在发光闪耀！","BTLMSGID_RARE_DASH_0","机翻辅助：
+"BTLMSGID_RARE_DASH_0","[占位A 01]变得更加闪耀！","BTLMSGID_RARE_DASH_0","机翻辅助：
 
 [占位A 01]变得更加闪耀！
 
 [占位A 01]增加着光辉！
 
 [占位A 01]在增加着光辉！"
-"BTLMSGID_ATTRUP_1_0","[f 2 4 0]耐性提高了！","BTLMSGID_ATTRUP_1_0","机翻辅助：
+"BTLMSGID_ATTRUP_1_0","[占位A 01]的耐性提升！","BTLMSGID_ATTRUP_1_0","机翻辅助：
 
 [占位A 01]的耐性提升！
 
@@ -1112,104 +1112,104 @@ Divide Guard Message
 [占位A 02]吸收了[占位A 03]的伤害！
 
 [占位A 02]吸收了哈[占位A 03]的伤害！"
-"BTLMSGID_DEADACTION_18B_0","[f 2 4 0]是的，它爆炸了！","BTLMSGID_DEADACTION_18B_0","机翻辅助：
+"BTLMSGID_DEADACTION_18B_0","[占位A 01]爆炸！","BTLMSGID_DEADACTION_18B_0","机翻辅助：
 
 [占位A 01]爆炸！
 
 [占位A 01]是，暴发了！
 
 [占位A 01]啊，走火了！"
-"BTLMSGID_FANNEL_1_0","[f 2 4 1]释放了火焰机器人！","BTLMSGID_FANNEL_1_0","机翻辅助：
+"BTLMSGID_FANNEL_1_0","[占位A 02]展开火焰机器人！","BTLMSGID_FANNEL_1_0","机翻辅助：
 
 [占位A 02]展开火焰机器人！
 
 [占位A 02]火焰机器人展开了！
 
 [占位A 02]展开了火焰的BOT！"
-"BTLMSGID_FANNEL_2_0","[f 2 4 1]展开了冰之机器人！","BTLMSGID_FANNEL_2_0","机翻辅助：
+"BTLMSGID_FANNEL_2_0","[占位A 02]展开冰冻机器人！","BTLMSGID_FANNEL_2_0","机翻辅助：
 
 [占位A 02]展开冰冻机器人！
 
 [占位A 02]冰机器人展开了！
 
 [占位A 02]展开了冰的机器人！"
-"BTLMSGID_FANNEL_3_0","[f 2 4 1]释放了雷电机器人！","BTLMSGID_FANNEL_3_0","机翻辅助：
+"BTLMSGID_FANNEL_3_0","[占位A 02]展开雷电机器人！","BTLMSGID_FANNEL_3_0","机翻辅助：
 
 [占位A 02]展开雷电机器人！
 
 [占位A 02]展开了雷的机器人！
 
 [占位A 02]展开了雷的BOT！"
-"BTLMSGID_UNITDEAD_FNL_0","[f 2 4 1]动作停止了！","BTLMSGID_UNITDEAD_FNL_0","机翻辅助：
+"BTLMSGID_UNITDEAD_FNL_0","[占位A 02]停止动作！","BTLMSGID_UNITDEAD_FNL_0","机翻辅助：
 
 [占位A 02]停止动作！
 
 [占位A 02]停止了动作！"
-"BTLMSGID_K_FANNEL_0","[f 2 4 1]有反应了！","BTLMSGID_K_FANNEL_0","机翻辅助：
+"BTLMSGID_K_FANNEL_0","[占位A 02]做出反应！","BTLMSGID_K_FANNEL_0","机翻辅助：
 
 [占位A 02]做出反应！
 
 [占位A 02]反应了！
 
 [占位A 02]的反应！"
-"BTLMSGID_BOOT_F_0","[f 2 4 3]启动！","BTLMSGID_BOOT_F_0","机翻辅助：
+"BTLMSGID_BOOT_F_0","[占位A 04]启动！","BTLMSGID_BOOT_F_0","机翻辅助：
 
 [占位A 04]启动！"
-"BTLMSGID_SNIPER_0","[f 2 4 0]他拿起武器，瞄准目标！","BTLMSGID_SNIPER_0","机翻辅助：
+"BTLMSGID_SNIPER_0","[占位A 01]举起武器瞄准！","BTLMSGID_SNIPER_0","机翻辅助：
 
 [占位A 01]举起武器瞄准！
 
 [占位A 01]拿起武器瞄准了目标！
 
 [占位A 01]准备好武器瞄准了！"
-"BTLMSGID_SNIPER_MISS_0","[f 2 4 0]解开了武器的姿势！","BTLMSGID_SNIPER_MISS_0","机翻辅助：
+"BTLMSGID_SNIPER_MISS_0","[占位A 01]放下武器！","BTLMSGID_SNIPER_MISS_0","机翻辅助：
 
 [占位A 01]放下武器！
 
 [占位A 01]解开了武器的架势！
 
 [占位A 01]解除了武器的姿势！"
-"BTLMSGID_BEASTCOUNTER_0_0","[f 2 4 1]他很警惕！","BTLMSGID_BEASTCOUNTER_0_0","机翻辅助：
+"BTLMSGID_BEASTCOUNTER_0_0","[占位A 02]摆出架式！","BTLMSGID_BEASTCOUNTER_0_0","机翻辅助：
 
 [占位A 02]摆出架式！
 
 [占位A 02]已经做好了准备！
 
 [占位A 02]准备好了！"
-"BTLMSGID_BEAST_A4_0_0","[f 2 4 0]嘿，发出尖叫声，突然袭击了！","BTLMSGID_BEAST_A4_0_0","机翻辅助：
+"BTLMSGID_BEAST_A4_0_0","[占位A 01]发出低吼声逼近！","BTLMSGID_BEAST_A4_0_0","机翻辅助：
 
 [占位A 01]发出低吼声逼近！
 
 [占位A 01]发出轰鸣声晚了！
 
 [占位A 01]发出一声吼叫，很可怕！"
-"BTLMSGID_BEAST_A5_0_0","[f 2 4 0]我正在打瞌睡！","BTLMSGID_BEAST_A5_0_0","机翻辅助：
+"BTLMSGID_BEAST_A5_0_0","[占位A 01]打瞌睡！","BTLMSGID_BEAST_A5_0_0","机翻辅助：
 
 [占位A 01]打瞌睡！
 
 [占位A 01]我在打盹儿！
 
 [占位A 01]迷糊了！"
-"BTLMSGID_E_KAISH_BOOT_0","[f 2 4 0]他挥舞着大镰刀向我袭来！","BTLMSGID_E_KAISH_BOOT_0","机翻辅助：
+"BTLMSGID_E_KAISH_BOOT_0","[占位A 01]高举大镰刀逼近！","BTLMSGID_E_KAISH_BOOT_0","机翻辅助：
 
 [占位A 01]高举大镰刀逼近！
 
 [占位A 01]他举起大镰刀，向我猛击！
 
 [占位A 01]挥舞着大镰刀，慢下来了！"
-"BTLMSGID_BEAST_A1_0_0","[f 2 4 0]手臂再生！","BTLMSGID_BEAST_A1_0_0","机翻辅助：
+"BTLMSGID_BEAST_A1_0_0","[占位A 01]手臂再生！","BTLMSGID_BEAST_A1_0_0","机翻辅助：
 
 [占位A 01]手臂再生！
 
 [占位A 01]的手臂再生！"
-"BTLMSGID_BEAST_A1_1_0","[f 2 4 0]他在发呆！","BTLMSGID_BEAST_A1_1_0","机翻辅助：
+"BTLMSGID_BEAST_A1_1_0","[占位A 01]发呆！","BTLMSGID_BEAST_A1_1_0","机翻辅助：
 
 [占位A 01]发呆！
 
 [占位A 01]在发呆！
 
 [占位A 01]是发呆！"
-"BTLMSGID_BEAST_A1_2_0","[f 2 4 0]在梳理毛发！","BTLMSGID_BEAST_A1_2_0","机翻辅助：
+"BTLMSGID_BEAST_A1_2_0","[占位A 01]整理毛发！","BTLMSGID_BEAST_A1_2_0","机翻辅助：
 
 [占位A 01]整理毛发！
 
@@ -1229,19 +1229,19 @@ Divide Guard Message
 请稍等。
 
 发生了通信错误！请稍等。"
-"BTLMSGID_DEADSTONE_0","[f 2 4 1]变成了石头！","BTLMSGID_DEADSTONE_0","机翻辅助：
+"BTLMSGID_DEADSTONE_0","[占位A 02]石化！","BTLMSGID_DEADSTONE_0","机翻辅助：
 
 [占位A 02]石化！
 
 [占位A 02]石化了！
 
 [占位A 02]哈石化了！"
-"BTLMSGID_STOPBST_0","[f 2 4 1]状态异常攻击被无效化了！","BTLMSGID_STOPBST_0","机翻辅助：
+"BTLMSGID_STOPBST_0","[占位A 02]的异常状态攻击无效化！","BTLMSGID_STOPBST_0","机翻辅助：
 
 [占位A 02]的异常状态攻击无效化！
 
 [占位A 02]的状态异常攻击被无效化了！"
-"BTLMSGID_STOPSEAL_0","[f 2 4 1]封印攻击被无效化了！","BTLMSGID_STOPSEAL_0","机翻辅助：
+"BTLMSGID_STOPSEAL_0","[占位A 02]的封锁攻击无效化！","BTLMSGID_STOPSEAL_0","机翻辅助：
 
 [占位A 02]的封锁攻击无效化！
 
@@ -1255,7 +1255,7 @@ Divide Guard Message
 鲁恩的引导对[占位A 02]的弱点作出了反应！
 
 符文的导引对[占位A 02]的弱点做出了反应！"
-"BTLMSGID_MURAMASA_0","[f 2 4 0]他的眼睛变得充血了！","BTLMSGID_MURAMASA_0","机翻辅助：
+"BTLMSGID_MURAMASA_0","[占位A 01]眼睛充血！","BTLMSGID_MURAMASA_0","机翻辅助：
 
 [占位A 01]眼睛充血！
 
@@ -1267,28 +1267,28 @@ Divide Guard Message
 但是，打不到[占位A 02]！
 
 但是，达不到[占位A 02]！"
-"BTLMSGID_SARUTOBI_0","[f 2 4 1]华丽地变换了！","BTLMSGID_SARUTOBI_0","机翻辅助：
+"BTLMSGID_SARUTOBI_0","[占位A 02]华丽地闪开了！","BTLMSGID_SARUTOBI_0","机翻辅助：
 
 [占位A 02]华丽地闪开了！
 
 [占位A 02]华丽地躲开了！
 
 [占位A 02]华丽的交换了！"
-"BTLMSGID_BOSS_1_0","[f 2 4 0]他好像在闭着眼睛…","BTLMSGID_BOSS_1_0","机翻辅助：
+"BTLMSGID_BOSS_1_0","[占位A 01]似乎闭着眼睛……","BTLMSGID_BOSS_1_0","机翻辅助：
 
 [占位A 01]似乎闭着眼睛……
 
 [占位A 01]好像闭着眼睛……
 
 [占位A 01]好像是闭着眼睛……"
-"BTLMSGID_BS1_SPWATSTAN_0","[f 2 4 1]哈哈，你摔倒了！","BTLMSGID_BS1_SPWATSTAN_0","机翻辅助：
+"BTLMSGID_BS1_SPWATSTAN_0","[占位A 02]畏缩！","BTLMSGID_BS1_SPWATSTAN_0","机翻辅助：
 
 [占位A 02]畏缩！
 
 [占位A 02]哈哈哈！
 
 [占位A 02]胆怯了！"
-"BTLMSGID_BS1_STANMSG_0","[f 2 4 0]无法动！","BTLMSGID_BS1_STANMSG_0","机翻辅助：
+"BTLMSGID_BS1_STANMSG_0","[占位A 01]无法动弹！","BTLMSGID_BS1_STANMSG_0","机翻辅助：
 
 [占位A 01]无法动弹！
 
@@ -1314,40 +1314,40 @@ Divide Guard Message
 扭曲的丰饶神树
 
 扭曲丰收的神树"
-"BTLMSGID_H_KUISHIBARI_0","[f 2 4 1]加上了咬牙切齿的效果！","BTLMSGID_H_KUISHIBARI_0","机翻辅助：
+"BTLMSGID_H_KUISHIBARI_0","[占位A 02]附加啃咬效果！","BTLMSGID_H_KUISHIBARI_0","机翻辅助：
 
 [占位A 02]附加啃咬效果！
 
 [占位A 02]咬紧牙关有效果了！
 
 [占位A 02]的效果！"
-"BTLMSGID_OOMIE_0","[f 2 4 1]他太自以为是了！","BTLMSGID_OOMIE_0","机翻辅助：
+"BTLMSGID_OOMIE_0","[占位A 02]摆出架式！","BTLMSGID_OOMIE_0","机翻辅助：
 
 [占位A 02]摆出架式！
 
 [占位A 02]大获成功！
 
 [占位A 02]大赚了一笔！"
-"BTLMSGID_NONBST_0","[f 2 4 1]状态异常，封印预防了！","BTLMSGID_NONBST_0","机翻辅助：
+"BTLMSGID_NONBST_0","[占位A 02]预防了异常状态、封印！","BTLMSGID_NONBST_0","机翻辅助：
 
 [占位A 02]预防了异常状态、封印！
 
 [占位A 02]是状态异常，预防了封锁！
 
 [占位A 02]是状态异常，预防了堵塞！"
-"BTLMSGID_NONSEAL_0","[f 2 4 1]绳子不再粘在上面了！","BTLMSGID_NONSEAL_0","机翻辅助：
+"BTLMSGID_NONSEAL_0","[占位A 02]不再附着束缚！","BTLMSGID_NONSEAL_0","机翻辅助：
 
 [占位A 02]不再附着束缚！
 
 [占位A 02]绑不上了！
 
 [占位A 02]不绑了！"
-"BTLMSGID_DENGUN_0","[f 2 4 1]任命为先锋！","BTLMSGID_DENGUN_0","机翻辅助：
+"BTLMSGID_DENGUN_0","[占位A 02]任命为殿军！","BTLMSGID_DENGUN_0","机翻辅助：
 
 [占位A 02]任命为殿军！
 
 [占位A 02]任命为将军！"
-"BTLMSGID_DEADACTION_F18B_0","[f 2 4 0]他自杀了！","BTLMSGID_DEADACTION_F18B_0","机翻辅助：
+"BTLMSGID_DEADACTION_F18B_0","[占位A 01]自爆了！","BTLMSGID_DEADACTION_F18B_0","机翻辅助：
 
 [占位A 01]自爆了！
 
@@ -1371,39 +1371,39 @@ Divide Guard Message
 [占位A 01]捕食了[占位A 02]！！
 
 [占位A 01]捕食了羽[占位A 02]！！"
-"BTLMSGID_E_DEADSUMMON_0","[f 2 4 0]变得巨大了！","BTLMSGID_E_DEADSUMMON_0","机翻辅助：
+"BTLMSGID_E_DEADSUMMON_0","[占位A 01]巨大化！","BTLMSGID_E_DEADSUMMON_0","机翻辅助：
 
 [占位A 01]巨大化！
 
 [占位A 01]巨大化了！"
-"BTLMSGID_E_SUMMON_MSG_00_0","[f 2 4 0]开始悄悄地动了起来。","BTLMSGID_E_SUMMON_MSG_00_0","机翻辅助：
+"BTLMSGID_E_SUMMON_MSG_00_0","[占位A 01]开始蠢动！","BTLMSGID_E_SUMMON_MSG_00_0","机翻辅助：
 
 [占位A 01]开始蠢动！
 
 [占位A 01]开始行动了
 
 [占位A 01]摇摇晃晃地动起来了"
-"BTLMSGID_E_SUMMON_MSG_01_0","[f 2 4 0]他放下了手。","BTLMSGID_E_SUMMON_MSG_01_0","机翻辅助：
+"BTLMSGID_E_SUMMON_MSG_01_0","[占位A 01]放下手！","BTLMSGID_E_SUMMON_MSG_01_0","机翻辅助：
 
 [占位A 01]放下手！
 
 [占位A 01]低下了手
 
 [占位A 01]垂下了手"
-"BTLMSGID_E_SUMMON_MSG_02_0","[f 2 4 0]“力量”被封印了！","BTLMSGID_E_SUMMON_MSG_02_0","机翻辅助：
+"BTLMSGID_E_SUMMON_MSG_02_0","[占位A 01]的“力量”被封印了！","BTLMSGID_E_SUMMON_MSG_02_0","机翻辅助：
 
 [占位A 01]的“力量”被封印了！
 
 [占位A 01]的“力量”被封印着！"
-"BTLMSGID_BS_LASTBOSS_ARM_0","[f 2 4 0]从伤口中伸出了触手！","BTLMSGID_BS_LASTBOSS_ARM_0","机翻辅助：
+"BTLMSGID_BS_LASTBOSS_ARM_0","[占位A 01]从伤口伸出触手！","BTLMSGID_BS_LASTBOSS_ARM_0","机翻辅助：
 
 [占位A 01]从伤口伸出触手！
 
 [占位A 01]的伤口伸出了触手！"
-"BTLMSGID_BS_LASTBOSS_ARM_2_0","[f 2 4 1]触手复活了！","BTLMSGID_BS_LASTBOSS_ARM_2_0","机翻辅助：
+"BTLMSGID_BS_LASTBOSS_ARM_2_0","[占位A 02]的触手复活了！","BTLMSGID_BS_LASTBOSS_ARM_2_0","机翻辅助：
 
 [占位A 02]的触手复活了！"
-"BTLMSGID_E_TAMAGO_MSG_00_0","[f 2 4 0]正在蓄力！","BTLMSGID_E_TAMAGO_MSG_00_0","机翻辅助：
+"BTLMSGID_E_TAMAGO_MSG_00_0","[占位A 01]正在蓄力！","BTLMSGID_E_TAMAGO_MSG_00_0","机翻辅助：
 
 [占位A 01]正在蓄力！
 
@@ -1443,12 +1443,12 @@ Divide Guard Message
 [占位A 02]的[占位A 03]耐性降低了！
 
 [占位A 02]的耐性下降了！[占位A 03]"
-"BTLMSGID_BS_CHANGE_ATK_0","[f 2 4 0]眼睛睁开了！","BTLMSGID_BS_CHANGE_ATK_0","机翻辅助：
+"BTLMSGID_BS_CHANGE_ATK_0","[占位A 01]睁开眼睛！","BTLMSGID_BS_CHANGE_ATK_0","机翻辅助：
 
 [占位A 01]睁开眼睛！
 
 [占位A 01]的眼睛被打开！"
-"BTLMSGID_BS_CHANGE_DEF_0","[f 2 4 0]他的双眼闭上了！","BTLMSGID_BS_CHANGE_DEF_0","机翻辅助：
+"BTLMSGID_BS_CHANGE_DEF_0","[占位A 01]逐渐闭上眼睛！","BTLMSGID_BS_CHANGE_DEF_0","机翻辅助：
 
 [占位A 01]逐渐闭上眼睛！
 
@@ -1462,7 +1462,7 @@ Divide Guard Message
 吃破身体的皮，穷极的生命绽放
 
 咬破体皮，最终生命绽放"
-"BTLMSGID_NONCOST_0","[f 2 4 1]SP不足，无法使用技能！","BTLMSGID_NONCOST_0","机翻辅助：
+"BTLMSGID_NONCOST_0","[占位A 02]因SP不足而无法使用技能！","BTLMSGID_NONCOST_0","机翻辅助：
 
 [占位A 02]因SP不足而无法使用技能！
 
@@ -1483,14 +1483,14 @@ Divide Guard Message
 派对的消费SP增加了一倍！
 
 派对的消费SP翻倍了！"
-"BTLMSGID_ES_KITOU_0","[f 2 4 1]力量被蓄积了！","BTLMSGID_ES_KITOU_0","机翻辅助：
+"BTLMSGID_ES_KITOU_0","[占位A 02]积蓄力量！","BTLMSGID_ES_KITOU_0","机翻辅助：
 
 [占位A 02]积蓄力量！
 
 [占位A 02]的力量被积蓄了！
 
 [占位A 02]积蓄了的力量！"
-"BTLMSGID_ES_ACT_CCOUNTER_0","[f 2 4 1]准备好了追加攻击的机会！","BTLMSGID_ES_ACT_CCOUNTER_0","机翻辅助：
+"BTLMSGID_ES_ACT_CCOUNTER_0","[占位A 02]准备追加攻击的机会！","BTLMSGID_ES_ACT_CCOUNTER_0","机翻辅助：
 
 [占位A 02]准备追加攻击的机会！
 
@@ -1504,14 +1504,14 @@ Divide Guard Message
 [占位A 01]生了[占位A 02]！
 
 [占位A 01]生下了仙[占位A 02]！"
-"BTLMSGID_LIMITMISS_0","[f 2 4 0]无法协作！","BTLMSGID_LIMITMISS_0","机翻辅助：
+"BTLMSGID_LIMITMISS_0","[占位A 01]无法联手！","BTLMSGID_LIMITMISS_0","机翻辅助：
 
 [占位A 01]无法联手！
 
 [占位A 01]没能联合起来！
 
 [占位A 01]不能合作！"
-"BTLMSGID_ACT_180_END_0","[f 2 4 0]被积蓄的力量失控了！","BTLMSGID_ACT_180_END_0","机翻辅助：
+"BTLMSGID_ACT_180_END_0","[占位A 01]积蓄的力量失控！","BTLMSGID_ACT_180_END_0","机翻辅助：
 
 [占位A 01]积蓄的力量失控！
 
@@ -1530,7 +1530,7 @@ Divide Guard Message
 我方全体被阻挡敌人攻击的光包围了！
 
 我方全体被阻挡敌人攻击的光芒所包围！"
-"BTLMSGID_DISCHARGE_BH_0","[f 2 4 0]他的拳头发出耀眼的光芒！！","BTLMSGID_DISCHARGE_BH_0","机翻辅助：
+"BTLMSGID_DISCHARGE_BH_0","[占位A 01]的拳头放出耀眼光芒！！","BTLMSGID_DISCHARGE_BH_0","机翻辅助：
 
 [占位A 01]的拳头放出耀眼光芒！！
 
@@ -1549,21 +1549,21 @@ Divide Guard Message
 击破了gate keeper ！
 
 击破了守门员！"
-"BTLMSGID_ES_CHANGE_MISS_0","[f 2 4 0]正在解开缠绕在一起的触手！","BTLMSGID_ES_CHANGE_MISS_0","机翻辅助：
+"BTLMSGID_ES_CHANGE_MISS_0","[占位A 01]解开缠绕的触手！","BTLMSGID_ES_CHANGE_MISS_0","机翻辅助：
 
 [占位A 01]解开缠绕的触手！
 
 [占位A 01]正在解开缠绕的触手！
 
 [占位A 01]解开缠绕在一起的触手！"
-"BTLMSGID_E_MOVE_S_0","[f 2 4 0]队列变了！","BTLMSGID_E_MOVE_S_0","机翻辅助：
+"BTLMSGID_E_MOVE_S_0","[占位A 01]改变队列！","BTLMSGID_E_MOVE_S_0","机翻辅助：
 
 [占位A 01]改变队列！
 
 [占位A 01]队伍变了！
 
 [占位A 01]的队伍变了！"
-"BTLMSGID_E_MOVE_D_0","[f 2 4 0]队伍的队形改变了！","BTLMSGID_E_MOVE_D_0","机翻辅助：
+"BTLMSGID_E_MOVE_D_0","[占位A 01]改变队列！","BTLMSGID_E_MOVE_D_0","机翻辅助：
 
 [占位A 01]改变队列！
 
@@ -1592,12 +1592,12 @@ Divide Guard Message
 有稀有个体！
 
 有稀少个体！"
-"BTLMSGID_RARE_ENCOUNT_S_0","[f 2 4 0]稀有个体出现了！","BTLMSGID_RARE_ENCOUNT_S_0","机翻辅助：
+"BTLMSGID_RARE_ENCOUNT_S_0","[占位A 01]的稀有个体出现！","BTLMSGID_RARE_ENCOUNT_S_0","机翻辅助：
 
 [占位A 01]的稀有个体出现！
 
 [占位A 01]的稀有个体出现了！"
-"BTLMSGID_ACT_CHARGE_BOSS_0","[f 2 4 0]他开始积蓄力量了！","BTLMSGID_ACT_CHARGE_BOSS_0","机翻辅助：
+"BTLMSGID_ACT_CHARGE_BOSS_0","[占位A 01]开始蓄力！","BTLMSGID_ACT_CHARGE_BOSS_0","机翻辅助：
 
 [占位A 01]开始蓄力！
 
@@ -1611,24 +1611,24 @@ Divide Guard Message
 切奇！
 
 锁链！"
-"BTLMSGID_ST_BODYCHANGE_E_0","[f 2 4 1]攻击属性发生了变化！","BTLMSGID_ST_BODYCHANGE_E_0","机翻辅助：
+"BTLMSGID_ST_BODYCHANGE_E_0","[占位A 02]的攻击属性改变了！","BTLMSGID_ST_BODYCHANGE_E_0","机翻辅助：
 
 [占位A 02]的攻击属性改变了！
 
 [占位A 02]的攻击属性变了！"
-"BTLMSGID_KIJIN_0","[f 2 4 0]成为了恶魔！","BTLMSGID_KIJIN_0","机翻辅助：
+"BTLMSGID_KIJIN_0","[占位A 01]化为罗刹！","BTLMSGID_KIJIN_0","机翻辅助：
 
 [占位A 01]化为罗刹！
 
 [占位A 01]变成了罗刹！"
-"BTLMSGID_KIJIN_OFF_0","[f 2 4 0]恢复正常","BTLMSGID_KIJIN_OFF_0","机翻辅助：
+"BTLMSGID_KIJIN_OFF_0","[占位A 01]恢复正常！","BTLMSGID_KIJIN_OFF_0","机翻辅助：
 
 [占位A 01]恢复正常！
 
 [占位A 01]恢复正常
 
 [占位A 01]恢复正常了"
-"BTLMSGID_KUISHIBARI2_0","[f 2 4 0]咬紧牙关！","BTLMSGID_KUISHIBARI2_0","机翻辅助：
+"BTLMSGID_KUISHIBARI2_0","[占位A 01]咬紧牙关！","BTLMSGID_KUISHIBARI2_0","机翻辅助：
 
 [占位A 01]咬紧牙关！
 
@@ -1647,57 +1647,57 @@ SP切断发动！"
 [占位A 01]展开了[占位A 02]！
 
 [占位A 01]展开了波[占位A 02]！"
-"BTLMSGID_HOUJIN_EFT_0","[f 2 4 0]效果！","BTLMSGID_HOUJIN_EFT_0","机翻辅助：
+"BTLMSGID_HOUJIN_EFT_0","[占位A 01]的效果！","BTLMSGID_HOUJIN_EFT_0","机翻辅助：
 
 [占位A 01]的效果！"
-"BTLMSGID_TRANSPARENT_ON_0","[f 2 4 0]他融入了周围的景色！","BTLMSGID_TRANSPARENT_ON_0","机翻辅助：
+"BTLMSGID_TRANSPARENT_ON_0","[占位A 01]融入周遭的景色！","BTLMSGID_TRANSPARENT_ON_0","机翻辅助：
 
 [占位A 01]融入周遭的景色！
 
 [占位A 01]融入了周围的景色！"
-"BTLMSGID_TRANSPARENT_OFF_0","[f 2 4 0]身体恢复原状了！","BTLMSGID_TRANSPARENT_OFF_0","机翻辅助：
+"BTLMSGID_TRANSPARENT_OFF_0","[占位A 01]的身体恢复原状！","BTLMSGID_TRANSPARENT_OFF_0","机翻辅助：
 
 [占位A 01]的身体恢复原状！
 
 [占位A 01]身体恢复了原来的样子！
 
 [占位A 01]身体恢复了！"
-"BTLMSGID_ICEACTSTOP_0","[f 2 4 0]冻结了！","BTLMSGID_ICEACTSTOP_0","机翻辅助：
+"BTLMSGID_ICEACTSTOP_0","[占位A 01]结冻！","BTLMSGID_ICEACTSTOP_0","机翻辅助：
 
 [占位A 01]结冻！
 
 [占位A 01]冻住了！
 
 [占位A 01]冻僵了！"
-"BTLMSGID_ACTSTOPTURN_0","[f 2 4 0]冻住了！","BTLMSGID_ACTSTOPTURN_0","机翻辅助：
+"BTLMSGID_ACTSTOPTURN_0","[占位A 01]结冻！","BTLMSGID_ACTSTOPTURN_0","机翻辅助：
 
 [占位A 01]结冻！
 
 [占位A 01]已经结冰了！
 
 [占位A 01]是结冰的！"
-"BTLMSGID_LMT_103_0","[f 2 4 0]黑色的雾气从周围产生，将敌人包围了起来！","BTLMSGID_LMT_103_0","机翻辅助：
+"BTLMSGID_LMT_103_0","[占位A 01]从的周围冒出黑雾，包覆敌人！","BTLMSGID_LMT_103_0","机翻辅助：
 
 [占位A 01]从的周围冒出黑雾，包覆敌人！
 
 [占位A 01]从周围产生的黑雾，包围了敌人！
 
 [占位A 01]周围产生的黑雾，包围了敌人！"
-"BTLMSGID_3BS_URK_TAKEOFF_0","[f 2 4 0]从那里，鳞片飞了出来！","BTLMSGID_3BS_URK_TAKEOFF_0","机翻辅助：
+"BTLMSGID_3BS_URK_TAKEOFF_0","[占位A 01]的鳞片弹出！","BTLMSGID_3BS_URK_TAKEOFF_0","机翻辅助：
 
 [占位A 01]的鳞片弹出！
 
 [占位A 01]于是，虚子跑了出来！
 
 [占位A 01]鱼鳞飞出来了！"
-"BTLMSGID_3BS_URK_ON_0","[f 2 4 0]刺入了地面！","BTLMSGID_3BS_URK_ON_0","机翻辅助：
+"BTLMSGID_3BS_URK_ON_0","[占位A 01]刺进地面！","BTLMSGID_3BS_URK_ON_0","机翻辅助：
 
 [占位A 01]刺进地面！
 
 [占位A 01]被扎到地上了！
 
 [占位A 01]刺进了地面！"
-"BTLMSGID_3BS_URK_DEATH_0","[f 2 4 1]哈酷达吉塔！","BTLMSGID_3BS_URK_DEATH_0","机翻辅助：
+"BTLMSGID_3BS_URK_DEATH_0","[占位A 02]剥落！","BTLMSGID_3BS_URK_DEATH_0","机翻辅助：
 
 [占位A 02]剥落！
 
@@ -1711,229 +1711,229 @@ SP切断发动！"
 爆发量规下降了！
 
 突发量表下降了！"
-"BTLMSGID_OVERHEATON_0","[f 2 4 0]炮剑过热了！","BTLMSGID_OVERHEATON_0","机翻辅助：
+"BTLMSGID_OVERHEATON_0","[占位A 01]的炮剑过热！","BTLMSGID_OVERHEATON_0","机翻辅助：
 
 [占位A 01]的炮剑过热！
 
 [占位A 01]的炮剑过热了！"
-"BTLMSGID_OVERHEATOFF_0","[f 2 4 0]炮剑冷却后，恢复了功能！","BTLMSGID_OVERHEATOFF_0","机翻辅助：
+"BTLMSGID_OVERHEATOFF_0","[占位A 01]的炮剑冷却，恢复功能！","BTLMSGID_OVERHEATOFF_0","机翻辅助：
 
 [占位A 01]的炮剑冷却，恢复功能！
 
 [占位A 01]的炮剑变冷，恢复了机能！
 
 [占位A 01]的炮剑冷却，恢复了功能！"
-"BTLMSGID_MSGWAIT1_0","[f 2 4 0]他进入了自爆模式！","BTLMSGID_MSGWAIT1_0","机翻辅助：
+"BTLMSGID_MSGWAIT1_0","[占位A 01]进入自爆模式！","BTLMSGID_MSGWAIT1_0","机翻辅助：
 
 [占位A 01]进入自爆模式！
 
 [占位A 01]进入了自爆模式！"
-"BTLMSGID_MSGWAIT2_0","[f 2 4 0]距离自爆还有2秒！！","BTLMSGID_MSGWAIT2_0","机翻辅助：
+"BTLMSGID_MSGWAIT2_0","[占位A 01]距离的自爆还有2秒！！","BTLMSGID_MSGWAIT2_0","机翻辅助：
 
 [占位A 01]距离的自爆还有2秒！！
 
 [占位A 01]的自爆还有2个计数！！
 
 [占位A 01]的自爆还有2计数！！"
-"BTLMSGID_MSGWAIT3_0","[f 2 4 0]自爆还剩1秒！！","BTLMSGID_MSGWAIT3_0","机翻辅助：
+"BTLMSGID_MSGWAIT3_0","[占位A 01]距离的自爆还有1秒！！","BTLMSGID_MSGWAIT3_0","机翻辅助：
 
 [占位A 01]距离的自爆还有1秒！！
 
 [占位A 01]的自爆还有1个计数！！
 
 [占位A 01]的自爆还有1计数！！"
-"BTLMSGID_MSGWAIT4_0","[f 2 4 0]观望着。","BTLMSGID_MSGWAIT4_0","机翻辅助：
+"BTLMSGID_MSGWAIT4_0","[占位A 01]在观察情况","BTLMSGID_MSGWAIT4_0","机翻辅助：
 
 [占位A 01]在观察情况
 
 [占位A 01]看情况
 
 [占位A 01]正在观察情况"
-"BTLMSGID_MSGWAIT5_0","[f 2 4 0]正在寻找目标。","BTLMSGID_MSGWAIT5_0","机翻辅助：
+"BTLMSGID_MSGWAIT5_0","[占位A 01]在寻找目标","BTLMSGID_MSGWAIT5_0","机翻辅助：
 
 [占位A 01]在寻找目标
 
 [占位A 01]正在寻找目标
 
 [占位A 01]正在寻找目标。"
-"BTLMSGID_BALLOON_0","[f 2 4 0]肿起来了！","BTLMSGID_BALLOON_0","机翻辅助：
+"BTLMSGID_BALLOON_0","[占位A 01]大幅膨胀！","BTLMSGID_BALLOON_0","机翻辅助：
 
 [占位A 01]大幅膨胀！
 
 [占位A 01]大大地鼓起了！
 
 [占位A 01]鼓胀得很大！"
-"BTLMSGID_ACT_CHARGE_BOSS_2_0","[f 2 4 0]动作停止了！","BTLMSGID_ACT_CHARGE_BOSS_2_0","机翻辅助：
+"BTLMSGID_ACT_CHARGE_BOSS_2_0","[占位A 01]停止动作！","BTLMSGID_ACT_CHARGE_BOSS_2_0","机翻辅助：
 
 [占位A 01]停止动作！
 
 [占位A 01]的动作停止了！"
-"BTLMSGID_ACT_LION_SLEEP_0","[f 2 4 0]正在睡觉。","BTLMSGID_ACT_LION_SLEEP_0","机翻辅助：
+"BTLMSGID_ACT_LION_SLEEP_0","[占位A 01]在睡觉","BTLMSGID_ACT_LION_SLEEP_0","机翻辅助：
 
 [占位A 01]在睡觉
 
 [占位A 01]睡着了！"
-"BTLMSGID_REF_ATTACK_UP2_0","[f 2 4 1]魔法攻击力提升了！","BTLMSGID_REF_ATTACK_UP2_0","机翻辅助：
+"BTLMSGID_REF_ATTACK_UP2_0","[占位A 02]的魔法攻击力上升！","BTLMSGID_REF_ATTACK_UP2_0","机翻辅助：
 
 [占位A 02]的魔法攻击力上升！
 
 [占位A 02]的魔法攻击力上升了！"
-"BTLMSGID_REF_DEFENCE_UP2_0","[f 2 4 1]魔法防御力提升了！","BTLMSGID_REF_DEFENCE_UP2_0","机翻辅助：
+"BTLMSGID_REF_DEFENCE_UP2_0","[占位A 02]的魔法防御力上升！","BTLMSGID_REF_DEFENCE_UP2_0","机翻辅助：
 
 [占位A 02]的魔法防御力上升！
 
 [占位A 02]的魔法防御力上升了！"
-"BTLMSGID_REF_ATTACK_UP3_0","[f 2 4 1]攻击力提升了！","BTLMSGID_REF_ATTACK_UP3_0","机翻辅助：
+"BTLMSGID_REF_ATTACK_UP3_0","[占位A 02]的攻击力提升了！","BTLMSGID_REF_ATTACK_UP3_0","机翻辅助：
 
 [占位A 02]的攻击力提升了！
 
 [占位A 02]的攻击力上升了！"
-"BTLMSGID_REF_DEFENCE_UP3_0","[f 2 4 1]防御力提升了！","BTLMSGID_REF_DEFENCE_UP3_0","机翻辅助：
+"BTLMSGID_REF_DEFENCE_UP3_0","[占位A 02]的防御力提升了！","BTLMSGID_REF_DEFENCE_UP3_0","机翻辅助：
 
 [占位A 02]的防御力提升了！
 
 [占位A 02]的防御力上升了！"
-"BTLMSGID_REF_ATTACK_DOWN_3_0","[f 2 4 1]魔法攻击力下降了！","BTLMSGID_REF_ATTACK_DOWN_3_0","机翻辅助：
+"BTLMSGID_REF_ATTACK_DOWN_3_0","[占位A 02]的魔法攻击力下降！","BTLMSGID_REF_ATTACK_DOWN_3_0","机翻辅助：
 
 [占位A 02]的魔法攻击力下降！
 
 [占位A 02]的魔法攻击力下降了！"
-"BTLMSGID_REF_DEFENCE_DOW_3_0","[f 2 4 1]魔法防御力降低了！","BTLMSGID_REF_DEFENCE_DOW_3_0","机翻辅助：
+"BTLMSGID_REF_DEFENCE_DOW_3_0","[占位A 02]的魔法防御力下降！","BTLMSGID_REF_DEFENCE_DOW_3_0","机翻辅助：
 
 [占位A 02]的魔法防御力下降！
 
 [占位A 02]的魔法防御力下降了！"
-"BTLMSGID_REF_ATTACK_DOWN_4_0","[f 2 4 1]攻击力下降了！","BTLMSGID_REF_ATTACK_DOWN_4_0","机翻辅助：
+"BTLMSGID_REF_ATTACK_DOWN_4_0","[占位A 02]的攻击力下降了！","BTLMSGID_REF_ATTACK_DOWN_4_0","机翻辅助：
 
 [占位A 02]的攻击力下降了！"
-"BTLMSGID_REF_DEFENCE_DOW_4_0","[f 2 4 1]防御力下降了！","BTLMSGID_REF_DEFENCE_DOW_4_0","机翻辅助：
+"BTLMSGID_REF_DEFENCE_DOW_4_0","[占位A 02]的防御力下降了！","BTLMSGID_REF_DEFENCE_DOW_4_0","机翻辅助：
 
 [占位A 02]的防御力下降了！"
-"BTLMSGID_REF_COUNTER_0","[f 2 4 1]我感到紧张！","BTLMSGID_REF_COUNTER_0","机翻辅助：
+"BTLMSGID_REF_COUNTER_0","[占位A 02]摆出架式！","BTLMSGID_REF_COUNTER_0","机翻辅助：
 
 [占位A 02]摆出架式！
 
 [占位A 02]准备好了！
 
 [占位A 02]做好了防备！"
-"BTLMSGID_REF_COUNTER_BOO_0","[f 2 4 0]被火焰墙包围了！","BTLMSGID_REF_COUNTER_BOO_0","机翻辅助：
+"BTLMSGID_REF_COUNTER_BOO_0","[占位A 01]被火焰之墙包围！","BTLMSGID_REF_COUNTER_BOO_0","机翻辅助：
 
 [占位A 01]被火焰之墙包围！
 
 [占位A 01]被火焰的墙壁包围了！"
-"BTLMSGID_REF_ATTRUP_FIRE_0","[f 2 4 1]火焰耐性提升了！","BTLMSGID_REF_ATTRUP_FIRE_0","机翻辅助：
+"BTLMSGID_REF_ATTRUP_FIRE_0","[占位A 02]的火焰抗性上升！","BTLMSGID_REF_ATTRUP_FIRE_0","机翻辅助：
 
 [占位A 02]的火焰抗性上升！
 
 [占位A 02]的火焰耐性上升了！"
-"BTLMSGID_REF_ATTRUP_ICE_0","[f 2 4 1]冰冻抗性提升了！","BTLMSGID_REF_ATTRUP_ICE_0","机翻辅助：
+"BTLMSGID_REF_ATTRUP_ICE_0","[占位A 02]的冰冻抗性上升！","BTLMSGID_REF_ATTRUP_ICE_0","机翻辅助：
 
 [占位A 02]的冰冻抗性上升！
 
 [占位A 02]的结冰耐性上升了！
 
 [占位A 02]的冰冻耐性上升了！"
-"BTLMSGID_REF_ATTRUP_THUN_0","[f 2 4 1]电击抗性提升了！","BTLMSGID_REF_ATTRUP_THUN_0","机翻辅助：
+"BTLMSGID_REF_ATTRUP_THUN_0","[占位A 02]的电击抗性上升！","BTLMSGID_REF_ATTRUP_THUN_0","机翻辅助：
 
 [占位A 02]的电击抗性上升！
 
 [占位A 02]的电击耐性上升了！"
-"BTLMSGID_REF_ATTRUP_BUTS_0","[f 2 4 1]物理抗性提升了！","BTLMSGID_REF_ATTRUP_BUTS_0","机翻辅助：
+"BTLMSGID_REF_ATTRUP_BUTS_0","[占位A 02]的物理抗性上升！","BTLMSGID_REF_ATTRUP_BUTS_0","机翻辅助：
 
 [占位A 02]的物理抗性上升！
 
 [占位A 02]的物理耐性上升了！"
-"BTLMSGID_REF_ATTRUP_SHOC_0","[f 2 4 1]耐久性提升了！","BTLMSGID_REF_ATTRUP_SHOC_0","机翻辅助：
+"BTLMSGID_REF_ATTRUP_SHOC_0","[占位A 02]的破坏抗性上升！","BTLMSGID_REF_ATTRUP_SHOC_0","机翻辅助：
 
 [占位A 02]的破坏抗性上升！
 
 [占位A 02]的破坏耐性上升了！
 
 [占位A 02]的耐坏性上升了！"
-"BTLMSGID_REF_ATTRUP_THRU_0","[f 2 4 1]耐冲击性提高了！","BTLMSGID_REF_ATTRUP_THRU_0","机翻辅助：
+"BTLMSGID_REF_ATTRUP_THRU_0","[占位A 02]的突刺抗性上升！","BTLMSGID_REF_ATTRUP_THRU_0","机翻辅助：
 
 [占位A 02]的突刺抗性上升！
 
 [占位A 02]的抗突性上升了！
 
 [占位A 02]的突耐性上升了！"
-"BTLMSGID_REF_ATTRDOWN_FI_0","[f 2 4 1]火焰耐性降低了！","BTLMSGID_REF_ATTRDOWN_FI_0","机翻辅助：
+"BTLMSGID_REF_ATTRDOWN_FI_0","[占位A 02]的火焰抗性下降！","BTLMSGID_REF_ATTRDOWN_FI_0","机翻辅助：
 
 [占位A 02]的火焰抗性下降！
 
 [占位A 02]的火焰耐性降低了！
 
 [占位A 02]的火焰耐性下降了！"
-"BTLMSGID_REF_ATTRDOWN_IC_0","[f 2 4 1]冰冻抗性降低了！","BTLMSGID_REF_ATTRDOWN_IC_0","机翻辅助：
+"BTLMSGID_REF_ATTRDOWN_IC_0","[占位A 02]的冰冻抗性下降！","BTLMSGID_REF_ATTRDOWN_IC_0","机翻辅助：
 
 [占位A 02]的冰冻抗性下降！
 
 [占位A 02]的结冰耐性降低了！
 
 [占位A 02]的抗冻能力下降了！"
-"BTLMSGID_REF_ATTRDOWN_TH_0","[f 2 4 1]电击抗性降低了！","BTLMSGID_REF_ATTRDOWN_TH_0","机翻辅助：
+"BTLMSGID_REF_ATTRDOWN_TH_0","[占位A 02]的电击抗性下降！","BTLMSGID_REF_ATTRDOWN_TH_0","机翻辅助：
 
 [占位A 02]的电击抗性下降！
 
 [占位A 02]的电击耐性降低了！"
-"BTLMSGID_REF_ATTRDOWN_BU_0","[f 2 4 1]物理耐性下降了！","BTLMSGID_REF_ATTRDOWN_BU_0","机翻辅助：
+"BTLMSGID_REF_ATTRDOWN_BU_0","[占位A 02]的物理抗性下降！","BTLMSGID_REF_ATTRDOWN_BU_0","机翻辅助：
 
 [占位A 02]的物理抗性下降！
 
 [占位A 02]的物理耐性降低了！
 
 [占位A 02]的物理耐性下降了！"
-"BTLMSGID_REF_ATTRDOWN_SH_0","[f 2 4 1]耐久性下降了！","BTLMSGID_REF_ATTRDOWN_SH_0","机翻辅助：
+"BTLMSGID_REF_ATTRDOWN_SH_0","[占位A 02]的破坏抗性下降！","BTLMSGID_REF_ATTRDOWN_SH_0","机翻辅助：
 
 [占位A 02]的破坏抗性下降！
 
 [占位A 02]的破坏耐性降低了！
 
 [占位A 02]的耐坏性降低了！"
-"BTLMSGID_REF_ATTRDOWN_TH_2_0","[f 2 4 1]耐用性下降了！","BTLMSGID_REF_ATTRDOWN_TH_2_0","机翻辅助：
+"BTLMSGID_REF_ATTRDOWN_TH_2_0","[占位A 02]的突刺抗性下降！","BTLMSGID_REF_ATTRDOWN_TH_2_0","机翻辅助：
 
 [占位A 02]的突刺抗性下降！
 
 [占位A 02]的耐突性降低了！
 
 [占位A 02]的突耐性降低了！"
-"BTLMSGID_REF_DANCE_COUNT_0","[f 2 4 1]准备反击！","BTLMSGID_REF_DANCE_COUNT_0","机翻辅助：
+"BTLMSGID_REF_DANCE_COUNT_0","[占位A 02]准备反击！","BTLMSGID_REF_DANCE_COUNT_0","机翻辅助：
 
 [占位A 02]准备反击！
 
 [占位A 02]准备反击了！"
-"BTLMSGID_REF_DANCE_CHASE_0","[f 2 4 1]已做好追加攻击的准备！","BTLMSGID_REF_DANCE_CHASE_0","机翻辅助：
+"BTLMSGID_REF_DANCE_CHASE_0","[占位A 02]准备追加攻击！","BTLMSGID_REF_DANCE_CHASE_0","机翻辅助：
 
 [占位A 02]准备追加攻击！
 
 [占位A 02]预备了追加攻击！"
-"BTLMSGID_REF_DANCE_LINEC_0","[f 2 4 1]队伍做好了追加攻击的准备！","BTLMSGID_REF_DANCE_LINEC_0","机翻辅助：
+"BTLMSGID_REF_DANCE_LINEC_0","[占位A 02]的队伍准备追加攻击！","BTLMSGID_REF_DANCE_LINEC_0","机翻辅助：
 
 [占位A 02]的队伍准备追加攻击！
 
 [占位A 02]的队伍准备追加攻击了！"
-"BTLMSGID_REF_DANCE_HEAL_0","[f 2 4 1]回合中产生了恢复效果！","BTLMSGID_REF_DANCE_HEAL_0","机翻辅助：
+"BTLMSGID_REF_DANCE_HEAL_0","[占位A 02]的列产生恢复效果！","BTLMSGID_REF_DANCE_HEAL_0","机翻辅助：
 
 [占位A 02]的列产生恢复效果！
 
 [占位A 02]的队列发生恢复效果！
 
 [占位A 02]回复效果发生！"
-"BTLMSGID_REF_DANCE_ATK_0","[f 2 4 1]列的攻击力上升了！","BTLMSGID_REF_DANCE_ATK_0","机翻辅助：
+"BTLMSGID_REF_DANCE_ATK_0","[占位A 02]的列攻击力上升！","BTLMSGID_REF_DANCE_ATK_0","机翻辅助：
 
 [占位A 02]的列攻击力上升！
 
 [占位A 02]的行列的攻击力上升！
 
 [占位A 02]队伍的攻击力上升！"
-"BTLMSGID_REF_DANCE_DEF_0","[f 2 4 1]列的防御力上升了！","BTLMSGID_REF_DANCE_DEF_0","机翻辅助：
+"BTLMSGID_REF_DANCE_DEF_0","[占位A 02]的列防御力上升！","BTLMSGID_REF_DANCE_DEF_0","机翻辅助：
 
 [占位A 02]的列防御力上升！
 
 [占位A 02]之列的防御力上升！
 
 [占位A 02]队伍的防御力上升！"
-"BTLMSGID_REF_DANCE_EN_0","[f 2 4 1]列的消耗SP被减少了！","BTLMSGID_REF_DANCE_EN_0","机翻辅助：
+"BTLMSGID_REF_DANCE_EN_0","[占位A 02]的列SP消耗量减轻！","BTLMSGID_REF_DANCE_EN_0","机翻辅助：
 
 [占位A 02]的列SP消耗量减轻！
 
@@ -1947,38 +1947,38 @@ SP切断发动！"
 链接技能的追加攻击次数增加了！
 
 追加攻击次数增加了！"
-"BTLMSGID_REF_GUARD_0","[f 2 4 1]是身体挺身而出成为了盾牌！","BTLMSGID_REF_GUARD_0","机翻辅助：
+"BTLMSGID_REF_GUARD_0","[占位A 02]挺身而出，化为盾牌！","BTLMSGID_REF_GUARD_0","机翻辅助：
 
 [占位A 02]挺身而出，化为盾牌！
 
 [占位A 02]变成了盾！
 
 [占位A 02]挺身成为了盾牌！"
-"BTLMSGID_REF_CONC_0","[f 2 4 1]恢复效果提升了！","BTLMSGID_REF_CONC_0","机翻辅助：
+"BTLMSGID_REF_CONC_0","[占位A 02]的恢复效果上升！","BTLMSGID_REF_CONC_0","机翻辅助：
 
 [占位A 02]的恢复效果上升！
 
 [占位A 02]的恢复效果上升了！
 
 [占位A 02]恢复效果上升了！"
-"BTLMSGID_REF_AREA_0","[f 2 4 1]恢复效果范围扩大！","BTLMSGID_REF_AREA_0","机翻辅助：
+"BTLMSGID_REF_AREA_0","[占位A 02]的恢复效果范围扩大！","BTLMSGID_REF_AREA_0","机翻辅助：
 
 [占位A 02]的恢复效果范围扩大！
 
 [占位A 02]的回复效果范围扩大！"
-"BTLMSGID_WEAKENED_0","[f 2 4 0]他已经虚弱到动弹不得了！","BTLMSGID_WEAKENED_0","机翻辅助：
+"BTLMSGID_WEAKENED_0","[占位A 01]虚弱，无法动弹！","BTLMSGID_WEAKENED_0","机翻辅助：
 
 [占位A 01]虚弱，无法动弹！
 
 [占位A 01]太弱了，动不了！
 
 [占位A 01]虚弱得动不了！"
-"BTLMSGID_MASCOT_0","[f 2 4 0]是松软的","BTLMSGID_MASCOT_0","机翻辅助：
+"BTLMSGID_MASCOT_0","[占位A 01]轻飘飘！","BTLMSGID_MASCOT_0","机翻辅助：
 
 [占位A 01]轻飘飘！
 
 [占位A 01]软绵绵的"
-"BTLMSGID_BUNNY_0","[f 2 4 0]我很慌张！","BTLMSGID_BUNNY_0","机翻辅助：
+"BTLMSGID_BUNNY_0","[占位A 01]惊慌失措！","BTLMSGID_BUNNY_0","机翻辅助：
 
 [占位A 01]惊慌失措！"
 "BTLMSGID_REFOFF_P_UP_0","我方的[占位A 02]效果结束！","BTLMSGID_REFOFF_P_UP_0","机翻辅助：
@@ -2032,119 +2032,119 @@ SP切断发动！"
 德斯切萨发动！
 
 死亡追查发动！"
-"BTLMSGID_REF_ATTR_WEPUP__4_0","[f 2 4 1]普通攻击附带了疾风属性！","BTLMSGID_REF_ATTR_WEPUP__4_0","机翻辅助：
+"BTLMSGID_REF_ATTR_WEPUP__4_0","[占位A 02]的普通攻击附带疾风属性！","BTLMSGID_REF_ATTR_WEPUP__4_0","机翻辅助：
 
 [占位A 02]的普通攻击附带疾风属性！
 
 [占位A 02]的通常攻击带有疾风属性！
 
 [占位A 02]的通常攻击附有疾风属性！"
-"BTLMSGID_REF_ATTR_WEPUP__5_0","[f 2 4 1]普通攻击获得了祝福属性！","BTLMSGID_REF_ATTR_WEPUP__5_0","机翻辅助：
+"BTLMSGID_REF_ATTR_WEPUP__5_0","[占位A 02]的普通攻击附带祝福属性！","BTLMSGID_REF_ATTR_WEPUP__5_0","机翻辅助：
 
 [占位A 02]的普通攻击附带祝福属性！
 
 [占位A 02]的通常攻击附有祝福属性！"
-"BTLMSGID_REF_ATTR_WEPUP__6_0","[f 2 4 1]通常攻击附带了咒怨属性！","BTLMSGID_REF_ATTR_WEPUP__6_0","机翻辅助：
+"BTLMSGID_REF_ATTR_WEPUP__6_0","[占位A 02]的普通攻击附带咒怨属性！","BTLMSGID_REF_ATTR_WEPUP__6_0","机翻辅助：
 
 [占位A 02]的普通攻击附带咒怨属性！
 
 [占位A 02]的通常攻击附有咒怨属性！"
-"BTLMSGID_REF_ATTRUP_WIND_0","[f 2 4 1]风抗性提升了！","BTLMSGID_REF_ATTRUP_WIND_0","机翻辅助：
+"BTLMSGID_REF_ATTRUP_WIND_0","[占位A 02]的疾风抗性上升！","BTLMSGID_REF_ATTRUP_WIND_0","机翻辅助：
 
 [占位A 02]的疾风抗性上升！
 
 [占位A 02]的疾风耐性上升了！"
-"BTLMSGID_REF_ATTRUP_HIKA_0","[f 2 4 1]祝福耐性提升了！","BTLMSGID_REF_ATTRUP_HIKA_0","机翻辅助：
+"BTLMSGID_REF_ATTRUP_HIKA_0","[占位A 02]的祝福抗性上升！","BTLMSGID_REF_ATTRUP_HIKA_0","机翻辅助：
 
 [占位A 02]的祝福抗性上升！
 
 [占位A 02]的祝福耐性上升了！"
-"BTLMSGID_REF_ATTRUP_YAMI_0","[f 2 4 1]诅咒抵抗力提升了！","BTLMSGID_REF_ATTRUP_YAMI_0","机翻辅助：
+"BTLMSGID_REF_ATTRUP_YAMI_0","[占位A 02]的咒怨抗性上升！","BTLMSGID_REF_ATTRUP_YAMI_0","机翻辅助：
 
 [占位A 02]的咒怨抗性上升！
 
 [占位A 02]的咒怨耐受性上升了！
 
 [占位A 02]的咒怨耐性上升了！"
-"BTLMSGID_REF_ATTRDOWN_WI_0","[f 2 4 1]风抗力降低了！","BTLMSGID_REF_ATTRDOWN_WI_0","机翻辅助：
+"BTLMSGID_REF_ATTRDOWN_WI_0","[占位A 02]的疾风抗性下降！","BTLMSGID_REF_ATTRDOWN_WI_0","机翻辅助：
 
 [占位A 02]的疾风抗性下降！
 
 [占位A 02]的疾风耐性降低了！"
-"BTLMSGID_REF_ATTRDOWN_HI_0","[f 2 4 1]祝福耐性降低了！","BTLMSGID_REF_ATTRDOWN_HI_0","机翻辅助：
+"BTLMSGID_REF_ATTRDOWN_HI_0","[占位A 02]的祝福抗性下降！","BTLMSGID_REF_ATTRDOWN_HI_0","机翻辅助：
 
 [占位A 02]的祝福抗性下降！
 
 [占位A 02]的祝福耐性降低了！
 
 [占位A 02]的祝福耐性下降了！"
-"BTLMSGID_REF_ATTRDOWN_YA_0","[f 2 4 1]诅咒抗性降低了！","BTLMSGID_REF_ATTRDOWN_YA_0","机翻辅助：
+"BTLMSGID_REF_ATTRDOWN_YA_0","[占位A 02]的咒怨抗性下降！","BTLMSGID_REF_ATTRDOWN_YA_0","机翻辅助：
 
 [占位A 02]的咒怨抗性下降！
 
 [占位A 02]的咒怨耐性降低了！
 
 [占位A 02]的咒怨耐受性降低了！"
-"BTLMSGID_HPNONCOST_0","[f 2 4 1]由于HP不足，无法使用技能！","BTLMSGID_HPNONCOST_0","机翻辅助：
+"BTLMSGID_HPNONCOST_0","[占位A 02]因HP不足而无法使用技能！","BTLMSGID_HPNONCOST_0","机翻辅助：
 
 [占位A 02]因HP不足而无法使用技能！
 
 [占位A 02]由于HP不足不能使用技能！
 
 [占位A 02]生命值不足无法使用技能！"
-"BTLMSGID_KEIKAI_0","[f 2 4 0]他们保持警惕。","BTLMSGID_KEIKAI_0","机翻辅助：
+"BTLMSGID_KEIKAI_0","[占位A 01]有所警戒","BTLMSGID_KEIKAI_0","机翻辅助：
 
 [占位A 01]有所警戒
 
 [占位A 01]很警惕
 
 [占位A 01]警戒"
-"BTLMSGID_RARE_1_0","[f 2 4 0]在发呆。","BTLMSGID_RARE_1_0","机翻辅助：
+"BTLMSGID_RARE_1_0","[占位A 01]发呆","BTLMSGID_RARE_1_0","机翻辅助：
 
 [占位A 01]发呆
 
 [占位A 01]发着呆"
-"BTLMSGID_RARE_2_0","[f 2 4 0]哈哈哈","BTLMSGID_RARE_2_0","机翻辅助：
+"BTLMSGID_RARE_2_0","[占位A 01]惊慌失措","BTLMSGID_RARE_2_0","机翻辅助：
 
 [占位A 01]惊慌失措
 
 [占位A 01]马马虎虎
 
 [占位A 01]焦头烂额"
-"BTLMSGID_RARE_3_0","[f 2 4 0]他很慌张。","BTLMSGID_RARE_3_0","机翻辅助：
+"BTLMSGID_RARE_3_0","[占位A 01]惊慌失措","BTLMSGID_RARE_3_0","机翻辅助：
 
 [占位A 01]惊慌失措
 
 [占位A 01]慌张"
-"BTLMSGID_HAMA_OMEN_0","[f 2 4 0]光的力量正在聚集！","BTLMSGID_HAMA_OMEN_0","机翻辅助：
+"BTLMSGID_HAMA_OMEN_0","[占位A 01]聚集光之力！","BTLMSGID_HAMA_OMEN_0","机翻辅助：
 
 [占位A 01]聚集光之力！
 
 [占位A 01]聚集着光的力量！
 
 [占位A 01]光的力量聚集在一起！"
-"BTLMSGID_MUDO_OMEN_0","[f 2 4 0]黑暗的力量正在聚集！","BTLMSGID_MUDO_OMEN_0","机翻辅助：
+"BTLMSGID_MUDO_OMEN_0","[占位A 01]聚集暗之力！","BTLMSGID_MUDO_OMEN_0","机翻辅助：
 
 [占位A 01]聚集暗之力！
 
 [占位A 01]黑暗的力量聚集在一起！
 
 [占位A 01]黑暗的力量聚集在这里！"
-"BTLMSGID_NIYANIYA_0","[f 2 4 0]咧嘴笑着","BTLMSGID_NIYANIYA_0","机翻辅助：
+"BTLMSGID_NIYANIYA_0","[占位A 01]笑嘻嘻","BTLMSGID_NIYANIYA_0","机翻辅助：
 
 [占位A 01]笑嘻嘻
 
 [占位A 01]笑着说
 
 [占位A 01]笑眯眯的"
-"BTLMSGID_JIBAKU_MISS_0","[f 2 4 0]自爆失败了……","BTLMSGID_JIBAKU_MISS_0","机翻辅助：
+"BTLMSGID_JIBAKU_MISS_0","[占位A 01]自爆失败……","BTLMSGID_JIBAKU_MISS_0","机翻辅助：
 
 [占位A 01]自爆失败……
 
 [占位A 01]的自爆没有发生……
 
 [占位A 01]的自爆没有爆炸……"
-"BTLMSGID_CHICKEN_0","[f 2 4 0]他表现出了从容。","BTLMSGID_CHICKEN_0","机翻辅助：
+"BTLMSGID_CHICKEN_0","[占位A 01]从容不迫","BTLMSGID_CHICKEN_0","机翻辅助：
 
 [占位A 01]从容不迫
 
@@ -2158,40 +2158,40 @@ SP切断发动！"
 警告：
 
 警告：立即投降"
-"BTLMSGID_TOWER_0","[f 2 4 0]引来了雷云！","BTLMSGID_TOWER_0","机翻辅助：
+"BTLMSGID_TOWER_0","[占位A 01]呼唤雷云！","BTLMSGID_TOWER_0","机翻辅助：
 
 [占位A 01]呼唤雷云！
 
 [占位A 01]叫来了雷云！"
-"BTLMSGID_TOWER3_0","[f 2 4 0]他低声念诵了经文！","BTLMSGID_TOWER3_0","机翻辅助：
+"BTLMSGID_TOWER3_0","[占位A 01]呢喃圣句！","BTLMSGID_TOWER3_0","机翻辅助：
 
 [占位A 01]呢喃圣句！
 
 [占位A 01]咕哝了一句圣句！
 
 [占位A 01]嘟哝着经文！"
-"BTLMSGID_TOWER5_0","[f 2 4 0]他喃喃自语着抱怨！","BTLMSGID_TOWER5_0","机翻辅助：
+"BTLMSGID_TOWER5_0","[占位A 01]呢喃怨言！","BTLMSGID_TOWER5_0","机翻辅助：
 
 [占位A 01]呢喃怨言！
 
 [占位A 01]嘟囔着怨恨！
 
 [占位A 01]他喃喃自语道！"
-"BTLMSGID_KING_0","[f 2 4 0]正在摸胡子。","BTLMSGID_KING_0","机翻辅助：
+"BTLMSGID_KING_0","[占位A 01]把玩胡须","BTLMSGID_KING_0","机翻辅助：
 
 [占位A 01]把玩胡须
 
 [占位A 01]正在弄胡子
 
 [占位A 01]在弄胡子"
-"BTLMSGID_KING_ESCAPE_0","[f 2 4 0]正在试图逃跑。","BTLMSGID_KING_ESCAPE_0","机翻辅助：
+"BTLMSGID_KING_ESCAPE_0","[占位A 01]试图逃跑","BTLMSGID_KING_ESCAPE_0","机翻辅助：
 
 [占位A 01]试图逃跑
 
 [占位A 01]想要逃跑
 
 [占位A 01]似乎要逃跑"
-"BTLMSGID_BIBIRI_0","[f 2 4 0]害怕了","BTLMSGID_BIBIRI_0","机翻辅助：
+"BTLMSGID_BIBIRI_0","[占位A 01]惊慌失措","BTLMSGID_BIBIRI_0","机翻辅助：
 
 [占位A 01]惊慌失措
 
@@ -2205,26 +2205,26 @@ SP切断发动！"
 草食恐龙飞出来了！
 
 食草恐龙跑出来了！"
-"BTLMSGID_PUNISH_0","[f 2 4 0]我剪短发了！","BTLMSGID_PUNISH_0","机翻辅助：
+"BTLMSGID_PUNISH_0","[占位A 01]的短路了！","BTLMSGID_PUNISH_0","机翻辅助：
 
 [占位A 01]的短路了！
 
 [占位A 01]是短发！
 
 [占位A 01]短发了！"
-"BTLMSGID_DO_1_0","[f 2 4 0]有蠕动！","BTLMSGID_DO_1_0","机翻辅助：
+"BTLMSGID_DO_1_0","[占位A 01]的蠕虫在蠢动！","BTLMSGID_DO_1_0","机翻辅助：
 
 [占位A 01]的蠕虫在蠢动！
 
 [占位A 01]在蠕动！
 
 [占位A 01]在动！"
-"BTLMSGID_DO_2_0","[f 2 4 0]他的身体在跳动！","BTLMSGID_DO_2_0","机翻辅助：
+"BTLMSGID_DO_2_0","[占位A 01]的身体在搏动！","BTLMSGID_DO_2_0","机翻辅助：
 
 [占位A 01]的身体在搏动！
 
 [占位A 01]的身体在跳动！"
-"BTLMSGID_DO_3_0","[f 2 4 0]他的动作变得迟缓了！","BTLMSGID_DO_3_0","机翻辅助：
+"BTLMSGID_DO_3_0","[占位A 01]的动作变迟钝了！","BTLMSGID_DO_3_0","机翻辅助：
 
 [占位A 01]的动作变迟钝了！
 
@@ -2274,21 +2274,21 @@ ERROR ！ERROR ！"
 ERROR！功能停止中！
 
 ERROR ！功能停止中！"
-"BTLMSGID_BUF_OMEN_0","[f 2 4 0]冰的力量正在聚集！","BTLMSGID_BUF_OMEN_0","机翻辅助：
+"BTLMSGID_BUF_OMEN_0","[占位A 01]正在汇聚冰之力！","BTLMSGID_BUF_OMEN_0","机翻辅助：
 
 [占位A 01]正在汇聚冰之力！
 
 [占位A 01]冰的力量聚集在一起！
 
 [占位A 01]聚集着冰的力量！"
-"BTLMSGID_JIO_OMEN_0","[f 2 4 0]雷的力量正在聚集！","BTLMSGID_JIO_OMEN_0","机翻辅助：
+"BTLMSGID_JIO_OMEN_0","[占位A 01]正在汇聚雷之力！","BTLMSGID_JIO_OMEN_0","机翻辅助：
 
 [占位A 01]正在汇聚雷之力！
 
 [占位A 01]雷电的力量聚集在一起！
 
 [占位A 01]聚集了雷电的力量！"
-"BTLMSGID_KHRONOS_ANNOUNC_0","[f 2 4 0]集中注意力！","BTLMSGID_KHRONOS_ANNOUNC_0","机翻辅助：
+"BTLMSGID_KHRONOS_ANNOUNC_0","[占位A 01]正在集中意识！","BTLMSGID_KHRONOS_ANNOUNC_0","机翻辅助：
 
 [占位A 01]正在集中意识！
 
@@ -2336,14 +2336,14 @@ ERROR ！功能停止中！"
 天罚戴德瑙……
 
 引导你·羔羊maine ！天罚死吧……"
-"BTLMSGID_HOQ_CAST_SKILL_0","[f 2 4 0]正在试图施展魔法！","BTLMSGID_HOQ_CAST_SKILL_0","机翻辅助：
+"BTLMSGID_HOQ_CAST_SKILL_0","[占位A 01]正准备咏唱魔法！","BTLMSGID_HOQ_CAST_SKILL_0","机翻辅助：
 
 [占位A 01]正准备咏唱魔法！
 
 [占位A 01]想要歌颂魔法！
 
 [占位A 01]是打算念魔法！"
-"BTLMSGID_HOQ_INTERRUPT_S_0","[f 2 4 0]看来魔法失败了……","BTLMSGID_HOQ_INTERRUPT_S_0","机翻辅助：
+"BTLMSGID_HOQ_INTERRUPT_S_0","[占位A 01]的魔法好像失败了…….","BTLMSGID_HOQ_INTERRUPT_S_0","机翻辅助：
 
 [占位A 01]的魔法好像失败了…….
 
@@ -3396,31 +3396,31 @@ NOIR，能去吗？"
 集中意识！
 
 集中了意识！"
-"BTLMSGID_USAGI_OOGOE_0","[f 2 4 0]他深深地吸了一口气。","BTLMSGID_USAGI_OOGOE_0","机翻辅助：
+"BTLMSGID_USAGI_OOGOE_0","[占位A 01]大口吸气。","BTLMSGID_USAGI_OOGOE_0","机翻辅助：
 
 [占位A 01]大口吸气。
 
 [占位A 01]深深地吸了一口气"
-"BTLMSGID_VELVET_SRICAM_0","[f 2 4 0]他重新回到了战线上！","BTLMSGID_VELVET_SRICAM_0","机翻辅助：
+"BTLMSGID_VELVET_SRICAM_0","[占位A 01]重返战线！","BTLMSGID_VELVET_SRICAM_0","机翻辅助：
 
 [占位A 01]重返战线！
 
 [占位A 01]回到了战线！
 
 [占位A 01]回到前线了！"
-"BTLMSGID_GK_COUNT3_0","[f 2 4 0]他的眼睛闪闪发光！","BTLMSGID_GK_COUNT3_0","机翻辅助：
+"BTLMSGID_GK_COUNT3_0","[占位A 01]的眼睛在发光！","BTLMSGID_GK_COUNT3_0","机翻辅助：
 
 [占位A 01]的眼睛在发光！
 
 [占位A 01]的眼睛闪耀着！"
-"BTLMSGID_GK_COUNT2_0","[f 2 4 0]她的眼神失去了光彩！","BTLMSGID_GK_COUNT2_0","机翻辅助：
+"BTLMSGID_GK_COUNT2_0","[占位A 01]的眼睛黯淡无光！","BTLMSGID_GK_COUNT2_0","机翻辅助：
 
 [占位A 01]的眼睛黯淡无光！
 
 [占位A 01]眼睛的光辉消失了！
 
 [占位A 01]眼睛的光芒消失了！"
-"BTLMSGID_GK_COUNT1_0","[f 2 4 0]他的眼睛闪耀了一次。","BTLMSGID_GK_COUNT1_0","机翻辅助：
+"BTLMSGID_GK_COUNT1_0","[占位A 01]的眼睛闪了一下。","BTLMSGID_GK_COUNT1_0","机翻辅助：
 
 [占位A 01]的眼睛闪了一下。
 
@@ -3538,21 +3538,21 @@ SP除外我方全部恢复！
 霍汶克鲁斯成了替身！
 
 霍文克鲁斯变成了替身！"
-"BTLMSGID_OWNDOLL_0","[f 2 4 0]赎罪羊的效果发动！","BTLMSGID_OWNDOLL_0","机翻辅助：
+"BTLMSGID_OWNDOLL_0","[占位A 01]的赎罪羔羊效果发动！","BTLMSGID_OWNDOLL_0","机翻辅助：
 
 [占位A 01]的赎罪羔羊效果发动！
 
 [占位A 01]赎罪羊的效果发动！
 
 [占位A 01]二赎罪之羊的效果发动！"
-"BTLMSGID_KIAIBRACE_0","[f 2 4 0]勇气手环的效果发动！","BTLMSGID_KIAIBRACE_0","机翻辅助：
+"BTLMSGID_KIAIBRACE_0","[占位A 01]的毅力手环效果发动！","BTLMSGID_KIAIBRACE_0","机翻辅助：
 
 [占位A 01]的毅力手环效果发动！
 
 [占位A 01]根性手镯的效果发动！
 
 [占位A 01]二次根性的手镯的效果发动！"
-"BTLMSGID_KAMINONIE_0","[f 2 4 0]神的祭品效果发动！","BTLMSGID_KAMINONIE_0","机翻辅助：
+"BTLMSGID_KAMINONIE_0","[占位A 01]的神之祭品效果发动！","BTLMSGID_KAMINONIE_0","机翻辅助：
 
 [占位A 01]的神之祭品效果发动！
 
@@ -3566,57 +3566,57 @@ SP除外我方全部恢复！
 回合的最后进行攻击！
 
 会在回合的最后进行攻击！"
-"BTLMSGID_UZUUZU_0","[f 2 4 0]坐立不安！","BTLMSGID_UZUUZU_0","机翻辅助：
+"BTLMSGID_UZUUZU_0","[占位A 01]蠢蠢欲动！","BTLMSGID_UZUUZU_0","机翻辅助：
 
 [占位A 01]蠢蠢欲动！
 
 [占位A 01]我在发呆！
 
 [占位A 01]真烦人！"
-"BTLMSGID_MANZOK_0","[f 2 4 0]他很满意。","BTLMSGID_MANZOK_0","机翻辅助：
+"BTLMSGID_MANZOK_0","[占位A 01]心满意足","BTLMSGID_MANZOK_0","机翻辅助：
 
 [占位A 01]心满意足
 
 [占位A 01]满意，满意
 
 [占位A 01]很满足"
-"BTLMSGID_THINK_0","[f 2 4 0]在深思。","BTLMSGID_THINK_0","机翻辅助：
+"BTLMSGID_THINK_0","[占位A 01]陷入沉思","BTLMSGID_THINK_0","机翻辅助：
 
 [占位A 01]陷入沉思
 
 [占位A 01]沉思着
 
 [占位A 01]沉思"
-"BTLMSGID_KETSUDAN_0","[f 2 4 0]我下定决心了！","BTLMSGID_KETSUDAN_0","机翻辅助：
+"BTLMSGID_KETSUDAN_0","[占位A 01]下定决心！","BTLMSGID_KETSUDAN_0","机翻辅助：
 
 [占位A 01]下定决心！
 
 [占位A 01]下定决心了！
 
 [占位A 01]下定了决心！"
-"BTLMSGID_MAHASUKU_0","[f 2 4 1]命中率和回避率提升了！","BTLMSGID_MAHASUKU_0","机翻辅助：
+"BTLMSGID_MAHASUKU_0","[占位A 02]的命中率与闪避率提升！","BTLMSGID_MAHASUKU_0","机翻辅助：
 
 [占位A 02]的命中率与闪避率提升！
 
 [占位A 02]的命中率和回避率上升了！"
-"BTLMSGID_RANDAMA_0","[f 2 4 1]所有能力都下降了！","BTLMSGID_RANDAMA_0","机翻辅助：
+"BTLMSGID_RANDAMA_0","[占位A 02]的全部能力下降！","BTLMSGID_RANDAMA_0","机翻辅助：
 
 [占位A 02]的全部能力下降！
 
 [占位A 02]的全部能力下降了！"
-"BTLMSGID_HEATRA_0","[f 2 4 1]所有能力都提升了！","BTLMSGID_HEATRA_0","机翻辅助：
+"BTLMSGID_HEATRA_0","[占位A 02]的全部能力提升！","BTLMSGID_HEATRA_0","机翻辅助：
 
 [占位A 02]的全部能力提升！
 
 [占位A 02]的全部能力上升了！"
-"BTLMSGID_SASTAIN_0","[f 2 4 1]强化效果被延长了！","BTLMSGID_SASTAIN_0","机翻辅助：
+"BTLMSGID_SASTAIN_0","[占位A 02]的强化效果延长！","BTLMSGID_SASTAIN_0","机翻辅助：
 
 [占位A 02]的强化效果延长！
 
 [占位A 02]的强化效果延长了！
 
 [占位A 02]的强化效果被延长了！"
-"BTLMSGID_HIDE_0","[f 2 4 1]已经可以无效化物理攻击了！","BTLMSGID_HIDE_0","机翻辅助：
+"BTLMSGID_HIDE_0","[占位A 02]物理攻击无效化！","BTLMSGID_HIDE_0","机翻辅助：
 
 [占位A 02]物理攻击无效化！
 
@@ -3628,7 +3628,7 @@ SP除外我方全部恢复！
 领导筋疲力尽……
 
 队长筋疲力尽了……"
-"BTLMSGID_JIBAKU_0","[f 2 4 0]自爆开关已经打开！","BTLMSGID_JIBAKU_0","机翻辅助：
+"BTLMSGID_JIBAKU_0","[占位A 01]的自爆开关启动！","BTLMSGID_JIBAKU_0","机翻辅助：
 
 [占位A 01]的自爆开关启动！
 
@@ -3652,50 +3652,50 @@ SP除外我方全部恢复！
 但是没有效果。
 
 但是毫无效果。"
-"BTLMSGID_AMRITA_0","[f 2 4 1]HP、状态异常、封印全部恢复！","BTLMSGID_AMRITA_0","机翻辅助：
+"BTLMSGID_AMRITA_0","[占位A 02]的HP、异常状态、封锁全部恢复！","BTLMSGID_AMRITA_0","机翻辅助：
 
 [占位A 02]的HP、异常状态、封锁全部恢复！
 
 [占位A 02]的HP，状态异常，封印全部恢复！
 
 [占位A 02]的HP，状态异常，封印全回复！"
-"BTLMSGID_LPATRA_0","[f 2 4 1]列的HP，状态异常已恢复！","BTLMSGID_LPATRA_0","机翻辅助：
+"BTLMSGID_LPATRA_0","[占位A 02]的列的HP、异常状态恢复！","BTLMSGID_LPATRA_0","机翻辅助：
 
 [占位A 02]的列的HP、异常状态恢复！
 
 [占位A 02]的列的HP，状态异常恢复！
 
 [占位A 02]生命值异常，状态回复！"
-"BTLMSGID_COUNT_UP_0","[f 2 4 1]计数增加了！","BTLMSGID_COUNT_UP_0","机翻辅助：
+"BTLMSGID_COUNT_UP_0","[占位A 02]的计数增加！","BTLMSGID_COUNT_UP_0","机翻辅助：
 
 [占位A 02]的计数增加！
 
 [占位A 02]的计数增加了！"
-"BTLMSGID_ONEBSTHEAL_0","[f 2 4 1]状态异常已经恢复了！","BTLMSGID_ONEBSTHEAL_0","机翻辅助：
+"BTLMSGID_ONEBSTHEAL_0","[占位A 02]的异常状态恢复！","BTLMSGID_ONEBSTHEAL_0","机翻辅助：
 
 [占位A 02]的异常状态恢复！
 
 [占位A 02]的状态异常恢复了！
 
 [占位A 02]的异常状态恢复了！"
-"BTLMSGID_ONESEALHEAL_0","[f 2 4 1]解除了封印！","BTLMSGID_ONESEALHEAL_0","机翻辅助：
+"BTLMSGID_ONESEALHEAL_0","[占位A 02]的封印消失了！","BTLMSGID_ONESEALHEAL_0","机翻辅助：
 
 [占位A 02]的封印消失了！
 
 [占位A 02]消除了的封！"
-"BTLMSGID_CHARGE_0","[f 2 4 1]我充满了力量！","BTLMSGID_CHARGE_0","机翻辅助：
+"BTLMSGID_CHARGE_0","[占位A 02]积蓄力量！","BTLMSGID_CHARGE_0","机翻辅助：
 
 [占位A 02]积蓄力量！
 
 [占位A 02]积蓄了力量！
 
 [占位A 02]蓄力了！"
-"BTLMSGID_CONCENTRATE_0","[f 2 4 1]我集中注意力了！","BTLMSGID_CONCENTRATE_0","机翻辅助：
+"BTLMSGID_CONCENTRATE_0","[占位A 02]集中意识！","BTLMSGID_CONCENTRATE_0","机翻辅助：
 
 [占位A 02]集中意识！
 
 [占位A 02]集中了意识！"
-"BTLMSGID_KAKUSEI_0","[f 2 4 1]变成了修罗！","BTLMSGID_KAKUSEI_0","机翻辅助：
+"BTLMSGID_KAKUSEI_0","[占位A 02]化为修罗！","BTLMSGID_KAKUSEI_0","机翻辅助：
 
 [占位A 02]化为修罗！
 
@@ -3707,33 +3707,33 @@ SP除外我方全部恢复！
 扑克牌士兵们出现了！
 
 扑克兵们出现了！"
-"BTLMSGID_DOLL_SMILE_0","[f 2 4 0]他天真地笑着。","BTLMSGID_DOLL_SMILE_0","机翻辅助：
+"BTLMSGID_DOLL_SMILE_0","[占位A 01]天真无邪地笑着！","BTLMSGID_DOLL_SMILE_0","机翻辅助：
 
 [占位A 01]天真无邪地笑着！
 
 [占位A 01]天真地笑着
 
 [占位A 01]天真无邪地笑着"
-"BTLMSGID_MOTIVATION_0","[f 2 4 0]加油！","BTLMSGID_MOTIVATION_0","机翻辅助：
+"BTLMSGID_MOTIVATION_0","[占位A 01]充满干劲！","BTLMSGID_MOTIVATION_0","机翻辅助：
 
 [占位A 01]充满干劲！
 
 [占位A 01]是干劲！
 
 [占位A 01]干劲十足！"
-"BTLMSGID_BOAST_0","[f 2 4 0]正在展示肉体。","BTLMSGID_BOAST_0","机翻辅助：
+"BTLMSGID_BOAST_0","[占位A 01]夸耀着肉体！","BTLMSGID_BOAST_0","机翻辅助：
 
 [占位A 01]夸耀着肉体！
 
 [占位A 01]是在炫耀肉体
 
 [占位A 01]炫耀自己的肉体"
-"BTLMSGID_RELAX_0","[f 2 4 0]优雅地放松着。","BTLMSGID_RELAX_0","机翻辅助：
+"BTLMSGID_RELAX_0","[占位A 01]优雅地休息！","BTLMSGID_RELAX_0","机翻辅助：
 
 [占位A 01]优雅地休息！
 
 [占位A 01]优雅地放松着"
-"BTLMSGID_CREEP_0","[f 2 4 0]在悄悄地做些什么","BTLMSGID_CREEP_0","机翻辅助：
+"BTLMSGID_CREEP_0","[占位A 01]蠢蠢欲动！","BTLMSGID_CREEP_0","机翻辅助：
 
 [占位A 01]蠢蠢欲动！
 
@@ -3747,14 +3747,14 @@ SP除外我方全部恢复！
 我方全员回复的效果！
 
 附带了恢复全体伙伴的效果！"
-"BTLMSGID_DARKMIST_0","[f 2 4 1]状态异常，封印时间延长了。","BTLMSGID_DARKMIST_0","机翻辅助：
+"BTLMSGID_DARKMIST_0","[占位A 02]的异常状态封印时间延长！","BTLMSGID_DARKMIST_0","机翻辅助：
 
 [占位A 02]的异常状态封印时间延长！
 
 [占位A 02]状态异常，封锁时间延长了
 
 [占位A 02]状态异常，封锁时间延长"
-"BTLMSGID_TARGET_DEAD_ALR_0","[f 2 4 0]没有目标！","BTLMSGID_TARGET_DEAD_ALR_0","机翻辅助：
+"BTLMSGID_TARGET_DEAD_ALR_0","[占位A 01]没有对象！","BTLMSGID_TARGET_DEAD_ALR_0","机翻辅助：
 
 [占位A 01]没有对象！
 
@@ -3766,7 +3766,7 @@ SP除外我方全部恢复！
 阴影扩散[占位A 03]
 
 车道散了一圈[占位A 03]"
-"BTLMSGID_REF_COUNTER_ATT_0","[f 2 4 1]挑衅计数器发动！","BTLMSGID_REF_COUNTER_ATT_0","机翻辅助：
+"BTLMSGID_REF_COUNTER_ATT_0","[占位A 02]的挑衅反击发动！","BTLMSGID_REF_COUNTER_ATT_0","机翻辅助：
 
 [占位A 02]的挑衅反击发动！
 
@@ -3795,22 +3795,22 @@ SP除外我方全部恢复！
 情绪达到了最高潮！
 
 情绪达到最高潮了！"
-"BTLMSGID_REF_ATTRUP_NEND_0","[f 2 4 1]心灵感应抗性提升了！","BTLMSGID_REF_ATTRUP_NEND_0","机翻辅助：
+"BTLMSGID_REF_ATTRUP_NEND_0","[占位A 02]的念动耐性上升！","BTLMSGID_REF_ATTRUP_NEND_0","机翻辅助：
 
 [占位A 02]的念动耐性上升！
 
 [占位A 02]的念动耐性上升了！"
-"BTLMSGID_REF_ATTRUP_KAKU_0","[f 2 4 1]核热耐性提高了！","BTLMSGID_REF_ATTRUP_KAKU_0","机翻辅助：
+"BTLMSGID_REF_ATTRUP_KAKU_0","[占位A 02]的核热耐性上升！","BTLMSGID_REF_ATTRUP_KAKU_0","机翻辅助：
 
 [占位A 02]的核热耐性上升！
 
 [占位A 02]的核热耐性上升了！"
-"BTLMSGID_REF_ATTRDOWN_NE_0","[f 2 4 1]念动耐性降低了！","BTLMSGID_REF_ATTRDOWN_NE_0","机翻辅助：
+"BTLMSGID_REF_ATTRDOWN_NE_0","[占位A 02]的念动耐性下降！","BTLMSGID_REF_ATTRDOWN_NE_0","机翻辅助：
 
 [占位A 02]的念动耐性下降！
 
 [占位A 02]的念动耐性降低了！"
-"BTLMSGID_REF_ATTRDOWN_KA_0","[f 2 4 1]核热耐性降低了！","BTLMSGID_REF_ATTRDOWN_KA_0","机翻辅助：
+"BTLMSGID_REF_ATTRDOWN_KA_0","[占位A 02]的核热耐性下降！","BTLMSGID_REF_ATTRDOWN_KA_0","机翻辅助：
 
 [占位A 02]的核热耐性下降！
 
@@ -3822,15 +3822,15 @@ SP除外我方全部恢复！
 发动连击！
 
 连击发动！"
-"BTLMSGID_BOOT2_0","[f 2 4 3]发动！","BTLMSGID_BOOT2_0","机翻辅助：
+"BTLMSGID_BOOT2_0","[占位A 04]发动！","BTLMSGID_BOOT2_0","机翻辅助：
 
 [占位A 04]发动！"
-"BTLMSGID_FULL_ANALYZE_SU_0","[f 2 4 1]分析了他的能力！","BTLMSGID_FULL_ANALYZE_SU_0","机翻辅助：
+"BTLMSGID_FULL_ANALYZE_SU_0","[占位A 02]解析了的能力！","BTLMSGID_FULL_ANALYZE_SU_0","机翻辅助：
 
 [占位A 02]解析了的能力！
 
 [占位A 02]的能力分析！"
-"BTLMSGID_FULL_SNALYZE_FA_0","[f 2 4 1]正在阻止解析…","BTLMSGID_FULL_SNALYZE_FA_0","机翻辅助：
+"BTLMSGID_FULL_SNALYZE_FA_0","[占位A 02]防止解析……","BTLMSGID_FULL_SNALYZE_FA_0","机翻辅助：
 
 [占位A 02]防止解析……
 
@@ -3896,7 +3896,7 @@ SP除外我方全部恢复！
 技能的消费成本下降了！
 
 技能的消耗成本降低了！"
-"BTLMSGID_PQ2_ZEROS_0","[f 2 4 1]消费成本变成了零！","BTLMSGID_PQ2_ZEROS_0","机翻辅助：
+"BTLMSGID_PQ2_ZEROS_0","[占位A 02]的消费成本变成零！","BTLMSGID_PQ2_ZEROS_0","机翻辅助：
 
 [占位A 02]的消费成本变成零！
 

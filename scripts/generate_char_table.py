@@ -22,6 +22,12 @@ def generate_cp932(used_kanjis: set[str]):
 
 
 def generate_char_table(json_root: str) -> dict[str, str]:
+  char_table: dict[str, str] = {}
+  shift_jis_characters = set()
+  with open(ZH_HANS_2_KANJI_PATH, "r", -1, "utf8") as reader:
+    _: dict[str, str] = json.load(reader)
+  zh_Hans_2_kanji = {k: v for k, v in _.items() if v.encode("cp932")[0] < 0xa0}
+
   characters = set("".join((
     "结城理",
     "有里凑",
@@ -37,6 +43,7 @@ def generate_char_table(json_root: str) -> dict[str, str]:
     "来栖晓",
     "波特",
     "周可",
+    "".join(zh_Hans_2_kanji.keys())
   )))
   for root, dirs, files in os.walk(json_root):
     for file_name in files:
@@ -58,12 +65,6 @@ def generate_char_table(json_root: str) -> dict[str, str]:
           content = content.replace(k, v)
         for char in content:
           characters.add(char)
-
-  char_table: dict[str, str] = {}
-  shift_jis_characters = set()
-  with open(ZH_HANS_2_KANJI_PATH, "r", -1, "utf8") as reader:
-    _: dict[str, str] = json.load(reader)
-  zh_Hans_2_kanji = {k: v for k, v in _.items() if v.encode("cp932")[0] < 0xa0}
 
   generator = generate_cp932(set(zh_Hans_2_kanji.values()))
 

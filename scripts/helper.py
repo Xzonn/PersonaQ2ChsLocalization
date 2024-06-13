@@ -17,6 +17,11 @@ ZH_HANS_2_KANJI_PATH = "files/zh_Hans_2_kanji.json"
 DUPLICATE_FILES_INFO_PATH = "files/duplicate_files.json"
 CHAR_TABLE_PATH = "out/char_table.json"
 
+FONT_PATHS = [
+  "files/fonts/FZFWQingYinTiJWB.ttf",
+  "files/fonts/FOT-HummingStd-B.otf",
+]
+
 CONTROL_PATTERN = re.compile(r"(\[[0-9A-F]{2}(?: [0-9A-F]{2})*\]|\n)")
 TRASH_PATTERN = re.compile(
   r"^(?:|.*(?:0x|＿|※|（仮）|ダミーメッセージ|ダミーMSG|ダミー枠|ＲＥＳＥＲＶＥ|リザーブ|ダ\[(?:n|e|f(?: \d+)+)\]ミ\[(?:n|e|f(?: \d+)+)\]ー|★未使用|・未使用|未使用・|MSG|これが出るとバグです).*|ダミー\d*|＜声のみ＞ダミー|会話ダミー|ダミ－|ブランク|未使用)$",
@@ -28,6 +33,9 @@ CHINESE_TO_JAPANESE = {
   "·": "・",
   "—": "―",
 }
+CHINESE_PUNCTUATIONS_LEFT = "，。、；：？！…”’》）"
+CHINESE_PUNCTUATIONS_RIGHT = "“‘《（"
+CHINESE_PUNCTUATIONS_CENTER = "…·・—―"
 
 TO_SPECIAL_CONTROLS = {
   r"\[F5 C1 0D 01 01 01 01 01 01 01\]": "[P4姓]",
