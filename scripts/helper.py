@@ -1,6 +1,7 @@
 import csv
 import json
 import re
+from typing import Any, Generator
 
 DIR_ORIGINAL_ROOT = "original_files/unpacked"
 DIR_MESSAGE_ROOT = "temp/messages"
@@ -8,7 +9,9 @@ DIR_MESSAGE_NEW_ROOT = "temp/messages_new"
 DIR_JSON_ROOT = "files/normalized"
 DIR_CSV_ROOT = "texts"
 DIR_XLSX_ROOT = "out/xlsx"
+DIR_PATCH_ROOT = "out/00040000001CBE00"
 
+CODE_BIN_PATH = "original_files/code.bin"
 ZH_HANS_2_KANJI_PATH = "files/zh_Hans_2_kanji.json"
 DUPLICATE_FILES_INFO_PATH = "files/duplicate_files.json"
 CHAR_TABLE_PATH = "out/char_table.json"
@@ -59,6 +62,23 @@ TO_NORMAL_CONTROLS = {
   r"\[占位B ([0-9A-F]{2})\]": r"[F4 45 04 01 00 00 \1 01]",
   r"\[颜色 ([0-9A-F]{2})\]": r"[F2 01 \1 01]",
 }
+
+HARDCODED_TEXTS = [
+  ("剛毅", "女帝"),
+  ("Aチーム", "Ｐ３女主人公"),
+  ("謎解き", "採取"),
+  ("第%dエリア", "大衆の映画館街"),
+  ("中央集積所", "カモシダ記念広場"),
+  ("エリザベス＆テオドア", "アリアドネ"),
+  ("マーガレット＆菜々子", "入手金上昇アクセサリ"),
+  ("メモ", "矢印"),
+  ("ダミー 50", "カモシダーマン 記念広場"),
+  (
+    bytes.fromhex(
+      "F2 05 FF FF F1 41 83 4E 83 8A 83 41 83 66 81 5B 83 5E 82 F0 95 DB 91 B6 82 B5 82 DC 82 B7 82 A9 81 48 0A"),
+    bytes.fromhex("F2 05 FF FF F1 41 8F E3 8F 91 82 AB 82 B7 82 E9 0A 82 E2 82 DF 82 E9 0A"),
+  ),
+]
 
 char_table_reversed: dict[str, str] = {}
 zh_hans_no_code = set()
@@ -162,3 +182,81 @@ def load_csv(root: str, sheet_name: str) -> list[dict[str, str]]:
       lines.append(item_dict)
 
   return lines
+
+
+# https://github.com/Meloman19/PersonaEditor/blob/master/PersonaEditorLib/Text/Extension.cs
+# License: MIT
+#
+# MIT License
+#
+# Copyright (c) 2023 Meloman19
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
+
+class TextBaseElement:
+
+  def __init__(self, is_text: bool, data: bytearray):
+    self.is_text: bool = is_text
+    self.data: bytearray = data
+
+  def __str__(self) -> str:
+    if self.is_text:
+      return self.data.decode("cp932", "ignore")
+    else:
+      return "{" + " ".join(f"{byte:02X}" for byte in self.data) + "}"
+
+  def __repr__(self):
+    return f"TextBaseElement(is_text={self.is_text}, data={self.data})"
+
+
+def get_text_bases(array: bytearray | bytes) -> Generator[TextBaseElement, Any, None]:
+  temp = bytearray()
+
+  i = 0
+  while i < len(array):
+    if 0x20 <= array[i] < 0x80:
+      temp.append(array[i])
+    elif 0x80 <= array[i] < 0xF0:
+      temp.append(array[i])
+      i += 1
+      temp.append(array[i])
+    else:
+      if 0x00 <= array[i] < 0x20:
+        if temp:
+          yield TextBaseElement(True, temp)
+          temp = bytearray()
+        temp.append(array[i])
+        yield TextBaseElement(array[i] == 0x0a, temp)
+        temp = bytearray()
+      else:
+        if temp:
+          yield TextBaseElement(True, temp)
+          temp = bytearray()
+        temp.append(array[i])
+        count = (array[i] - 0xF0) * 2 - 1
+        for _ in range(count):
+          i += 1
+          temp.append(array[i])
+        yield TextBaseElement(False, temp)
+        temp = bytearray()
+    i += 1
+
+  if temp:
+    yield TextBaseElement(True, temp)

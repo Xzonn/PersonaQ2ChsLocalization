@@ -101,17 +101,5 @@
 ＞返回标题画面吗？
 
 >返回标题画面吗？"
-"SEL_RETURN_TITLE_0","好的。","SEL_RETURN_TITLE_0","机翻辅助：
-
-好的。
-
-是的
-
-是"
-"SEL_RETURN_TITLE_1","不。","SEL_RETURN_TITLE_1","机翻辅助：
-
-不。
-
-否
-
-没有"
+"SEL_RETURN_TITLE_0","是","SEL_RETURN_TITLE_0",""
+"SEL_RETURN_TITLE_1","否","SEL_RETURN_TITLE_1",""

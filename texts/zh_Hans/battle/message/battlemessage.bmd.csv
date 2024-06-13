@@ -1,400 +1,2436 @@
 "source","target","id","developer_comments"
-"BTLMSGID_AP_SINGLE_0","[f 2 4 0]出现了！","BTLMSGID_AP_SINGLE_0",""
-"BTLMSGID_AP_S_MANY_0","[f 2 4 0]达到了！","BTLMSGID_AP_S_MANY_0",""
-"BTLMSGID_AP_D_MANY_0","暗影群出现了！","BTLMSGID_AP_D_MANY_0",""
-"BTLMSGID_AP_E_SUP_0","暗影袭来了！","BTLMSGID_AP_E_SUP_0",""
-"BTLMSGID_AP_E_SUP_STOP_0","しかし、[占位A 02]は不意打ちを予測していた。","BTLMSGID_AP_E_SUP_STOP_0",""
-"BTLMSGID_AP_S_SUP_0","[f 2 4 0]抢先出手了！","BTLMSGID_AP_S_SUP_0",""
-"BTLMSGID_AP_D_SUP_0","我方先发制人攻击！","BTLMSGID_AP_D_SUP_0",""
-"BTLMSGID_ADDENEMY_OPEN_0","[f 2 4 0]被叫出来了！","BTLMSGID_ADDENEMY_OPEN_0",""
-"BTLMSGID_ADDENEMY_FOE_0","新手参战了！","BTLMSGID_ADDENEMY_FOE_0",""
-"BLTMSGID_ADDENEMY_FOEDEA_0","黑影袭击了影子们！","BLTMSGID_ADDENEMY_FOEDEA_0",""
-"BLTMSGID_CMD_0","你要怎么办？","BLTMSGID_CMD_0",""
-"BLTMSGID_CMD_NO_0","[f 2 4 0]无法动！","BLTMSGID_CMD_NO_0",""
-"BLTMSGID_CMD_NO_ALL_0","伙伴们动不了！","BLTMSGID_CMD_NO_ALL_0",""
-"BLTMSGID_STONE_0","[f 2 4 0]它变成了石头！","BLTMSGID_STONE_0",""
-"BLTMSGID_SLEEP_0","[f 2 4 0]正在睡觉。","BLTMSGID_SLEEP_0",""
-"BLTMSGID_CONFUSE_0","[f 2 4 0]我很困惑！","BLTMSGID_CONFUSE_0",""
-"BLTMSGID_PARA_0","[f 2 4 0]我麻痹了，动不了！","BLTMSGID_PARA_0",""
-"BLTMSGID_TERROR_0","[f 2 4 0]处于恐慌状态，动弹不得！","BLTMSGID_TERROR_0",""
-"BLTMSGID_STUN_0","[f 2 4 0]我累坏了！","BLTMSGID_STUN_0",""
-"BTLMSGID_F_SEAL_HEAD_0","[f 2 4 0]用封魔效果无法使用技能！","BTLMSGID_F_SEAL_HEAD_0",""
-"BTLMSGID_F_SEAL_ARM_0","[f 2 4 0]用封印技能无法使用技能！","BTLMSGID_F_SEAL_ARM_0",""
-"BTLMSGID_F_SEAL_LEG_0","[f 2 4 0]无法逃脱速封的效果！","BTLMSGID_F_SEAL_LEG_0",""
-"BTLMSGID_CRITICALHIT_P_0","[f 2 4 1]他已经停止呼吸了！","BTLMSGID_CRITICALHIT_P_0",""
-"BTLMSGID_CRITICALHIT_E_0","[f 2 4 1]扼杀了他的呼吸！","BTLMSGID_CRITICALHIT_E_0",""
-"BTLMSGID_ATTACK_0","[f 2 4 0]攻击！","BTLMSGID_ATTACK_0",""
-"BTLMSGID_DAMAGE_P_E_0","[占位A 02]に[占位A 03]のダメージを与えた！","BTLMSGID_DAMAGE_P_E_0",""
-"BTLMSGID_DAMAGE_P_E_C_0","[f 2 4 2]造成了伤害！","BTLMSGID_DAMAGE_P_E_C_0",""
-"BTLMSGID_DAMAGE_E_P_HP_0","[占位A 02]は[占位A 03]のダメージを受けた！","BTLMSGID_DAMAGE_E_P_HP_0",""
-"BTLMSGID_DAMAGE_E_P_TP_0","[占位A 02]は[占位A 03]のダメージを受けた！","BTLMSGID_DAMAGE_E_P_TP_0",""
-"BTLMSGID_USE_0","[占位A 01]は[占位A 04]を使った！","BTLMSGID_USE_0",""
-"BTLMSGID_HPHEAL_0","[f 2 4 1]血量恢复了！","BTLMSGID_HPHEAL_0",""
-"BTLMSGID_HPHEAL_ALL_0","[f 2 4 1]HP已完全恢复！","BTLMSGID_HPHEAL_ALL_0",""
-"BTLMSGID_TPHEAL_0","[f 2 4 1]SP值恢复了！","BTLMSGID_TPHEAL_0",""
-"BTLMSGID_TPHEAL_ALL_0","[f 2 4 1]SP完全恢复了！","BTLMSGID_TPHEAL_ALL_0",""
-"BTLMSGID_DISCHARGE_0","[f 2 4 0]武器发出光芒！！","BTLMSGID_DISCHARGE_0",""
-"BTLMSGID_TARGET_MANY_0","暗影的群体","BTLMSGID_TARGET_MANY_0",""
-"BTLMSGID_ITEMUSE_0","[占位A 01]は[占位A 04]を使った！","BTLMSGID_ITEMUSE_0",""
-"BTLMSGID_DEFENCE_0","[f 2 4 0]他在保护自己。","BTLMSGID_DEFENCE_0",""
-"BTLMSGID_SUMMON_0","[f 2 4 0]召集了伙伴！","BTLMSGID_SUMMON_0",""
-"BLTMSGID_BST_DEAD_0","[f 2 4 1]他立刻死了！","BLTMSGID_BST_DEAD_0",""
-"BLTMSGID_BST_STONE_0","[f 2 4 1]变成了石头！","BLTMSGID_BST_STONE_0",""
-"BLTMSGID_BST_SLEEP_0","[f 2 4 1]他睡着了！","BLTMSGID_BST_SLEEP_0",""
-"BLTMSGID_BST_CONFUSE_0","[f 2 4 1]我很困惑！","BLTMSGID_BST_CONFUSE_0",""
-"BLTMSGID_BST_POINSON_EX_0","[f 2 4 1]毒感染了！","BLTMSGID_BST_POINSON_EX_0",""
-"BLTMSGID_BST_POISON_0","[f 2 4 1]给了毒！","BLTMSGID_BST_POISON_0",""
-"BLTMSGID_BST_BLIND_0","[f 2 4 1]变成了盲人！","BLTMSGID_BST_BLIND_0",""
-"BLTMSGID_BST_CURSE_0","[f 2 4 1]被诅咒了！","BLTMSGID_BST_CURSE_0",""
-"BLTMSGID_BST_PARA_0","[f 2 4 1]我麻痹了！","BLTMSGID_BST_PARA_0",""
-"BLTMSGID_BST_STUN_0","[f 2 4 1]他晕倒了！","BLTMSGID_BST_STUN_0",""
-"BLTMSGID_BST_SEAL_MA_0","[f 2 4 1]将其封印为魔封状态！","BLTMSGID_BST_SEAL_MA_0",""
-"BLTMSGID_BST_SEAL_RIKI_0","[f 2 4 1]将其封印在力量中！","BLTMSGID_BST_SEAL_RIKI_0",""
-"BLTMSGID_BST_SEAL_SOKU_0","[f 2 4 1]将其封锁状态加速！","BLTMSGID_BST_SEAL_SOKU_0",""
-"BLTMSGID_RIVIVE_0","[f 2 4 1]他重新回到了战线上！","BLTMSGID_RIVIVE_0",""
-"BTLMSGID_BSTH_STONE_0","[f 2 4 1]石化解除了！","BTLMSGID_BSTH_STONE_0",""
-"BTLMSGID_BSTH_SLEEP_0","[f 2 4 1]他醒了！","BTLMSGID_BSTH_SLEEP_0",""
-"BTLMSGID_BSTH_CONFUSION_0","[f 2 4 1]我恢复正常了！","BTLMSGID_BSTH_CONFUSION_0",""
-"BTLMSGID_BSTH_STINK_0","[f 2 4 1]她振作起来了！","BTLMSGID_BSTH_STINK_0",""
-"BTLMSGID_BSTH_POISON_0","[f 2 4 1]毒已经消失了！","BTLMSGID_BSTH_POISON_0",""
-"BTLMSGID_BSTH_BLIND_0","[f 2 4 1]眼睛好了！","BTLMSGID_BSTH_BLIND_0",""
-"BTLMSGID_BSTH_CURSE_0","[f 2 4 1]诅咒解除了！","BTLMSGID_BSTH_CURSE_0",""
-"BTLMSGID_BSTH_PARALYSIS_0","[f 2 4 1]我的麻痹解除了！","BTLMSGID_BSTH_PARALYSIS_0",""
-"BTLMSGID_BSTH_HEAD_0","[f 2 4 1]解除了封印状态！","BTLMSGID_BSTH_HEAD_0",""
-"BTLMSGID_BSTH_ARM_0","[f 2 4 1]解除了封印状态！","BTLMSGID_BSTH_ARM_0",""
-"BTLMSGID_BSTH_LEG_0","[f 2 4 1]解除了封印状态！","BTLMSGID_BSTH_LEG_0",""
-"BTLMSGID_ESCAPE_0","[f 2 4 0]他逃跑了！","BTLMSGID_ESCAPE_0",""
-"BTLMSGID_NOT_ESCAPE_0","[f 2 4 0]无法逃脱！","BTLMSGID_NOT_ESCAPE_0",""
-"BTLMSGID_NO_ESCAPE_0","这场战斗无法逃避！！","BTLMSGID_NO_ESCAPE_0",""
-"BTLMSGID_NOTSELECTESCAPE_0","无法逃跑！！","BTLMSGID_NOTSELECTESCAPE_0",""
-"BTLMSGID_NOT_ESCAPE_LEG_0","[f 2 4 0]无法逃脱！","BTLMSGID_NOT_ESCAPE_LEG_0",""
-"BTLMSGID_UNITDEAD_E_0","[f 2 4 1]打倒了！","BTLMSGID_UNITDEAD_E_0",""
-"BTLMSGID_UNITDEAD_P_0","[f 2 4 1]力量耗尽了！","BTLMSGID_UNITDEAD_P_0",""
-"BTLMSGID_PARTYDEAD_E_S_0","[f 2 4 1]击败了！","BTLMSGID_PARTYDEAD_E_S_0",""
-"BTLMSGID_PARTYDEAD_E_D_0","击溃了影子群！","BTLMSGID_PARTYDEAD_E_D_0",""
-"BTLMSGID_PARTYDEAD_P_0","派对全军覆没了…","BTLMSGID_PARTYDEAD_P_0",""
-"BTLMSGID_KUISHIBARI_0","[f 2 4 1]成功抵抗了攻击！","BTLMSGID_KUISHIBARI_0",""
-"BTLMSGID_LIMITSUMMON_0","[f 2 4 0]我们合作召集了伙伴！","BTLMSGID_LIMITSUMMON_0",""
-"BTLMSGID_MEGAN_0","[f 2 4 1]已经力尽了……","BTLMSGID_MEGAN_0",""
-"BTLMSGID_TARGET_ALL_0","整体","BTLMSGID_TARGET_ALL_0",""
-"BTLMSGID_SUMMON_SACRIFIC_0","[f 2 4 1]已经断气了…","BTLMSGID_SUMMON_SACRIFIC_0",""
-"BTLMSGID_SUMMON_MISS_0","然而，伙伴们没有出现！","BTLMSGID_SUMMON_MISS_0",""
-"BTLMSGID_POISONDAMAGE_0","[f 2 4 1]受到了毒伤害！","BTLMSGID_POISONDAMAGE_0",""
-"BTLMSGID_SACRIFICE_0","[f 2 4 0]出现了！","BTLMSGID_SACRIFICE_0",""
-"BTLMSGID_CHANGE_0","[占位A 01]と[占位A 02]は入れ替わった！","BTLMSGID_CHANGE_0",""
-"BTLMSGID_MOVE_0","[f 2 4 0]已经移动了！","BTLMSGID_MOVE_0",""
-"BTLMSGID_RANGEOUT_0","但是，攻击没有命中！","BTLMSGID_RANGEOUT_0",""
-"BTLMSGID_MISS_0","[f 2 4 1]对此没有效果。","BTLMSGID_MISS_0",""
-"BTLMSGID_AVOID_0","[f 2 4 1]成功躲避了攻击！","BTLMSGID_AVOID_0",""
-"BTLMSGID_STOPACTION_0","[占位A 02]は[占位A 01]の行動をさえぎった！","BTLMSGID_STOPACTION_0",""
-"BTLMSGID_REFUP_CRITICAL_0","[f 2 4 1]暴击率上升！","BTLMSGID_REFUP_CRITICAL_0",""
-"BTLMSGID_REFUP_HEALEFF_0","[f 2 4 1]附带了恢复效果！","BTLMSGID_REFUP_HEALEFF_0",""
-"BTLMSGID_BS3_UROKOCHASE_0","[f 2 4 0]火焰被点燃并蔓延开来！","BTLMSGID_BS3_UROKOCHASE_0",""
-"BTLMSGID_URI_MESSAGE_0","伤害被无效化了！","BTLMSGID_URI_MESSAGE_0",""
-"BTLMSGID_DSUMMON_0","[f 2 4 0]他对同伴的死有所反应！","BTLMSGID_DSUMMON_0",""
-"BTLMSGID_REFDOWN_CRITICA_0","[f 2 4 1]暴击率下降了！","BTLMSGID_REFDOWN_CRITICA_0",""
-"BTLMSGID_ANDROSTOP_0","[f 2 4 0]他停止了行动！","BTLMSGID_ANDROSTOP_0",""
-"BTLMSGID_KUITIGIRI_0","[占位A 01]は[占位A 02]を食いちぎった！","BTLMSGID_KUITIGIRI_0",""
-"BTLMSGID_LIMITON_0","[f 2 4 0]我感到紧张！","BTLMSGID_LIMITON_0",""
-"BTLMSGID_ARIMISS_0","しかし、[占位A 02]との連携は失敗に終わった！","BTLMSGID_ARIMISS_0",""
-"BTLMSGID_MIRROR_1_0","[f 2 4 0]出现了影子！","BTLMSGID_MIRROR_1_0",""
-"BTLMSGID_MIRROR_2_0","[f 2 4 0]分身出现了！","BTLMSGID_MIRROR_2_0",""
-"BTLMSGID_6BOSS_BURSTMISS_0","しかし、[占位A 04]は発動しなかった！","BTLMSGID_6BOSS_BURSTMISS_0",""
-"BTLMSGID_CHANGE_ACTOR_0","谁要搬家？","BTLMSGID_CHANGE_ACTOR_0",""
-"BTLMSGID_CHANGE_TARGET_0","你要去哪里？","BTLMSGID_CHANGE_TARGET_0",""
-"BTLMSGID_BOOT_0","[f 2 4 3]触发了！","BTLMSGID_BOOT_0",""
-"BTLMSGID_BLOCK_0","[f 2 4 1]无效化了伤害！","BTLMSGID_BLOCK_0",""
-"BTLMSGID_DEAD_P_0","[f 2 4 1]被吹飞了！","BTLMSGID_DEAD_P_0",""
-"BTLMSGID_ONESTOP_0","[f 2 4 0]是的，行动受阻动不了！","BTLMSGID_ONESTOP_0",""
-"BTLMSGID_ANALYZE_0","[f 2 4 1]分析了他的能力！","BTLMSGID_ANALYZE_0",""
-"BTLMSGID_MAXHP_DAMAGE_0","[占位A 02]の最大ＨＰが[占位A 03]減った！","BTLMSGID_MAXHP_DAMAGE_0",""
-"BTLMSGID_MITIBIKI_0","[f 2 4 0]他开始静静地祈祷了！","BTLMSGID_MITIBIKI_0",""
-"BTLMSGID_PORATA_0","[占位A 02]と[占位A 03]は合体して[占位A 01]になった！","BTLMSGID_PORATA_0",""
-"BTLMSGID_BEASTMISS_0","野兽没有出现！","BTLMSGID_BEASTMISS_0",""
-"BTLMSGID_MISS_H_0","但是，没有效果！","BTLMSGID_MISS_H_0",""
-"BTLMSGID_MISSCOUNTER_0","[f 2 4 1]化为伏兵袭击敌人！","BTLMSGID_MISSCOUNTER_0",""
-"BTLMSGID_NOTCHANGE_0","[f 2 4 0]无法交换！","BTLMSGID_NOTCHANGE_0",""
-"BTLMSGID_SEPARATE_MISS_0","[f 2 4 0]分离失败了！","BTLMSGID_SEPARATE_MISS_0",""
-"BTLMSGID_PORATA_MISS_0","[f 2 4 0]合体失败了！","BTLMSGID_PORATA_MISS_0",""
-"BTLMSGID_TARGET_5BOSS_AR_0","引导者的双臂","BTLMSGID_TARGET_5BOSS_AR_0",""
-"BTLMSGID_ACT_GUARD_0","举起盾牌！","BTLMSGID_ACT_GUARD_0",""
-"BTLMSGID_ACT_CHARGE_0","为了下一次攻击积蓄力量！","BTLMSGID_ACT_CHARGE_0",""
-"BTLMSGID_ACT_CHASE_0","准备好追加攻击的机会！","BTLMSGID_ACT_CHASE_0",""
-"BTLMSGID_ACT_DOLL_0","准备好追加攻击的机会！","BTLMSGID_ACT_DOLL_0",""
-"BTLMSGID_ACT_ACTCUT_0","[f 2 4 1]集中注意力在动向上！","BTLMSGID_ACT_ACTCUT_0",""
-"BTLMSGID_BEASTOFF_0","[f 2 4 0]他走了回去…","BTLMSGID_BEASTOFF_0",""
-"BTLMSGID_BEAST_ON_0","[占位A 01]から[占位A 02]が現れた！","BTLMSGID_BEAST_ON_0",""
-"BTLMSGID_ROCKETJUMP_0","[f 2 4 1]它高高飞起来了！","BTLMSGID_ROCKETJUMP_0",""
-"BTLMSGID_PROTECT_FRONT_0","[f 2 4 3]他保护了前排的同伴！","BTLMSGID_PROTECT_FRONT_0",""
-"BTLMSGID_PROTECT_REAR_0","[f 2 4 3]他为后排的同伴辩护了！","BTLMSGID_PROTECT_REAR_0",""
-"BTLMSGID_COVER_UP_0","[f 2 4 1]他为了朋友挺身而出！","BTLMSGID_COVER_UP_0",""
-"BTLMSGID_MIGAWARI_0","[占位A 04]は[占位A 02]をかばった！","BTLMSGID_MIGAWARI_0",""
-"BTLMSGID_REPEAT_0","[f 2 4 1]是正在受到其影响。","BTLMSGID_REPEAT_0",""
-"BTLMSGID_OVERWRITE_0","[f 2 4 2]效果延长了！","BTLMSGID_OVERWRITE_0",""
-"BTLMSGID_REFUPCLEAR_0","[f 2 4 1]打消了其强化效果！","BTLMSGID_REFUPCLEAR_0",""
-"BTLMSGID_REFDOWNCLEAR_0","[f 2 4 1]打消了虚弱效果！","BTLMSGID_REFDOWNCLEAR_0",""
-"BTLMSGID_UPOFF_0","[f 2 4 1]消除了强化！","BTLMSGID_UPOFF_0",""
-"BTLMSGID_DOWNOFF_0","[f 2 4 1]消除了弱点！","BTLMSGID_DOWNOFF_0",""
-"BTLMSGID_REF_ATTACK_UPC_0","[f 2 4 1]打消了攻击强化！","BTLMSGID_REF_ATTACK_UPC_0",""
-"BTLMSGID_REF_DEFENCE_UPC_0","[f 2 4 1]打消了防御强化！","BTLMSGID_REF_DEFENCE_UPC_0",""
-"BTLMSGID_REF_SPEED_UPC_0","[f 2 4 1]取消了行动速度强化！","BTLMSGID_REF_SPEED_UPC_0",""
-"BTLMSGID_REF_HITRATIO_UP_0","[f 2 4 1]击败了命中率强化！","BTLMSGID_REF_HITRATIO_UP_0",""
-"BTLMSGID_REF_AVOID_UPC_0","[f 2 4 1]抵消了回避率强化！","BTLMSGID_REF_AVOID_UPC_0",""
-"BTLMSGID_REF_ATTACK_DOWN_0","[f 2 4 1]抵消了攻击的削弱！","BTLMSGID_REF_ATTACK_DOWN_0",""
-"BTLMSGID_REF_DEFENCE_DOW_0","[f 2 4 1]成功抵消了防御削弱！","BTLMSGID_REF_DEFENCE_DOW_0",""
-"BTLMSGID_REF_SPEED_DOWNC_0","[f 2 4 1]行动速度减弱效果被解除了！","BTLMSGID_REF_SPEED_DOWNC_0",""
-"BTLMSGID_REF_HITRATIO_DO_0","[f 2 4 1]命中率下降被抵消了！","BTLMSGID_REF_HITRATIO_DO_0",""
-"BTLMSGID_REF_AVOID_DOWNC_0","[f 2 4 1]成功抵消了闪避率削弱！","BTLMSGID_REF_AVOID_DOWNC_0",""
-"BTLMSGID_REF_ATTACK_UP_0","[f 2 4 1]攻击力提升了！","BTLMSGID_REF_ATTACK_UP_0",""
-"BTLMSGID_REF_DEFENCE_UP_0","[f 2 4 1]防御力提升了！","BTLMSGID_REF_DEFENCE_UP_0",""
-"BTLMSGID_REF_SPEED_UP_0","[f 2 4 1]是第一个能动起来了！","BTLMSGID_REF_SPEED_UP_0",""
-"BTLMSGID_REF_HITRATIO_UP_2_0","[f 2 4 1]命中率上升了！","BTLMSGID_REF_HITRATIO_UP_2_0",""
-"BTLMSGID_REF_AVOID_UP_0","[f 2 4 1]回避率提升了！","BTLMSGID_REF_AVOID_UP_0",""
-"BTLMSGID_REF_ATTACK_DOWN_2_0","[f 2 4 1]攻击力下降了！","BTLMSGID_REF_ATTACK_DOWN_2_0",""
-"BTLMSGID_REF_DEFENCE_DOW_2_0","[f 2 4 1]防御力下降了！","BTLMSGID_REF_DEFENCE_DOW_2_0",""
-"BTLMSGID_REF_SPEED_DOWN_0","[f 2 4 1]他故意拖延行动！","BTLMSGID_REF_SPEED_DOWN_0",""
-"BTLMSGID_REF_HITRATIO_DO_2_0","[f 2 4 1]命中率和回避率下降了！","BTLMSGID_REF_HITRATIO_DO_2_0",""
-"BTLMSGID_REF_AVOID_DOWN_0","[f 2 4 1]回避率下降了！","BTLMSGID_REF_AVOID_DOWN_0",""
-"BTLMSGID_REF_ATTR_WEPUP__0","[f 2 4 1]通常攻击附带了火焰属性！","BTLMSGID_REF_ATTR_WEPUP__0",""
-"BTLMSGID_REF_ATTR_WEPUP__2_0","[f 2 4 1]通常攻击附带了冰冻属性！","BTLMSGID_REF_ATTR_WEPUP__2_0",""
-"BTLMSGID_REF_ATTR_WEPUP__3_0","[f 2 4 1]通常攻击附带了电击属性！","BTLMSGID_REF_ATTR_WEPUP__3_0",""
-"BTLMSGID_REF_H_UP_0","[f 2 4 1]吸引了敌人的注意！","BTLMSGID_REF_H_UP_0",""
-"BTLMSGID_REF_H_DOWN_0","[f 2 4 1]被敌人瞄准的可能性降低了！","BTLMSGID_REF_H_DOWN_0",""
-"BTLMSGID_REF_STNONE_0","[f 2 4 1]状态异常不起作用了！","BTLMSGID_REF_STNONE_0",""
-"BTLMSGID_REF_HP_UP_0","[f 2 4 1]最大生命值提升了！","BTLMSGID_REF_HP_UP_0",""
-"BTLMSGID_REF_DEV_GUARD_0","分割防护消息","BTLMSGID_REF_DEV_GUARD_0",""
-"BTLMSGID_REF_OVERGUARD_0","超过防护消息","BTLMSGID_REF_OVERGUARD_0",""
-"BTLMSGID_TRNS_WAIT_0","请稍等一下。","BTLMSGID_TRNS_WAIT_0",""
-"BTLMSGID_TRNS_CMNDSELECT_0","[f 2 4 0]华丽地变换了！","BTLMSGID_TRNS_CMNDSELECT_0",""
+"BTLMSGID_AP_SINGLE_0","[f 2 4 0]出现了！","BTLMSGID_AP_SINGLE_0","机翻辅助：
+
+[占位A 01]出现了！"
+"BTLMSGID_AP_S_MANY_0","[f 2 4 0]达到了！","BTLMSGID_AP_S_MANY_0","机翻辅助：
+
+[占位A 01]出现了！
+
+[占位A 01]他们出现了！
+
+[占位A 01]达出现了！"
+"BTLMSGID_AP_D_MANY_0","暗影群出现了！","BTLMSGID_AP_D_MANY_0","机翻辅助：
+
+暗影群出现了！
+
+出现了一群阴影！
+
+车流群出现了！"
+"BTLMSGID_AP_E_SUP_0","暗影袭来了！","BTLMSGID_AP_E_SUP_0","机翻辅助：
+
+暗影来袭！
+
+车道来袭了！
+
+阴影袭来！"
+"BTLMSGID_AP_E_SUP_STOP_0","不过，[占位A 02]早已预测到偷袭。","BTLMSGID_AP_E_SUP_STOP_0","机翻辅助：
+
+不过，[占位A 02]早已预测到偷袭。
+
+但是，[占位A 02]预测到了突然袭击。
+
+但是，[占位A 02]预想到了意外的袭击。"
+"BTLMSGID_AP_S_SUP_0","[f 2 4 0]抢先出手了！","BTLMSGID_AP_S_SUP_0","机翻辅助：
+
+[占位A 01]抢占了先机！
+
+[占位A 01]先下手为强！
+
+[占位A 01]先发制人！"
+"BTLMSGID_AP_D_SUP_0","我方先发制人攻击！","BTLMSGID_AP_D_SUP_0","机翻辅助：
+
+我方先发制人！
+
+我方先发制人的攻击！
+
+我方的先发制人！"
+"BTLMSGID_ADDENEMY_OPEN_0","[f 2 4 0]被叫出来了！","BTLMSGID_ADDENEMY_OPEN_0","机翻辅助：
+
+[占位A 01]已调用！
+
+[占位A 01]被叫出来了！"
+"BTLMSGID_ADDENEMY_FOE_0","新手参战了！","BTLMSGID_ADDENEMY_FOE_0","机翻辅助：
+
+新敌人参战！
+
+新手参战了！"
+"BLTMSGID_ADDENEMY_FOEDEA_0","黑影袭击了影子们！","BLTMSGID_ADDENEMY_FOEDEA_0","机翻辅助：
+
+黑影袭击暗影们！
+
+黑影袭击了车道他们！
+
+黑影袭击阴影！"
+"BLTMSGID_CMD_0","你要怎么办？","BLTMSGID_CMD_0","机翻辅助：
+
+怎么办？"
+"BLTMSGID_CMD_NO_0","[f 2 4 0]无法动！","BLTMSGID_CMD_NO_0","机翻辅助：
+
+[占位A 01]不能动！
+
+[占位A 01]动不了！"
+"BLTMSGID_CMD_NO_ALL_0","伙伴们动不了！","BLTMSGID_CMD_NO_ALL_0","机翻辅助：
+
+伙伴们动不了！
+
+伙伴们不能动！"
+"BLTMSGID_STONE_0","[f 2 4 0]它变成了石头！","BLTMSGID_STONE_0","机翻辅助：
+
+[占位A 01]是石化的！
+
+[占位A 01]已经石化了！
+
+[占位A 01]石化了！"
+"BLTMSGID_SLEEP_0","[f 2 4 0]正在睡觉。","BLTMSGID_SLEEP_0","机翻辅助：
+
+[占位A 01]在睡觉
+
+[占位A 01]睡着了！"
+"BLTMSGID_CONFUSE_0","[f 2 4 0]我很困惑！","BLTMSGID_CONFUSE_0","机翻辅助：
+
+[占位A 01]是混乱的！
+
+[占位A 01]混乱了！
+
+[占位A 01]陷入混乱！"
+"BLTMSGID_PARA_0","[f 2 4 0]我麻痹了，动不了！","BLTMSGID_PARA_0","机翻辅助：
+
+[占位A 01]麻痹不能动！
+
+[占位A 01]我瘫痪了，动不了！
+
+[占位A 01]麻痹而动不了！"
+"BLTMSGID_TERROR_0","[f 2 4 0]处于恐慌状态，动弹不得！","BLTMSGID_TERROR_0","机翻辅助：
+
+[占位A 01]是泰勒状态不能动！
+
+[占位A 01]处于静止状态动弹不得！
+
+[占位A 01]因恐惧而动不了！"
+"BLTMSGID_STUN_0","[f 2 4 0]我累坏了！","BLTMSGID_STUN_0","机翻辅助：
+
+[占位A 01]瘫软在地！
+
+[占位A 01]筋疲力尽！
+
+[占位A 01]软磨硬泡的！"
+"BTLMSGID_F_SEAL_HEAD_0","[f 2 4 0]用封魔效果无法使用技能！","BTLMSGID_F_SEAL_HEAD_0","机翻辅助：
+
+[占位A 01]因封印技能效果无法使用技能！
+
+[占位A 01]由于魔封效果技能不能使用！
+
+[占位A 01]的封魔效果不能使用技能！"
+"BTLMSGID_F_SEAL_ARM_0","[f 2 4 0]用封印技能无法使用技能！","BTLMSGID_F_SEAL_ARM_0","机翻辅助：
+
+[占位A 01]因封印技能效果无法使用技能！
+
+[占位A 01]因为力封效果技能不能使用！
+
+[占位A 01]力封效果不能使用技能！"
+"BTLMSGID_F_SEAL_LEG_0","[f 2 4 0]无法逃脱速封的效果！","BTLMSGID_F_SEAL_LEG_0","机翻辅助：
+
+[占位A 01]因封印速度效果无法逃走！
+
+[占位A 01]由于速封效果不能逃跑！
+
+[占位A 01]由于速封效果无法逃跑！"
+"BTLMSGID_CRITICALHIT_P_0","[f 2 4 1]他已经停止呼吸了！","BTLMSGID_CRITICALHIT_P_0","机翻辅助：
+
+[占位A 02]已断气！
+
+[占位A 02]气绝了！
+
+[占位A 02]断气了！"
+"BTLMSGID_CRITICALHIT_E_0","[f 2 4 1]扼杀了他的呼吸！","BTLMSGID_CRITICALHIT_E_0","机翻辅助：
+
+[占位A 02]已杀死！
+
+[占位A 02]停止了呼吸！
+
+[占位A 02]的死根！"
+"BTLMSGID_ATTACK_0","[f 2 4 0]攻击！","BTLMSGID_ATTACK_0","机翻辅助：
+
+[占位A 01]的攻击！"
+"BTLMSGID_DAMAGE_P_E_0","[占位A 02]对造成[占位A 03]伤害！","BTLMSGID_DAMAGE_P_E_0","机翻辅助：
+
+[占位A 02]对造成[占位A 03]伤害！
+
+[占位A 02]给予了[占位A 03]的伤害！
+
+[占位A 02]给予了二[占位A 03]的伤害！"
+"BTLMSGID_DAMAGE_P_E_C_0","[f 2 4 2]造成了伤害！","BTLMSGID_DAMAGE_P_E_C_0","机翻辅助：
+
+[占位A 03]对造成伤害！
+
+[占位A 03]的伤害！
+
+[占位A 03]给了的伤害！"
+"BTLMSGID_DAMAGE_E_P_HP_0","[占位A 02]受到[占位A 03]伤害！","BTLMSGID_DAMAGE_E_P_HP_0","机翻辅助：
+
+[占位A 02]受到[占位A 03]伤害！
+
+[占位A 02]受到了[占位A 03]的伤害！
+
+[占位A 02]受到了伤害！[占位A 03]"
+"BTLMSGID_DAMAGE_E_P_TP_0","[占位A 02]受到[占位A 03]伤害！","BTLMSGID_DAMAGE_E_P_TP_0","机翻辅助：
+
+[占位A 02]受到[占位A 03]伤害！
+
+[占位A 02]受到了[占位A 03]的伤害！
+
+[占位A 02]受到了伤害！[占位A 03]"
+"BTLMSGID_USE_0","[占位A 01]用了[占位A 04]！","BTLMSGID_USE_0","机翻辅助：
+
+[占位A 01]用了[占位A 04]！
+
+[占位A 01]使用了哈[占位A 04]！
+
+[占位A 01]使用了！[占位A 04]"
+"BTLMSGID_HPHEAL_0","[f 2 4 1]血量恢复了！","BTLMSGID_HPHEAL_0","机翻辅助：
+
+[占位A 02]的HP恢复！
+
+[占位A 02]的HP恢复了！
+
+[占位A 02]的HP回复了！"
+"BTLMSGID_HPHEAL_ALL_0","[f 2 4 1]HP已完全恢复！","BTLMSGID_HPHEAL_ALL_0","机翻辅助：
+
+[占位A 02]的HP完全恢复！
+
+[占位A 02]的HP完全恢复了！
+
+[占位A 02]的生命值完全恢复了！"
+"BTLMSGID_TPHEAL_0","[f 2 4 1]SP值恢复了！","BTLMSGID_TPHEAL_0","机翻辅助：
+
+[占位A 02]的SP恢复！
+
+[占位A 02]的SP恢复了！"
+"BTLMSGID_TPHEAL_ALL_0","[f 2 4 1]SP完全恢复了！","BTLMSGID_TPHEAL_ALL_0","机翻辅助：
+
+[占位A 02]的SP完全恢复！
+
+[占位A 02]的SP完全恢复了！"
+"BTLMSGID_DISCHARGE_0","[f 2 4 0]武器发出光芒！！","BTLMSGID_DISCHARGE_0","机翻辅助：
+
+[占位A 01]的武器发出光芒！！
+
+[占位A 01]的武器放出光芒！！
+
+[占位A 01]的武器放出光！！"
+"BTLMSGID_TARGET_MANY_0","暗影的群体","BTLMSGID_TARGET_MANY_0","机翻辅助：
+
+暗影群
+
+车道群
+
+阴影群"
+"BTLMSGID_ITEMUSE_0","[占位A 01]用了[占位A 04]！","BTLMSGID_ITEMUSE_0","机翻辅助：
+
+[占位A 01]用了[占位A 04]！
+
+[占位A 01]使用了哈[占位A 04]！
+
+[占位A 01]使用了！[占位A 04]"
+"BTLMSGID_DEFENCE_0","[f 2 4 0]他在保护自己。","BTLMSGID_DEFENCE_0","机翻辅助：
+
+[占位A 01]保护自己！
+
+[占位A 01]守护着自己。
+
+[占位A 01]是在保护自己。"
+"BTLMSGID_SUMMON_0","[f 2 4 0]召集了伙伴！","BTLMSGID_SUMMON_0","机翻辅助：
+
+[占位A 01]呼叫同伴！
+
+[占位A 01]呼唤同伴！
+
+[占位A 01]叫同伴来了！"
+"BLTMSGID_BST_DEAD_0","[f 2 4 1]他立刻死了！","BLTMSGID_BST_DEAD_0","机翻辅助：
+
+[占位A 02]立即死亡！
+
+[占位A 02]当场死亡！
+
+[占位A 02]马上就死了！"
+"BLTMSGID_BST_STONE_0","[f 2 4 1]变成了石头！","BLTMSGID_BST_STONE_0","机翻辅助：
+
+[占位A 02]石化！
+
+[占位A 02]石化了！
+
+[占位A 02]哈石化了！"
+"BLTMSGID_BST_SLEEP_0","[f 2 4 1]他睡着了！","BLTMSGID_BST_SLEEP_0","机翻辅助：
+
+[占位A 02]陷入沉睡！
+
+[占位A 02]睡起来了！
+
+[占位A 02]我睡着了！"
+"BLTMSGID_BST_CONFUSE_0","[f 2 4 1]我很困惑！","BLTMSGID_BST_CONFUSE_0","机翻辅助：
+
+[占位A 02]陷入混乱！
+
+[占位A 02]混乱了！"
+"BLTMSGID_BST_POINSON_EX_0","[f 2 4 1]毒感染了！","BLTMSGID_BST_POINSON_EX_0","机翻辅助：
+
+[占位A 02]中毒！
+
+[占位A 02]毒感染了！
+
+[占位A 02]中了毒！"
+"BLTMSGID_BST_POISON_0","[f 2 4 1]给了毒！","BLTMSGID_BST_POISON_0","机翻辅助：
+
+[占位A 02]中毒！
+
+[占位A 02]毒害！
+
+[占位A 02]中了毒！"
+"BLTMSGID_BST_BLIND_0","[f 2 4 1]变成了盲人！","BLTMSGID_BST_BLIND_0","机翻辅助：
+
+[占位A 02]盲目！
+
+[占位A 02]我瞎了！
+
+[占位A 02]瞎了！"
+"BLTMSGID_BST_CURSE_0","[f 2 4 1]被诅咒了！","BLTMSGID_BST_CURSE_0","机翻辅助：
+
+[占位A 02]被诅咒！
+
+[占位A 02]被诅咒了！"
+"BLTMSGID_BST_PARA_0","[f 2 4 1]我麻痹了！","BLTMSGID_BST_PARA_0","机翻辅助：
+
+[占位A 02]麻痹！
+
+[占位A 02]麻木了！
+
+[占位A 02]麻痹了！"
+"BLTMSGID_BST_STUN_0","[f 2 4 1]他晕倒了！","BLTMSGID_BST_STUN_0","机翻辅助：
+
+[占位A 02]昏厥！
+
+[占位A 02]晕过去了！"
+"BLTMSGID_BST_SEAL_MA_0","[f 2 4 1]将其封印为魔封状态！","BLTMSGID_BST_SEAL_MA_0","机翻辅助：
+
+[占位A 02]封印技能状态！
+
+[占位A 02]的魔封状态！
+
+[占位A 02]变成了魔封状态！"
+"BLTMSGID_BST_SEAL_RIKI_0","[f 2 4 1]将其封印在力量中！","BLTMSGID_BST_SEAL_RIKI_0","机翻辅助：
+
+[占位A 02]封印力量状态！
+
+[占位A 02]变成了力封状态！
+
+[占位A 02]力封状态！"
+"BLTMSGID_BST_SEAL_SOKU_0","[f 2 4 1]将其封锁状态加速！","BLTMSGID_BST_SEAL_SOKU_0","机翻辅助：
+
+[占位A 02]封印速度状态！
+
+[占位A 02]变成了速封状态！
+
+[占位A 02]的速封状态！"
+"BLTMSGID_RIVIVE_0","[f 2 4 1]他重新回到了战线上！","BLTMSGID_RIVIVE_0","机翻辅助：
+
+[占位A 02]重返战线！
+
+[占位A 02]回到了战线！
+
+[占位A 02]回到前线了！"
+"BTLMSGID_BSTH_STONE_0","[f 2 4 1]石化解除了！","BTLMSGID_BSTH_STONE_0","机翻辅助：
+
+[占位A 02]解除石化！
+
+[占位A 02]的石化解开了！
+
+[占位A 02]的石化融化了！"
+"BTLMSGID_BSTH_SLEEP_0","[f 2 4 1]他醒了！","BTLMSGID_BSTH_SLEEP_0","机翻辅助：
+
+[占位A 02]清醒！
+
+[占位A 02]我醒了！
+
+[占位A 02]醒了！"
+"BTLMSGID_BSTH_CONFUSION_0","[f 2 4 1]我恢复正常了！","BTLMSGID_BSTH_CONFUSION_0","机翻辅助：
+
+[占位A 02]恢复正常！
+
+[占位A 02]回到正气！
+
+[占位A 02]恢复正常了！"
+"BTLMSGID_BSTH_STINK_0","[f 2 4 1]她振作起来了！","BTLMSGID_BSTH_STINK_0","机翻辅助：
+
+[占位A 02]重新振作！
+
+[占位A 02]重新站起来了！"
+"BTLMSGID_BSTH_POISON_0","[f 2 4 1]毒已经消失了！","BTLMSGID_BSTH_POISON_0","机翻辅助：
+
+[占位A 02]的毒消失！
+
+[占位A 02]的毒药消失了！
+
+[占位A 02]的毒消失了！"
+"BTLMSGID_BSTH_BLIND_0","[f 2 4 1]眼睛好了！","BTLMSGID_BSTH_BLIND_0","机翻辅助：
+
+[占位A 02]的眼睛痊愈！
+
+[占位A 02]眼睛好了！
+
+[占位A 02]的眼睛治好了！"
+"BTLMSGID_BSTH_CURSE_0","[f 2 4 1]诅咒解除了！","BTLMSGID_BSTH_CURSE_0","机翻辅助：
+
+[占位A 02]的诅咒解除！
+
+[占位A 02]的诅咒解除了！"
+"BTLMSGID_BSTH_PARALYSIS_0","[f 2 4 1]我的麻痹解除了！","BTLMSGID_BSTH_PARALYSIS_0","机翻辅助：
+
+[占位A 02]的麻痹解除！
+
+[占位A 02]的麻痹解开了！
+
+[占位A 02]的麻痹解除了！"
+"BTLMSGID_BSTH_HEAD_0","[f 2 4 1]解除了封印状态！","BTLMSGID_BSTH_HEAD_0","机翻辅助：
+
+[占位A 02]解除封印技能状态！
+
+[占位A 02]的魔封状态解开了！
+
+[占位A 02]的魔封状态解除了！"
+"BTLMSGID_BSTH_ARM_0","[f 2 4 1]解除了封印状态！","BTLMSGID_BSTH_ARM_0","机翻辅助：
+
+[占位A 02]解除封印力量状态！
+
+[占位A 02]的力封状态解开了！
+
+[占位A 02]的力量封印状态解除了！"
+"BTLMSGID_BSTH_LEG_0","[f 2 4 1]解除了封印状态！","BTLMSGID_BSTH_LEG_0","机翻辅助：
+
+[占位A 02]解除封印速度状态！
+
+[占位A 02]的速封状态解开了！
+
+[占位A 02]的速封状态解除了！"
+"BTLMSGID_ESCAPE_0","[f 2 4 0]他逃跑了！","BTLMSGID_ESCAPE_0","机翻辅助：
+
+[占位A 01]逃走！
+
+[占位A 01]逃跑了！
+
+[占位A 01]逃走了！"
+"BTLMSGID_NOT_ESCAPE_0","[f 2 4 0]无法逃脱！","BTLMSGID_NOT_ESCAPE_0","机翻辅助：
+
+[占位A 01]无法逃走！
+
+[占位A 01]没能逃掉！
+
+[占位A 01]不能逃跑！"
+"BTLMSGID_NO_ESCAPE_0","这场战斗无法逃避！！","BTLMSGID_NO_ESCAPE_0","机翻辅助：
+
+无法逃离这场战斗！！
+
+无法从这场战斗中逃脱！！
+
+这场战斗是逃不掉的！！"
+"BTLMSGID_NOTSELECTESCAPE_0","无法逃跑！！","BTLMSGID_NOTSELECTESCAPE_0","机翻辅助：
+
+无法逃离！！
+
+逃不掉！！"
+"BTLMSGID_NOT_ESCAPE_LEG_0","[f 2 4 0]无法逃脱！","BTLMSGID_NOT_ESCAPE_LEG_0","机翻辅助：
+
+[占位A 01]无法逃走！
+
+[占位A 01]没能逃掉！
+
+[占位A 01]不能逃跑！"
+"BTLMSGID_UNITDEAD_E_0","[f 2 4 1]打倒了！","BTLMSGID_UNITDEAD_E_0","机翻辅助：
+
+[占位A 02]打倒！
+
+[占位A 02]打倒了！"
+"BTLMSGID_UNITDEAD_P_0","[f 2 4 1]力量耗尽了！","BTLMSGID_UNITDEAD_P_0","机翻辅助：
+
+[占位A 02]力竭身亡！
+
+[占位A 02]已经筋疲力尽了！
+
+[占位A 02]筋疲力尽了！"
+"BTLMSGID_PARTYDEAD_E_S_0","[f 2 4 1]击败了！","BTLMSGID_PARTYDEAD_E_S_0","机翻辅助：
+
+[占位A 02]击败！
+
+[占位A 02]击破了！"
+"BTLMSGID_PARTYDEAD_E_D_0","击溃了影子群！","BTLMSGID_PARTYDEAD_E_D_0","机翻辅助：
+
+击败暗影群！
+
+击破了阴影群！
+
+击破了车道的群！"
+"BTLMSGID_PARTYDEAD_P_0","派对全军覆没了…","BTLMSGID_PARTYDEAD_P_0","机翻辅助：
+
+队伍全灭……
+
+派对全军覆没……
+
+派对全灭了……"
+"BTLMSGID_KUISHIBARI_0","[f 2 4 1]成功抵抗了攻击！","BTLMSGID_KUISHIBARI_0","机翻辅助：
+
+[占位A 02]承受攻击！
+
+[占位A 02]顶住了攻击！
+
+[占位A 02]抵抗了攻击！"
+"BTLMSGID_LIMITSUMMON_0","[f 2 4 0]我们合作召集了伙伴！","BTLMSGID_LIMITSUMMON_0","机翻辅助：
+
+[占位A 01]合作呼叫同伴！
+
+[占位A 01]合作召唤了同伴！
+
+[占位A 01]帮忙叫伙伴了！"
+"BTLMSGID_MEGAN_0","[f 2 4 1]已经力尽了……","BTLMSGID_MEGAN_0","机翻辅助：
+
+[占位A 02]力竭身亡……
+
+[占位A 02]已经筋疲力尽了……
+
+[占位A 02]筋疲力尽了……"
+"BTLMSGID_TARGET_ALL_0","整体","BTLMSGID_TARGET_ALL_0","机翻辅助：
+
+全体
+
+总体"
+"BTLMSGID_SUMMON_SACRIFIC_0","[f 2 4 1]已经断气了…","BTLMSGID_SUMMON_SACRIFIC_0","机翻辅助：
+
+[占位A 02]断气了……
+
+[占位A 02]气绝了……"
+"BTLMSGID_SUMMON_MISS_0","然而，伙伴们没有出现！","BTLMSGID_SUMMON_MISS_0","机翻辅助：
+
+可是，同伴没有出现！
+
+但是，同伴没有出现！"
+"BTLMSGID_POISONDAMAGE_0","[f 2 4 1]受到了毒伤害！","BTLMSGID_POISONDAMAGE_0","机翻辅助：
+
+[占位A 02]受到毒系伤害！
+
+[占位A 02]受到了毒伤害！
+
+[占位A 02]受到了毒的伤害！"
+"BTLMSGID_SACRIFICE_0","[f 2 4 0]出现了！","BTLMSGID_SACRIFICE_0","机翻辅助：
+
+[占位A 01]出现了！"
+"BTLMSGID_CHANGE_0","[占位A 01]和[占位A 02]交换了！","BTLMSGID_CHANGE_0","机翻辅助：
+
+[占位A 01]和[占位A 02]交换了！
+
+[占位A 01]和[占位A 02]交替了！
+
+[占位A 01]和[占位A 02]互换了！"
+"BTLMSGID_MOVE_0","[f 2 4 0]已经移动了！","BTLMSGID_MOVE_0","机翻辅助：
+
+[占位A 01]移动了！"
+"BTLMSGID_RANGEOUT_0","但是，攻击没有命中！","BTLMSGID_RANGEOUT_0","机翻辅助：
+
+可是，攻击打不到！
+
+但是，攻击无法到达！
+
+但是，攻击功亏一篑！"
+"BTLMSGID_MISS_0","[f 2 4 1]对此没有效果。","BTLMSGID_MISS_0","机翻辅助：
+
+[占位A 02]对无效。
+
+[占位A 02]中没有效果。
+
+[占位A 02]没有效果。"
+"BTLMSGID_AVOID_0","[f 2 4 1]成功躲避了攻击！","BTLMSGID_AVOID_0","机翻辅助：
+
+[占位A 02]躲掉了攻击！
+
+[占位A 02]交换了攻击！
+
+[占位A 02]躲开了攻击！"
+"BTLMSGID_STOPACTION_0","[占位A 02]阻止了[占位A 01]的行动！","BTLMSGID_STOPACTION_0","机翻辅助：
+
+[占位A 02]阻止了[占位A 01]的行动！
+
+[占位A 02]打断了叶[占位A 01]的行动！"
+"BTLMSGID_REFUP_CRITICAL_0","[f 2 4 1]暴击率上升！","BTLMSGID_REFUP_CRITICAL_0","机翻辅助：
+
+[占位A 02]的会心一击率上升！
+
+[占位A 02]的临界率上升！
+
+[占位A 02]的关键率上升！"
+"BTLMSGID_REFUP_HEALEFF_0","[f 2 4 1]附带了恢复效果！","BTLMSGID_REFUP_HEALEFF_0","机翻辅助：
+
+[占位A 02]附带恢复效果！
+
+[占位A 02]恢复效果！
+
+[占位A 02]中附有恢复效果！"
+"BTLMSGID_BS3_UROKOCHASE_0","[f 2 4 0]火焰被点燃并蔓延开来！","BTLMSGID_BS3_UROKOCHASE_0","机翻辅助：
+
+[占位A 01]对敌人产生反应，喷出火焰！
+
+[占位A 01]反应，火焰卷起！
+
+[占位A 01]反应了火焰卷起来！"
+"BTLMSGID_URI_MESSAGE_0","伤害被无效化了！","BTLMSGID_URI_MESSAGE_0","机翻辅助：
+
+变得可以抵销伤害！
+
+伤害无效化！
+
+伤害变成无效化了！"
+"BTLMSGID_DSUMMON_0","[f 2 4 0]他对同伴的死有所反应！","BTLMSGID_DSUMMON_0","机翻辅助：
+
+[占位A 01]对同伴的死产生反应！
+
+[占位A 01]对同伴的死作出了反应！
+
+[占位A 01]对同伴的死做出了反应！"
+"BTLMSGID_REFDOWN_CRITICA_0","[f 2 4 1]暴击率下降了！","BTLMSGID_REFDOWN_CRITICA_0","机翻辅助：
+
+[占位A 02]的会心一击率下降！
+
+[占位A 02]的关键率降低了！
+
+[占位A 02]的临界率下降了！"
+"BTLMSGID_ANDROSTOP_0","[f 2 4 0]他停止了行动！","BTLMSGID_ANDROSTOP_0","机翻辅助：
+
+[占位A 01]暂时停止行动！
+
+[占位A 01]暂停行动！
+
+[占位A 01]行动暂时停止了！"
+"BTLMSGID_KUITIGIRI_0","[占位A 01]咬碎了[占位A 02]！","BTLMSGID_KUITIGIRI_0","机翻辅助：
+
+[占位A 01]咬碎了[占位A 02]！
+
+[占位A 01]把[占位A 02]咬碎了！
+
+[占位A 01]撕咬了牙[占位A 02]！"
+"BTLMSGID_LIMITON_0","[f 2 4 0]我感到紧张！","BTLMSGID_LIMITON_0","机翻辅助：
+
+[占位A 01]摆出架式！
+
+[占位A 01]准备好了！
+
+[占位A 01]做好了防备！"
+"BTLMSGID_ARIMISS_0","可是，和[占位A 02]的联手行动以失败告终！","BTLMSGID_ARIMISS_0","机翻辅助：
+
+可是，和[占位A 02]的联手行动以失败告终！
+
+但是，和[占位A 02]的合作以失败告终！"
+"BTLMSGID_MIRROR_1_0","[f 2 4 0]出现了影子！","BTLMSGID_MIRROR_1_0","机翻辅助：
+
+[占位A 01]的影子出现了！"
+"BTLMSGID_MIRROR_2_0","[f 2 4 0]分身出现了！","BTLMSGID_MIRROR_2_0","机翻辅助：
+
+[占位A 01]的分身出现了！"
+"BTLMSGID_6BOSS_BURSTMISS_0","可是，没有发动[占位A 04]！","BTLMSGID_6BOSS_BURSTMISS_0","机翻辅助：
+
+可是，没有发动[占位A 04]！
+
+但是，[占位A 04]没有发动！
+
+但是，没有发动[占位A 04]！"
+"BTLMSGID_CHANGE_ACTOR_0","谁要搬家？","BTLMSGID_CHANGE_ACTOR_0","机翻辅助：
+
+要移动谁？
+
+移动谁？"
+"BTLMSGID_CHANGE_TARGET_0","你要去哪里？","BTLMSGID_CHANGE_TARGET_0","机翻辅助：
+
+要移动到哪里？
+
+移动到哪里？"
+"BTLMSGID_BOOT_0","[f 2 4 3]触发了！","BTLMSGID_BOOT_0","机翻辅助：
+
+[占位A 04]发动！"
+"BTLMSGID_BLOCK_0","[f 2 4 1]无效化了伤害！","BTLMSGID_BLOCK_0","机翻辅助：
+
+[占位A 02]抵销了伤害！
+
+[占位A 02]伤害无效化！
+
+[占位A 02]伤害无效化了！"
+"BTLMSGID_DEAD_P_0","[f 2 4 1]被吹飞了！","BTLMSGID_DEAD_P_0","机翻辅助：
+
+[占位A 02]被打飞了！
+
+[占位A 02]吹跑了！
+
+[占位A 02]吹飞了！"
+"BTLMSGID_ONESTOP_0","[f 2 4 0]是的，行动受阻动不了！","BTLMSGID_ONESTOP_0","机翻辅助：
+
+[占位A 01]被阻止行动，动弹不得！
+
+[占位A 01]是，行动被打断不能动！
+
+[占位A 01]被打断了行动，动弹不得！"
+"BTLMSGID_ANALYZE_0","[f 2 4 1]分析了他的能力！","BTLMSGID_ANALYZE_0","机翻辅助：
+
+[占位A 02]解析了的能力！
+
+[占位A 02]的能力分析！"
+"BTLMSGID_MAXHP_DAMAGE_0","[占位A 02]的最大HP减少了[占位A 03]！","BTLMSGID_MAXHP_DAMAGE_0","机翻辅助：
+
+[占位A 02]的最大HP减少了[占位A 03]！
+
+[占位A 02]的最大HP[占位A 03]减少了！"
+"BTLMSGID_MITIBIKI_0","[f 2 4 0]他开始静静地祈祷了！","BTLMSGID_MITIBIKI_0","机翻辅助：
+
+[占位A 01]开始静静地祈祷！
+
+[占位A 01]开始安静地祈祷了！"
+"BTLMSGID_PORATA_0","[占位A 02]和[占位A 03]合体，变成了[占位A 01]！","BTLMSGID_PORATA_0","机翻辅助：
+
+[占位A 02]和[占位A 03]合体，变成了[占位A 01]！
+
+[占位A 02]和[占位A 03]合体成了[占位A 01]！
+
+[占位A 02]和[占位A 03]合为[占位A 01]！"
+"BTLMSGID_BEASTMISS_0","野兽没有出现！","BTLMSGID_BEASTMISS_0","机翻辅助：
+
+野兽没有出现！
+
+没有出现野兽！"
+"BTLMSGID_MISS_H_0","但是，没有效果！","BTLMSGID_MISS_H_0","机翻辅助：
+
+可是，没有效果！
+
+但是，没有效果！"
+"BTLMSGID_MISSCOUNTER_0","[f 2 4 1]化为伏兵袭击敌人！","BTLMSGID_MISSCOUNTER_0","机翻辅助：
+
+[占位A 02]化为伏兵，袭击敌人！
+
+[占位A 02]化为伏兵袭击敌人！"
+"BTLMSGID_NOTCHANGE_0","[f 2 4 0]无法交换！","BTLMSGID_NOTCHANGE_0","机翻辅助：
+
+[占位A 01]没有交换！
+
+[占位A 01]没有被替换！"
+"BTLMSGID_SEPARATE_MISS_0","[f 2 4 0]分离失败了！","BTLMSGID_SEPARATE_MISS_0","机翻辅助：
+
+[占位A 01]分离失败！
+
+[占位A 01]分离失败了！"
+"BTLMSGID_PORATA_MISS_0","[f 2 4 0]合体失败了！","BTLMSGID_PORATA_MISS_0","机翻辅助：
+
+[占位A 01]合体失败！
+
+[占位A 01]合体失败了！"
+"BTLMSGID_TARGET_5BOSS_AR_0","引导者的双臂","BTLMSGID_TARGET_5BOSS_AR_0","机翻辅助：
+
+引导者双手
+
+引导者的双臂
+
+引路人的双臂"
+"BTLMSGID_ACT_GUARD_0","举起盾牌！","BTLMSGID_ACT_GUARD_0","机翻辅助：
+
+举盾！
+
+架起盾牌了！
+
+准备好盾牌！"
+"BTLMSGID_ACT_CHARGE_0","为了下一次攻击积蓄力量！","BTLMSGID_ACT_CHARGE_0","机翻辅助：
+
+为了下一波攻击而蓄积力量！
+
+为了下一次的攻击积蓄了力量！
+
+为下一次攻击积蓄力量！"
+"BTLMSGID_ACT_CHASE_0","准备好追加攻击的机会！","BTLMSGID_ACT_CHASE_0","机翻辅助：
+
+准备追加攻击的机会！
+
+准备好了追加攻击的机会！"
+"BTLMSGID_ACT_DOLL_0","准备好追加攻击的机会！","BTLMSGID_ACT_DOLL_0","机翻辅助：
+
+准备追加攻击的机会！
+
+准备好了追加攻击的机会！"
+"BTLMSGID_ACT_ACTCUT_0","[f 2 4 1]集中注意力在动向上！","BTLMSGID_ACT_ACTCUT_0","机翻辅助：
+
+[占位A 02]集中意识，注意的动向！
+
+[占位A 02]的动向集中了意识！"
+"BTLMSGID_BEASTOFF_0","[f 2 4 0]他走了回去…","BTLMSGID_BEASTOFF_0","机翻辅助：
+
+[占位A 01]回去了……
+
+[占位A 01]就回去了……
+
+[占位A 01]已经回去了……"
+"BTLMSGID_BEAST_ON_0","[占位A 01]出现了[占位A 02]！","BTLMSGID_BEAST_ON_0","机翻辅助：
+
+[占位A 01]出现了[占位A 02]！
+
+[占位A 01]卡拉[占位A 02]出现了！"
+"BTLMSGID_ROCKETJUMP_0","[f 2 4 1]它高高飞起来了！","BTLMSGID_ROCKETJUMP_0","机翻辅助：
+
+[占位A 02]高高跃起！
+
+[占位A 02]高高飘扬！
+
+[占位A 02]飞高了！"
+"BTLMSGID_PROTECT_FRONT_0","[f 2 4 3]他保护了前排的同伴！","BTLMSGID_PROTECT_FRONT_0","机翻辅助：
+
+[占位A 04]保护了前排的同伴！"
+"BTLMSGID_PROTECT_REAR_0","[f 2 4 3]他为后排的同伴辩护了！","BTLMSGID_PROTECT_REAR_0","机翻辅助：
+
+[占位A 04]保护了后列的同伴！
+
+[占位A 04]保护了后排的同伴！"
+"BTLMSGID_COVER_UP_0","[f 2 4 1]他为了朋友挺身而出！","BTLMSGID_COVER_UP_0","机翻辅助：
+
+[占位A 02]保护了同伴！
+
+[占位A 02]袒护了同伴！"
+"BTLMSGID_MIGAWARI_0","[占位A 04]我[占位A 02]了！","BTLMSGID_MIGAWARI_0","机翻辅助：
+
+[占位A 04]我[占位A 02]了！
+
+[占位A 04]保护了[占位A 02]！
+
+[占位A 04]袒护了羽[占位A 02]！"
+"BTLMSGID_REPEAT_0","[f 2 4 1]是正在受到其影响。","BTLMSGID_REPEAT_0","机翻辅助：
+
+[占位A 02]受到HA的效果影响
+
+[占位A 02]受到了那个效果
+
+[占位A 02]受其影响"
+"BTLMSGID_OVERWRITE_0","[f 2 4 2]效果延长了！","BTLMSGID_OVERWRITE_0","机翻辅助：
+
+[占位A 03]的效果延长了！
+
+[占位A 03]的效果被延长了！"
+"BTLMSGID_REFUPCLEAR_0","[f 2 4 1]打消了其强化效果！","BTLMSGID_REFUPCLEAR_0","机翻辅助：
+
+[占位A 02]抵销了“魔黑雷帝”的强化效果！
+
+[占位A 02]的强化效果消失了！
+
+[占位A 02]的强化效果抵消了！"
+"BTLMSGID_REFDOWNCLEAR_0","[f 2 4 1]打消了虚弱效果！","BTLMSGID_REFDOWNCLEAR_0","机翻辅助：
+
+[占位A 02]抵销了的弱化效果！
+
+[占位A 02]的弱弱效果消失了！
+
+[占位A 02]抵消了减弱效果！"
+"BTLMSGID_UPOFF_0","[f 2 4 1]消除了强化！","BTLMSGID_UPOFF_0","机翻辅助：
+
+[占位A 02]消除了强化！
+
+[占位A 02]的强化消失了！
+
+[占位A 02]消去了的强化！"
+"BTLMSGID_DOWNOFF_0","[f 2 4 1]消除了弱点！","BTLMSGID_DOWNOFF_0","机翻辅助：
+
+[占位A 02]弱化效果消失了！
+
+[占位A 02]的弱点消失了！
+
+[占位A 02]消去了的虚弱！"
+"BTLMSGID_REF_ATTACK_UPC_0","[f 2 4 1]打消了攻击强化！","BTLMSGID_REF_ATTACK_UPC_0","机翻辅助：
+
+[占位A 02]抵销了的攻击强化！
+
+[占位A 02]的攻击强化打消了！
+
+[占位A 02]的攻击强化抵消了！"
+"BTLMSGID_REF_DEFENCE_UPC_0","[f 2 4 1]打消了防御强化！","BTLMSGID_REF_DEFENCE_UPC_0","机翻辅助：
+
+[占位A 02]抵销了的防御强化！
+
+[占位A 02]的防御强化打消了！"
+"BTLMSGID_REF_SPEED_UPC_0","[f 2 4 1]取消了行动速度强化！","BTLMSGID_REF_SPEED_UPC_0","机翻辅助：
+
+[占位A 02]抵销了的行动速度强化！
+
+[占位A 02]的行动速度强化！
+
+[占位A 02]的行动速度强化抵消了！"
+"BTLMSGID_REF_HITRATIO_UP_0","[f 2 4 1]击败了命中率强化！","BTLMSGID_REF_HITRATIO_UP_0","机翻辅助：
+
+[占位A 02]抵销了的命中率强化！
+
+[占位A 02]的命中率强化抵消了！
+
+[占位A 02]的命中率强化！"
+"BTLMSGID_REF_AVOID_UPC_0","[f 2 4 1]抵消了回避率强化！","BTLMSGID_REF_AVOID_UPC_0","机翻辅助：
+
+[占位A 02]抵销了的回避率强化！
+
+[占位A 02]的回避率强化抵消了！
+
+[占位A 02]的回避率强化取消了！"
+"BTLMSGID_REF_ATTACK_DOWN_0","[f 2 4 1]抵消了攻击的削弱！","BTLMSGID_REF_ATTACK_DOWN_0","机翻辅助：
+
+[占位A 02]抵销了的攻击弱化！
+
+[占位A 02]的攻击弱化打消了！
+
+[占位A 02]的攻击减弱抵消了！"
+"BTLMSGID_REF_DEFENCE_DOW_0","[f 2 4 1]成功抵消了防御削弱！","BTLMSGID_REF_DEFENCE_DOW_0","机翻辅助：
+
+[占位A 02]抵销了的防御弱化！
+
+[占位A 02]的防御弱化消除了！
+
+[占位A 02]的防御减弱抵消了！"
+"BTLMSGID_REF_SPEED_DOWNC_0","[f 2 4 1]行动速度减弱效果被解除了！","BTLMSGID_REF_SPEED_DOWNC_0","机翻辅助：
+
+[占位A 02]抵销了的行动速度弱化！
+
+[占位A 02]的行动速度打消了弱点！
+
+[占位A 02]的行动速度减弱抵消了！"
+"BTLMSGID_REF_HITRATIO_DO_0","[f 2 4 1]命中率下降被抵消了！","BTLMSGID_REF_HITRATIO_DO_0","机翻辅助：
+
+[占位A 02]抵销了的命中率弱化！
+
+[占位A 02]的命中率打消了弱点！
+
+[占位A 02]抵消了减弱的命中率！"
+"BTLMSGID_REF_AVOID_DOWNC_0","[f 2 4 1]成功抵消了闪避率削弱！","BTLMSGID_REF_AVOID_DOWNC_0","机翻辅助：
+
+[占位A 02]抵销了回避率的弱化！
+
+[占位A 02]的回避率消除了弱点！
+
+[占位A 02]的回避率减弱抵消了！"
+"BTLMSGID_REF_ATTACK_UP_0","[f 2 4 1]攻击力提升了！","BTLMSGID_REF_ATTACK_UP_0","机翻辅助：
+
+[占位A 02]的攻击力提升了！
+
+[占位A 02]的攻击力上升了！"
+"BTLMSGID_REF_DEFENCE_UP_0","[f 2 4 1]防御力提升了！","BTLMSGID_REF_DEFENCE_UP_0","机翻辅助：
+
+[占位A 02]的防御力提升了！
+
+[占位A 02]的防御力上升了！"
+"BTLMSGID_REF_SPEED_UP_0","[f 2 4 1]是第一个能动起来了！","BTLMSGID_REF_SPEED_UP_0","机翻辅助：
+
+[占位A 02]我终于可以率先行动了！
+
+[占位A 02]现在可以最先行动了！
+
+[占位A 02]第一个能行动了！"
+"BTLMSGID_REF_HITRATIO_UP_2_0","[f 2 4 1]命中率上升了！","BTLMSGID_REF_HITRATIO_UP_2_0","机翻辅助：
+
+[占位A 02]的命中率上升了！"
+"BTLMSGID_REF_AVOID_UP_0","[f 2 4 1]回避率提升了！","BTLMSGID_REF_AVOID_UP_0","机翻辅助：
+
+[占位A 02]的回避率上升了！"
+"BTLMSGID_REF_ATTACK_DOWN_2_0","[f 2 4 1]攻击力下降了！","BTLMSGID_REF_ATTACK_DOWN_2_0","机翻辅助：
+
+[占位A 02]的攻击力下降了！"
+"BTLMSGID_REF_DEFENCE_DOW_2_0","[f 2 4 1]防御力下降了！","BTLMSGID_REF_DEFENCE_DOW_2_0","机翻辅助：
+
+[占位A 02]的防御力下降了！"
+"BTLMSGID_REF_SPEED_DOWN_0","[f 2 4 1]他故意拖延行动！","BTLMSGID_REF_SPEED_DOWN_0","机翻辅助：
+
+[占位A 02]故意拖延行动！
+
+[占位A 02]故意拖延了行动！"
+"BTLMSGID_REF_HITRATIO_DO_2_0","[f 2 4 1]命中率和回避率下降了！","BTLMSGID_REF_HITRATIO_DO_2_0","机翻辅助：
+
+[占位A 02]命中率、回避率下降！
+
+[占位A 02]的命中，回避率降低了！"
+"BTLMSGID_REF_AVOID_DOWN_0","[f 2 4 1]回避率下降了！","BTLMSGID_REF_AVOID_DOWN_0","机翻辅助：
+
+[占位A 02]的回避率下降了！
+
+[占位A 02]的回避率降低了！"
+"BTLMSGID_REF_ATTR_WEPUP__0","[f 2 4 1]通常攻击附带了火焰属性！","BTLMSGID_REF_ATTR_WEPUP__0","机翻辅助：
+
+[占位A 02]的普通攻击附带火焰属性！
+
+[占位A 02]的通常攻击附有火焰属性！
+
+[占位A 02]的普通攻击附有火焰属性！"
+"BTLMSGID_REF_ATTR_WEPUP__2_0","[f 2 4 1]通常攻击附带了冰冻属性！","BTLMSGID_REF_ATTR_WEPUP__2_0","机翻辅助：
+
+[占位A 02]的普通攻击附带了冰冻属性！
+
+[占位A 02]的通常攻击附有结冰属性！
+
+[占位A 02]的通常攻击附有了冰冻属性！"
+"BTLMSGID_REF_ATTR_WEPUP__3_0","[f 2 4 1]通常攻击附带了电击属性！","BTLMSGID_REF_ATTR_WEPUP__3_0","机翻辅助：
+
+[占位A 02]的普通攻击附带了电击属性！
+
+[占位A 02]的通常攻击附有电击属性！
+
+[占位A 02]的普通攻击附加了电击属性！"
+"BTLMSGID_REF_H_UP_0","[f 2 4 1]吸引了敌人的注意！","BTLMSGID_REF_H_UP_0","机翻辅助：
+
+[占位A 02]吸引了敌人的注意力！
+
+[占位A 02]引起了敌人的注意！"
+"BTLMSGID_REF_H_DOWN_0","[f 2 4 1]被敌人瞄准的可能性降低了！","BTLMSGID_REF_H_DOWN_0","机翻辅助：
+
+[占位A 02]这样就比较不容易被敌人盯上了！
+
+[占位A 02]很难被敌人盯上了！
+
+[占位A 02]不容易被敌人盯上！"
+"BTLMSGID_REF_STNONE_0","[f 2 4 1]状态异常不起作用了！","BTLMSGID_REF_STNONE_0","机翻辅助：
+
+[占位A 02]异常状态无效化！
+
+[占位A 02]状态异常不起作用了！
+
+[占位A 02]状态异常失效了！"
+"BTLMSGID_REF_HP_UP_0","[f 2 4 1]最大生命值提升了！","BTLMSGID_REF_HP_UP_0","机翻辅助：
+
+[占位A 02]的最大HP上升了！
+
+[占位A 02]的最大生命值上升了！"
+"BTLMSGID_REF_DEV_GUARD_0","分割防护消息","BTLMSGID_REF_DEV_GUARD_0","机翻辅助：
+
+Divide Guard Message
+
+分频保护信息
+
+分歧保护信息"
+"BTLMSGID_REF_OVERGUARD_0","超过防护消息","BTLMSGID_REF_OVERGUARD_0","机翻辅助：
+
+超护盾信息
+
+保护消息
+
+过保护消息"
+"BTLMSGID_TRNS_WAIT_0","请稍等一下。","BTLMSGID_TRNS_WAIT_0","机翻辅助：
+
+请稍候。
+
+请稍等。
+
+请稍等一下。"
+"BTLMSGID_TRNS_CMNDSELECT_0","[f 2 4 0]华丽地变换了！","BTLMSGID_TRNS_CMNDSELECT_0","机翻辅助：
+
+[占位A 01]华丽地闪开了！
+
+[占位A 01]华丽地躲开了！
+
+[占位A 01]华丽的交换了！"
 "BTLMSGID_TRNS_CMNDWAIT_0","其他玩家正在输入。
-请稍等一下。","BTLMSGID_TRNS_CMNDWAIT_0",""
-"BTLMSGID_ES_ACT_COUNTER_0","[f 2 4 1]他很警惕！","BTLMSGID_ES_ACT_COUNTER_0",""
-"BTLMSGID_ES_THROW_0","[占位A 01]は[占位A 02]を、投げつけた！","BTLMSGID_ES_THROW_0",""
-"BTLMSGID_ES_PATIENCE_0","[f 2 4 1]我忍耐着！","BTLMSGID_ES_PATIENCE_0",""
-"BTLMSGID_ES_PATIENCE_ACT_0","[f 2 4 1]我的忍耐爆发了！","BTLMSGID_ES_PATIENCE_ACT_0",""
-"BTLMSGID_DEADACTION_0","[占位A 01]は、最後の力で[占位A 04]を使った！","BTLMSGID_DEADACTION_0",""
-"BTLMSGID_DEADACTION_18E_0","[占位A 01]は、最後の力で[占位A 04]を上げた！","BTLMSGID_DEADACTION_18E_0",""
-"BTLMSGID_RARE_DASH_0","[f 2 4 0]正在发光闪耀！","BTLMSGID_RARE_DASH_0",""
-"BTLMSGID_ATTRUP_1_0","[f 2 4 0]耐性提高了！","BTLMSGID_ATTRUP_1_0",""
-"BTLMSGID_ATTRUP_3_0","[占位A 01]と、[占位A 02]と、[占位A 03]の耐性が上がった！","BTLMSGID_ATTRUP_3_0",""
-"BTLMSGID_ATTRUP_ALL_0","所有的抗性都提升了！","BTLMSGID_ATTRUP_ALL_0",""
-"BTLMSGID_ES_CHANGE_0","[占位A 01]の触手が[占位A 02]と[占位A 03]を捕らえた！","BTLMSGID_ES_CHANGE_0",""
-"BTLMSGID_ABSORB_HP_0","[占位A 02]は[占位A 03]のダメージを吸収した！","BTLMSGID_ABSORB_HP_0",""
-"BTLMSGID_DEADACTION_18B_0","[f 2 4 0]是的，它爆炸了！","BTLMSGID_DEADACTION_18B_0",""
-"BTLMSGID_FANNEL_1_0","[f 2 4 1]释放了火焰机器人！","BTLMSGID_FANNEL_1_0",""
-"BTLMSGID_FANNEL_2_0","[f 2 4 1]展开了冰之机器人！","BTLMSGID_FANNEL_2_0",""
-"BTLMSGID_FANNEL_3_0","[f 2 4 1]释放了雷电机器人！","BTLMSGID_FANNEL_3_0",""
-"BTLMSGID_UNITDEAD_FNL_0","[f 2 4 1]动作停止了！","BTLMSGID_UNITDEAD_FNL_0",""
-"BTLMSGID_K_FANNEL_0","[f 2 4 1]有反应了！","BTLMSGID_K_FANNEL_0",""
-"BTLMSGID_BOOT_F_0","[f 2 4 3]启动！","BTLMSGID_BOOT_F_0",""
-"BTLMSGID_SNIPER_0","[f 2 4 0]他拿起武器，瞄准目标！","BTLMSGID_SNIPER_0",""
-"BTLMSGID_SNIPER_MISS_0","[f 2 4 0]解开了武器的姿势！","BTLMSGID_SNIPER_MISS_0",""
-"BTLMSGID_BEASTCOUNTER_0_0","[f 2 4 1]他很警惕！","BTLMSGID_BEASTCOUNTER_0_0",""
-"BTLMSGID_BEAST_A4_0_0","[f 2 4 0]嘿，发出尖叫声，突然袭击了！","BTLMSGID_BEAST_A4_0_0",""
-"BTLMSGID_BEAST_A5_0_0","[f 2 4 0]我正在打瞌睡！","BTLMSGID_BEAST_A5_0_0",""
-"BTLMSGID_E_KAISH_BOOT_0","[f 2 4 0]他挥舞着大镰刀向我袭来！","BTLMSGID_E_KAISH_BOOT_0",""
-"BTLMSGID_BEAST_A1_0_0","[f 2 4 0]手臂再生！","BTLMSGID_BEAST_A1_0_0",""
-"BTLMSGID_BEAST_A1_1_0","[f 2 4 0]他在发呆！","BTLMSGID_BEAST_A1_1_0",""
-"BTLMSGID_BEAST_A1_2_0","[f 2 4 0]在梳理毛发！","BTLMSGID_BEAST_A1_2_0",""
-"BTLMSGID_TARGET_6BOSS_AR_0","神树的触手","BTLMSGID_TARGET_6BOSS_AR_0",""
+请稍等一下。","BTLMSGID_TRNS_CMNDWAIT_0","机翻辅助：
+
+其他玩家正在输入指令。
+请稍候。
+
+其他PLAYER正在输入。
+请稍等。
+
+其他的PLAYER正在输入。请稍等。"
+"BTLMSGID_ES_ACT_COUNTER_0","[f 2 4 1]他很警惕！","BTLMSGID_ES_ACT_COUNTER_0","机翻辅助：
+
+[占位A 02]摆出架式！
+
+[占位A 02]已经做好了准备！
+
+[占位A 02]准备好了！"
+"BTLMSGID_ES_THROW_0","[占位A 01][占位A 02]丢出去！","BTLMSGID_ES_THROW_0","机翻辅助：
+
+[占位A 01][占位A 02]丢出去！
+
+[占位A 01]投了[占位A 02]！
+
+[占位A 01]把牙扔了！[占位A 02]"
+"BTLMSGID_ES_PATIENCE_0","[f 2 4 1]我忍耐着！","BTLMSGID_ES_PATIENCE_0","机翻辅助：
+
+[占位A 02]忍耐！
+
+[占位A 02]我忍耐着！
+
+[占位A 02]忍着！"
+"BTLMSGID_ES_PATIENCE_ACT_0","[f 2 4 1]我的忍耐爆发了！","BTLMSGID_ES_PATIENCE_ACT_0","机翻辅助：
+
+[占位A 02]的忍耐爆发！
+
+[占位A 02]的忍耐爆发了！"
+"BTLMSGID_DEADACTION_0","[占位A 01]使出最后的力量使用[占位A 04]！","BTLMSGID_DEADACTION_0","机翻辅助：
+
+[占位A 01]使出最后的力量使用[占位A 04]！
+
+[占位A 01]用最后的力量使用了[占位A 04]！"
+"BTLMSGID_DEADACTION_18E_0","[占位A 01]使出最后的力量提升[占位A 04]！","BTLMSGID_DEADACTION_18E_0","机翻辅助：
+
+[占位A 01]使出最后的力量提升[占位A 04]！
+
+[占位A 01]用最后的力量举起了[占位A 04]！
+
+[占位A 01]用最后的力量抬起了[占位A 04]！"
+"BTLMSGID_RARE_DASH_0","[f 2 4 0]正在发光闪耀！","BTLMSGID_RARE_DASH_0","机翻辅助：
+
+[占位A 01]变得更加闪耀！
+
+[占位A 01]增加着光辉！
+
+[占位A 01]在增加着光辉！"
+"BTLMSGID_ATTRUP_1_0","[f 2 4 0]耐性提高了！","BTLMSGID_ATTRUP_1_0","机翻辅助：
+
+[占位A 01]的耐性提升！
+
+[占位A 01]的耐性提高了！
+
+[占位A 01]的耐性上升了！"
+"BTLMSGID_ATTRUP_3_0","[占位A 01]和，[占位A 02]和，[占位A 03]的耐性提高了！","BTLMSGID_ATTRUP_3_0","机翻辅助：
+
+[占位A 01]和，[占位A 02]和，[占位A 03]的耐性提高了！
+
+[占位A 01]和的耐性提升！[占位A 02][占位A 03]
+
+[占位A 01][占位A 02]、[占位A 03]，的耐性上升了！"
+"BTLMSGID_ATTRUP_ALL_0","所有的抗性都提升了！","BTLMSGID_ATTRUP_ALL_0","机翻辅助：
+
+所有耐性提升！
+
+所有的耐性都提高了！"
+"BTLMSGID_ES_CHANGE_0","[占位A 01]的触手抓住[占位A 02]和[占位A 03]！","BTLMSGID_ES_CHANGE_0","机翻辅助：
+
+[占位A 01]的触手抓住[占位A 02]和[占位A 03]！
+
+[占位A 01]的触手抓住了[占位A 02]和[占位A 03]！
+
+[占位A 01]的触手抓住了[占位A 02][占位A 03]！"
+"BTLMSGID_ABSORB_HP_0","[占位A 02]吸收[占位A 03]的伤害！","BTLMSGID_ABSORB_HP_0","机翻辅助：
+
+[占位A 02]吸收[占位A 03]的伤害！
+
+[占位A 02]吸收了[占位A 03]的伤害！
+
+[占位A 02]吸收了哈[占位A 03]的伤害！"
+"BTLMSGID_DEADACTION_18B_0","[f 2 4 0]是的，它爆炸了！","BTLMSGID_DEADACTION_18B_0","机翻辅助：
+
+[占位A 01]爆炸！
+
+[占位A 01]是，暴发了！
+
+[占位A 01]啊，走火了！"
+"BTLMSGID_FANNEL_1_0","[f 2 4 1]释放了火焰机器人！","BTLMSGID_FANNEL_1_0","机翻辅助：
+
+[占位A 02]展开火焰机器人！
+
+[占位A 02]火焰机器人展开了！
+
+[占位A 02]展开了火焰的BOT！"
+"BTLMSGID_FANNEL_2_0","[f 2 4 1]展开了冰之机器人！","BTLMSGID_FANNEL_2_0","机翻辅助：
+
+[占位A 02]展开冰冻机器人！
+
+[占位A 02]冰机器人展开了！
+
+[占位A 02]展开了冰的机器人！"
+"BTLMSGID_FANNEL_3_0","[f 2 4 1]释放了雷电机器人！","BTLMSGID_FANNEL_3_0","机翻辅助：
+
+[占位A 02]展开雷电机器人！
+
+[占位A 02]展开了雷的机器人！
+
+[占位A 02]展开了雷的BOT！"
+"BTLMSGID_UNITDEAD_FNL_0","[f 2 4 1]动作停止了！","BTLMSGID_UNITDEAD_FNL_0","机翻辅助：
+
+[占位A 02]停止动作！
+
+[占位A 02]停止了动作！"
+"BTLMSGID_K_FANNEL_0","[f 2 4 1]有反应了！","BTLMSGID_K_FANNEL_0","机翻辅助：
+
+[占位A 02]做出反应！
+
+[占位A 02]反应了！
+
+[占位A 02]的反应！"
+"BTLMSGID_BOOT_F_0","[f 2 4 3]启动！","BTLMSGID_BOOT_F_0","机翻辅助：
+
+[占位A 04]启动！"
+"BTLMSGID_SNIPER_0","[f 2 4 0]他拿起武器，瞄准目标！","BTLMSGID_SNIPER_0","机翻辅助：
+
+[占位A 01]举起武器瞄准！
+
+[占位A 01]拿起武器瞄准了目标！
+
+[占位A 01]准备好武器瞄准了！"
+"BTLMSGID_SNIPER_MISS_0","[f 2 4 0]解开了武器的姿势！","BTLMSGID_SNIPER_MISS_0","机翻辅助：
+
+[占位A 01]放下武器！
+
+[占位A 01]解开了武器的架势！
+
+[占位A 01]解除了武器的姿势！"
+"BTLMSGID_BEASTCOUNTER_0_0","[f 2 4 1]他很警惕！","BTLMSGID_BEASTCOUNTER_0_0","机翻辅助：
+
+[占位A 02]摆出架式！
+
+[占位A 02]已经做好了准备！
+
+[占位A 02]准备好了！"
+"BTLMSGID_BEAST_A4_0_0","[f 2 4 0]嘿，发出尖叫声，突然袭击了！","BTLMSGID_BEAST_A4_0_0","机翻辅助：
+
+[占位A 01]发出低吼声逼近！
+
+[占位A 01]发出轰鸣声晚了！
+
+[占位A 01]发出一声吼叫，很可怕！"
+"BTLMSGID_BEAST_A5_0_0","[f 2 4 0]我正在打瞌睡！","BTLMSGID_BEAST_A5_0_0","机翻辅助：
+
+[占位A 01]打瞌睡！
+
+[占位A 01]我在打盹儿！
+
+[占位A 01]迷糊了！"
+"BTLMSGID_E_KAISH_BOOT_0","[f 2 4 0]他挥舞着大镰刀向我袭来！","BTLMSGID_E_KAISH_BOOT_0","机翻辅助：
+
+[占位A 01]高举大镰刀逼近！
+
+[占位A 01]他举起大镰刀，向我猛击！
+
+[占位A 01]挥舞着大镰刀，慢下来了！"
+"BTLMSGID_BEAST_A1_0_0","[f 2 4 0]手臂再生！","BTLMSGID_BEAST_A1_0_0","机翻辅助：
+
+[占位A 01]手臂再生！
+
+[占位A 01]的手臂再生！"
+"BTLMSGID_BEAST_A1_1_0","[f 2 4 0]他在发呆！","BTLMSGID_BEAST_A1_1_0","机翻辅助：
+
+[占位A 01]发呆！
+
+[占位A 01]在发呆！
+
+[占位A 01]是发呆！"
+"BTLMSGID_BEAST_A1_2_0","[f 2 4 0]在梳理毛发！","BTLMSGID_BEAST_A1_2_0","机翻辅助：
+
+[占位A 01]整理毛发！
+
+[占位A 01]在修毛！
+
+[占位A 01]正在补毛！"
+"BTLMSGID_TARGET_6BOSS_AR_0","神树的触手","BTLMSGID_TARGET_6BOSS_AR_0","机翻辅助：
+
+神树的触手"
 "BTLMSGID_TRANS_ERROR_END_0","通信发生错误！
-请稍等一下。","BTLMSGID_TRANS_ERROR_END_0",""
-"BTLMSGID_DEADSTONE_0","[f 2 4 1]变成了石头！","BTLMSGID_DEADSTONE_0",""
-"BTLMSGID_STOPBST_0","[f 2 4 1]状态异常攻击被无效化了！","BTLMSGID_STOPBST_0",""
-"BTLMSGID_STOPSEAL_0","[f 2 4 1]封印攻击被无效化了！","BTLMSGID_STOPSEAL_0",""
-"BTLMSGID_WEAKDAMAGE_0","ルーンの導きが[占位A 02]の弱点に反応した！","BTLMSGID_WEAKDAMAGE_0",""
-"BTLMSGID_MURAMASA_0","[f 2 4 0]他的眼睛变得充血了！","BTLMSGID_MURAMASA_0",""
-"BTLMSGID_ROCKETJUMPMISS_0","しかし、[占位A 02]には届かない！","BTLMSGID_ROCKETJUMPMISS_0",""
-"BTLMSGID_SARUTOBI_0","[f 2 4 1]华丽地变换了！","BTLMSGID_SARUTOBI_0",""
-"BTLMSGID_BOSS_1_0","[f 2 4 0]他好像在闭着眼睛…","BTLMSGID_BOSS_1_0",""
-"BTLMSGID_BS1_SPWATSTAN_0","[f 2 4 1]哈哈，你摔倒了！","BTLMSGID_BS1_SPWATSTAN_0",""
-"BTLMSGID_BS1_STANMSG_0","[f 2 4 0]无法动！","BTLMSGID_BS1_STANMSG_0",""
-"BTLMSGID_AP_5LASTBOSS_0","乐园的引导者出现了！","BTLMSGID_AP_5LASTBOSS_0",""
-"BTLMSGID_TARGET_5LASTBOS_0","乐园的向导","BTLMSGID_TARGET_5LASTBOS_0",""
-"BTLMSGID_TARGET_6LASTBOS_0","扭曲的丰饶之神树","BTLMSGID_TARGET_6LASTBOS_0",""
-"BTLMSGID_H_KUISHIBARI_0","[f 2 4 1]加上了咬牙切齿的效果！","BTLMSGID_H_KUISHIBARI_0",""
-"BTLMSGID_OOMIE_0","[f 2 4 1]他太自以为是了！","BTLMSGID_OOMIE_0",""
-"BTLMSGID_NONBST_0","[f 2 4 1]状态异常，封印预防了！","BTLMSGID_NONBST_0",""
-"BTLMSGID_NONSEAL_0","[f 2 4 1]绳子不再粘在上面了！","BTLMSGID_NONSEAL_0",""
-"BTLMSGID_DENGUN_0","[f 2 4 1]任命为先锋！","BTLMSGID_DENGUN_0",""
-"BTLMSGID_DEADACTION_F18B_0","[f 2 4 0]他自杀了！","BTLMSGID_DEADACTION_F18B_0",""
-"BTLMSGID_REF_ATTR_UP_0","[占位A 02]の[占位A 03]耐性が上昇した！","BTLMSGID_REF_ATTR_UP_0",""
-"BTLMSGID_E_MEGAZA_HEAL_0","[占位A 01]から[占位A 04]が飛び散った！","BTLMSGID_E_MEGAZA_HEAL_0",""
-"BTLMSGID_E_KAISHAKU_0","[占位A 01]は[占位A 02]を捕食した！！","BTLMSGID_E_KAISHAKU_0",""
-"BTLMSGID_E_DEADSUMMON_0","[f 2 4 0]变得巨大了！","BTLMSGID_E_DEADSUMMON_0",""
-"BTLMSGID_E_SUMMON_MSG_00_0","[f 2 4 0]开始悄悄地动了起来。","BTLMSGID_E_SUMMON_MSG_00_0",""
-"BTLMSGID_E_SUMMON_MSG_01_0","[f 2 4 0]他放下了手。","BTLMSGID_E_SUMMON_MSG_01_0",""
-"BTLMSGID_E_SUMMON_MSG_02_0","[f 2 4 0]“力量”被封印了！","BTLMSGID_E_SUMMON_MSG_02_0",""
-"BTLMSGID_BS_LASTBOSS_ARM_0","[f 2 4 0]从伤口中伸出了触手！","BTLMSGID_BS_LASTBOSS_ARM_0",""
-"BTLMSGID_BS_LASTBOSS_ARM_2_0","[f 2 4 1]触手复活了！","BTLMSGID_BS_LASTBOSS_ARM_2_0",""
-"BTLMSGID_E_TAMAGO_MSG_00_0","[f 2 4 0]正在蓄力！","BTLMSGID_E_TAMAGO_MSG_00_0",""
-"BTLMSGID_REF_ATTR_UP_ALL_0","全体の[占位A 03]耐性が上昇した！","BTLMSGID_REF_ATTR_UP_ALL_0",""
-"BTLMSGID_KAITAISHINSHO_0","掉落率上升了！","BTLMSGID_KAITAISHINSHO_0",""
-"BTLMSGID_E_SHOMO_0","下一个行动的SP消耗翻倍！","BTLMSGID_E_SHOMO_0",""
-"BTLMSGID_E_KYOMU_0","爆发槽减少了！","BTLMSGID_E_KYOMU_0",""
-"BTLMSGID_REF_ATTR_DOWN_0","[占位A 02]の[占位A 03]耐性が低下した！","BTLMSGID_REF_ATTR_DOWN_0",""
-"BTLMSGID_BS_CHANGE_ATK_0","[f 2 4 0]眼睛睁开了！","BTLMSGID_BS_CHANGE_ATK_0",""
-"BTLMSGID_BS_CHANGE_DEF_0","[f 2 4 0]他的双眼闭上了！","BTLMSGID_BS_CHANGE_DEF_0",""
-"BTLMSGID_LBS_MES_00_0","咬破外皮，极限生命绽放","BTLMSGID_LBS_MES_00_0",""
-"BTLMSGID_NONCOST_0","[f 2 4 1]SP不足，无法使用技能！","BTLMSGID_NONCOST_0",""
-"BTLMSGID_FRONT_DEAD_0","前排和后排位置互换了！","BTLMSGID_FRONT_DEAD_0",""
-"BTLMSGID_ES_KEKKAI_0","派对的消耗SP翻倍了！","BTLMSGID_ES_KEKKAI_0",""
-"BTLMSGID_ES_KITOU_0","[f 2 4 1]力量被蓄积了！","BTLMSGID_ES_KITOU_0",""
-"BTLMSGID_ES_ACT_CCOUNTER_0","[f 2 4 1]准备好了追加攻击的机会！","BTLMSGID_ES_ACT_CCOUNTER_0",""
-"BTLMSGID_SUMMON_CHICK_0","[占位A 01]から[占位A 02]が産まれた！","BTLMSGID_SUMMON_CHICK_0",""
-"BTLMSGID_LIMITMISS_0","[f 2 4 0]无法协作！","BTLMSGID_LIMITMISS_0",""
-"BTLMSGID_ACT_180_END_0","[f 2 4 0]被积蓄的力量失控了！","BTLMSGID_ACT_180_END_0",""
-"BTLMSGID_ACT_LBS_CHANGE_0","难以形容的神灵苏醒了！","BTLMSGID_ACT_LBS_CHANGE_0",""
-"BTLMSGID_UROBORO_SHIELD_0","全体的盟友被一道光芒包围，挡住了敌人的攻击！","BTLMSGID_UROBORO_SHIELD_0",""
-"BTLMSGID_DISCHARGE_BH_0","[f 2 4 0]他的拳头发出耀眼的光芒！！","BTLMSGID_DISCHARGE_BH_0",""
-"BTLMSGID_PARTYDEAD_E_BR_0","击败了深王和奥兰匹亚！","BTLMSGID_PARTYDEAD_E_BR_0",""
-"BTLMSGID_PARTYDEAD_E_GK_0","击败了守门人！","BTLMSGID_PARTYDEAD_E_GK_0",""
-"BTLMSGID_ES_CHANGE_MISS_0","[f 2 4 0]正在解开缠绕在一起的触手！","BTLMSGID_ES_CHANGE_MISS_0",""
-"BTLMSGID_E_MOVE_S_0","[f 2 4 0]队列变了！","BTLMSGID_E_MOVE_S_0",""
-"BTLMSGID_E_MOVE_D_0","[f 2 4 0]队伍的队形改变了！","BTLMSGID_E_MOVE_D_0",""
-"BTLMSGID_E_MOVE_A_0","影子们的队列变了！","BTLMSGID_E_MOVE_A_0",""
-"BTLMSGID_BOOT_V_0","贯通效果发动！","BTLMSGID_BOOT_V_0",""
-"BTLMSGID_BOOT_WIDE_0","扩散效果发动！","BTLMSGID_BOOT_WIDE_0",""
-"BTLMSGID_RARE_ENCOUNT_D_0","稀有个体出现了！","BTLMSGID_RARE_ENCOUNT_D_0",""
-"BTLMSGID_RARE_ENCOUNT_S_0","[f 2 4 0]稀有个体出现了！","BTLMSGID_RARE_ENCOUNT_S_0",""
-"BTLMSGID_ACT_CHARGE_BOSS_0","[f 2 4 0]他开始积蓄力量了！","BTLMSGID_ACT_CHARGE_BOSS_0",""
-"BTLMSGID_ST_BODYCHANGE_0","换！","BTLMSGID_ST_BODYCHANGE_0",""
-"BTLMSGID_ST_BODYCHANGE_E_0","[f 2 4 1]攻击属性发生了变化！","BTLMSGID_ST_BODYCHANGE_E_0",""
-"BTLMSGID_KIJIN_0","[f 2 4 0]成为了恶魔！","BTLMSGID_KIJIN_0",""
-"BTLMSGID_KIJIN_OFF_0","[f 2 4 0]恢复正常","BTLMSGID_KIJIN_OFF_0",""
-"BTLMSGID_KUISHIBARI2_0","[f 2 4 0]咬紧牙关！","BTLMSGID_KUISHIBARI2_0",""
-"BTLMSGID_TPCUT_0","SP切断启动！","BTLMSGID_TPCUT_0",""
-"BTLMSGID_HOUJIN_0","[占位A 01]は[占位A 02]を展開した！","BTLMSGID_HOUJIN_0",""
-"BTLMSGID_HOUJIN_EFT_0","[f 2 4 0]效果！","BTLMSGID_HOUJIN_EFT_0",""
-"BTLMSGID_TRANSPARENT_ON_0","[f 2 4 0]他融入了周围的景色！","BTLMSGID_TRANSPARENT_ON_0",""
-"BTLMSGID_TRANSPARENT_OFF_0","[f 2 4 0]身体恢复原状了！","BTLMSGID_TRANSPARENT_OFF_0",""
-"BTLMSGID_ICEACTSTOP_0","[f 2 4 0]冻结了！","BTLMSGID_ICEACTSTOP_0",""
-"BTLMSGID_ACTSTOPTURN_0","[f 2 4 0]冻住了！","BTLMSGID_ACTSTOPTURN_0",""
-"BTLMSGID_LMT_103_0","[f 2 4 0]黑色的雾气从周围产生，将敌人包围了起来！","BTLMSGID_LMT_103_0",""
-"BTLMSGID_3BS_URK_TAKEOFF_0","[f 2 4 0]从那里，鳞片飞了出来！","BTLMSGID_3BS_URK_TAKEOFF_0",""
-"BTLMSGID_3BS_URK_ON_0","[f 2 4 0]刺入了地面！","BTLMSGID_3BS_URK_ON_0",""
-"BTLMSGID_3BS_URK_DEATH_0","[f 2 4 1]哈酷达吉塔！","BTLMSGID_3BS_URK_DEATH_0",""
-"BTLMSGID_FROG_JUMP_0","爆发槽下降了！","BTLMSGID_FROG_JUMP_0",""
-"BTLMSGID_OVERHEATON_0","[f 2 4 0]炮剑过热了！","BTLMSGID_OVERHEATON_0",""
-"BTLMSGID_OVERHEATOFF_0","[f 2 4 0]炮剑冷却后，恢复了功能！","BTLMSGID_OVERHEATOFF_0",""
-"BTLMSGID_MSGWAIT1_0","[f 2 4 0]他进入了自爆模式！","BTLMSGID_MSGWAIT1_0",""
-"BTLMSGID_MSGWAIT2_0","[f 2 4 0]距离自爆还有2秒！！","BTLMSGID_MSGWAIT2_0",""
-"BTLMSGID_MSGWAIT3_0","[f 2 4 0]自爆还剩1秒！！","BTLMSGID_MSGWAIT3_0",""
-"BTLMSGID_MSGWAIT4_0","[f 2 4 0]观望着。","BTLMSGID_MSGWAIT4_0",""
-"BTLMSGID_MSGWAIT5_0","[f 2 4 0]正在寻找目标。","BTLMSGID_MSGWAIT5_0",""
-"BTLMSGID_BALLOON_0","[f 2 4 0]肿起来了！","BTLMSGID_BALLOON_0",""
-"BTLMSGID_ACT_CHARGE_BOSS_2_0","[f 2 4 0]动作停止了！","BTLMSGID_ACT_CHARGE_BOSS_2_0",""
-"BTLMSGID_ACT_LION_SLEEP_0","[f 2 4 0]正在睡觉。","BTLMSGID_ACT_LION_SLEEP_0",""
-"BTLMSGID_REF_ATTACK_UP2_0","[f 2 4 1]魔法攻击力提升了！","BTLMSGID_REF_ATTACK_UP2_0",""
-"BTLMSGID_REF_DEFENCE_UP2_0","[f 2 4 1]魔法防御力提升了！","BTLMSGID_REF_DEFENCE_UP2_0",""
-"BTLMSGID_REF_ATTACK_UP3_0","[f 2 4 1]攻击力提升了！","BTLMSGID_REF_ATTACK_UP3_0",""
-"BTLMSGID_REF_DEFENCE_UP3_0","[f 2 4 1]防御力提升了！","BTLMSGID_REF_DEFENCE_UP3_0",""
-"BTLMSGID_REF_ATTACK_DOWN_3_0","[f 2 4 1]魔法攻击力下降了！","BTLMSGID_REF_ATTACK_DOWN_3_0",""
-"BTLMSGID_REF_DEFENCE_DOW_3_0","[f 2 4 1]魔法防御力降低了！","BTLMSGID_REF_DEFENCE_DOW_3_0",""
-"BTLMSGID_REF_ATTACK_DOWN_4_0","[f 2 4 1]攻击力下降了！","BTLMSGID_REF_ATTACK_DOWN_4_0",""
-"BTLMSGID_REF_DEFENCE_DOW_4_0","[f 2 4 1]防御力下降了！","BTLMSGID_REF_DEFENCE_DOW_4_0",""
-"BTLMSGID_REF_COUNTER_0","[f 2 4 1]我感到紧张！","BTLMSGID_REF_COUNTER_0",""
-"BTLMSGID_REF_COUNTER_BOO_0","[f 2 4 0]被火焰墙包围了！","BTLMSGID_REF_COUNTER_BOO_0",""
-"BTLMSGID_REF_ATTRUP_FIRE_0","[f 2 4 1]火焰耐性提升了！","BTLMSGID_REF_ATTRUP_FIRE_0",""
-"BTLMSGID_REF_ATTRUP_ICE_0","[f 2 4 1]冰冻抗性提升了！","BTLMSGID_REF_ATTRUP_ICE_0",""
-"BTLMSGID_REF_ATTRUP_THUN_0","[f 2 4 1]电击抗性提升了！","BTLMSGID_REF_ATTRUP_THUN_0",""
-"BTLMSGID_REF_ATTRUP_BUTS_0","[f 2 4 1]物理抗性提升了！","BTLMSGID_REF_ATTRUP_BUTS_0",""
-"BTLMSGID_REF_ATTRUP_SHOC_0","[f 2 4 1]耐久性提升了！","BTLMSGID_REF_ATTRUP_SHOC_0",""
-"BTLMSGID_REF_ATTRUP_THRU_0","[f 2 4 1]耐冲击性提高了！","BTLMSGID_REF_ATTRUP_THRU_0",""
-"BTLMSGID_REF_ATTRDOWN_FI_0","[f 2 4 1]火焰耐性降低了！","BTLMSGID_REF_ATTRDOWN_FI_0",""
-"BTLMSGID_REF_ATTRDOWN_IC_0","[f 2 4 1]冰冻抗性降低了！","BTLMSGID_REF_ATTRDOWN_IC_0",""
-"BTLMSGID_REF_ATTRDOWN_TH_0","[f 2 4 1]电击抗性降低了！","BTLMSGID_REF_ATTRDOWN_TH_0",""
-"BTLMSGID_REF_ATTRDOWN_BU_0","[f 2 4 1]物理耐性下降了！","BTLMSGID_REF_ATTRDOWN_BU_0",""
-"BTLMSGID_REF_ATTRDOWN_SH_0","[f 2 4 1]耐久性下降了！","BTLMSGID_REF_ATTRDOWN_SH_0",""
-"BTLMSGID_REF_ATTRDOWN_TH_2_0","[f 2 4 1]耐用性下降了！","BTLMSGID_REF_ATTRDOWN_TH_2_0",""
-"BTLMSGID_REF_DANCE_COUNT_0","[f 2 4 1]准备反击！","BTLMSGID_REF_DANCE_COUNT_0",""
-"BTLMSGID_REF_DANCE_CHASE_0","[f 2 4 1]已做好追加攻击的准备！","BTLMSGID_REF_DANCE_CHASE_0",""
-"BTLMSGID_REF_DANCE_LINEC_0","[f 2 4 1]队伍做好了追加攻击的准备！","BTLMSGID_REF_DANCE_LINEC_0",""
-"BTLMSGID_REF_DANCE_HEAL_0","[f 2 4 1]回合中产生了恢复效果！","BTLMSGID_REF_DANCE_HEAL_0",""
-"BTLMSGID_REF_DANCE_ATK_0","[f 2 4 1]列的攻击力上升了！","BTLMSGID_REF_DANCE_ATK_0",""
-"BTLMSGID_REF_DANCE_DEF_0","[f 2 4 1]列的防御力上升了！","BTLMSGID_REF_DANCE_DEF_0",""
-"BTLMSGID_REF_DANCE_EN_0","[f 2 4 1]列的消耗SP被减少了！","BTLMSGID_REF_DANCE_EN_0",""
-"BTLMSGID_REF_LINK_0","连击技能的额外攻击次数增加了！","BTLMSGID_REF_LINK_0",""
-"BTLMSGID_REF_GUARD_0","[f 2 4 1]是身体挺身而出成为了盾牌！","BTLMSGID_REF_GUARD_0",""
-"BTLMSGID_REF_CONC_0","[f 2 4 1]恢复效果提升了！","BTLMSGID_REF_CONC_0",""
-"BTLMSGID_REF_AREA_0","[f 2 4 1]恢复效果范围扩大！","BTLMSGID_REF_AREA_0",""
-"BTLMSGID_WEAKENED_0","[f 2 4 0]他已经虚弱到动弹不得了！","BTLMSGID_WEAKENED_0",""
-"BTLMSGID_MASCOT_0","[f 2 4 0]是松软的","BTLMSGID_MASCOT_0",""
-"BTLMSGID_BUNNY_0","[f 2 4 0]我很慌张！","BTLMSGID_BUNNY_0",""
-"BTLMSGID_REFOFF_P_UP_0","味方の[占位A 02]の効果が切れた！","BTLMSGID_REFOFF_P_UP_0",""
-"BTLMSGID_REFOFF_P_DOWN_0","味方の[占位A 02]の効果が切れた！","BTLMSGID_REFOFF_P_DOWN_0",""
-"BTLMSGID_REFOFF_UP_0","敵の[占位A 02]の効果が切れた！","BTLMSGID_REFOFF_UP_0",""
-"BTLMSGID_REFOFF_DOWN_0","敵の[占位A 02]の効果が切れた！","BTLMSGID_REFOFF_DOWN_0",""
-"BTLMSGID_KAIMA_0","封印解除，状态异常的耐性已恢复！","BTLMSGID_KAIMA_0",""
-"BTLMSGID_HOUJIN_CANCEL_M_0","但是，没有布置魔法阵！","BTLMSGID_HOUJIN_CANCEL_M_0",""
-"BTLMSGID_OATH_END_0","敵の[占位A 02]の効果が切れた！","BTLMSGID_OATH_END_0",""
-"BTLMSGID_COUNTER_0","死亡计数器发动！","BTLMSGID_COUNTER_0",""
-"BTLMSGID_CHASE_0","死亡追击者发动！","BTLMSGID_CHASE_0",""
-"BTLMSGID_REF_ATTR_WEPUP__4_0","[f 2 4 1]普通攻击附带了疾风属性！","BTLMSGID_REF_ATTR_WEPUP__4_0",""
-"BTLMSGID_REF_ATTR_WEPUP__5_0","[f 2 4 1]普通攻击获得了祝福属性！","BTLMSGID_REF_ATTR_WEPUP__5_0",""
-"BTLMSGID_REF_ATTR_WEPUP__6_0","[f 2 4 1]通常攻击附带了咒怨属性！","BTLMSGID_REF_ATTR_WEPUP__6_0",""
-"BTLMSGID_REF_ATTRUP_WIND_0","[f 2 4 1]风抗性提升了！","BTLMSGID_REF_ATTRUP_WIND_0",""
-"BTLMSGID_REF_ATTRUP_HIKA_0","[f 2 4 1]祝福耐性提升了！","BTLMSGID_REF_ATTRUP_HIKA_0",""
-"BTLMSGID_REF_ATTRUP_YAMI_0","[f 2 4 1]诅咒抵抗力提升了！","BTLMSGID_REF_ATTRUP_YAMI_0",""
-"BTLMSGID_REF_ATTRDOWN_WI_0","[f 2 4 1]风抗力降低了！","BTLMSGID_REF_ATTRDOWN_WI_0",""
-"BTLMSGID_REF_ATTRDOWN_HI_0","[f 2 4 1]祝福耐性降低了！","BTLMSGID_REF_ATTRDOWN_HI_0",""
-"BTLMSGID_REF_ATTRDOWN_YA_0","[f 2 4 1]诅咒抗性降低了！","BTLMSGID_REF_ATTRDOWN_YA_0",""
-"BTLMSGID_HPNONCOST_0","[f 2 4 1]由于HP不足，无法使用技能！","BTLMSGID_HPNONCOST_0",""
-"BTLMSGID_KEIKAI_0","[f 2 4 0]他们保持警惕。","BTLMSGID_KEIKAI_0",""
-"BTLMSGID_RARE_1_0","[f 2 4 0]在发呆。","BTLMSGID_RARE_1_0",""
-"BTLMSGID_RARE_2_0","[f 2 4 0]哈哈哈","BTLMSGID_RARE_2_0",""
-"BTLMSGID_RARE_3_0","[f 2 4 0]他很慌张。","BTLMSGID_RARE_3_0",""
-"BTLMSGID_HAMA_OMEN_0","[f 2 4 0]光的力量正在聚集！","BTLMSGID_HAMA_OMEN_0",""
-"BTLMSGID_MUDO_OMEN_0","[f 2 4 0]黑暗的力量正在聚集！","BTLMSGID_MUDO_OMEN_0",""
-"BTLMSGID_NIYANIYA_0","[f 2 4 0]咧嘴笑着","BTLMSGID_NIYANIYA_0",""
-"BTLMSGID_JIBAKU_MISS_0","[f 2 4 0]自爆失败了……","BTLMSGID_JIBAKU_MISS_0",""
-"BTLMSGID_CHICKEN_0","[f 2 4 0]他表现出了从容。","BTLMSGID_CHICKEN_0",""
-"BTLMSGID_ROBOT_0","警告：请勿随意发布。","BTLMSGID_ROBOT_0",""
-"BTLMSGID_TOWER_0","[f 2 4 0]引来了雷云！","BTLMSGID_TOWER_0",""
-"BTLMSGID_TOWER3_0","[f 2 4 0]他低声念诵了经文！","BTLMSGID_TOWER3_0",""
-"BTLMSGID_TOWER5_0","[f 2 4 0]他喃喃自语着抱怨！","BTLMSGID_TOWER5_0",""
-"BTLMSGID_KING_0","[f 2 4 0]正在摸胡子。","BTLMSGID_KING_0",""
-"BTLMSGID_KING_ESCAPE_0","[f 2 4 0]正在试图逃跑。","BTLMSGID_KING_ESCAPE_0",""
-"BTLMSGID_BIBIRI_0","[f 2 4 0]害怕了","BTLMSGID_BIBIRI_0",""
-"BTLMSGID_TORIMAKI_0","草食恐龙跳了出来！","BTLMSGID_TORIMAKI_0",""
-"BTLMSGID_PUNISH_0","[f 2 4 0]我剪短发了！","BTLMSGID_PUNISH_0",""
-"BTLMSGID_DO_1_0","[f 2 4 0]有蠕动！","BTLMSGID_DO_1_0",""
-"BTLMSGID_DO_2_0","[f 2 4 0]他的身体在跳动！","BTLMSGID_DO_2_0",""
-"BTLMSGID_DO_3_0","[f 2 4 0]他的动作变得迟缓了！","BTLMSGID_DO_3_0",""
-"BTLMSGID_DO_EYE_HEAD_0","法术的魔眼","BTLMSGID_DO_EYE_HEAD_0",""
-"BTLMSGID_DO_EYE_RIGHT_0","连击的右眼","BTLMSGID_DO_EYE_RIGHT_0",""
-"BTLMSGID_DO_EYE_LEFT_0","疾病的左眼","BTLMSGID_DO_EYE_LEFT_0",""
-"BTLMSGID_ENLIL_RETAKE_0","恩利正在聚集力量……！","BTLMSGID_ENLIL_RETAKE_0",""
-"BTLMSGID_ENLIL_HIKARI_0","什么也没发生……","BTLMSGID_ENLIL_HIKARI_0",""
-"BTLMSGID_MUTEKI_KAMO_WAR_0","蜘蛛侠正在大声笑。","BTLMSGID_MUTEKI_KAMO_WAR_0",""
-"BTLMSGID_MOTHER_COM_0","错误！错误！","BTLMSGID_MOTHER_COM_0",""
-"BTLMSGID_MOTHER_COM_CURE_0","自动修复功能 开启","BTLMSGID_MOTHER_COM_CURE_0",""
-"BTLMSGID_MCOM_ERROR_0","错误！功能停止中！","BTLMSGID_MCOM_ERROR_0",""
-"BTLMSGID_BUF_OMEN_0","[f 2 4 0]冰的力量正在聚集！","BTLMSGID_BUF_OMEN_0",""
-"BTLMSGID_JIO_OMEN_0","[f 2 4 0]雷的力量正在聚集！","BTLMSGID_JIO_OMEN_0",""
-"BTLMSGID_KHRONOS_ANNOUNC_0","[f 2 4 0]集中注意力！","BTLMSGID_KHRONOS_ANNOUNC_0",""
-"BTLMSGID_PASTOR_OATH_ATT_0","我发誓不打我。","BTLMSGID_PASTOR_OATH_ATT_0",""
-"BTLMSGID_PASTOR_OATH_SKI_0","不使用技能誓不为人！","BTLMSGID_PASTOR_OATH_SKI_0",""
-"BTLMSGID_PASTOR_OATH_LEA_0","不要放弃誓言！","BTLMSGID_PASTOR_OATH_LEA_0",""
-"BTLMSGID_PASTOR_OATH_ITE_0","发誓不使用道具！","BTLMSGID_PASTOR_OATH_ITE_0",""
-"BTLMSGID_PASTOR_OATH_TWO_0","无论如何，我发誓做各种各样的事情！","BTLMSGID_PASTOR_OATH_TWO_0",""
+请稍等一下。","BTLMSGID_TRANS_ERROR_END_0","机翻辅助：
+
+发生通讯错误！
+请稍候。
+
+发生通信错误！
+请稍等。
+
+发生了通信错误！请稍等。"
+"BTLMSGID_DEADSTONE_0","[f 2 4 1]变成了石头！","BTLMSGID_DEADSTONE_0","机翻辅助：
+
+[占位A 02]石化！
+
+[占位A 02]石化了！
+
+[占位A 02]哈石化了！"
+"BTLMSGID_STOPBST_0","[f 2 4 1]状态异常攻击被无效化了！","BTLMSGID_STOPBST_0","机翻辅助：
+
+[占位A 02]的异常状态攻击无效化！
+
+[占位A 02]的状态异常攻击被无效化了！"
+"BTLMSGID_STOPSEAL_0","[f 2 4 1]封印攻击被无效化了！","BTLMSGID_STOPSEAL_0","机翻辅助：
+
+[占位A 02]的封锁攻击无效化！
+
+[占位A 02]的封攻击被无效化了！
+
+[占位A 02]的封印攻击被无效化了！"
+"BTLMSGID_WEAKDAMAGE_0","卢恩的指引对[占位A 02]的弱点产生反应！","BTLMSGID_WEAKDAMAGE_0","机翻辅助：
+
+卢恩的指引对[占位A 02]的弱点产生反应！
+
+鲁恩的引导对[占位A 02]的弱点作出了反应！
+
+符文的导引对[占位A 02]的弱点做出了反应！"
+"BTLMSGID_MURAMASA_0","[f 2 4 0]他的眼睛变得充血了！","BTLMSGID_MURAMASA_0","机翻辅助：
+
+[占位A 01]眼睛充血！
+
+[占位A 01]的眼睛布满了血丝！
+
+[占位A 01]的眼睛在流血！"
+"BTLMSGID_ROCKETJUMPMISS_0","但是，打不到[占位A 02]！","BTLMSGID_ROCKETJUMPMISS_0","机翻辅助：
+
+但是，打不到[占位A 02]！
+
+但是，达不到[占位A 02]！"
+"BTLMSGID_SARUTOBI_0","[f 2 4 1]华丽地变换了！","BTLMSGID_SARUTOBI_0","机翻辅助：
+
+[占位A 02]华丽地闪开了！
+
+[占位A 02]华丽地躲开了！
+
+[占位A 02]华丽的交换了！"
+"BTLMSGID_BOSS_1_0","[f 2 4 0]他好像在闭着眼睛…","BTLMSGID_BOSS_1_0","机翻辅助：
+
+[占位A 01]似乎闭着眼睛……
+
+[占位A 01]好像闭着眼睛……
+
+[占位A 01]好像是闭着眼睛……"
+"BTLMSGID_BS1_SPWATSTAN_0","[f 2 4 1]哈哈，你摔倒了！","BTLMSGID_BS1_SPWATSTAN_0","机翻辅助：
+
+[占位A 02]畏缩！
+
+[占位A 02]哈哈哈！
+
+[占位A 02]胆怯了！"
+"BTLMSGID_BS1_STANMSG_0","[f 2 4 0]无法动！","BTLMSGID_BS1_STANMSG_0","机翻辅助：
+
+[占位A 01]无法动弹！
+
+[占位A 01]不能动！
+
+[占位A 01]不能动弹！"
+"BTLMSGID_AP_5LASTBOSS_0","乐园的引导者出现了！","BTLMSGID_AP_5LASTBOSS_0","机翻辅助：
+
+通往乐园的指引者出现！
+
+乐园的引导者出现了！
+
+通往乐园的向导出现了！"
+"BTLMSGID_TARGET_5LASTBOS_0","乐园的向导","BTLMSGID_TARGET_5LASTBOS_0","机翻辅助：
+
+通往乐园的指引者
+
+通往乐园的引导者
+
+通往乐园的向导"
+"BTLMSGID_TARGET_6LASTBOS_0","扭曲的丰饶之神树","BTLMSGID_TARGET_6LASTBOS_0","机翻辅助：
+
+扭曲的丰饶神树
+
+扭曲丰收的神树"
+"BTLMSGID_H_KUISHIBARI_0","[f 2 4 1]加上了咬牙切齿的效果！","BTLMSGID_H_KUISHIBARI_0","机翻辅助：
+
+[占位A 02]附加啃咬效果！
+
+[占位A 02]咬紧牙关有效果了！
+
+[占位A 02]的效果！"
+"BTLMSGID_OOMIE_0","[f 2 4 1]他太自以为是了！","BTLMSGID_OOMIE_0","机翻辅助：
+
+[占位A 02]摆出架式！
+
+[占位A 02]大获成功！
+
+[占位A 02]大赚了一笔！"
+"BTLMSGID_NONBST_0","[f 2 4 1]状态异常，封印预防了！","BTLMSGID_NONBST_0","机翻辅助：
+
+[占位A 02]预防了异常状态、封印！
+
+[占位A 02]是状态异常，预防了封锁！
+
+[占位A 02]是状态异常，预防了堵塞！"
+"BTLMSGID_NONSEAL_0","[f 2 4 1]绳子不再粘在上面了！","BTLMSGID_NONSEAL_0","机翻辅助：
+
+[占位A 02]不再附着束缚！
+
+[占位A 02]绑不上了！
+
+[占位A 02]不绑了！"
+"BTLMSGID_DENGUN_0","[f 2 4 1]任命为先锋！","BTLMSGID_DENGUN_0","机翻辅助：
+
+[占位A 02]任命为殿军！
+
+[占位A 02]任命为将军！"
+"BTLMSGID_DEADACTION_F18B_0","[f 2 4 0]他自杀了！","BTLMSGID_DEADACTION_F18B_0","机翻辅助：
+
+[占位A 01]自爆了！
+
+[占位A 01]哈，自爆了！"
+"BTLMSGID_REF_ATTR_UP_0","[占位A 02]的[占位A 03]抗性上升！","BTLMSGID_REF_ATTR_UP_0","机翻辅助：
+
+[占位A 02]的[占位A 03]抗性上升！
+
+[占位A 02]的[占位A 03]耐性上升了！
+
+[占位A 02]的耐性上升了！[占位A 03]"
+"BTLMSGID_E_MEGAZA_HEAL_0","[占位A 01]从身上飞散出[占位A 04]！","BTLMSGID_E_MEGAZA_HEAL_0","机翻辅助：
+
+[占位A 01]从身上飞散出[占位A 04]！
+
+[占位A 01][占位A 04]飞散了！
+
+[占位A 01]血[占位A 04]飞散了！"
+"BTLMSGID_E_KAISHAKU_0","[占位A 01]捕食了[占位A 02]！！","BTLMSGID_E_KAISHAKU_0","机翻辅助：
+
+[占位A 01]捕食了[占位A 02]！！
+
+[占位A 01]捕食了羽[占位A 02]！！"
+"BTLMSGID_E_DEADSUMMON_0","[f 2 4 0]变得巨大了！","BTLMSGID_E_DEADSUMMON_0","机翻辅助：
+
+[占位A 01]巨大化！
+
+[占位A 01]巨大化了！"
+"BTLMSGID_E_SUMMON_MSG_00_0","[f 2 4 0]开始悄悄地动了起来。","BTLMSGID_E_SUMMON_MSG_00_0","机翻辅助：
+
+[占位A 01]开始蠢动！
+
+[占位A 01]开始行动了
+
+[占位A 01]摇摇晃晃地动起来了"
+"BTLMSGID_E_SUMMON_MSG_01_0","[f 2 4 0]他放下了手。","BTLMSGID_E_SUMMON_MSG_01_0","机翻辅助：
+
+[占位A 01]放下手！
+
+[占位A 01]低下了手
+
+[占位A 01]垂下了手"
+"BTLMSGID_E_SUMMON_MSG_02_0","[f 2 4 0]“力量”被封印了！","BTLMSGID_E_SUMMON_MSG_02_0","机翻辅助：
+
+[占位A 01]的“力量”被封印了！
+
+[占位A 01]的“力量”被封印着！"
+"BTLMSGID_BS_LASTBOSS_ARM_0","[f 2 4 0]从伤口中伸出了触手！","BTLMSGID_BS_LASTBOSS_ARM_0","机翻辅助：
+
+[占位A 01]从伤口伸出触手！
+
+[占位A 01]的伤口伸出了触手！"
+"BTLMSGID_BS_LASTBOSS_ARM_2_0","[f 2 4 1]触手复活了！","BTLMSGID_BS_LASTBOSS_ARM_2_0","机翻辅助：
+
+[占位A 02]的触手复活了！"
+"BTLMSGID_E_TAMAGO_MSG_00_0","[f 2 4 0]正在蓄力！","BTLMSGID_E_TAMAGO_MSG_00_0","机翻辅助：
+
+[占位A 01]正在蓄力！
+
+[占位A 01]在积蓄力量！
+
+[占位A 01]正在积攒力量！"
+"BTLMSGID_REF_ATTR_UP_ALL_0","全体的[占位A 03]抗性上升！","BTLMSGID_REF_ATTR_UP_ALL_0","机翻辅助：
+
+全体的[占位A 03]抗性上升！
+
+全体的[占位A 03]耐性上升了！"
+"BTLMSGID_KAITAISHINSHO_0","掉落率上升了！","BTLMSGID_KAITAISHINSHO_0","机翻辅助：
+
+掉宝率上升！
+
+下降率上升了！
+
+辍学率上升了！"
+"BTLMSGID_E_SHOMO_0","下一个行动的SP消耗翻倍！","BTLMSGID_E_SHOMO_0","机翻辅助：
+
+下一次行动的SP消耗加倍！
+
+下一个行动的SP消费会加倍！
+
+下一个行动的SP消费翻倍！"
+"BTLMSGID_E_KYOMU_0","爆发槽减少了！","BTLMSGID_E_KYOMU_0","机翻辅助：
+
+爆发量表减少！
+
+突发量表减少了！
+
+爆发量规减少了！"
+"BTLMSGID_REF_ATTR_DOWN_0","[占位A 02]的[占位A 03]抗性下降！","BTLMSGID_REF_ATTR_DOWN_0","机翻辅助：
+
+[占位A 02]的[占位A 03]抗性下降！
+
+[占位A 02]的[占位A 03]耐性降低了！
+
+[占位A 02]的耐性下降了！[占位A 03]"
+"BTLMSGID_BS_CHANGE_ATK_0","[f 2 4 0]眼睛睁开了！","BTLMSGID_BS_CHANGE_ATK_0","机翻辅助：
+
+[占位A 01]睁开眼睛！
+
+[占位A 01]的眼睛被打开！"
+"BTLMSGID_BS_CHANGE_DEF_0","[f 2 4 0]他的双眼闭上了！","BTLMSGID_BS_CHANGE_DEF_0","机翻辅助：
+
+[占位A 01]逐渐闭上眼睛！
+
+[占位A 01]的眼睛闭上！
+
+[占位A 01]眼睛闭上了！"
+"BTLMSGID_LBS_MES_00_0","咬破外皮，极限生命绽放","BTLMSGID_LBS_MES_00_0","机翻辅助：
+
+咬破皮肤，穷极的生命绽放
+
+吃破身体的皮，穷极的生命绽放
+
+咬破体皮，最终生命绽放"
+"BTLMSGID_NONCOST_0","[f 2 4 1]SP不足，无法使用技能！","BTLMSGID_NONCOST_0","机翻辅助：
+
+[占位A 02]因SP不足而无法使用技能！
+
+[占位A 02]因为SP不足不能使用技能！
+
+[占位A 02]SP不足不能使用技能！"
+"BTLMSGID_FRONT_DEAD_0","前排和后排位置互换了！","BTLMSGID_FRONT_DEAD_0","机翻辅助：
+
+前排与后排交换！
+
+前排和后排换了！
+
+前排和后排互换了！"
+"BTLMSGID_ES_KEKKAI_0","派对的消耗SP翻倍了！","BTLMSGID_ES_KEKKAI_0","机翻辅助：
+
+队伍的SP消耗加倍！
+
+派对的消费SP增加了一倍！
+
+派对的消费SP翻倍了！"
+"BTLMSGID_ES_KITOU_0","[f 2 4 1]力量被蓄积了！","BTLMSGID_ES_KITOU_0","机翻辅助：
+
+[占位A 02]积蓄力量！
+
+[占位A 02]的力量被积蓄了！
+
+[占位A 02]积蓄了的力量！"
+"BTLMSGID_ES_ACT_CCOUNTER_0","[f 2 4 1]准备好了追加攻击的机会！","BTLMSGID_ES_ACT_CCOUNTER_0","机翻辅助：
+
+[占位A 02]准备追加攻击的机会！
+
+[占位A 02]准备了追加攻击的机会！
+
+[占位A 02]预备了追加攻击的机会！"
+"BTLMSGID_SUMMON_CHICK_0","[占位A 01]产下[占位A 02]！","BTLMSGID_SUMMON_CHICK_0","机翻辅助：
+
+[占位A 01]产下[占位A 02]！
+
+[占位A 01]生了[占位A 02]！
+
+[占位A 01]生下了仙[占位A 02]！"
+"BTLMSGID_LIMITMISS_0","[f 2 4 0]无法协作！","BTLMSGID_LIMITMISS_0","机翻辅助：
+
+[占位A 01]无法联手！
+
+[占位A 01]没能联合起来！
+
+[占位A 01]不能合作！"
+"BTLMSGID_ACT_180_END_0","[f 2 4 0]被积蓄的力量失控了！","BTLMSGID_ACT_180_END_0","机翻辅助：
+
+[占位A 01]积蓄的力量失控！
+
+[占位A 01]被积蓄了的力量暴走！
+
+[占位A 01]中积蓄的力量暴走！"
+"BTLMSGID_ACT_LBS_CHANGE_0","难以形容的神灵苏醒了！","BTLMSGID_ACT_LBS_CHANGE_0","机翻辅助：
+
+难以名状之神觉醒！
+
+难以名状的神觉醒了！"
+"BTLMSGID_UROBORO_SHIELD_0","全体的盟友被一道光芒包围，挡住了敌人的攻击！","BTLMSGID_UROBORO_SHIELD_0","机翻辅助：
+
+全体友军被阻挡敌人攻击的光芒包围！
+
+我方全体被阻挡敌人攻击的光包围了！
+
+我方全体被阻挡敌人攻击的光芒所包围！"
+"BTLMSGID_DISCHARGE_BH_0","[f 2 4 0]他的拳头发出耀眼的光芒！！","BTLMSGID_DISCHARGE_BH_0","机翻辅助：
+
+[占位A 01]的拳头放出耀眼光芒！！
+
+[占位A 01]的拳头发出耀眼的光芒！！
+
+[占位A 01]的拳头放出耀眼的光！！"
+"BTLMSGID_PARTYDEAD_E_BR_0","击败了深王和奥兰匹亚！","BTLMSGID_PARTYDEAD_E_BR_0","机翻辅助：
+
+击破深王与奥林比亚！
+
+击破了深王和奥兰皮亚！"
+"BTLMSGID_PARTYDEAD_E_GK_0","击败了守门人！","BTLMSGID_PARTYDEAD_E_GK_0","机翻辅助：
+
+击破守门人！
+
+击破了gate keeper ！
+
+击破了守门员！"
+"BTLMSGID_ES_CHANGE_MISS_0","[f 2 4 0]正在解开缠绕在一起的触手！","BTLMSGID_ES_CHANGE_MISS_0","机翻辅助：
+
+[占位A 01]解开缠绕的触手！
+
+[占位A 01]正在解开缠绕的触手！
+
+[占位A 01]解开缠绕在一起的触手！"
+"BTLMSGID_E_MOVE_S_0","[f 2 4 0]队列变了！","BTLMSGID_E_MOVE_S_0","机翻辅助：
+
+[占位A 01]改变队列！
+
+[占位A 01]队伍变了！
+
+[占位A 01]的队伍变了！"
+"BTLMSGID_E_MOVE_D_0","[f 2 4 0]队伍的队形改变了！","BTLMSGID_E_MOVE_D_0","机翻辅助：
+
+[占位A 01]改变队列！
+
+[占位A 01]他们的队伍变了！
+
+[占位A 01]我们的队伍变了！"
+"BTLMSGID_E_MOVE_A_0","影子们的队列变了！","BTLMSGID_E_MOVE_A_0","机翻辅助：
+
+改变队列！
+
+阴影们的队伍变了！
+
+车道们的队伍变了！"
+"BTLMSGID_BOOT_V_0","贯通效果发动！","BTLMSGID_BOOT_V_0","机翻辅助：
+
+发动贯通效果！
+
+贯通效果发动！"
+"BTLMSGID_BOOT_WIDE_0","扩散效果发动！","BTLMSGID_BOOT_WIDE_0","机翻辅助：
+
+发动扩散效果！
+
+扩散效果发动！"
+"BTLMSGID_RARE_ENCOUNT_D_0","稀有个体出现了！","BTLMSGID_RARE_ENCOUNT_D_0","机翻辅助：
+
+有稀有个体！
+
+有稀少个体！"
+"BTLMSGID_RARE_ENCOUNT_S_0","[f 2 4 0]稀有个体出现了！","BTLMSGID_RARE_ENCOUNT_S_0","机翻辅助：
+
+[占位A 01]的稀有个体出现！
+
+[占位A 01]的稀有个体出现了！"
+"BTLMSGID_ACT_CHARGE_BOSS_0","[f 2 4 0]他开始积蓄力量了！","BTLMSGID_ACT_CHARGE_BOSS_0","机翻辅助：
+
+[占位A 01]开始蓄力！
+
+[占位A 01]开始积蓄力量！
+
+[占位A 01]开始蓄力了！"
+"BTLMSGID_ST_BODYCHANGE_0","换！","BTLMSGID_ST_BODYCHANGE_0","机翻辅助：
+
+是时候改变了！
+
+切奇！
+
+锁链！"
+"BTLMSGID_ST_BODYCHANGE_E_0","[f 2 4 1]攻击属性发生了变化！","BTLMSGID_ST_BODYCHANGE_E_0","机翻辅助：
+
+[占位A 02]的攻击属性改变了！
+
+[占位A 02]的攻击属性变了！"
+"BTLMSGID_KIJIN_0","[f 2 4 0]成为了恶魔！","BTLMSGID_KIJIN_0","机翻辅助：
+
+[占位A 01]化为罗刹！
+
+[占位A 01]变成了罗刹！"
+"BTLMSGID_KIJIN_OFF_0","[f 2 4 0]恢复正常","BTLMSGID_KIJIN_OFF_0","机翻辅助：
+
+[占位A 01]恢复正常！
+
+[占位A 01]恢复正常
+
+[占位A 01]恢复正常了"
+"BTLMSGID_KUISHIBARI2_0","[f 2 4 0]咬紧牙关！","BTLMSGID_KUISHIBARI2_0","机翻辅助：
+
+[占位A 01]咬紧牙关！
+
+[占位A 01]吃了个够！"
+"BTLMSGID_TPCUT_0","SP切断启动！","BTLMSGID_TPCUT_0","机翻辅助：
+
+发动SP削减！
+
+SP切割发动！
+
+SP切断发动！"
+"BTLMSGID_HOUJIN_0","[占位A 01]展开[占位A 02]！","BTLMSGID_HOUJIN_0","机翻辅助：
+
+[占位A 01]展开[占位A 02]！
+
+[占位A 01]展开了[占位A 02]！
+
+[占位A 01]展开了波[占位A 02]！"
+"BTLMSGID_HOUJIN_EFT_0","[f 2 4 0]效果！","BTLMSGID_HOUJIN_EFT_0","机翻辅助：
+
+[占位A 01]的效果！"
+"BTLMSGID_TRANSPARENT_ON_0","[f 2 4 0]他融入了周围的景色！","BTLMSGID_TRANSPARENT_ON_0","机翻辅助：
+
+[占位A 01]融入周遭的景色！
+
+[占位A 01]融入了周围的景色！"
+"BTLMSGID_TRANSPARENT_OFF_0","[f 2 4 0]身体恢复原状了！","BTLMSGID_TRANSPARENT_OFF_0","机翻辅助：
+
+[占位A 01]的身体恢复原状！
+
+[占位A 01]身体恢复了原来的样子！
+
+[占位A 01]身体恢复了！"
+"BTLMSGID_ICEACTSTOP_0","[f 2 4 0]冻结了！","BTLMSGID_ICEACTSTOP_0","机翻辅助：
+
+[占位A 01]结冻！
+
+[占位A 01]冻住了！
+
+[占位A 01]冻僵了！"
+"BTLMSGID_ACTSTOPTURN_0","[f 2 4 0]冻住了！","BTLMSGID_ACTSTOPTURN_0","机翻辅助：
+
+[占位A 01]结冻！
+
+[占位A 01]已经结冰了！
+
+[占位A 01]是结冰的！"
+"BTLMSGID_LMT_103_0","[f 2 4 0]黑色的雾气从周围产生，将敌人包围了起来！","BTLMSGID_LMT_103_0","机翻辅助：
+
+[占位A 01]从的周围冒出黑雾，包覆敌人！
+
+[占位A 01]从周围产生的黑雾，包围了敌人！
+
+[占位A 01]周围产生的黑雾，包围了敌人！"
+"BTLMSGID_3BS_URK_TAKEOFF_0","[f 2 4 0]从那里，鳞片飞了出来！","BTLMSGID_3BS_URK_TAKEOFF_0","机翻辅助：
+
+[占位A 01]的鳞片弹出！
+
+[占位A 01]于是，虚子跑了出来！
+
+[占位A 01]鱼鳞飞出来了！"
+"BTLMSGID_3BS_URK_ON_0","[f 2 4 0]刺入了地面！","BTLMSGID_3BS_URK_ON_0","机翻辅助：
+
+[占位A 01]刺进地面！
+
+[占位A 01]被扎到地上了！
+
+[占位A 01]刺进了地面！"
+"BTLMSGID_3BS_URK_DEATH_0","[f 2 4 1]哈酷达吉塔！","BTLMSGID_3BS_URK_DEATH_0","机翻辅助：
+
+[占位A 02]剥落！
+
+[占位A 02]只是穿了！
+
+[占位A 02]白掉了！"
+"BTLMSGID_FROG_JUMP_0","爆发槽下降了！","BTLMSGID_FROG_JUMP_0","机翻辅助：
+
+爆发量表下降！
+
+爆发量规下降了！
+
+突发量表下降了！"
+"BTLMSGID_OVERHEATON_0","[f 2 4 0]炮剑过热了！","BTLMSGID_OVERHEATON_0","机翻辅助：
+
+[占位A 01]的炮剑过热！
+
+[占位A 01]的炮剑过热了！"
+"BTLMSGID_OVERHEATOFF_0","[f 2 4 0]炮剑冷却后，恢复了功能！","BTLMSGID_OVERHEATOFF_0","机翻辅助：
+
+[占位A 01]的炮剑冷却，恢复功能！
+
+[占位A 01]的炮剑变冷，恢复了机能！
+
+[占位A 01]的炮剑冷却，恢复了功能！"
+"BTLMSGID_MSGWAIT1_0","[f 2 4 0]他进入了自爆模式！","BTLMSGID_MSGWAIT1_0","机翻辅助：
+
+[占位A 01]进入自爆模式！
+
+[占位A 01]进入了自爆模式！"
+"BTLMSGID_MSGWAIT2_0","[f 2 4 0]距离自爆还有2秒！！","BTLMSGID_MSGWAIT2_0","机翻辅助：
+
+[占位A 01]距离的自爆还有2秒！！
+
+[占位A 01]的自爆还有2个计数！！
+
+[占位A 01]的自爆还有2计数！！"
+"BTLMSGID_MSGWAIT3_0","[f 2 4 0]自爆还剩1秒！！","BTLMSGID_MSGWAIT3_0","机翻辅助：
+
+[占位A 01]距离的自爆还有1秒！！
+
+[占位A 01]的自爆还有1个计数！！
+
+[占位A 01]的自爆还有1计数！！"
+"BTLMSGID_MSGWAIT4_0","[f 2 4 0]观望着。","BTLMSGID_MSGWAIT4_0","机翻辅助：
+
+[占位A 01]在观察情况
+
+[占位A 01]看情况
+
+[占位A 01]正在观察情况"
+"BTLMSGID_MSGWAIT5_0","[f 2 4 0]正在寻找目标。","BTLMSGID_MSGWAIT5_0","机翻辅助：
+
+[占位A 01]在寻找目标
+
+[占位A 01]正在寻找目标
+
+[占位A 01]正在寻找目标。"
+"BTLMSGID_BALLOON_0","[f 2 4 0]肿起来了！","BTLMSGID_BALLOON_0","机翻辅助：
+
+[占位A 01]大幅膨胀！
+
+[占位A 01]大大地鼓起了！
+
+[占位A 01]鼓胀得很大！"
+"BTLMSGID_ACT_CHARGE_BOSS_2_0","[f 2 4 0]动作停止了！","BTLMSGID_ACT_CHARGE_BOSS_2_0","机翻辅助：
+
+[占位A 01]停止动作！
+
+[占位A 01]的动作停止了！"
+"BTLMSGID_ACT_LION_SLEEP_0","[f 2 4 0]正在睡觉。","BTLMSGID_ACT_LION_SLEEP_0","机翻辅助：
+
+[占位A 01]在睡觉
+
+[占位A 01]睡着了！"
+"BTLMSGID_REF_ATTACK_UP2_0","[f 2 4 1]魔法攻击力提升了！","BTLMSGID_REF_ATTACK_UP2_0","机翻辅助：
+
+[占位A 02]的魔法攻击力上升！
+
+[占位A 02]的魔法攻击力上升了！"
+"BTLMSGID_REF_DEFENCE_UP2_0","[f 2 4 1]魔法防御力提升了！","BTLMSGID_REF_DEFENCE_UP2_0","机翻辅助：
+
+[占位A 02]的魔法防御力上升！
+
+[占位A 02]的魔法防御力上升了！"
+"BTLMSGID_REF_ATTACK_UP3_0","[f 2 4 1]攻击力提升了！","BTLMSGID_REF_ATTACK_UP3_0","机翻辅助：
+
+[占位A 02]的攻击力提升了！
+
+[占位A 02]的攻击力上升了！"
+"BTLMSGID_REF_DEFENCE_UP3_0","[f 2 4 1]防御力提升了！","BTLMSGID_REF_DEFENCE_UP3_0","机翻辅助：
+
+[占位A 02]的防御力提升了！
+
+[占位A 02]的防御力上升了！"
+"BTLMSGID_REF_ATTACK_DOWN_3_0","[f 2 4 1]魔法攻击力下降了！","BTLMSGID_REF_ATTACK_DOWN_3_0","机翻辅助：
+
+[占位A 02]的魔法攻击力下降！
+
+[占位A 02]的魔法攻击力下降了！"
+"BTLMSGID_REF_DEFENCE_DOW_3_0","[f 2 4 1]魔法防御力降低了！","BTLMSGID_REF_DEFENCE_DOW_3_0","机翻辅助：
+
+[占位A 02]的魔法防御力下降！
+
+[占位A 02]的魔法防御力下降了！"
+"BTLMSGID_REF_ATTACK_DOWN_4_0","[f 2 4 1]攻击力下降了！","BTLMSGID_REF_ATTACK_DOWN_4_0","机翻辅助：
+
+[占位A 02]的攻击力下降了！"
+"BTLMSGID_REF_DEFENCE_DOW_4_0","[f 2 4 1]防御力下降了！","BTLMSGID_REF_DEFENCE_DOW_4_0","机翻辅助：
+
+[占位A 02]的防御力下降了！"
+"BTLMSGID_REF_COUNTER_0","[f 2 4 1]我感到紧张！","BTLMSGID_REF_COUNTER_0","机翻辅助：
+
+[占位A 02]摆出架式！
+
+[占位A 02]准备好了！
+
+[占位A 02]做好了防备！"
+"BTLMSGID_REF_COUNTER_BOO_0","[f 2 4 0]被火焰墙包围了！","BTLMSGID_REF_COUNTER_BOO_0","机翻辅助：
+
+[占位A 01]被火焰之墙包围！
+
+[占位A 01]被火焰的墙壁包围了！"
+"BTLMSGID_REF_ATTRUP_FIRE_0","[f 2 4 1]火焰耐性提升了！","BTLMSGID_REF_ATTRUP_FIRE_0","机翻辅助：
+
+[占位A 02]的火焰抗性上升！
+
+[占位A 02]的火焰耐性上升了！"
+"BTLMSGID_REF_ATTRUP_ICE_0","[f 2 4 1]冰冻抗性提升了！","BTLMSGID_REF_ATTRUP_ICE_0","机翻辅助：
+
+[占位A 02]的冰冻抗性上升！
+
+[占位A 02]的结冰耐性上升了！
+
+[占位A 02]的冰冻耐性上升了！"
+"BTLMSGID_REF_ATTRUP_THUN_0","[f 2 4 1]电击抗性提升了！","BTLMSGID_REF_ATTRUP_THUN_0","机翻辅助：
+
+[占位A 02]的电击抗性上升！
+
+[占位A 02]的电击耐性上升了！"
+"BTLMSGID_REF_ATTRUP_BUTS_0","[f 2 4 1]物理抗性提升了！","BTLMSGID_REF_ATTRUP_BUTS_0","机翻辅助：
+
+[占位A 02]的物理抗性上升！
+
+[占位A 02]的物理耐性上升了！"
+"BTLMSGID_REF_ATTRUP_SHOC_0","[f 2 4 1]耐久性提升了！","BTLMSGID_REF_ATTRUP_SHOC_0","机翻辅助：
+
+[占位A 02]的破坏抗性上升！
+
+[占位A 02]的破坏耐性上升了！
+
+[占位A 02]的耐坏性上升了！"
+"BTLMSGID_REF_ATTRUP_THRU_0","[f 2 4 1]耐冲击性提高了！","BTLMSGID_REF_ATTRUP_THRU_0","机翻辅助：
+
+[占位A 02]的突刺抗性上升！
+
+[占位A 02]的抗突性上升了！
+
+[占位A 02]的突耐性上升了！"
+"BTLMSGID_REF_ATTRDOWN_FI_0","[f 2 4 1]火焰耐性降低了！","BTLMSGID_REF_ATTRDOWN_FI_0","机翻辅助：
+
+[占位A 02]的火焰抗性下降！
+
+[占位A 02]的火焰耐性降低了！
+
+[占位A 02]的火焰耐性下降了！"
+"BTLMSGID_REF_ATTRDOWN_IC_0","[f 2 4 1]冰冻抗性降低了！","BTLMSGID_REF_ATTRDOWN_IC_0","机翻辅助：
+
+[占位A 02]的冰冻抗性下降！
+
+[占位A 02]的结冰耐性降低了！
+
+[占位A 02]的抗冻能力下降了！"
+"BTLMSGID_REF_ATTRDOWN_TH_0","[f 2 4 1]电击抗性降低了！","BTLMSGID_REF_ATTRDOWN_TH_0","机翻辅助：
+
+[占位A 02]的电击抗性下降！
+
+[占位A 02]的电击耐性降低了！"
+"BTLMSGID_REF_ATTRDOWN_BU_0","[f 2 4 1]物理耐性下降了！","BTLMSGID_REF_ATTRDOWN_BU_0","机翻辅助：
+
+[占位A 02]的物理抗性下降！
+
+[占位A 02]的物理耐性降低了！
+
+[占位A 02]的物理耐性下降了！"
+"BTLMSGID_REF_ATTRDOWN_SH_0","[f 2 4 1]耐久性下降了！","BTLMSGID_REF_ATTRDOWN_SH_0","机翻辅助：
+
+[占位A 02]的破坏抗性下降！
+
+[占位A 02]的破坏耐性降低了！
+
+[占位A 02]的耐坏性降低了！"
+"BTLMSGID_REF_ATTRDOWN_TH_2_0","[f 2 4 1]耐用性下降了！","BTLMSGID_REF_ATTRDOWN_TH_2_0","机翻辅助：
+
+[占位A 02]的突刺抗性下降！
+
+[占位A 02]的耐突性降低了！
+
+[占位A 02]的突耐性降低了！"
+"BTLMSGID_REF_DANCE_COUNT_0","[f 2 4 1]准备反击！","BTLMSGID_REF_DANCE_COUNT_0","机翻辅助：
+
+[占位A 02]准备反击！
+
+[占位A 02]准备反击了！"
+"BTLMSGID_REF_DANCE_CHASE_0","[f 2 4 1]已做好追加攻击的准备！","BTLMSGID_REF_DANCE_CHASE_0","机翻辅助：
+
+[占位A 02]准备追加攻击！
+
+[占位A 02]预备了追加攻击！"
+"BTLMSGID_REF_DANCE_LINEC_0","[f 2 4 1]队伍做好了追加攻击的准备！","BTLMSGID_REF_DANCE_LINEC_0","机翻辅助：
+
+[占位A 02]的队伍准备追加攻击！
+
+[占位A 02]的队伍准备追加攻击了！"
+"BTLMSGID_REF_DANCE_HEAL_0","[f 2 4 1]回合中产生了恢复效果！","BTLMSGID_REF_DANCE_HEAL_0","机翻辅助：
+
+[占位A 02]的列产生恢复效果！
+
+[占位A 02]的队列发生恢复效果！
+
+[占位A 02]回复效果发生！"
+"BTLMSGID_REF_DANCE_ATK_0","[f 2 4 1]列的攻击力上升了！","BTLMSGID_REF_DANCE_ATK_0","机翻辅助：
+
+[占位A 02]的列攻击力上升！
+
+[占位A 02]的行列的攻击力上升！
+
+[占位A 02]队伍的攻击力上升！"
+"BTLMSGID_REF_DANCE_DEF_0","[f 2 4 1]列的防御力上升了！","BTLMSGID_REF_DANCE_DEF_0","机翻辅助：
+
+[占位A 02]的列防御力上升！
+
+[占位A 02]之列的防御力上升！
+
+[占位A 02]队伍的防御力上升！"
+"BTLMSGID_REF_DANCE_EN_0","[f 2 4 1]列的消耗SP被减少了！","BTLMSGID_REF_DANCE_EN_0","机翻辅助：
+
+[占位A 02]的列SP消耗量减轻！
+
+[占位A 02]列的消费SP减少！
+
+[占位A 02]的队列的消耗SP被减轻！"
+"BTLMSGID_REF_LINK_0","连击技能的额外攻击次数增加了！","BTLMSGID_REF_LINK_0","机翻辅助：
+
+联合技能的追加攻击次数增加！
+
+链接技能的追加攻击次数增加了！
+
+追加攻击次数增加了！"
+"BTLMSGID_REF_GUARD_0","[f 2 4 1]是身体挺身而出成为了盾牌！","BTLMSGID_REF_GUARD_0","机翻辅助：
+
+[占位A 02]挺身而出，化为盾牌！
+
+[占位A 02]变成了盾！
+
+[占位A 02]挺身成为了盾牌！"
+"BTLMSGID_REF_CONC_0","[f 2 4 1]恢复效果提升了！","BTLMSGID_REF_CONC_0","机翻辅助：
+
+[占位A 02]的恢复效果上升！
+
+[占位A 02]的恢复效果上升了！
+
+[占位A 02]恢复效果上升了！"
+"BTLMSGID_REF_AREA_0","[f 2 4 1]恢复效果范围扩大！","BTLMSGID_REF_AREA_0","机翻辅助：
+
+[占位A 02]的恢复效果范围扩大！
+
+[占位A 02]的回复效果范围扩大！"
+"BTLMSGID_WEAKENED_0","[f 2 4 0]他已经虚弱到动弹不得了！","BTLMSGID_WEAKENED_0","机翻辅助：
+
+[占位A 01]虚弱，无法动弹！
+
+[占位A 01]太弱了，动不了！
+
+[占位A 01]虚弱得动不了！"
+"BTLMSGID_MASCOT_0","[f 2 4 0]是松软的","BTLMSGID_MASCOT_0","机翻辅助：
+
+[占位A 01]轻飘飘！
+
+[占位A 01]软绵绵的"
+"BTLMSGID_BUNNY_0","[f 2 4 0]我很慌张！","BTLMSGID_BUNNY_0","机翻辅助：
+
+[占位A 01]惊慌失措！"
+"BTLMSGID_REFOFF_P_UP_0","我方的[占位A 02]效果结束！","BTLMSGID_REFOFF_P_UP_0","机翻辅助：
+
+我方的[占位A 02]效果结束！
+
+我方的[占位A 02]的效果断了！"
+"BTLMSGID_REFOFF_P_DOWN_0","我方的[占位A 02]效果结束！","BTLMSGID_REFOFF_P_DOWN_0","机翻辅助：
+
+我方的[占位A 02]效果结束！
+
+我方的[占位A 02]的效果断了！"
+"BTLMSGID_REFOFF_UP_0","敌方的[占位A 02]效果结束！","BTLMSGID_REFOFF_UP_0","机翻辅助：
+
+敌方的[占位A 02]效果结束！
+
+敌人的[占位A 02]的效果断了！"
+"BTLMSGID_REFOFF_DOWN_0","敌方的[占位A 02]效果结束！","BTLMSGID_REFOFF_DOWN_0","机翻辅助：
+
+敌方的[占位A 02]效果结束！
+
+敌人的[占位A 02]的效果断了！"
+"BTLMSGID_KAIMA_0","封印解除，状态异常的耐性已恢复！","BTLMSGID_KAIMA_0","机翻辅助：
+
+封印、异常状态抗性恢复原状！
+
+封，状态异常的耐性恢复了原来！
+
+封，状态异常的耐性回到了原来！"
+"BTLMSGID_HOUJIN_CANCEL_M_0","但是，没有布置魔法阵！","BTLMSGID_HOUJIN_CANCEL_M_0","机翻辅助：
+
+但是，没有张开魔法阵！
+
+但是，没有设置魔法阵！
+
+但是，没有摆魔法阵！"
+"BTLMSGID_OATH_END_0","敌方的[占位A 02]效果结束！","BTLMSGID_OATH_END_0","机翻辅助：
+
+敌方的[占位A 02]效果结束！
+
+敌人的[占位A 02]的效果断了！"
+"BTLMSGID_COUNTER_0","死亡计数器发动！","BTLMSGID_COUNTER_0","机翻辅助：
+
+死亡倒数发动！
+
+死亡反击发动！"
+"BTLMSGID_CHASE_0","死亡追击者发动！","BTLMSGID_CHASE_0","机翻辅助：
+
+死亡追逐发动！
+
+德斯切萨发动！
+
+死亡追查发动！"
+"BTLMSGID_REF_ATTR_WEPUP__4_0","[f 2 4 1]普通攻击附带了疾风属性！","BTLMSGID_REF_ATTR_WEPUP__4_0","机翻辅助：
+
+[占位A 02]的普通攻击附带疾风属性！
+
+[占位A 02]的通常攻击带有疾风属性！
+
+[占位A 02]的通常攻击附有疾风属性！"
+"BTLMSGID_REF_ATTR_WEPUP__5_0","[f 2 4 1]普通攻击获得了祝福属性！","BTLMSGID_REF_ATTR_WEPUP__5_0","机翻辅助：
+
+[占位A 02]的普通攻击附带祝福属性！
+
+[占位A 02]的通常攻击附有祝福属性！"
+"BTLMSGID_REF_ATTR_WEPUP__6_0","[f 2 4 1]通常攻击附带了咒怨属性！","BTLMSGID_REF_ATTR_WEPUP__6_0","机翻辅助：
+
+[占位A 02]的普通攻击附带咒怨属性！
+
+[占位A 02]的通常攻击附有咒怨属性！"
+"BTLMSGID_REF_ATTRUP_WIND_0","[f 2 4 1]风抗性提升了！","BTLMSGID_REF_ATTRUP_WIND_0","机翻辅助：
+
+[占位A 02]的疾风抗性上升！
+
+[占位A 02]的疾风耐性上升了！"
+"BTLMSGID_REF_ATTRUP_HIKA_0","[f 2 4 1]祝福耐性提升了！","BTLMSGID_REF_ATTRUP_HIKA_0","机翻辅助：
+
+[占位A 02]的祝福抗性上升！
+
+[占位A 02]的祝福耐性上升了！"
+"BTLMSGID_REF_ATTRUP_YAMI_0","[f 2 4 1]诅咒抵抗力提升了！","BTLMSGID_REF_ATTRUP_YAMI_0","机翻辅助：
+
+[占位A 02]的咒怨抗性上升！
+
+[占位A 02]的咒怨耐受性上升了！
+
+[占位A 02]的咒怨耐性上升了！"
+"BTLMSGID_REF_ATTRDOWN_WI_0","[f 2 4 1]风抗力降低了！","BTLMSGID_REF_ATTRDOWN_WI_0","机翻辅助：
+
+[占位A 02]的疾风抗性下降！
+
+[占位A 02]的疾风耐性降低了！"
+"BTLMSGID_REF_ATTRDOWN_HI_0","[f 2 4 1]祝福耐性降低了！","BTLMSGID_REF_ATTRDOWN_HI_0","机翻辅助：
+
+[占位A 02]的祝福抗性下降！
+
+[占位A 02]的祝福耐性降低了！
+
+[占位A 02]的祝福耐性下降了！"
+"BTLMSGID_REF_ATTRDOWN_YA_0","[f 2 4 1]诅咒抗性降低了！","BTLMSGID_REF_ATTRDOWN_YA_0","机翻辅助：
+
+[占位A 02]的咒怨抗性下降！
+
+[占位A 02]的咒怨耐性降低了！
+
+[占位A 02]的咒怨耐受性降低了！"
+"BTLMSGID_HPNONCOST_0","[f 2 4 1]由于HP不足，无法使用技能！","BTLMSGID_HPNONCOST_0","机翻辅助：
+
+[占位A 02]因HP不足而无法使用技能！
+
+[占位A 02]由于HP不足不能使用技能！
+
+[占位A 02]生命值不足无法使用技能！"
+"BTLMSGID_KEIKAI_0","[f 2 4 0]他们保持警惕。","BTLMSGID_KEIKAI_0","机翻辅助：
+
+[占位A 01]有所警戒
+
+[占位A 01]很警惕
+
+[占位A 01]警戒"
+"BTLMSGID_RARE_1_0","[f 2 4 0]在发呆。","BTLMSGID_RARE_1_0","机翻辅助：
+
+[占位A 01]发呆
+
+[占位A 01]发着呆"
+"BTLMSGID_RARE_2_0","[f 2 4 0]哈哈哈","BTLMSGID_RARE_2_0","机翻辅助：
+
+[占位A 01]惊慌失措
+
+[占位A 01]马马虎虎
+
+[占位A 01]焦头烂额"
+"BTLMSGID_RARE_3_0","[f 2 4 0]他很慌张。","BTLMSGID_RARE_3_0","机翻辅助：
+
+[占位A 01]惊慌失措
+
+[占位A 01]慌张"
+"BTLMSGID_HAMA_OMEN_0","[f 2 4 0]光的力量正在聚集！","BTLMSGID_HAMA_OMEN_0","机翻辅助：
+
+[占位A 01]聚集光之力！
+
+[占位A 01]聚集着光的力量！
+
+[占位A 01]光的力量聚集在一起！"
+"BTLMSGID_MUDO_OMEN_0","[f 2 4 0]黑暗的力量正在聚集！","BTLMSGID_MUDO_OMEN_0","机翻辅助：
+
+[占位A 01]聚集暗之力！
+
+[占位A 01]黑暗的力量聚集在一起！
+
+[占位A 01]黑暗的力量聚集在这里！"
+"BTLMSGID_NIYANIYA_0","[f 2 4 0]咧嘴笑着","BTLMSGID_NIYANIYA_0","机翻辅助：
+
+[占位A 01]笑嘻嘻
+
+[占位A 01]笑着说
+
+[占位A 01]笑眯眯的"
+"BTLMSGID_JIBAKU_MISS_0","[f 2 4 0]自爆失败了……","BTLMSGID_JIBAKU_MISS_0","机翻辅助：
+
+[占位A 01]自爆失败……
+
+[占位A 01]的自爆没有发生……
+
+[占位A 01]的自爆没有爆炸……"
+"BTLMSGID_CHICKEN_0","[f 2 4 0]他表现出了从容。","BTLMSGID_CHICKEN_0","机翻辅助：
+
+[占位A 01]从容不迫
+
+[占位A 01]显得从容
+
+[占位A 01]显得很从容"
+"BTLMSGID_ROBOT_0","警告：请勿随意发布。","BTLMSGID_ROBOT_0","机翻辅助：
+
+警告：与朋友　团结　一致
+
+警告：
+
+警告：立即投降"
+"BTLMSGID_TOWER_0","[f 2 4 0]引来了雷云！","BTLMSGID_TOWER_0","机翻辅助：
+
+[占位A 01]呼唤雷云！
+
+[占位A 01]叫来了雷云！"
+"BTLMSGID_TOWER3_0","[f 2 4 0]他低声念诵了经文！","BTLMSGID_TOWER3_0","机翻辅助：
+
+[占位A 01]呢喃圣句！
+
+[占位A 01]咕哝了一句圣句！
+
+[占位A 01]嘟哝着经文！"
+"BTLMSGID_TOWER5_0","[f 2 4 0]他喃喃自语着抱怨！","BTLMSGID_TOWER5_0","机翻辅助：
+
+[占位A 01]呢喃怨言！
+
+[占位A 01]嘟囔着怨恨！
+
+[占位A 01]他喃喃自语道！"
+"BTLMSGID_KING_0","[f 2 4 0]正在摸胡子。","BTLMSGID_KING_0","机翻辅助：
+
+[占位A 01]把玩胡须
+
+[占位A 01]正在弄胡子
+
+[占位A 01]在弄胡子"
+"BTLMSGID_KING_ESCAPE_0","[f 2 4 0]正在试图逃跑。","BTLMSGID_KING_ESCAPE_0","机翻辅助：
+
+[占位A 01]试图逃跑
+
+[占位A 01]想要逃跑
+
+[占位A 01]似乎要逃跑"
+"BTLMSGID_BIBIRI_0","[f 2 4 0]害怕了","BTLMSGID_BIBIRI_0","机翻辅助：
+
+[占位A 01]惊慌失措
+
+[占位A 01]是害怕的
+
+[占位A 01]吓了一跳"
+"BTLMSGID_TORIMAKI_0","草食恐龙跳了出来！","BTLMSGID_TORIMAKI_0","机翻辅助：
+
+草食恐龙冲出来了！
+
+草食恐龙飞出来了！
+
+食草恐龙跑出来了！"
+"BTLMSGID_PUNISH_0","[f 2 4 0]我剪短发了！","BTLMSGID_PUNISH_0","机翻辅助：
+
+[占位A 01]的短路了！
+
+[占位A 01]是短发！
+
+[占位A 01]短发了！"
+"BTLMSGID_DO_1_0","[f 2 4 0]有蠕动！","BTLMSGID_DO_1_0","机翻辅助：
+
+[占位A 01]的蠕虫在蠢动！
+
+[占位A 01]在蠕动！
+
+[占位A 01]在动！"
+"BTLMSGID_DO_2_0","[f 2 4 0]他的身体在跳动！","BTLMSGID_DO_2_0","机翻辅助：
+
+[占位A 01]的身体在搏动！
+
+[占位A 01]的身体在跳动！"
+"BTLMSGID_DO_3_0","[f 2 4 0]他的动作变得迟缓了！","BTLMSGID_DO_3_0","机翻辅助：
+
+[占位A 01]的动作变迟钝了！
+
+[占位A 01]的动作迟钝！
+
+[占位A 01]的动作很迟钝！"
+"BTLMSGID_DO_EYE_HEAD_0","法术的魔眼","BTLMSGID_DO_EYE_HEAD_0","机翻辅助：
+
+法术的魔眼"
+"BTLMSGID_DO_EYE_RIGHT_0","连击的右眼","BTLMSGID_DO_EYE_RIGHT_0","机翻辅助：
+
+连击的右眼"
+"BTLMSGID_DO_EYE_LEFT_0","疾病的左眼","BTLMSGID_DO_EYE_LEFT_0","机翻辅助：
+
+疾病的左眼
+
+患有疾病的左眼"
+"BTLMSGID_ENLIL_RETAKE_0","恩利正在聚集力量……！","BTLMSGID_ENLIL_RETAKE_0","机翻辅助：
+
+恩利尔正在汇聚力量……！
+
+恩里尔正在聚集力量……！
+
+恩利尔正在聚集力量……！"
+"BTLMSGID_ENLIL_HIKARI_0","什么也没发生……","BTLMSGID_ENLIL_HIKARI_0","机翻辅助：
+
+什么都没发生……"
+"BTLMSGID_MUTEKI_KAMO_WAR_0","蜘蛛侠正在大声笑。","BTLMSGID_MUTEKI_KAMO_WAR_0","机翻辅助：
+
+鸭志田超人高声大笑
+
+鸭志田超人高声地笑着
+
+鸭志田超人放声大笑"
+"BTLMSGID_MOTHER_COM_0","错误！错误！","BTLMSGID_MOTHER_COM_0","机翻辅助：
+
+ERROR！ERROR！
+
+ERROR ！ERROR ！"
+"BTLMSGID_MOTHER_COM_CURE_0","自动修复功能 开启","BTLMSGID_MOTHER_COM_CURE_0","机翻辅助：
+
+自动修复功能　ON
+
+自动修复功能ON"
+"BTLMSGID_MCOM_ERROR_0","错误！功能停止中！","BTLMSGID_MCOM_ERROR_0","机翻辅助：
+
+ERROR！功能停止中！
+
+ERROR ！功能停止中！"
+"BTLMSGID_BUF_OMEN_0","[f 2 4 0]冰的力量正在聚集！","BTLMSGID_BUF_OMEN_0","机翻辅助：
+
+[占位A 01]正在汇聚冰之力！
+
+[占位A 01]冰的力量聚集在一起！
+
+[占位A 01]聚集着冰的力量！"
+"BTLMSGID_JIO_OMEN_0","[f 2 4 0]雷的力量正在聚集！","BTLMSGID_JIO_OMEN_0","机翻辅助：
+
+[占位A 01]正在汇聚雷之力！
+
+[占位A 01]雷电的力量聚集在一起！
+
+[占位A 01]聚集了雷电的力量！"
+"BTLMSGID_KHRONOS_ANNOUNC_0","[f 2 4 0]集中注意力！","BTLMSGID_KHRONOS_ANNOUNC_0","机翻辅助：
+
+[占位A 01]正在集中意识！
+
+[占位A 01]是集中意识！
+
+[占位A 01]全神贯注！"
+"BTLMSGID_PASTOR_OATH_ATT_0","我发誓不打我。","BTLMSGID_PASTOR_OATH_ATT_0","机翻辅助：
+
+发誓不打我！
+
+我发誓不打我！"
+"BTLMSGID_PASTOR_OATH_SKI_0","不使用技能誓不为人！","BTLMSGID_PASTOR_OATH_SKI_0","机翻辅助：
+
+发誓不使用招式！
+
+发誓不使用技能的萨伊！
+
+发誓不使用技能！"
+"BTLMSGID_PASTOR_OATH_LEA_0","不要放弃誓言！","BTLMSGID_PASTOR_OATH_LEA_0","机翻辅助：
+
+发誓不打我！
+
+发誓不放弃！
+
+发誓不了不起的萨伊！"
+"BTLMSGID_PASTOR_OATH_ITE_0","发誓不使用道具！","BTLMSGID_PASTOR_OATH_ITE_0","机翻辅助：
+
+发誓不使用道具！
+
+发誓不使用道具的萨伊！"
+"BTLMSGID_PASTOR_OATH_TWO_0","无论如何，我发誓做各种各样的事情！","BTLMSGID_PASTOR_OATH_TWO_0","机翻辅助：
+
+总之发誓不使用各种东西！
+
+总之各种各样的誓言！
+
+总之要许下各种誓言！"
 "BTLMSGID_PASTOR_JUDGEMEN_0","我会引导你，小羔羊！
-受到天罚，死亡吧……","BTLMSGID_PASTOR_JUDGEMEN_0",""
-"BTLMSGID_HOQ_CAST_SKILL_0","[f 2 4 0]正在试图施展魔法！","BTLMSGID_HOQ_CAST_SKILL_0",""
-"BTLMSGID_HOQ_INTERRUPT_S_0","[f 2 4 0]看来魔法失败了……","BTLMSGID_HOQ_INTERRUPT_S_0",""
-"BTLMSGID_ADD_ATK_P4HERO_0","我要刺你了！","BTLMSGID_ADD_ATK_P4HERO_0",""
-"BTLMSGID_ADD_ATK_P3HERO_0","让我去！","BTLMSGID_ADD_ATK_P3HERO_0",""
-"BTLMSGID_ADD_ATK_YOUSUKE_0","放心交给我吧！","BTLMSGID_ADD_ATK_YOUSUKE_0",""
-"BTLMSGID_ADD_ATK_CHIE_0","好的，再来一次！","BTLMSGID_ADD_ATK_CHIE_0",""
-"BTLMSGID_ADD_ATK_YUKIKO_0","让我来收尾！","BTLMSGID_ADD_ATK_YUKIKO_0",""
-"BTLMSGID_ADD_ATK_KANJI_0","还远远不够！","BTLMSGID_ADD_ATK_KANJI_0",""
-"BTLMSGID_ADD_ATK_NAOTO_0","这一击就解决了！","BTLMSGID_ADD_ATK_NAOTO_0",""
-"BTLMSGID_ADD_ATK_KUMA_0","撞得粉碎它！","BTLMSGID_ADD_ATK_KUMA_0",""
-"BTLMSGID_ADD_ATK_YUKARI_0","停下来！","BTLMSGID_ADD_ATK_YUKARI_0",""
-"BTLMSGID_ADD_ATK_JUNPEI_0","致命一击！","BTLMSGID_ADD_ATK_JUNPEI_0",""
-"BTLMSGID_ADD_ATK_SANADA_0","这样就结束了！","BTLMSGID_ADD_ATK_SANADA_0",""
-"BTLMSGID_ADD_ATK_MITURU_0","还有很长的路要走！","BTLMSGID_ADD_ATK_MITURU_0",""
-"BTLMSGID_ADD_ATK_AEGIS_0","请允许追击！","BTLMSGID_ADD_ATK_AEGIS_0",""
+受到天罚，死亡吧……","BTLMSGID_PASTOR_JUDGEMEN_0","机翻辅助：
+
+我会引导你·羔羊！
+天罚Dead　now…….
+
+引导你的羔羊！
+天罚戴德瑙……
+
+引导你·羔羊maine ！天罚死吧……"
+"BTLMSGID_HOQ_CAST_SKILL_0","[f 2 4 0]正在试图施展魔法！","BTLMSGID_HOQ_CAST_SKILL_0","机翻辅助：
+
+[占位A 01]正准备咏唱魔法！
+
+[占位A 01]想要歌颂魔法！
+
+[占位A 01]是打算念魔法！"
+"BTLMSGID_HOQ_INTERRUPT_S_0","[f 2 4 0]看来魔法失败了……","BTLMSGID_HOQ_INTERRUPT_S_0","机翻辅助：
+
+[占位A 01]的魔法好像失败了…….
+
+[占位A 01]好像魔法失败了……"
+"BTLMSGID_ADD_ATK_P4HERO_0","我要刺你了！","BTLMSGID_ADD_ATK_P4HERO_0","机翻辅助：
+
+要给他最后一击了！
+
+我要杀了你！"
+"BTLMSGID_ADD_ATK_P3HERO_0","让我去！","BTLMSGID_ADD_ATK_P3HERO_0","机翻辅助：
+
+让我上！
+
+让我走吧！
+
+让我去吧！"
+"BTLMSGID_ADD_ATK_YOUSUKE_0","放心交给我吧！","BTLMSGID_ADD_ATK_YOUSUKE_0","机翻辅助：
+
+交给我吧！"
+"BTLMSGID_ADD_ATK_CHIE_0","好的，再来一次！","BTLMSGID_ADD_ATK_CHIE_0","机翻辅助：
+
+好，再来一发！
+
+好了，也来了！
+
+好，也来一趟！"
+"BTLMSGID_ADD_ATK_YUKIKO_0","让我来收尾！","BTLMSGID_ADD_ATK_YUKIKO_0","机翻辅助：
+
+最后一击交给我！
+
+就交给我吧！
+
+留下就交给我吧！"
+"BTLMSGID_ADD_ATK_KANJI_0","还远远不够！","BTLMSGID_ADD_ATK_KANJI_0","机翻辅助：
+
+还没完呢！
+
+还没呢！
+
+还差得远呢！"
+"BTLMSGID_ADD_ATK_NAOTO_0","这一击就解决了！","BTLMSGID_ADD_ATK_NAOTO_0","机翻辅助：
+
+这一击就解决他！
+
+这一击就把你干掉！
+
+这一击就结束了！"
+"BTLMSGID_ADD_ATK_KUMA_0","撞得粉碎它！","BTLMSGID_ADD_ATK_KUMA_0","机翻辅助：
+
+打碎一切的小熊！
+
+被打碎的小熊！
+
+碰碎小熊！"
+"BTLMSGID_ADD_ATK_YUKARI_0","停下来！","BTLMSGID_ADD_ATK_YUKARI_0","机翻辅助：
+
+最后一击！
+
+致命一击！
+
+停止！"
+"BTLMSGID_ADD_ATK_JUNPEI_0","致命一击！","BTLMSGID_ADD_ATK_JUNPEI_0","机翻辅助：
+
+最后一击！
+
+托德梅的阿塔克！
+
+最后的阿塔克！"
+"BTLMSGID_ADD_ATK_SANADA_0","这样就结束了！","BTLMSGID_ADD_ATK_SANADA_0","机翻辅助：
+
+用这一招结束！
+
+到此结束！"
+"BTLMSGID_ADD_ATK_MITURU_0","还有很长的路要走！","BTLMSGID_ADD_ATK_MITURU_0","机翻辅助：
+
+还没完呢！
+
+还差得远呢！
+
+现在才刚刚开始！"
+"BTLMSGID_ADD_ATK_AEGIS_0","请允许追击！","BTLMSGID_ADD_ATK_AEGIS_0","机翻辅助：
+
+请求追击许可！
+
+追击许可！
+
+许可追击！"
 "BTLMSGID_ADD_ATK_AMADA_0","我要走了！","BTLMSGID_ADD_ATK_AMADA_0","机翻辅助：
 
 要上了！
@@ -402,253 +2438,1473 @@
 我去！
 
 去！"
-"BTLMSGID_ADD_ATK_KOROMAR_0","汪！哦！","BTLMSGID_ADD_ATK_KOROMAR_0",""
-"BTLMSGID_ADD_ATK_ARAGAKI_0","哦，还没结束呢！","BTLMSGID_ADD_ATK_ARAGAKI_0",""
-"BTLMSGID_ADD_ATK_P3_HERO_0","让我去！","BTLMSGID_ADD_ATK_P3_HERO_0",""
-"BTLMSGID_ADD_ATK_P5HERO_0","我去！","BTLMSGID_ADD_ATK_P5HERO_0",""
-"BTLMSGID_ADD_ATK_RYUJI_0","让我来吧！","BTLMSGID_ADD_ATK_RYUJI_0",""
-"BTLMSGID_ADD_ATK_ANN_0","让我来做！","BTLMSGID_ADD_ATK_ANN_0",""
+"BTLMSGID_ADD_ATK_KOROMAR_0","汪！哦！","BTLMSGID_ADD_ATK_KOROMAR_0","机翻辅助：
+
+汪！汪呜！
+
+汪！哇！"
+"BTLMSGID_ADD_ATK_ARAGAKI_0","哦，还没结束呢！","BTLMSGID_ADD_ATK_ARAGAKI_0","机翻辅助：
+
+哎呀，还没完！
+
+哎呀，还没有呢！
+
+哦，还没呢！"
+"BTLMSGID_ADD_ATK_P3_HERO_0","让我去！","BTLMSGID_ADD_ATK_P3_HERO_0","机翻辅助：
+
+让我上！
+
+让我去吧！
+
+让我去！"
+"BTLMSGID_ADD_ATK_P5HERO_0","我去！","BTLMSGID_ADD_ATK_P5HERO_0","机翻辅助：
+
+我上！
+
+我去吧！"
+"BTLMSGID_ADD_ATK_RYUJI_0","让我来吧！","BTLMSGID_ADD_ATK_RYUJI_0","机翻辅助：
+
+交给我！
+
+交给我吧！"
+"BTLMSGID_ADD_ATK_ANN_0","让我来做！","BTLMSGID_ADD_ATK_ANN_0","机翻辅助：
+
+让我来！
+
+让我来做！"
 "BTLMSGID_ADD_ATK_MONA_0","这里可以让我说吗？
-","BTLMSGID_ADD_ATK_MONA_0",""
-"BTLMSGID_ADD_ATK_YUSUKE_0","狐狸，快出来！","BTLMSGID_ADD_ATK_YUSUKE_0",""
-"BTLMSGID_ADD_ATK_MAKOTO_0","现在可以打我吗？","BTLMSGID_ADD_ATK_MAKOTO_0",""
-"BTLMSGID_ADD_ATK_HARU_0","诺瓦尔，你能去吗？","BTLMSGID_ADD_ATK_HARU_0",""
-"BTLMSGID_ADD_ATK_AKECI_0","我随时都可以去吗？","BTLMSGID_ADD_ATK_AKECI_0",""
+","BTLMSGID_ADD_ATK_MONA_0","机翻辅助：
+
+这里就交给吾辈
+可以吧？
+
+这里由吾辈来
+可以吧？
+
+这里可以说是吾辈吧？"
+"BTLMSGID_ADD_ATK_YUSUKE_0","狐狸，快出来！","BTLMSGID_ADD_ATK_YUSUKE_0","机翻辅助：
+
+FOX，上前！
+
+FOX、向前走！
+
+FOX，我要站出来！"
+"BTLMSGID_ADD_ATK_MAKOTO_0","现在可以打我吗？","BTLMSGID_ADD_ATK_MAKOTO_0","机翻辅助：
+
+现在可以揍他了！？
+
+现在的话可以打！？
+
+现在还能打！？"
+"BTLMSGID_ADD_ATK_HARU_0","诺瓦尔，你能去吗？","BTLMSGID_ADD_ATK_HARU_0","机翻辅助：
+
+NOIR，可以了哦？
+
+NOIR、能去吗？
+
+NOIR，能去吗？"
+"BTLMSGID_ADD_ATK_AKECI_0","我随时都可以去吗？","BTLMSGID_ADD_ATK_AKECI_0","机翻辅助：
+
+我随时都可以上哦？
+
+我随时都能去。
+
+我什么时候都能去？"
 "BTLMSGID_ALL_ATK_P4HERO_0","现在就是时候了！
-让我们一起加把劲！","BTLMSGID_ALL_ATK_P4HERO_0",""
+让我们一起加把劲！","BTLMSGID_ALL_ATK_P4HERO_0","机翻辅助：
+
+就是现在！
+大家一鼓作气上吧！
+
+就是现在！
+大家一起叠起来！
+
+就是现在！
+大家一起叠！"
 "BTLMSGID_ALL_ATK_P3HERO_0","总攻击的机会来了吧？
-","BTLMSGID_ALL_ATK_P3HERO_0",""
+","BTLMSGID_ALL_ATK_P3HERO_0","机翻辅助：
+
+这不就是总攻击的
+好机会吗？
+
+这不是总攻的好机会吗？
+
+
+这不是总攻击的机会吗？"
 "BTLMSGID_ALL_ATK_YOUSUKE_0","好呀！
-我要把你打得稀巴烂！","BTLMSGID_ALL_ATK_YOUSUKE_0",""
+我要把你打得稀巴烂！","BTLMSGID_ALL_ATK_YOUSUKE_0","机翻辅助：
+
+好！
+把他们打得落花流水吧！
+
+嗯！
+别发呆了！
+
+可恶！让它变得稀巴烂吧～～！"
 "BTLMSGID_ALL_ATK_CHIE_0","现在是机会啊！
-要去吗？","BTLMSGID_ALL_ATK_CHIE_0",""
-"BTLMSGID_ALL_ATK_YUKIKO_0","可能是总攻击的机会！","BTLMSGID_ALL_ATK_YUKIKO_0",""
-"BTLMSGID_ALL_ATK_RISE_0","现在应该可以去了！","BTLMSGID_ALL_ATK_RISE_0",""
+要去吗？","BTLMSGID_ALL_ATK_CHIE_0","机翻辅助：
+
+现在是好机会吧！
+要上了吗？
+
+现在是机会啊！
+要走了！？
+
+现在就是机会啊！
+我走了！？"
+"BTLMSGID_ALL_ATK_YUKIKO_0","可能是总攻击的机会！","BTLMSGID_ALL_ATK_YUKIKO_0","机翻辅助：
+
+或许是总攻击的好机会！
+
+也许是总攻击的机会！
+
+也许是总攻的机会！"
+"BTLMSGID_ALL_ATK_RISE_0","现在应该可以去了！","BTLMSGID_ALL_ATK_RISE_0","机翻辅助：
+
+现在应该打得赢！
+
+现在的话好像能去！
+
+现在应该可以去了！"
 "BTLMSGID_ALL_ATK_KANJI_0","你这是在拖延时间吗！
-赶紧走啊！","BTLMSGID_ALL_ATK_KANJI_0",""
+赶紧走啊！","BTLMSGID_ALL_ATK_KANJI_0","机翻辅助：
+
+你们还在发什么呆！
+只能上了吧！
+
+你发什么呆！
+只能去了！
+
+发什么呆！只有去了！"
 "BTLMSGID_ALL_ATK_NAOTO_0","机会来了！
-一口气冲上去吧！","BTLMSGID_ALL_ATK_NAOTO_0",""
-"BTLMSGID_ALL_ATK_KUMA_0","揍他！机会来了！！","BTLMSGID_ALL_ATK_KUMA_0",""
-"BTLMSGID_ALL_ATK_YUKARI_0","来了！现在就是时候！","BTLMSGID_ALL_ATK_YUKARI_0",""
+一口气冲上去吧！","BTLMSGID_ALL_ATK_NAOTO_0","机翻辅助：
+
+好机会！
+一口气上吧！
+
+是机会！
+一口气叠起来吧！
+
+机会来了！
+一口气叠完吧！"
+"BTLMSGID_ALL_ATK_KUMA_0","揍他！机会来了！！","BTLMSGID_ALL_ATK_KUMA_0","机翻辅助：
+
+打他们个落花流水的机会来了！
+
+机会小熊！！
+
+咕嘟咕嘟机会小熊！！"
+"BTLMSGID_ALL_ATK_YUKARI_0","来了！现在就是时候！","BTLMSGID_ALL_ATK_YUKARI_0","机翻辅助：
+
+来了！就只有现在！
+
+我来了！只有现在！
+
+来了！只有现在！"
 "BTLMSGID_ALL_ATK_JUNPEI_0","等了！
-总攻击的机会来了！","BTLMSGID_ALL_ATK_JUNPEI_0",""
+总攻击的机会来了！","BTLMSGID_ALL_ATK_JUNPEI_0","机翻辅助：
+
+就等这一刻！
+总攻击的机会！
+
+一直在等着！
+总攻击查恩斯！
+
+一直在等你！
+总攻击时机！"
 "BTLMSGID_ALL_ATK_SANADA_0","我一直在等待这个时机……出发！
-","BTLMSGID_ALL_ATK_SANADA_0",""
+","BTLMSGID_ALL_ATK_SANADA_0","机翻辅助：
+
+我等这一刻很久了……
+上吧！
+
+等待着这个时候……
+开始行动！
+
+等待着这个时刻……
+动手！"
 "BTLMSGID_ALL_ATK_MITURU_0","攻击的话现在是个好机会！
-出发吧！","BTLMSGID_ALL_ATK_MITURU_0",""
-"BTLMSGID_ALL_ATK_FUKA_0","各位，现在是时候了！","BTLMSGID_ALL_ATK_FUKA_0",""
-"BTLMSGID_ALL_ATK_AEGIS_0","总攻击的时候到了！","BTLMSGID_ALL_ATK_AEGIS_0",""
-"BTLMSGID_ALL_ATK_AMADA_0","这里应该一口气走完！","BTLMSGID_ALL_ATK_AMADA_0",""
-"BTLMSGID_ALL_ATK_KOROMAR_0","汪汪，汪汪！！","BTLMSGID_ALL_ATK_KOROMAR_0",""
-"BTLMSGID_ALL_ATK_ARAGAKI_0","喂，现在！ 准备好了！","BTLMSGID_ALL_ATK_ARAGAKI_0",""
-"BTLMSGID_ALL_ATK_P3_HERO_0","总攻击的机会不是吗？","BTLMSGID_ALL_ATK_P3_HERO_0",""
-"BTLMSGID_ALL_ATK_RYUJI_0","哦，这不是个机会吗？","BTLMSGID_ALL_ATK_RYUJI_0",""
-"BTLMSGID_ALL_ATK_ANN_0","机会来了！要去吗？","BTLMSGID_ALL_ATK_ANN_0",""
-"BTLMSGID_ALL_ATK_MONA_0","好！是总攻击的机会！","BTLMSGID_ALL_ATK_MONA_0",""
-"BTLMSGID_ALL_ATK_YUSUKE_0","好机会！怎么办？","BTLMSGID_ALL_ATK_YUSUKE_0",""
+出发吧！","BTLMSGID_ALL_ATK_MITURU_0","机翻辅助：
+
+要攻就趁现在！
+上吧！
+
+现在是进攻的好机会！
+走吧！
+
+现在正是进攻的好时机！
+走吧！"
+"BTLMSGID_ALL_ATK_FUKA_0","各位，现在是时候了！","BTLMSGID_ALL_ATK_FUKA_0","机翻辅助：
+
+各位，就是现在！
+
+大家，就是现在！"
+"BTLMSGID_ALL_ATK_AEGIS_0","总攻击的时候到了！","BTLMSGID_ALL_ATK_AEGIS_0","机翻辅助：
+
+总攻击的时刻到了！
+
+总攻击的时候到了！
+
+总攻的时刻到来了！"
+"BTLMSGID_ALL_ATK_AMADA_0","这里应该一口气走完！","BTLMSGID_ALL_ATK_AMADA_0","机翻辅助：
+
+这时候应该一口气上！
+
+这里，应该一口气去！"
+"BTLMSGID_ALL_ATK_KOROMAR_0","汪汪，汪汪！！","BTLMSGID_ALL_ATK_KOROMAR_0","机翻辅助：
+
+汪！汪！
+
+汪、汪！！
+
+哇、哇！！"
+"BTLMSGID_ALL_ATK_ARAGAKI_0","喂，现在！ 准备好了！","BTLMSGID_ALL_ATK_ARAGAKI_0","机翻辅助：
+
+喂，趁现在！要上了！
+
+喂，就是现在！开始行动！
+
+喂，就是现在！我动手了！"
+"BTLMSGID_ALL_ATK_P3_HERO_0","总攻击的机会不是吗？","BTLMSGID_ALL_ATK_P3_HERO_0","机翻辅助：
+
+不就是总攻击的好机会吗？
+
+这不是总攻的机会吗？
+
+这不是总攻击的机会吗？"
+"BTLMSGID_ALL_ATK_RYUJI_0","哦，这不是个机会吗？","BTLMSGID_ALL_ATK_RYUJI_0","机翻辅助：
+
+哦，是好机会吗？
+
+喂，这不是机会吗？
+
+哦，这不是机会吗？"
+"BTLMSGID_ALL_ATK_ANN_0","机会来了！要去吗？","BTLMSGID_ALL_ATK_ANN_0","机翻辅助：
+
+是好机会呢！要上了吗？
+
+机会来了！要走了吗？
+
+机会来了！要走了？"
+"BTLMSGID_ALL_ATK_MONA_0","好！是总攻击的机会！","BTLMSGID_ALL_ATK_MONA_0","机翻辅助：
+
+好！是总攻击的好机会！
+
+好！总攻击的机会！
+
+好！是总攻的机会！"
+"BTLMSGID_ALL_ATK_YUSUKE_0","好机会！怎么办？","BTLMSGID_ALL_ATK_YUSUKE_0","机翻辅助：
+
+好机会！怎么办？"
 "BTLMSGID_ALL_ATK_MAKOTO_0","好的，顺利进行！
-就这样继续吧？","BTLMSGID_ALL_ATK_MAKOTO_0",""
-"BTLMSGID_ALL_ATK_FUTABA_0","机会来了！抓住它！ ","BTLMSGID_ALL_ATK_FUTABA_0",""
+就这样继续吧？","BTLMSGID_ALL_ATK_MAKOTO_0","机翻辅助：
+
+形势不错！
+就这样上吧？
+
+好流程！
+就这样走吧？
+
+好趋势！
+就这样走吧？"
+"BTLMSGID_ALL_ATK_FUTABA_0","机会来了！抓住它！ ","BTLMSGID_ALL_ATK_FUTABA_0","机翻辅助：
+
+好机会！打垮他们！ 
+
+机会来了！踢散！ 
+
+机会来了！踢开！"
 "BTLMSGID_ALL_ATK_HARU_0","一口气就能完成！
-……对吧？","BTLMSGID_ALL_ATK_HARU_0",""
-"BTLMSGID_ALL_ATK_AKECI_0","敌人已经溃不成军了！","BTLMSGID_ALL_ATK_AKECI_0",""
-"BTLMSGID_ALL2_ATK_P4HERO_0","现在就可以做到！","BTLMSGID_ALL2_ATK_P4HERO_0",""
-"BTLMSGID_ALL2_ATK_P3HERO_0","现在就是时候了！走吧！","BTLMSGID_ALL2_ATK_P3HERO_0",""
+……对吧？","BTLMSGID_ALL_ATK_HARU_0","机翻辅助：
+
+感觉可以一口气上！
+……对吧？
+
+一口气去吧！
+是吧？
+
+一口气就能走！
+……是吧？"
+"BTLMSGID_ALL_ATK_AKECI_0","敌人已经溃不成军了！","BTLMSGID_ALL_ATK_AKECI_0","机翻辅助：
+
+敌人全军覆没了！
+
+敌人全部崩溃了！"
+"BTLMSGID_ALL2_ATK_P4HERO_0","现在就可以做到！","BTLMSGID_ALL2_ATK_P4HERO_0","机翻辅助：
+
+现在打得赢！
+
+现在的话能做到！
+
+现在我能做到！"
+"BTLMSGID_ALL2_ATK_P3HERO_0","现在就是时候了！走吧！","BTLMSGID_ALL2_ATK_P3HERO_0","机翻辅助：
+
+就只有现在！上吧！
+
+只有现在！走吧！"
 "BTLMSGID_ALL2_ATK_YOUSUK_0","机会来了！
-总攻击！","BTLMSGID_ALL2_ATK_YOUSUK_0",""
-"BTLMSGID_ALL2_ATK_CHIE_0","现在！全体突击！","BTLMSGID_ALL2_ATK_CHIE_0",""
+总攻击！","BTLMSGID_ALL2_ATK_YOUSUK_0","机翻辅助：
+
+机会来了！
+总攻击！
+
+机会之星！
+总攻！
+
+张星林！
+总攻击！"
+"BTLMSGID_ALL2_ATK_CHIE_0","现在！全体突击！","BTLMSGID_ALL2_ATK_CHIE_0","机翻辅助：
+
+就是现在！所有人突击！
+
+就是现在！全体人员，突击！"
 "BTLMSGID_ALL2_ATK_YUKIKO_0","现在就是时候了！
-让我们齐心协力！","BTLMSGID_ALL2_ATK_YUKIKO_0",""
-"BTLMSGID_ALL2_ATK_RISE_0","来了来了，大机会！","BTLMSGID_ALL2_ATK_RISE_0",""
-"BTLMSGID_ALL2_ATK_KANJI_0","现在是进攻的时机！","BTLMSGID_ALL2_ATK_KANJI_0",""
+让我们齐心协力！","BTLMSGID_ALL2_ATK_YUKIKO_0","机翻辅助：
+
+就是现在！
+大家同心协力！
+
+就是现在！
+大家齐心协力吧！
+
+就是现在！齐心协力！"
+"BTLMSGID_ALL2_ATK_RISE_0","来了来了，大机会！","BTLMSGID_ALL2_ATK_RISE_0","机翻辅助：
+
+来了来了，大好机会！
+
+来了，大教堂！
+
+来来来，大魅力！"
+"BTLMSGID_ALL2_ATK_KANJI_0","现在是进攻的时机！","BTLMSGID_ALL2_ATK_KANJI_0","机翻辅助：
+
+现在就是进攻的时候！
+
+现在是进攻的时候！
+
+现在正是进攻的时候！"
 "BTLMSGID_ALL2_ATK_NAOTO_0","现在可以去了！
-允许总攻击！","BTLMSGID_ALL2_ATK_NAOTO_0",""
+允许总攻击！","BTLMSGID_ALL2_ATK_NAOTO_0","机翻辅助：
+
+现在打得赢！
+请准许总攻击！
+
+现在的话可以去！
+总攻击的许可！
+
+现在就能去了！
+批准总攻！"
 "BTLMSGID_ALL2_ATK_KUMA_0","打得稀里哗啦的熊！！
-","BTLMSGID_ALL2_ATK_KUMA_0",""
+","BTLMSGID_ALL2_ATK_KUMA_0","机翻辅助：
+
+被打得落花流水的
+爆打小熊——！！
+
+扑通扑通的
+扑通扑通的小熊！！
+
+小熊小熊！！"
 "BTLMSGID_ALL2_ATK_YUKARI_0","机会来了吧！？
-一口气冲过去！","BTLMSGID_ALL2_ATK_YUKARI_0",""
+一口气冲过去！","BTLMSGID_ALL2_ATK_YUKARI_0","机翻辅助：
+
+这是个好机会吧！？
+一口气上吧！
+
+是机会吧！？
+一口气走！
+
+机会来了！？
+一口气去！"
 "BTLMSGID_ALL2_ATK_JUNPEI_0","全员一起努力就能成功！
-","BTLMSGID_ALL2_ATK_JUNPEI_0",""
-"BTLMSGID_ALL2_ATK_SANADA_0","胜负之时到了！全力以赴！","BTLMSGID_ALL2_ATK_SANADA_0",""
+","BTLMSGID_ALL2_ATK_JUNPEI_0","机翻辅助：
+
+只要大家一起努力
+就一定会有办法！
+
+全体人员砰的一声
+结束了！
+
+全体人员咚的一声就结束了！"
+"BTLMSGID_ALL2_ATK_SANADA_0","胜负之时到了！全力以赴！","BTLMSGID_ALL2_ATK_SANADA_0","机翻辅助：
+
+决胜负的时候到了！乘胜追击！
+
+是决胜的时候了！叠起来！
+
+是决胜负的时候了！叠起来！"
 "BTLMSGID_ALL2_ATK_MITURU_0","流向这边了！
-进攻！","BTLMSGID_ALL2_ATK_MITURU_0",""
-"BTLMSGID_ALL2_ATK_FUKA_0","现在可以去了！","BTLMSGID_ALL2_ATK_FUKA_0",""
-"BTLMSGID_ALL2_ATK_AEGIS_0","这边的准备已经完成了！","BTLMSGID_ALL2_ATK_AEGIS_0",""
+进攻！","BTLMSGID_ALL2_ATK_MITURU_0","机翻辅助：
+
+局势是站在我们这边！
+进攻吧！
+
+水流在这里！
+进攻！
+
+潮流在这里！
+进攻！"
+"BTLMSGID_ALL2_ATK_FUKA_0","现在可以去了！","BTLMSGID_ALL2_ATK_FUKA_0","机翻辅助：
+
+现在的话我办得到！
+
+现在的话可以去！
+
+现在就能去了！"
+"BTLMSGID_ALL2_ATK_AEGIS_0","这边的准备已经完成了！","BTLMSGID_ALL2_ATK_AEGIS_0","机翻辅助：
+
+我方已经准备就绪！
+
+这边已经准备好了！
+
+我们已经准备好了！"
 "BTLMSGID_ALL2_ATK_AMADA_0","机会来了！
-走吧！","BTLMSGID_ALL2_ATK_AMADA_0",""
-"BTLMSGID_ALL2_ATK_KOROMA_0","汪汪，汪汪！！","BTLMSGID_ALL2_ATK_KOROMA_0",""
-"BTLMSGID_ALL2_ATK_ARAGAK_0","现在是时候了……走吧！","BTLMSGID_ALL2_ATK_ARAGAK_0",""
-"BTLMSGID_ALL2_ATK_P3_HER_0","现在就是时候了！走吧！","BTLMSGID_ALL2_ATK_P3_HER_0",""
-"BTLMSGID_ALL2_ATK_RYUJI_0","好了，开始吧！","BTLMSGID_ALL2_ATK_RYUJI_0",""
-"BTLMSGID_ALL2_ATK_ANN_0","要不要再来一次？","BTLMSGID_ALL2_ATK_ANN_0",""
+走吧！","BTLMSGID_ALL2_ATK_AMADA_0","机翻辅助：
+
+机会来了！
+我们走吧！
+
+机会来了！
+走吧！"
+"BTLMSGID_ALL2_ATK_KOROMA_0","汪汪，汪汪！！","BTLMSGID_ALL2_ATK_KOROMA_0","机翻辅助：
+
+汪！汪！
+
+汪、汪！！
+
+哇、哇！！"
+"BTLMSGID_ALL2_ATK_ARAGAK_0","现在是时候了……走吧！","BTLMSGID_ALL2_ATK_ARAGAK_0","机翻辅助：
+
+差不多了……要上咯！
+
+正合适……走吧！
+
+正好是时候……走吧！"
+"BTLMSGID_ALL2_ATK_P3_HER_0","现在就是时候了！走吧！","BTLMSGID_ALL2_ATK_P3_HER_0","机翻辅助：
+
+就只有现在！上吧！
+
+只有现在！走吧！"
+"BTLMSGID_ALL2_ATK_RYUJI_0","好了，开始吧！","BTLMSGID_ALL2_ATK_RYUJI_0","机翻辅助：
+
+好啦，要开始咯！
+
+好了，开始吧！
+
+来吧，真是太大方了！"
+"BTLMSGID_ALL2_ATK_ANN_0","要不要再来一次？","BTLMSGID_ALL2_ATK_ANN_0","机翻辅助：
+
+要不要来点平常的那个？
+
+平常的那个，一起去吧？
+
+平常的那个，走吧？"
 "BTLMSGID_ALL2_ATK_MONA_0","这个机会，
-当然要去了吧？","BTLMSGID_ALL2_ATK_MONA_0",""
+当然要去了吧？","BTLMSGID_ALL2_ATK_MONA_0","机翻辅助：
+
+当然要
+把握机会吧？
+
+这个机会，
+去动机龙吧？
+
+这个机会，
+当然要去吧？"
 "BTLMSGID_ALL2_ATK_YUSUKE_0","宴会也快结束了吧。
-","BTLMSGID_ALL2_ATK_YUSUKE_0",""
-"BTLMSGID_ALL2_ATK_MAKOTO_0","让我们一口气解决它吧？","BTLMSGID_ALL2_ATK_MAKOTO_0",""
-"BTLMSGID_ALL2_ATK_FUTABA_0","机会来了！抓住它！ ","BTLMSGID_ALL2_ATK_FUTABA_0",""
+","BTLMSGID_ALL2_ATK_YUSUKE_0","机翻辅助：
+
+宴会正热闹，
+。
+
+宴会也刚刚结束。
+
+
+宴会也很热闹，是这样吗？"
+"BTLMSGID_ALL2_ATK_MAKOTO_0","让我们一口气解决它吧？","BTLMSGID_ALL2_ATK_MAKOTO_0","机翻辅助：
+
+一口气解决吧？
+
+一口气加上卡塔吧？
+
+一口气装上肩吧？"
+"BTLMSGID_ALL2_ATK_FUTABA_0","机会来了！抓住它！ ","BTLMSGID_ALL2_ATK_FUTABA_0","机翻辅助：
+
+好机会！打垮他们！ 
+
+机会来了！踢散！ 
+
+机会来了！踢开！"
 "BTLMSGID_ALL2_ATK_HARU_0","总攻击看起来很有可能！
-要开始吗？","BTLMSGID_ALL2_ATK_HARU_0",""
-"BTLMSGID_ALL2_ATK_AKECI_0","我等待着这一刻！","BTLMSGID_ALL2_ATK_AKECI_0",""
-"BTLMSGID_COMBI_ATK_P4HER_0","让我们来处理吧…","BTLMSGID_COMBI_ATK_P4HER_0",""
-"BTLMSGID_COMBI_ATK_P3HER_0","现在是机会吗？","BTLMSGID_COMBI_ATK_P3HER_0",""
+要开始吗？","BTLMSGID_ALL2_ATK_HARU_0","机翻辅助：
+
+好像可以发动总攻击了！
+要吗？
+
+总攻击快要能了哟！
+会做吗？
+
+可以总攻了！
+做了吗？"
+"BTLMSGID_ALL2_ATK_AKECI_0","我等待着这一刻！","BTLMSGID_ALL2_ATK_AKECI_0","机翻辅助：
+
+我就是在等这个瞬间！
+
+等待着这一瞬间！
+
+我一直在等待这个瞬间！"
+"BTLMSGID_COMBI_ATK_P4HER_0","让我们来处理吧…","BTLMSGID_COMBI_ATK_P4HER_0","机翻辅助：
+
+就交给我们吧……
+
+交给我们吧……"
+"BTLMSGID_COMBI_ATK_P3HER_0","现在是机会吗？","BTLMSGID_COMBI_ATK_P3HER_0","机翻辅助：
+
+现在正是机会吗？
+
+现在是机会吗？"
 "BTLMSGID_COMBI_ATK_YOUSU_0","这里当然只能前进了！
-","BTLMSGID_COMBI_ATK_YOUSU_0",""
-"BTLMSGID_COMBI_ATK_CHIE_0","好的，交给我们吧！","BTLMSGID_COMBI_ATK_CHIE_0",""
+","BTLMSGID_COMBI_ATK_YOUSU_0","机翻辅助：
+
+这种时候当然只能
+上了吧！
+
+这里是托森，只能去了吧！"
+"BTLMSGID_COMBI_ATK_CHIE_0","好的，交给我们吧！","BTLMSGID_COMBI_ATK_CHIE_0","机翻辅助：
+
+好～～就交给我们吧！
+
+喂，交给我们吧！
+
+好了，交给我们吧！"
 "BTLMSGID_COMBI_ATK_YUKIK_0","现在就是时候了！
-让我们齐心协力！","BTLMSGID_COMBI_ATK_YUKIK_0",""
-"BTLMSGID_COMBI_ATK_RISE_0","现在应该可以去了！","BTLMSGID_COMBI_ATK_RISE_0",""
+让我们齐心协力！","BTLMSGID_COMBI_ATK_YUKIK_0","机翻辅助：
+
+就是现在！
+让我们同心协力！
+
+就是现在！
+让我们齐心协力吧！
+
+就是现在！齐心协力吧！"
+"BTLMSGID_COMBI_ATK_RISE_0","现在应该可以去了！","BTLMSGID_COMBI_ATK_RISE_0","机翻辅助：
+
+现在应该打得赢！
+
+现在的话好像能去！
+
+现在应该可以去了！"
 "BTLMSGID_COMBI_ATK_KANJI_0","现在就是时候了！
-走吧！","BTLMSGID_COMBI_ATK_KANJI_0",""
+走吧！","BTLMSGID_COMBI_ATK_KANJI_0","机翻辅助：
+
+只能趁现在了吧！
+上啊！
+
+只有现在吧！
+去吧！
+
+只有现在了吧！
+我要去了！"
 "BTLMSGID_COMBI_ATK_NAOTO_0","机会来了！
-让我们一起加倍努力吧！","BTLMSGID_COMBI_ATK_NAOTO_0",""
+让我们一起加倍努力吧！","BTLMSGID_COMBI_ATK_NAOTO_0","机翻辅助：
+
+机会来了！
+我们联手进攻吧！
+
+是机会！
+我们一起叠起来吧！
+
+机会来了！
+我们来叠吧！"
 "BTLMSGID_COMBI_ATK_KUMA_0","熊们的表演，
-机会来了！","BTLMSGID_COMBI_ATK_KUMA_0",""
+机会来了！","BTLMSGID_COMBI_ATK_KUMA_0","机翻辅助：
+
+小熊等人发动了
+痛扁机会小熊！！
+
+小熊们的，
+凹凸不平的机会小熊！！
+
+小熊们的机会
+小熊！！"
 "BTLMSGID_COMBI_ATK_YUKAR_0","来了，大家！
-现在就是时候！","BTLMSGID_COMBI_ATK_YUKAR_0",""
+现在就是时候！","BTLMSGID_COMBI_ATK_YUKAR_0","机翻辅助：
+
+来了哦，各位！
+就是现在！
+
+来了，大家！
+只有现在！
+
+大家来了！
+只有现在！"
 "BTLMSGID_COMBI_ATK_JUNPE_0","好了，大家！
-跟上我啊！","BTLMSGID_COMBI_ATK_JUNPE_0",""
-"BTLMSGID_COMBI_ATK_SANAD_0","看来轮到我们上场了……","BTLMSGID_COMBI_ATK_SANAD_0",""
+跟上我啊！","BTLMSGID_COMBI_ATK_JUNPE_0","机翻辅助：
+
+好，各位！
+跟着大爷我来——！
+
+好了，各位！
+像我一样继续！
+
+哦，大家！
+像我一样继续！"
+"BTLMSGID_COMBI_ATK_SANAD_0","看来轮到我们上场了……","BTLMSGID_COMBI_ATK_SANAD_0","机翻辅助：
+
+看来，该轮到我们出场了呢……
+
+看来是轮到我们出场了……
+
+看来是我们出场了啊……"
 "BTLMSGID_COMBI_ATK_MITUR_0","这里没有不进攻的笨蛋……对吧！？
-","BTLMSGID_COMBI_ATK_MITUR_0",""
-"BTLMSGID_COMBI_ATK_FUKA_0","各位，现在是时候了！","BTLMSGID_COMBI_ATK_FUKA_0",""
+","BTLMSGID_COMBI_ATK_MITUR_0","机翻辅助：
+
+现在不攻进去
+哪有笨蛋会这么做……对吧！？
+
+在这里不进攻
+没有笨蛋……是吧！？
+
+这里不进攻
+没有笨蛋……对吧！？"
+"BTLMSGID_COMBI_ATK_FUKA_0","各位，现在是时候了！","BTLMSGID_COMBI_ATK_FUKA_0","机翻辅助：
+
+各位，就是现在！
+
+大家，就是现在！"
 "BTLMSGID_COMBI_ATK_AEGIS_0","让我们一起发起全面攻击！
-","BTLMSGID_COMBI_ATK_AEGIS_0",""
-"BTLMSGID_COMBI_ATK_AMADA_0","只要大家一起去，就能打败它！","BTLMSGID_COMBI_ATK_AMADA_0",""
-"BTLMSGID_COMBI_ATK_KOROM_0","汪汪，汪汪！！","BTLMSGID_COMBI_ATK_KOROM_0",""
+","BTLMSGID_COMBI_ATK_AEGIS_0","机翻辅助：
+
+我们
+一齐攻击！
+
+我们，一齐攻击！
+
+
+我们一起攻击！"
+"BTLMSGID_COMBI_ATK_AMADA_0","只要大家一起去，就能打败它！","BTLMSGID_COMBI_ATK_AMADA_0","机翻辅助：
+
+只要大家一起去就能打倒它！
+
+大家一起去的话就能打倒他！
+
+大家一起去的话就可以打倒了！"
+"BTLMSGID_COMBI_ATK_KOROM_0","汪汪，汪汪！！","BTLMSGID_COMBI_ATK_KOROM_0","机翻辅助：
+
+汪！汪！
+
+汪、汪！！
+
+哇、哇！！"
 "BTLMSGID_COMBI_ATK_ARAGA_0","我们只能一口气走完吗？
-","BTLMSGID_COMBI_ATK_ARAGA_0",""
-"BTLMSGID_COMBI_ATK_P3_HE_0","借我力量。一鼓作气，一起前进！","BTLMSGID_COMBI_ATK_P3_HE_0",""
-"BTLMSGID_COMBI_ATK_P5HER_0","这里！","BTLMSGID_COMBI_ATK_P5HER_0",""
+","BTLMSGID_COMBI_ATK_ARAGA_0","机翻辅助：
+
+我们
+只能一鼓作气了吧？
+
+只能我们一口气去了吧？
+
+
+我们只能一口气走了吧？"
+"BTLMSGID_COMBI_ATK_P3_HE_0","借我力量。一鼓作气，一起前进！","BTLMSGID_COMBI_ATK_P3_HE_0","机翻辅助：
+
+我会助你一臂之力。我们一口气上吧！
+
+我会助你一臂之力的。一口气走吧！
+
+我助你一臂之力。一口气去吧！"
+"BTLMSGID_COMBI_ATK_P5HER_0","这里！","BTLMSGID_COMBI_ATK_P5HER_0","机翻辅助：
+
+就是现在！
+
+就是这里！"
 "BTLMSGID_COMBI_ATK_RYUJI_0","这个机会就交给我们吧！
-","BTLMSGID_COMBI_ATK_RYUJI_0",""
-"BTLMSGID_COMBI_ATK_ANN_0","现在也许我们可以做到！","BTLMSGID_COMBI_ATK_ANN_0",""
+","BTLMSGID_COMBI_ATK_RYUJI_0","机翻辅助：
+
+这个机会，
+就交给我们吧！
+
+这个机会，就交给我们吧！"
+"BTLMSGID_COMBI_ATK_ANN_0","现在也许我们可以做到！","BTLMSGID_COMBI_ATK_ANN_0","机翻辅助：
+
+现在的话，我们说不定可以！
+
+如果是现在的话，我们也许能去！
+
+现在的话我们也许能行！"
 "BTLMSGID_COMBI_ATK_MONA_0","我们展现我们的力量的时候到了！
-","BTLMSGID_COMBI_ATK_MONA_0",""
-"BTLMSGID_COMBI_ATK_YUSUK_0","是展现我们力量的时候了！","BTLMSGID_COMBI_ATK_YUSUK_0",""
+","BTLMSGID_COMBI_ATK_MONA_0","机翻辅助：
+
+展现
+吾辈们的力量的时候到了！
+
+
+展现吾辈力量的时候到了！
+
+是时候展示吾辈们的力量了！"
+"BTLMSGID_COMBI_ATK_YUSUK_0","是展现我们力量的时候了！","BTLMSGID_COMBI_ATK_YUSUK_0","机翻辅助：
+
+展现我们力量的时候到了！
+
+是时候展现我们的力量了！
+
+是时候展示我们的力量了！"
 "BTLMSGID_COMBI_ATK_MAKOT_0","现在的话……我们的话可以去吧？
-","BTLMSGID_COMBI_ATK_MAKOT_0",""
+","BTLMSGID_COMBI_ATK_MAKOT_0","机翻辅助：
+
+现在的话……
+我们可以的哦？
+
+现在的话……
+我们的话能去啊？
+
+现在的话……
+我们能去吗？"
 "BTLMSGID_COMBI_ATK_FUTAB_0","如果要做就现在！
-给我指示！","BTLMSGID_COMBI_ATK_FUTAB_0",""
+给我指示！","BTLMSGID_COMBI_ATK_FUTAB_0","机翻辅助：
+
+要干就趁现在！
+快下指示！
+
+要做的话就是现在！
+给我指示！
+
+要做就现在！
+给我指示！"
 "BTLMSGID_COMBI_ATK_HARU_0","现在的话……我们可以一鼓作气地前进吗？
-","BTLMSGID_COMBI_ATK_HARU_0",""
-"BTLMSGID_COMBI_ATK_AKECI_0","看来，轮到我们上场了吗？","BTLMSGID_COMBI_ATK_AKECI_0",""
-"BTLMSGID_COMBI2_ATK_P4HE_0","现在！一鼓作气！","BTLMSGID_COMBI2_ATK_P4HE_0",""
-"BTLMSGID_COMBI2_ATK_P3HE_0","让我们来处理吧！","BTLMSGID_COMBI2_ATK_P3HE_0",""
+","BTLMSGID_COMBI_ATK_HARU_0","机翻辅助：
+
+现在的话……
+我们可以用我们的力量一口气解决哦？
+
+现在的话……
+靠我们的力量可以一鼓作气的吧？
+
+现在的话……
+靠我们的力量可以一口气做到哦？"
+"BTLMSGID_COMBI_ATK_AKECI_0","看来，轮到我们上场了吗？","BTLMSGID_COMBI_ATK_AKECI_0","机翻辅助：
+
+看来，该轮到我们出场了吧？
+
+好歹，是我们的出场吗？
+
+看来，应该是我们出场了吧？"
+"BTLMSGID_COMBI2_ATK_P4HE_0","现在！一鼓作气！","BTLMSGID_COMBI2_ATK_P4HE_0","机翻辅助：
+
+就是现在！乘胜追击吧！
+
+就是现在！折起来吧！
+
+就是现在！一起战斗吧！"
+"BTLMSGID_COMBI2_ATK_P3HE_0","让我们来处理吧！","BTLMSGID_COMBI2_ATK_P3HE_0","机翻辅助：
+
+交给我们！
+
+交给我们吧！"
 "BTLMSGID_COMBI2_ATK_YOUS_0","现在的话应该可以去！
-怎么办！？","BTLMSGID_COMBI2_ATK_YOUS_0",""
+怎么办！？","BTLMSGID_COMBI2_ATK_YOUS_0","机翻辅助：
+
+现在的话应该可以！
+怎么办！？
+
+现在好像可以了！
+怎么办！？
+
+现在的话应该可以了！
+怎么办？？"
 "BTLMSGID_COMBI2_ATK_CHIE_0","升级结束了！
-剩下的就交给我吧！","BTLMSGID_COMBI2_ATK_CHIE_0",""
-"BTLMSGID_COMBI2_ATK_YUKI_0","准备好了！","BTLMSGID_COMBI2_ATK_YUKI_0",""
-"BTLMSGID_COMBI2_ATK_RISE_0","来了来了，大机会！","BTLMSGID_COMBI2_ATK_RISE_0",""
-"BTLMSGID_COMBI2_ATK_KANJ_0","请让我们去吧！","BTLMSGID_COMBI2_ATK_KANJ_0",""
-"BTLMSGID_COMBI2_ATK_NAOT_0","抓紧追击的时机就是现在！","BTLMSGID_COMBI2_ATK_NAOT_0",""
+剩下的就交给我吧！","BTLMSGID_COMBI2_ATK_CHIE_0","机翻辅助：
+
+热身结束！
+接下来交给我！
+
+上传结束！
+接下来就交给我吧！
+
+特写结束！
+剩下的就交给我吧！"
+"BTLMSGID_COMBI2_ATK_YUKI_0","准备好了！","BTLMSGID_COMBI2_ATK_YUKI_0","机翻辅助：
+
+准备好了！"
+"BTLMSGID_COMBI2_ATK_RISE_0","来了来了，大机会！","BTLMSGID_COMBI2_ATK_RISE_0","机翻辅助：
+
+来了来了，大好机会！
+
+来了，大教堂！
+
+来来来，大魅力！"
+"BTLMSGID_COMBI2_ATK_KANJ_0","请让我们去吧！","BTLMSGID_COMBI2_ATK_KANJ_0","机翻辅助：
+
+请让我们上吧！
+
+让我们去吧！"
+"BTLMSGID_COMBI2_ATK_NAOT_0","抓紧追击的时机就是现在！","BTLMSGID_COMBI2_ATK_NAOT_0","机翻辅助：
+
+要追击的话就趁现在！
+
+要追逼的话就是现在！
+
+要穷追猛打就是现在！"
 "BTLMSGID_COMBI2_ATK_KUMA_0","看到熊帅气的样子了吗？嗯？你怎么了？
-","BTLMSGID_COMBI2_ATK_KUMA_0",""
-"BTLMSGID_COMBI2_ATK_YUKA_0","好的，要做吗？","BTLMSGID_COMBI2_ATK_YUKA_0",""
-"BTLMSGID_COMBI2_ATK_JUNP_0","要试试看吗！","BTLMSGID_COMBI2_ATK_JUNP_0",""
+","BTLMSGID_COMBI2_ATK_KUMA_0","机翻辅助：
+
+小熊好像很帅？
+嗯？怎么样？
+
+像小熊帅气的样子？
+嗯？哪里？
+
+像小熊帅气的样子吗？
+嗯？怎么样？"
+"BTLMSGID_COMBI2_ATK_YUKA_0","好的，要做吗？","BTLMSGID_COMBI2_ATK_YUKA_0","机翻辅助：
+
+好，上吧？
+
+好了，要做了吗？
+
+好，做了吗？"
+"BTLMSGID_COMBI2_ATK_JUNP_0","要试试看吗！","BTLMSGID_COMBI2_ATK_JUNP_0","机翻辅助：
+
+上吧！
+
+要来一下吗！
+
+你要做吗？"
 "BTLMSGID_COMBI2_ATK_SANA_0","等得好累啊……
-现在就出击！","BTLMSGID_COMBI2_ATK_SANA_0",""
-"BTLMSGID_COMBI2_ATK_MITU_0","现在是时机，让我们一鼓作气！","BTLMSGID_COMBI2_ATK_MITU_0",""
-"BTLMSGID_COMBI2_ATK_FUKA_0","现在可以去了！","BTLMSGID_COMBI2_ATK_FUKA_0",""
-"BTLMSGID_COMBI2_ATK_AEGI_0","机会来了！","BTLMSGID_COMBI2_ATK_AEGI_0",""
+现在就出击！","BTLMSGID_COMBI2_ATK_SANA_0","机翻辅助：
+
+等好久了哦……
+就是现在，上吧！
+
+等得不耐烦了……
+就是现在，开始行动！
+
+等得不耐烦了……
+就是现在，行动！"
+"BTLMSGID_COMBI2_ATK_MITU_0","现在是时机，让我们一鼓作气！","BTLMSGID_COMBI2_ATK_MITU_0","机翻辅助：
+
+时机正好，乘胜追击吧！
+
+正好，叠起来吧！
+
+时机到了，继续吧！"
+"BTLMSGID_COMBI2_ATK_FUKA_0","现在可以去了！","BTLMSGID_COMBI2_ATK_FUKA_0","机翻辅助：
+
+现在的话我办得到！
+
+现在的话可以去！
+
+现在就能去了！"
+"BTLMSGID_COMBI2_ATK_AEGI_0","机会来了！","BTLMSGID_COMBI2_ATK_AEGI_0","机翻辅助：
+
+机会来了！
+
+是机会！"
 "BTLMSGID_COMBI2_ATK_AMAD_0","准备好了，
-可以出发了！","BTLMSGID_COMBI2_ATK_AMAD_0",""
-"BTLMSGID_COMBI2_ATK_KORO_0","汪汪，汪汪！！","BTLMSGID_COMBI2_ATK_KORO_0",""
-"BTLMSGID_COMBI2_ATK_ARAG_0","机会来了……走吧","BTLMSGID_COMBI2_ATK_ARAG_0",""
-"BTLMSGID_COMBI2_ATK_P3_H_0","现在就是时候了，准备好了吗？","BTLMSGID_COMBI2_ATK_P3_H_0",""
-"BTLMSGID_COMBI2_ATK_P5HE_0","机会来了！","BTLMSGID_COMBI2_ATK_P5HE_0",""
-"BTLMSGID_COMBI2_ATK_RYUJ_0","让我一口气了结他吧！","BTLMSGID_COMBI2_ATK_RYUJ_0",""
-"BTLMSGID_COMBI2_ATK_ANN_0","一口气收拾完！","BTLMSGID_COMBI2_ATK_ANN_0",""
-"BTLMSGID_COMBI2_ATK_MONA_0","现在就去做吧！","BTLMSGID_COMBI2_ATK_MONA_0",""
-"BTLMSGID_COMBI2_ATK_YUSU_0","随时可以去！","BTLMSGID_COMBI2_ATK_YUSU_0",""
-"BTLMSGID_COMBI2_ATK_MAKO_0","现在，让我们开始吧！","BTLMSGID_COMBI2_ATK_MAKO_0",""
+可以出发了！","BTLMSGID_COMBI2_ATK_AMAD_0","机翻辅助：
+
+准备OK，
+可以了！
+
+准备好了，
+可以去哦！"
+"BTLMSGID_COMBI2_ATK_KORO_0","汪汪，汪汪！！","BTLMSGID_COMBI2_ATK_KORO_0","机翻辅助：
+
+汪！汪！
+
+汪、汪！！
+
+哇、哇！！"
+"BTLMSGID_COMBI2_ATK_ARAG_0","机会来了……走吧","BTLMSGID_COMBI2_ATK_ARAG_0","机翻辅助：
+
+机会来了……上吧
+
+机会来了……走吧
+
+好机会啊……走吧"
+"BTLMSGID_COMBI2_ATK_P3_H_0","现在就是时候了，准备好了吗？","BTLMSGID_COMBI2_ATK_P3_H_0","机翻辅助：
+
+就是现在，准备好了吗？
+
+现在，准备好了吗？"
+"BTLMSGID_COMBI2_ATK_P5HE_0","机会来了！","BTLMSGID_COMBI2_ATK_P5HE_0","机翻辅助：
+
+机会来了！"
+"BTLMSGID_COMBI2_ATK_RYUJ_0","让我一口气了结他吧！","BTLMSGID_COMBI2_ATK_RYUJ_0","机翻辅助：
+
+一口气给他最后一击吧！
+
+一口气扎死他吧！
+
+一口气刺进你的刺吧！"
+"BTLMSGID_COMBI2_ATK_ANN_0","一口气收拾完！","BTLMSGID_COMBI2_ATK_ANN_0","机翻辅助：
+
+一口气解决吧！
+
+一口气收拾一下吧！
+
+一口气做完吧！"
+"BTLMSGID_COMBI2_ATK_MONA_0","现在就去做吧！","BTLMSGID_COMBI2_ATK_MONA_0","机翻辅助：
+
+就是现在，上吧！
+
+就是现在，做吧！
+
+就是现在，干吧！"
+"BTLMSGID_COMBI2_ATK_YUSU_0","随时可以去！","BTLMSGID_COMBI2_ATK_YUSU_0","机翻辅助：
+
+随时可以！
+
+什么时候都可以去！
+
+随时都可以去！"
+"BTLMSGID_COMBI2_ATK_MAKO_0","现在，让我们开始吧！","BTLMSGID_COMBI2_ATK_MAKO_0","机翻辅助：
+
+就是现在，上吧！
+
+现在，开始吧！
+
+现在就开始行动吧！"
 "BTLMSGID_COMBI2_ATK_FUTA_0","如果要做就现在！
-给我指示！","BTLMSGID_COMBI2_ATK_FUTA_0",""
-"BTLMSGID_COMBI2_ATK_HARU_0","差不多可以了吧？","BTLMSGID_COMBI2_ATK_HARU_0",""
-"BTLMSGID_COMBI2_ATK_AKEC_0","差不多该开始了吧。","BTLMSGID_COMBI2_ATK_AKEC_0",""
-"BTLMSGID_VELVET_THEODORE_0","集中注意力！","BTLMSGID_VELVET_THEODORE_0",""
-"BTLMSGID_VELVET_ELIZABET_0","集中注意力！","BTLMSGID_VELVET_ELIZABET_0",""
-"BTLMSGID_VELVET_MARGARET_0","集中注意力！","BTLMSGID_VELVET_MARGARET_0",""
-"BTLMSGID_USAGI_OOGOE_0","[f 2 4 0]他深深地吸了一口气。","BTLMSGID_USAGI_OOGOE_0",""
-"BTLMSGID_VELVET_SRICAM_0","[f 2 4 0]他重新回到了战线上！","BTLMSGID_VELVET_SRICAM_0",""
-"BTLMSGID_GK_COUNT3_0","[f 2 4 0]他的眼睛闪闪发光！","BTLMSGID_GK_COUNT3_0",""
-"BTLMSGID_GK_COUNT2_0","[f 2 4 0]她的眼神失去了光彩！","BTLMSGID_GK_COUNT2_0",""
-"BTLMSGID_GK_COUNT1_0","[f 2 4 0]他的眼睛闪耀了一次。","BTLMSGID_GK_COUNT1_0",""
-"BTLMSGID_ESCAPE_ALL_0","派对逃跑了！","BTLMSGID_ESCAPE_ALL_0",""
-"BTLMSGID_OVERWRITE_ALL_0","派对的强化效果被延长了！","BTLMSGID_OVERWRITE_ALL_0",""
-"BTLMSGID_HPHEAL_ALL_MEMB_0","队友们的生命值已经恢复了！","BTLMSGID_HPHEAL_ALL_MEMB_0",""
-"BTLMSGID_EXP_GIFT_0","这次战斗获得的经验值增加了！","BTLMSGID_EXP_GIFT_0",""
-"BTLMSGID_BOUHEKI_0","我方全员的防御力提升了！","BTLMSGID_BOUHEKI_0",""
-"BTLMSGID_GOURIKI_0","我方全员的攻击力提升了！","BTLMSGID_GOURIKI_0",""
-"BTLMSGID_KAISOKU_0","我方全员的命中和回避提升了！","BTLMSGID_KAISOKU_0",""
-"BTLMSGID_COVERAL_0","抵抗敌人造成的伤害！","BTLMSGID_COVERAL_0",""
-"BTLMSGID_DENKOH_0","我方全员的行动变得最快了！","BTLMSGID_DENKOH_0",""
-"BTLMSGID_ORACLE_0","除了SP之外，为队友全体回复HP！","BTLMSGID_ORACLE_0",""
-"BTLMSGID_MESSIAH_0","我方全员的HP、状态异常、封印全部恢复！","BTLMSGID_MESSIAH_0",""
-"BTLMSGID_ESHOWER_0","我方全员的异常状态和封印全部恢复了！","BTLMSGID_ESHOWER_0",""
-"BTLMSGID_FULLGET_0","在这个回合内获得击倒的敌人的所有素材。","BTLMSGID_FULLGET_0",""
-"BTLMSGID_COST_CUT_0","所有队友的技能消耗变为零了！","BTLMSGID_COST_CUT_0",""
-"BTLMSGID_TIYUDAI_0","三回合内，恢复所有队友的HP！","BTLMSGID_TIYUDAI_0",""
-"BTLMSGID_TIYUSOK_0","三回合内，恢复所有队友的HP！","BTLMSGID_TIYUSOK_0",""
-"BTLMSGID_HOMUNCU_0","人偶成了替身！","BTLMSGID_HOMUNCU_0",""
-"BTLMSGID_OWNDOLL_0","[f 2 4 0]赎罪羊的效果发动！","BTLMSGID_OWNDOLL_0",""
-"BTLMSGID_KIAIBRACE_0","[f 2 4 0]勇气手环的效果发动！","BTLMSGID_KIAIBRACE_0",""
-"BTLMSGID_KAMINONIE_0","[f 2 4 0]神的祭品效果发动！","BTLMSGID_KAMINONIE_0",""
-"BTLMSGID_DLCATK_0","回合结束时可以发动攻击了！","BTLMSGID_DLCATK_0",""
-"BTLMSGID_UZUUZU_0","[f 2 4 0]坐立不安！","BTLMSGID_UZUUZU_0",""
-"BTLMSGID_MANZOK_0","[f 2 4 0]他很满意。","BTLMSGID_MANZOK_0",""
-"BTLMSGID_THINK_0","[f 2 4 0]在深思。","BTLMSGID_THINK_0",""
-"BTLMSGID_KETSUDAN_0","[f 2 4 0]我下定决心了！","BTLMSGID_KETSUDAN_0",""
-"BTLMSGID_MAHASUKU_0","[f 2 4 1]命中率和回避率提升了！","BTLMSGID_MAHASUKU_0",""
-"BTLMSGID_RANDAMA_0","[f 2 4 1]所有能力都下降了！","BTLMSGID_RANDAMA_0",""
-"BTLMSGID_HEATRA_0","[f 2 4 1]所有能力都提升了！","BTLMSGID_HEATRA_0",""
-"BTLMSGID_SASTAIN_0","[f 2 4 1]强化效果被延长了！","BTLMSGID_SASTAIN_0",""
-"BTLMSGID_HIDE_0","[f 2 4 1]已经可以无效化物理攻击了！","BTLMSGID_HIDE_0",""
-"BTLMSGID_RISKY_GAMEOVER_0","领导者筋疲力尽了……","BTLMSGID_RISKY_GAMEOVER_0",""
-"BTLMSGID_JIBAKU_0","[f 2 4 0]自爆开关已经打开！","BTLMSGID_JIBAKU_0",""
-"BTLMSGID_EIKOHNO_0","我方全员的攻击力和防御力提升了！","BTLMSGID_EIKOHNO_0",""
-"BTLMSGID_ALLBSTHEAL_0","队友的状态异常已经恢复了！","BTLMSGID_ALLBSTHEAL_0",""
-"BTLMSGID_KOUKA_NASHI_0","但是没有效果。","BTLMSGID_KOUKA_NASHI_0",""
-"BTLMSGID_AMRITA_0","[f 2 4 1]HP、状态异常、封印全部恢复！","BTLMSGID_AMRITA_0",""
-"BTLMSGID_LPATRA_0","[f 2 4 1]列的HP，状态异常已恢复！","BTLMSGID_LPATRA_0",""
-"BTLMSGID_COUNT_UP_0","[f 2 4 1]计数增加了！","BTLMSGID_COUNT_UP_0",""
-"BTLMSGID_ONEBSTHEAL_0","[f 2 4 1]状态异常已经恢复了！","BTLMSGID_ONEBSTHEAL_0",""
-"BTLMSGID_ONESEALHEAL_0","[f 2 4 1]解除了封印！","BTLMSGID_ONESEALHEAL_0",""
-"BTLMSGID_CHARGE_0","[f 2 4 1]我充满了力量！","BTLMSGID_CHARGE_0",""
-"BTLMSGID_CONCENTRATE_0","[f 2 4 1]我集中注意力了！","BTLMSGID_CONCENTRATE_0",""
-"BTLMSGID_KAKUSEI_0","[f 2 4 1]变成了修罗！","BTLMSGID_KAKUSEI_0",""
-"BTLMSGID_SUMMON_TRUMP_0","特朗普的士兵们出现了！","BTLMSGID_SUMMON_TRUMP_0",""
-"BTLMSGID_DOLL_SMILE_0","[f 2 4 0]他天真地笑着。","BTLMSGID_DOLL_SMILE_0",""
-"BTLMSGID_MOTIVATION_0","[f 2 4 0]加油！","BTLMSGID_MOTIVATION_0",""
-"BTLMSGID_BOAST_0","[f 2 4 0]正在展示肉体。","BTLMSGID_BOAST_0",""
-"BTLMSGID_RELAX_0","[f 2 4 0]优雅地放松着。","BTLMSGID_RELAX_0",""
-"BTLMSGID_CREEP_0","[f 2 4 0]在悄悄地做些什么","BTLMSGID_CREEP_0",""
-"BTLMSGID_TURNENDHEAL_0","队伍所有成员都恢复了！","BTLMSGID_TURNENDHEAL_0",""
-"BTLMSGID_DARKMIST_0","[f 2 4 1]状态异常，封印时间延长了。","BTLMSGID_DARKMIST_0",""
-"BTLMSGID_TARGET_DEAD_ALR_0","[f 2 4 0]没有目标！","BTLMSGID_TARGET_DEAD_ALR_0",""
-"BTLMSGID_DROP_MONEY_0","シャドウが[占位A 03]円ばらまいた","BTLMSGID_DROP_MONEY_0",""
-"BTLMSGID_REF_COUNTER_ATT_0","[f 2 4 1]挑衅计数器发动！","BTLMSGID_REF_COUNTER_ATT_0",""
-"BTLMSGID_REF_SKILL_LOCK_0","个性被剥夺了！","BTLMSGID_REF_SKILL_LOCK_0",""
-"BTLMSGID_BEAR_TENSION_L2_0","情绪高涨！","BTLMSGID_BEAR_TENSION_L2_0",""
-"BTLMSGID_BEAR_TENSION_L3_0","情绪高涨！","BTLMSGID_BEAR_TENSION_L3_0",""
-"BTLMSGID_BEAR_TENSION_L3_2_0","情绪达到了最高潮！","BTLMSGID_BEAR_TENSION_L3_2_0",""
-"BTLMSGID_REF_ATTRUP_NEND_0","[f 2 4 1]心灵感应抗性提升了！","BTLMSGID_REF_ATTRUP_NEND_0",""
-"BTLMSGID_REF_ATTRUP_KAKU_0","[f 2 4 1]核热耐性提高了！","BTLMSGID_REF_ATTRUP_KAKU_0",""
-"BTLMSGID_REF_ATTRDOWN_NE_0","[f 2 4 1]念动耐性降低了！","BTLMSGID_REF_ATTRDOWN_NE_0",""
-"BTLMSGID_REF_ATTRDOWN_KA_0","[f 2 4 1]核热耐性降低了！","BTLMSGID_REF_ATTRDOWN_KA_0",""
-"BTLMSGID_DOUBLE_ATTACK_0","连击发动！","BTLMSGID_DOUBLE_ATTACK_0",""
-"BTLMSGID_BOOT2_0","[f 2 4 3]发动！","BTLMSGID_BOOT2_0",""
-"BTLMSGID_FULL_ANALYZE_SU_0","[f 2 4 1]分析了他的能力！","BTLMSGID_FULL_ANALYZE_SU_0",""
-"BTLMSGID_FULL_SNALYZE_FA_0","[f 2 4 1]正在阻止解析…","BTLMSGID_FULL_SNALYZE_FA_0",""
-"BTLMSGID_PQ2_SONIC_RUSH_0","准备使用连续技能！","BTLMSGID_PQ2_SONIC_RUSH_0",""
-"BTLMSGID_PQ2_RUSH_STEP_0","准备使用连续技能！","BTLMSGID_PQ2_RUSH_STEP_0",""
-"BTLMSGID_PQ2_GOWAN_0","准备扩散技能！","BTLMSGID_PQ2_GOWAN_0",""
-"BTLMSGID_PQ2_GAISHU_0","准备扩散技能！","BTLMSGID_PQ2_GAISHU_0",""
-"BTLMSGID_PQ2_UTIOTOSI_0","为了抵消物理攻击，我做好了准备！","BTLMSGID_PQ2_UTIOTOSI_0",""
-"BTLMSGID_PQ2_GEIGEKI_0","为了抵消物理攻击，我做好了准备！","BTLMSGID_PQ2_GEIGEKI_0",""
-"BTLMSGID_PQ2_ORGIA_0","解除了限速器！","BTLMSGID_PQ2_ORGIA_0",""
-"BTLMSGID_PQ2_COSTC_0","技能的消耗成本降低了！","BTLMSGID_PQ2_COSTC_0",""
-"BTLMSGID_PQ2_COSTR_0","技能的消耗成本降低了！","BTLMSGID_PQ2_COSTR_0",""
-"BTLMSGID_PQ2_ZEROS_0","[f 2 4 1]消费成本变成了零！","BTLMSGID_PQ2_ZEROS_0",""
-"speaker_慈悲深い聖職者","慈悲深い聖職者","speaker_慈悲深い聖職者",""
+给我指示！","BTLMSGID_COMBI2_ATK_FUTA_0","机翻辅助：
+
+要干就趁现在！
+快下指示！
+
+要做的话就是现在！
+给我指示！
+
+要做就现在！
+给我指示！"
+"BTLMSGID_COMBI2_ATK_HARU_0","差不多可以了吧？","BTLMSGID_COMBI2_ATK_HARU_0","机翻辅助：
+
+差不多可以了吧？"
+"BTLMSGID_COMBI2_ATK_AKEC_0","差不多该开始了吧。","BTLMSGID_COMBI2_ATK_AKEC_0","机翻辅助：
+
+差不多可以开始了。
+
+差不多该开始了吧。"
+"BTLMSGID_VELVET_THEODORE_0","集中注意力！","BTLMSGID_VELVET_THEODORE_0","机翻辅助：
+
+集中意识！
+
+集中了意识！"
+"BTLMSGID_VELVET_ELIZABET_0","集中注意力！","BTLMSGID_VELVET_ELIZABET_0","机翻辅助：
+
+集中意识！
+
+集中了意识！"
+"BTLMSGID_VELVET_MARGARET_0","集中注意力！","BTLMSGID_VELVET_MARGARET_0","机翻辅助：
+
+集中意识！
+
+集中了意识！"
+"BTLMSGID_USAGI_OOGOE_0","[f 2 4 0]他深深地吸了一口气。","BTLMSGID_USAGI_OOGOE_0","机翻辅助：
+
+[占位A 01]大口吸气。
+
+[占位A 01]深深地吸了一口气"
+"BTLMSGID_VELVET_SRICAM_0","[f 2 4 0]他重新回到了战线上！","BTLMSGID_VELVET_SRICAM_0","机翻辅助：
+
+[占位A 01]重返战线！
+
+[占位A 01]回到了战线！
+
+[占位A 01]回到前线了！"
+"BTLMSGID_GK_COUNT3_0","[f 2 4 0]他的眼睛闪闪发光！","BTLMSGID_GK_COUNT3_0","机翻辅助：
+
+[占位A 01]的眼睛在发光！
+
+[占位A 01]的眼睛闪耀着！"
+"BTLMSGID_GK_COUNT2_0","[f 2 4 0]她的眼神失去了光彩！","BTLMSGID_GK_COUNT2_0","机翻辅助：
+
+[占位A 01]的眼睛黯淡无光！
+
+[占位A 01]眼睛的光辉消失了！
+
+[占位A 01]眼睛的光芒消失了！"
+"BTLMSGID_GK_COUNT1_0","[f 2 4 0]他的眼睛闪耀了一次。","BTLMSGID_GK_COUNT1_0","机翻辅助：
+
+[占位A 01]的眼睛闪了一下。
+
+[占位A 01]的眼睛“1”次，闪耀。
+
+[占位A 01]的眼睛“1”次发出了光芒。"
+"BTLMSGID_ESCAPE_ALL_0","派对逃跑了！","BTLMSGID_ESCAPE_ALL_0","机翻辅助：
+
+队伍逃走了！
+
+派对逃走了！"
+"BTLMSGID_OVERWRITE_ALL_0","派对的强化效果被延长了！","BTLMSGID_OVERWRITE_ALL_0","机翻辅助：
+
+队伍的强化效果延长了！
+
+派对的强化效果被延长了！
+
+派对的强化效果延长了！"
+"BTLMSGID_HPHEAL_ALL_MEMB_0","队友们的生命值已经恢复了！","BTLMSGID_HPHEAL_ALL_MEMB_0","机翻辅助：
+
+我方全员的HP恢复了！
+
+我方全体人员的HP恢复了！
+
+我方全员的HP都恢复了！"
+"BTLMSGID_EXP_GIFT_0","这次战斗获得的经验值增加了！","BTLMSGID_EXP_GIFT_0","机翻辅助：
+
+在战斗中获得的经验值增加！
+
+这个战斗能得到的经验值增加了！"
+"BTLMSGID_BOUHEKI_0","我方全员的防御力提升了！","BTLMSGID_BOUHEKI_0","机翻辅助：
+
+我方全体防御力提升！
+
+我方全体人员的防御力提高了！
+
+我方全员的防御力都提高了！"
+"BTLMSGID_GOURIKI_0","我方全员的攻击力提升了！","BTLMSGID_GOURIKI_0","机翻辅助：
+
+我方全体攻击力提升！
+
+我方全员的攻击力上升了！
+
+我方全员的攻击力提高了！"
+"BTLMSGID_KAISOKU_0","我方全员的命中和回避提升了！","BTLMSGID_KAISOKU_0","机翻辅助：
+
+我方全体命中与闪避提升！
+
+我方全体人员的命中和回避提高了！
+
+我方全员的命中和回避提高了！"
+"BTLMSGID_COVERAL_0","抵抗敌人造成的伤害！","BTLMSGID_COVERAL_0","机翻辅助：
+
+使受到的敌方伤害无效化！
+
+从敌人受到的伤害无效化！"
+"BTLMSGID_DENKOH_0","我方全员的行动变得最快了！","BTLMSGID_DENKOH_0","机翻辅助：
+
+我方全体行动速度提升至最快！
+
+我方全体人员的行动最快了！
+
+我方全体人员的行动变得最快了！"
+"BTLMSGID_ORACLE_0","除了SP之外，为队友全体回复HP！","BTLMSGID_ORACLE_0","机翻辅助：
+
+恢复SP以外的我方全体HP！
+
+SP除外我方全部恢复！
+
+除了SP以外我方全部回复！"
+"BTLMSGID_MESSIAH_0","我方全员的HP、状态异常、封印全部恢复！","BTLMSGID_MESSIAH_0","机翻辅助：
+
+我方全体HP、异常状态、封锁全部恢复！
+
+我方全体人员的HP，状态异常，封印全部恢复！
+
+我方全员的HP，状态异常，封印全回复！"
+"BTLMSGID_ESHOWER_0","我方全员的异常状态和封印全部恢复了！","BTLMSGID_ESHOWER_0","机翻辅助：
+
+我方全体异常状态、封锁全部恢复！
+
+我方全体人员的状态异常，封印全部恢复了！
+
+我方全员状态异常，封印全回复了！"
+"BTLMSGID_FULLGET_0","在这个回合内获得击倒的敌人的所有素材。","BTLMSGID_FULLGET_0","机翻辅助：
+
+获得本回合打倒的敌方素材！
+
+这个回合打倒的敌人的素材全部得到"
+"BTLMSGID_COST_CUT_0","所有队友的技能消耗变为零了！","BTLMSGID_COST_CUT_0","机翻辅助：
+
+我方全体技能成本归零！
+
+我方全员的技能成本变成了零！
+
+我方全员的技能成本为零！"
+"BTLMSGID_TIYUDAI_0","三回合内，恢复所有队友的HP！","BTLMSGID_TIYUDAI_0","机翻辅助：
+
+在三回合内恢复我方全体HP！
+
+3回合期间，我方全体人员的HP恢复！
+
+3回合期间，我方全员的HP回复！"
+"BTLMSGID_TIYUSOK_0","三回合内，恢复所有队友的HP！","BTLMSGID_TIYUSOK_0","机翻辅助：
+
+在三回合内恢复我方全体HP！
+
+3回合期间，我方全体人员的HP恢复！
+
+3回合期间，我方全员的HP回复！"
+"BTLMSGID_HOMUNCU_0","人偶成了替身！","BTLMSGID_HOMUNCU_0","机翻辅助：
+
+人造人成为替身！
+
+霍汶克鲁斯成了替身！
+
+霍文克鲁斯变成了替身！"
+"BTLMSGID_OWNDOLL_0","[f 2 4 0]赎罪羊的效果发动！","BTLMSGID_OWNDOLL_0","机翻辅助：
+
+[占位A 01]的赎罪羔羊效果发动！
+
+[占位A 01]赎罪羊的效果发动！
+
+[占位A 01]二赎罪之羊的效果发动！"
+"BTLMSGID_KIAIBRACE_0","[f 2 4 0]勇气手环的效果发动！","BTLMSGID_KIAIBRACE_0","机翻辅助：
+
+[占位A 01]的毅力手环效果发动！
+
+[占位A 01]根性手镯的效果发动！
+
+[占位A 01]二次根性的手镯的效果发动！"
+"BTLMSGID_KAMINONIE_0","[f 2 4 0]神的祭品效果发动！","BTLMSGID_KAMINONIE_0","机翻辅助：
+
+[占位A 01]的神之祭品效果发动！
+
+[占位A 01]神之祭品的效果发动！
+
+[占位A 01]二神的牺牲品的效果发动！"
+"BTLMSGID_DLCATK_0","回合结束时可以发动攻击了！","BTLMSGID_DLCATK_0","机翻辅助：
+
+在回合结束时进行攻击！
+
+回合的最后进行攻击！
+
+会在回合的最后进行攻击！"
+"BTLMSGID_UZUUZU_0","[f 2 4 0]坐立不安！","BTLMSGID_UZUUZU_0","机翻辅助：
+
+[占位A 01]蠢蠢欲动！
+
+[占位A 01]我在发呆！
+
+[占位A 01]真烦人！"
+"BTLMSGID_MANZOK_0","[f 2 4 0]他很满意。","BTLMSGID_MANZOK_0","机翻辅助：
+
+[占位A 01]心满意足
+
+[占位A 01]满意，满意
+
+[占位A 01]很满足"
+"BTLMSGID_THINK_0","[f 2 4 0]在深思。","BTLMSGID_THINK_0","机翻辅助：
+
+[占位A 01]陷入沉思
+
+[占位A 01]沉思着
+
+[占位A 01]沉思"
+"BTLMSGID_KETSUDAN_0","[f 2 4 0]我下定决心了！","BTLMSGID_KETSUDAN_0","机翻辅助：
+
+[占位A 01]下定决心！
+
+[占位A 01]下定决心了！
+
+[占位A 01]下定了决心！"
+"BTLMSGID_MAHASUKU_0","[f 2 4 1]命中率和回避率提升了！","BTLMSGID_MAHASUKU_0","机翻辅助：
+
+[占位A 02]的命中率与闪避率提升！
+
+[占位A 02]的命中率和回避率上升了！"
+"BTLMSGID_RANDAMA_0","[f 2 4 1]所有能力都下降了！","BTLMSGID_RANDAMA_0","机翻辅助：
+
+[占位A 02]的全部能力下降！
+
+[占位A 02]的全部能力下降了！"
+"BTLMSGID_HEATRA_0","[f 2 4 1]所有能力都提升了！","BTLMSGID_HEATRA_0","机翻辅助：
+
+[占位A 02]的全部能力提升！
+
+[占位A 02]的全部能力上升了！"
+"BTLMSGID_SASTAIN_0","[f 2 4 1]强化效果被延长了！","BTLMSGID_SASTAIN_0","机翻辅助：
+
+[占位A 02]的强化效果延长！
+
+[占位A 02]的强化效果延长了！
+
+[占位A 02]的强化效果被延长了！"
+"BTLMSGID_HIDE_0","[f 2 4 1]已经可以无效化物理攻击了！","BTLMSGID_HIDE_0","机翻辅助：
+
+[占位A 02]物理攻击无效化！
+
+[占位A 02]物理攻击变成无效化了！"
+"BTLMSGID_RISKY_GAMEOVER_0","领导者筋疲力尽了……","BTLMSGID_RISKY_GAMEOVER_0","机翻辅助：
+
+队长耗尽力气……
+
+领导筋疲力尽……
+
+队长筋疲力尽了……"
+"BTLMSGID_JIBAKU_0","[f 2 4 0]自爆开关已经打开！","BTLMSGID_JIBAKU_0","机翻辅助：
+
+[占位A 01]的自爆开关启动！
+
+[占位A 01]的自爆开关打开了！"
+"BTLMSGID_EIKOHNO_0","我方全员的攻击力和防御力提升了！","BTLMSGID_EIKOHNO_0","机翻辅助：
+
+我方全体攻击力与防御力提升！
+
+我方全员的攻击力和防御力上升了！
+
+我方全员的攻击力和防御力都上升了！"
+"BTLMSGID_ALLBSTHEAL_0","队友的状态异常已经恢复了！","BTLMSGID_ALLBSTHEAL_0","机翻辅助：
+
+我方异常状态恢复！
+
+我方的状态异常恢复了！
+
+我方的异常状态恢复了！"
+"BTLMSGID_KOUKA_NASHI_0","但是没有效果。","BTLMSGID_KOUKA_NASHI_0","机翻辅助：
+
+但是没有效果。
+
+但是毫无效果。"
+"BTLMSGID_AMRITA_0","[f 2 4 1]HP、状态异常、封印全部恢复！","BTLMSGID_AMRITA_0","机翻辅助：
+
+[占位A 02]的HP、异常状态、封锁全部恢复！
+
+[占位A 02]的HP，状态异常，封印全部恢复！
+
+[占位A 02]的HP，状态异常，封印全回复！"
+"BTLMSGID_LPATRA_0","[f 2 4 1]列的HP，状态异常已恢复！","BTLMSGID_LPATRA_0","机翻辅助：
+
+[占位A 02]的列的HP、异常状态恢复！
+
+[占位A 02]的列的HP，状态异常恢复！
+
+[占位A 02]生命值异常，状态回复！"
+"BTLMSGID_COUNT_UP_0","[f 2 4 1]计数增加了！","BTLMSGID_COUNT_UP_0","机翻辅助：
+
+[占位A 02]的计数增加！
+
+[占位A 02]的计数增加了！"
+"BTLMSGID_ONEBSTHEAL_0","[f 2 4 1]状态异常已经恢复了！","BTLMSGID_ONEBSTHEAL_0","机翻辅助：
+
+[占位A 02]的异常状态恢复！
+
+[占位A 02]的状态异常恢复了！
+
+[占位A 02]的异常状态恢复了！"
+"BTLMSGID_ONESEALHEAL_0","[f 2 4 1]解除了封印！","BTLMSGID_ONESEALHEAL_0","机翻辅助：
+
+[占位A 02]的封印消失了！
+
+[占位A 02]消除了的封！"
+"BTLMSGID_CHARGE_0","[f 2 4 1]我充满了力量！","BTLMSGID_CHARGE_0","机翻辅助：
+
+[占位A 02]积蓄力量！
+
+[占位A 02]积蓄了力量！
+
+[占位A 02]蓄力了！"
+"BTLMSGID_CONCENTRATE_0","[f 2 4 1]我集中注意力了！","BTLMSGID_CONCENTRATE_0","机翻辅助：
+
+[占位A 02]集中意识！
+
+[占位A 02]集中了意识！"
+"BTLMSGID_KAKUSEI_0","[f 2 4 1]变成了修罗！","BTLMSGID_KAKUSEI_0","机翻辅助：
+
+[占位A 02]化为修罗！
+
+[占位A 02]变成了修罗！
+
+[占位A 02]化作了阿修罗！"
+"BTLMSGID_SUMMON_TRUMP_0","特朗普的士兵们出现了！","BTLMSGID_SUMMON_TRUMP_0","机翻辅助：
+
+扑克牌士兵们出现了！
+
+扑克兵们出现了！"
+"BTLMSGID_DOLL_SMILE_0","[f 2 4 0]他天真地笑着。","BTLMSGID_DOLL_SMILE_0","机翻辅助：
+
+[占位A 01]天真无邪地笑着！
+
+[占位A 01]天真地笑着
+
+[占位A 01]天真无邪地笑着"
+"BTLMSGID_MOTIVATION_0","[f 2 4 0]加油！","BTLMSGID_MOTIVATION_0","机翻辅助：
+
+[占位A 01]充满干劲！
+
+[占位A 01]是干劲！
+
+[占位A 01]干劲十足！"
+"BTLMSGID_BOAST_0","[f 2 4 0]正在展示肉体。","BTLMSGID_BOAST_0","机翻辅助：
+
+[占位A 01]夸耀着肉体！
+
+[占位A 01]是在炫耀肉体
+
+[占位A 01]炫耀自己的肉体"
+"BTLMSGID_RELAX_0","[f 2 4 0]优雅地放松着。","BTLMSGID_RELAX_0","机翻辅助：
+
+[占位A 01]优雅地休息！
+
+[占位A 01]优雅地放松着"
+"BTLMSGID_CREEP_0","[f 2 4 0]在悄悄地做些什么","BTLMSGID_CREEP_0","机翻辅助：
+
+[占位A 01]蠢蠢欲动！
+
+[占位A 01]模棱两可
+
+[占位A 01]心神不宁"
+"BTLMSGID_TURNENDHEAL_0","队伍所有成员都恢复了！","BTLMSGID_TURNENDHEAL_0","机翻辅助：
+
+具有恢复所有同伴的效果！
+
+我方全员回复的效果！
+
+附带了恢复全体伙伴的效果！"
+"BTLMSGID_DARKMIST_0","[f 2 4 1]状态异常，封印时间延长了。","BTLMSGID_DARKMIST_0","机翻辅助：
+
+[占位A 02]的异常状态封印时间延长！
+
+[占位A 02]状态异常，封锁时间延长了
+
+[占位A 02]状态异常，封锁时间延长"
+"BTLMSGID_TARGET_DEAD_ALR_0","[f 2 4 0]没有目标！","BTLMSGID_TARGET_DEAD_ALR_0","机翻辅助：
+
+[占位A 01]没有对象！
+
+[占位A 01]的对象不在！"
+"BTLMSGID_DROP_MONEY_0","暗影[占位A 03]散播圆！","BTLMSGID_DROP_MONEY_0","机翻辅助：
+
+暗影[占位A 03]散播圆！
+
+阴影扩散[占位A 03]
+
+车道散了一圈[占位A 03]"
+"BTLMSGID_REF_COUNTER_ATT_0","[f 2 4 1]挑衅计数器发动！","BTLMSGID_REF_COUNTER_ATT_0","机翻辅助：
+
+[占位A 02]的挑衅反击发动！
+
+[占位A 02]挑衅反击发动！"
+"BTLMSGID_REF_SKILL_LOCK_0","个性被剥夺了！","BTLMSGID_REF_SKILL_LOCK_0","机翻辅助：
+
+个性被夺走了！
+
+被剥夺了个性！"
+"BTLMSGID_BEAR_TENSION_L2_0","情绪高涨！","BTLMSGID_BEAR_TENSION_L2_0","机翻辅助：
+
+情绪高涨！
+
+情绪高涨了！
+
+情绪高涨到极点了！"
+"BTLMSGID_BEAR_TENSION_L3_0","情绪高涨！","BTLMSGID_BEAR_TENSION_L3_0","机翻辅助：
+
+情绪激昂！
+
+情绪高涨！"
+"BTLMSGID_BEAR_TENSION_L3_2_0","情绪达到了最高潮！","BTLMSGID_BEAR_TENSION_L3_2_0","机翻辅助：
+
+情绪达到最高潮！
+
+情绪达到了最高潮！
+
+情绪达到最高潮了！"
+"BTLMSGID_REF_ATTRUP_NEND_0","[f 2 4 1]心灵感应抗性提升了！","BTLMSGID_REF_ATTRUP_NEND_0","机翻辅助：
+
+[占位A 02]的念动耐性上升！
+
+[占位A 02]的念动耐性上升了！"
+"BTLMSGID_REF_ATTRUP_KAKU_0","[f 2 4 1]核热耐性提高了！","BTLMSGID_REF_ATTRUP_KAKU_0","机翻辅助：
+
+[占位A 02]的核热耐性上升！
+
+[占位A 02]的核热耐性上升了！"
+"BTLMSGID_REF_ATTRDOWN_NE_0","[f 2 4 1]念动耐性降低了！","BTLMSGID_REF_ATTRDOWN_NE_0","机翻辅助：
+
+[占位A 02]的念动耐性下降！
+
+[占位A 02]的念动耐性降低了！"
+"BTLMSGID_REF_ATTRDOWN_KA_0","[f 2 4 1]核热耐性降低了！","BTLMSGID_REF_ATTRDOWN_KA_0","机翻辅助：
+
+[占位A 02]的核热耐性下降！
+
+[占位A 02]的核热耐性降低了！
+
+[占位A 02]的核热耐受性下降了！"
+"BTLMSGID_DOUBLE_ATTACK_0","连击发动！","BTLMSGID_DOUBLE_ATTACK_0","机翻辅助：
+
+发动连击！
+
+连击发动！"
+"BTLMSGID_BOOT2_0","[f 2 4 3]发动！","BTLMSGID_BOOT2_0","机翻辅助：
+
+[占位A 04]发动！"
+"BTLMSGID_FULL_ANALYZE_SU_0","[f 2 4 1]分析了他的能力！","BTLMSGID_FULL_ANALYZE_SU_0","机翻辅助：
+
+[占位A 02]解析了的能力！
+
+[占位A 02]的能力分析！"
+"BTLMSGID_FULL_SNALYZE_FA_0","[f 2 4 1]正在阻止解析…","BTLMSGID_FULL_SNALYZE_FA_0","机翻辅助：
+
+[占位A 02]防止解析……
+
+[占位A 02]防止被解析……"
+"BTLMSGID_PQ2_SONIC_RUSH_0","准备使用连续技能！","BTLMSGID_PQ2_SONIC_RUSH_0","机翻辅助：
+
+采取连续使用技能的架势！
+
+准备连续使用技能！
+
+采取了连续使用技能的姿势！"
+"BTLMSGID_PQ2_RUSH_STEP_0","准备使用连续技能！","BTLMSGID_PQ2_RUSH_STEP_0","机翻辅助：
+
+采取连续使用技能的架势！
+
+准备连续使用技能！
+
+采取了连续使用技能的姿势！"
+"BTLMSGID_PQ2_GOWAN_0","准备扩散技能！","BTLMSGID_PQ2_GOWAN_0","机翻辅助：
+
+采取扩散技能的架势！
+
+做好了扩散技能的准备！
+
+采取了扩散技能的准备！"
+"BTLMSGID_PQ2_GAISHU_0","准备扩散技能！","BTLMSGID_PQ2_GAISHU_0","机翻辅助：
+
+采取扩散技能的架势！
+
+做好了扩散技能的准备！
+
+采取了扩散技能的准备！"
+"BTLMSGID_PQ2_UTIOTOSI_0","为了抵消物理攻击，我做好了准备！","BTLMSGID_PQ2_UTIOTOSI_0","机翻辅助：
+
+为了使物理攻击无效而摆出架势！
+
+为了使物理攻击无效化而做好了准备！
+
+为了使物理攻击无效化做好了准备！"
+"BTLMSGID_PQ2_GEIGEKI_0","为了抵消物理攻击，我做好了准备！","BTLMSGID_PQ2_GEIGEKI_0","机翻辅助：
+
+为了使物理攻击无效而摆出架势！
+
+为了使物理攻击无效化而做好了准备！
+
+为了使物理攻击无效化做好了准备！"
+"BTLMSGID_PQ2_ORGIA_0","解除了限速器！","BTLMSGID_PQ2_ORGIA_0","机翻辅助：
+
+解除限制器！
+
+解除了限制！"
+"BTLMSGID_PQ2_COSTC_0","技能的消耗成本降低了！","BTLMSGID_PQ2_COSTC_0","机翻辅助：
+
+技能的消费成本下降！
+
+技能的消费成本下降了！
+
+技能的消耗成本降低了！"
+"BTLMSGID_PQ2_COSTR_0","技能的消耗成本降低了！","BTLMSGID_PQ2_COSTR_0","机翻辅助：
+
+技能的消费成本下降！
+
+技能的消费成本下降了！
+
+技能的消耗成本降低了！"
+"BTLMSGID_PQ2_ZEROS_0","[f 2 4 1]消费成本变成了零！","BTLMSGID_PQ2_ZEROS_0","机翻辅助：
+
+[占位A 02]的消费成本变成零！
+
+[占位A 02]的消费成本变成了零！
+
+[占位A 02]的消费成本为零！"
+"speaker_慈悲深い聖職者","慈悲为怀的圣职者","speaker_慈悲深い聖職者","机翻辅助：
+
+慈悲为怀的圣职者
+
+仁慈的神职人员"

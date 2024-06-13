@@ -1,21 +1,35 @@
 "source","target","id","developer_comments"
-"YESNO_SEL_0","是的","YESNO_SEL_0","机翻辅助：
+"YESNO_SEL_0","是的","YESNO_SEL_0",""
+"YESNO_SEL_1","不是","YESNO_SEL_1",""
+"DEAD_SEL_0","戦闘続行","DEAD_SEL_0","机翻辅助：
 
-好的。
+继续战斗
 
-是的
+战斗继续"
+"DEAD_SEL_1","退却","DEAD_SEL_1","机翻辅助：
 
-是"
-"YESNO_SEL_1","不是","YESNO_SEL_1","机翻辅助：
+撤退
 
-不。
+退却"
+"BTL_CONTINUE_0","＞目前的难度为“SAFETY”。
+要继续吗？","BTL_CONTINUE_0","机翻辅助：
 
-否
+＞目前的难度为“SAFETY”。
+要继续吗？
 
-没有"
-"DEAD_SEL_0","戦闘続行","DEAD_SEL_0",""
-"DEAD_SEL_1","退却","DEAD_SEL_1",""
-"BTL_CONTINUE_0","＞現在の難易度は『ＳＡＦＥＴＹ』です。
-　コンティニューしますか？","BTL_CONTINUE_0",""
-"BTL_TEAM_DEAD_0","＞チームが全滅しました。
-　戦闘を続行しますか？","BTL_TEAM_DEAD_0",""
+>现在的难易度是“SAFETY”。
+要更新吗？
+
+>现在的难易度是“SAFETY”。
+会坚持吗？"
+"BTL_TEAM_DEAD_0","＞队伍全灭。
+要继续战斗吗？","BTL_TEAM_DEAD_0","机翻辅助：
+
+＞队伍全灭。
+要继续战斗吗？
+
+队伍全军覆没了。
+要继续战斗吗？
+
+团队全军覆没。
+继续战斗吗？"
