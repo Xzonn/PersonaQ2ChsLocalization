@@ -1,14 +1,62 @@
 "source","target","id","developer_comments"
-"ITEM_POINT_SEL_0","警惕地搜索 ","ITEM_POINT_SEL_0",""
-"ITEM_POINT_SEL_1","专注于采取行动。 ","ITEM_POINT_SEL_1",""
-"ITEM_POINT_SEL_2","停止 ","ITEM_POINT_SEL_2",""
-"ITEM_POINT_FORCE_BTL_SEL_0","寻找 ","ITEM_POINT_FORCE_BTL_SEL_0",""
-"ITEM_POINT_FORCE_BTL_SEL_1","停止 ","ITEM_POINT_FORCE_BTL_SEL_1",""
-"SHORTCUT_SEL_0","通る ","SHORTCUT_SEL_0",""
-"SHORTCUT_SEL_1","通不过 ","SHORTCUT_SEL_1",""
-"ENTRANCE_SEL_0","返回 ","ENTRANCE_SEL_0",""
-"ENTRANCE_SEL_1","不会回来 ","ENTRANCE_SEL_1",""
-"MSG_027_0","把握！！","MSG_027_0",""
+"ITEM_POINT_SEL_0","警惕地搜索 ","ITEM_POINT_SEL_0","机翻辅助：
+
+提高警觉寻找 
+
+一边警戒一边寻找 
+
+警惕地寻找"
+"ITEM_POINT_SEL_1","专注于采取行动。 ","ITEM_POINT_SEL_1","机翻辅助：
+
+专心采集"
+"ITEM_POINT_SEL_2","停止 ","ITEM_POINT_SEL_2","机翻辅助：
+
+放弃 
+
+停止"
+"ITEM_POINT_FORCE_BTL_SEL_0","寻找 ","ITEM_POINT_FORCE_BTL_SEL_0","机翻辅助：
+
+寻找"
+"ITEM_POINT_FORCE_BTL_SEL_1","停止 ","ITEM_POINT_FORCE_BTL_SEL_1","机翻辅助：
+
+放弃 
+
+停止"
+"SHORTCUT_SEL_0","能通过 ","SHORTCUT_SEL_0","机翻辅助：
+
+能通过 
+
+通过 
+
+经过"
+"SHORTCUT_SEL_1","通不过 ","SHORTCUT_SEL_1","机翻辅助：
+
+不能通过 
+
+不通 
+
+不通过"
+"ENTRANCE_SEL_0","返回 ","ENTRANCE_SEL_0","机翻辅助：
+
+回头 
+
+后退 
+
+返回"
+"ENTRANCE_SEL_1","不会回来 ","ENTRANCE_SEL_1","机翻辅助：
+
+不回头 
+
+不回去 
+
+不回来"
+"MSG_027_0","把握！！","MSG_027_0","机翻辅助：
+
+！！啊啊！！
+
+！！啊啊啊！！
+
+！！啊！！"
 "speaker_テオドア","西奥多","speaker_テオドア","机翻辅助：
 
 西奥多"

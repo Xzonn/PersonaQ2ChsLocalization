@@ -1,34 +1,214 @@
 "source","target","id","developer_comments"
 "PARTY_EDIT_RISE_BTL_0","将战斗时的导航交给我来处理。
-","PARTY_EDIT_RISE_BTL_0",""
+","PARTY_EDIT_RISE_BTL_0","机翻辅助：
+
+战斗时的导航
+交给理世。
+
+把战斗时的导航交给理世。
+
+
+战斗时的导航交给理世。"
 "PARTY_EDIT_HUKA_BTL_0","将战斗时的导航交给风花。
-","PARTY_EDIT_HUKA_BTL_0",""
+","PARTY_EDIT_HUKA_BTL_0","机翻辅助：
+
+战斗时的导航
+交给风花。
+
+战斗时的导航任凭风花。
+
+
+战斗时的导航交给风和花。"
 "PARTY_EDIT_RISE_FLD_0","迷宫移动时的导航交给理性。
-","PARTY_EDIT_RISE_FLD_0",""
+","PARTY_EDIT_RISE_FLD_0","机翻辅助：
+
+迷宫移动时的导航
+交给理世。
+
+
+理世负责迷宫移动时的导航。
+
+将迷宫移动时的导航交给理世。"
 "PARTY_EDIT_HUKA_FLD_0","将迷宫移动时的导航交给风花。
-","PARTY_EDIT_HUKA_FLD_0",""
-"PARTY_EDIT_HERO_0","英雄类型的说明","PARTY_EDIT_HERO_0",""
-"PARTY_EDIT_DD_0","使用伤害技能。","PARTY_EDIT_DD_0",""
-"PARTY_EDIT_SPE_0","运用特殊技能。","PARTY_EDIT_SPE_0",""
-"PARTY_EDIT_TANK_0","保护盟友免受敌人的攻击。","PARTY_EDIT_TANK_0",""
-"PARTY_EDIT_HEAL_0","学会恢复技能。","PARTY_EDIT_HEAL_0",""
-"PARTY_EDIT_P4HERO___0","前排进攻型武器：双手剑（斩击属性）","PARTY_EDIT_P4HERO___0",""
-"PARTY_EDIT_P3HERO___0","前排积极 武器：单手剑（斩击属性）","PARTY_EDIT_P3HERO___0",""
-"PARTY_EDIT_YOUSUKE__0","前排进攻武器：短剑（斩属性）","PARTY_EDIT_YOUSUKE__0",""
-"PARTY_EDIT_CHIE_____0","前列积极 武器：脚（破坏属性）","PARTY_EDIT_CHIE_____0",""
-"PARTY_EDIT_YUKIKO___0","后排面向，武器：扇子（斩属性）","PARTY_EDIT_YUKIKO___0",""
-"PARTY_EDIT_RISE_____0","后方支援","PARTY_EDIT_RISE_____0",""
-"PARTY_EDIT_KANJI____0","前排进攻型武器：厚板（破坏属性）","PARTY_EDIT_KANJI____0",""
-"PARTY_EDIT_NAOTO____0","后排面向，武器：手枪（突属性）","PARTY_EDIT_NAOTO____0",""
-"PARTY_EDIT_KUMA_____0","前排进攻武器：爪（斩属性）","PARTY_EDIT_KUMA_____0",""
-"PARTY_EDIT_YUKARI___0","后排武器：弓（突属性）","PARTY_EDIT_YUKARI___0",""
-"PARTY_EDIT_JUNPEI___0","前排进攻型武器：双手剑（斩击属性）","PARTY_EDIT_JUNPEI___0",""
-"PARTY_EDIT_SANADA___0","前排积极 出拳（破坏属性）","PARTY_EDIT_SANADA___0",""
-"PARTY_EDIT_MITURU___0","前列积极 武器：突刺剑（突击属性）","PARTY_EDIT_MITURU___0",""
-"PARTY_EDIT_FUKA_____0","后方支援","PARTY_EDIT_FUKA_____0",""
-"PARTY_EDIT_AEGIS____0","后排朝向，武器：重炮（破坏属性）","PARTY_EDIT_AEGIS____0",""
-"PARTY_EDIT_AMADA____0","后排朝向，武器：枪（突属性）","PARTY_EDIT_AMADA____0",""
-"PARTY_EDIT_KOROMARU_0","前排进攻武器：短剑（斩属性）","PARTY_EDIT_KOROMARU_0",""
-"PARTY_EDIT_ARAGAKI__0","前排进攻，武器：钝器（破坏属性）","PARTY_EDIT_ARAGAKI__0",""
-"PARTY_EDIT_ZENLEI___0","后排面向，武器：机械弓（突属性）","PARTY_EDIT_ZENLEI___0",""
-"PARTY_EDIT_ZEN______0","后排面向，武器：机械弓（突属性）","PARTY_EDIT_ZEN______0",""
+","PARTY_EDIT_HUKA_FLD_0","机翻辅助：
+
+迷宫移动时的导航
+交给风花。
+
+
+迷宫移动时的导航交给风和花。
+
+迷宫移动时的导航依靠风花。"
+"PARTY_EDIT_HERO_0","英雄类型的说明","PARTY_EDIT_HERO_0","机翻辅助：
+
+英雄型说明
+
+英雄类型说明
+
+英雄型的说明"
+"PARTY_EDIT_DD_0","使用伤害技能。","PARTY_EDIT_DD_0","机翻辅助：
+
+使用伤害技能。
+
+运用伤害技能。"
+"PARTY_EDIT_SPE_0","运用特殊技能。","PARTY_EDIT_SPE_0","机翻辅助：
+
+使用特殊技能。
+
+运用特殊技能。
+
+运用特殊的技能。"
+"PARTY_EDIT_TANK_0","保护盟友免受敌人的攻击。","PARTY_EDIT_TANK_0","机翻辅助：
+
+保护同伴不受敌人攻击。
+
+保护我方免受敌人的攻击。
+
+保护朋友免受敌人的攻击。"
+"PARTY_EDIT_HEAL_0","学会恢复技能。","PARTY_EDIT_HEAL_0","机翻辅助：
+
+学习回复技能。
+
+学会恢复技能。
+
+掌握恢复技能。"
+"PARTY_EDIT_P4HERO___0","前排进攻型武器：双手剑（斩击属性）","PARTY_EDIT_P4HERO___0","机翻辅助：
+
+适合前卫　武器：双手剑（斩属性）
+
+前排向武器：双手剑（斩属性）
+
+前排适合武器：双手剑（斩属性）"
+"PARTY_EDIT_P3HERO___0","前排积极 武器：单手剑（斩击属性）","PARTY_EDIT_P3HERO___0","机翻辅助：
+
+适合前卫　武器：单手剑（斩属性）
+
+前排向武器：单手剑（斩属性）
+
+前排武器：单手剑（斩属性）"
+"PARTY_EDIT_YOUSUKE__0","前排进攻武器：短剑（斩属性）","PARTY_EDIT_YOUSUKE__0","机翻辅助：
+
+适合前卫　武器：短剑（斩属性）
+
+前排向武器：短剑（斩属性）
+
+前排适合武器：短剑（斩属性）"
+"PARTY_EDIT_CHIE_____0","前列积极 武器：脚（破坏属性）","PARTY_EDIT_CHIE_____0","机翻辅助：
+
+适合前卫　武器：脚（坏属性）
+
+前排向武器：脚（坏属性）
+
+前排朝向武器：脚（坏属性）"
+"PARTY_EDIT_YUKIKO___0","后排面向，武器：扇子（斩属性）","PARTY_EDIT_YUKIKO___0","机翻辅助：
+
+适合后卫　武器：扇子（斩属性）
+
+后排向武器：扇子（斩属性）
+
+后排适合武器：扇子（斩属性）"
+"PARTY_EDIT_RISE_____0","后方支援","PARTY_EDIT_RISE_____0","机翻辅助：
+
+后方支援
+
+后勤支援
+
+后勤"
+"PARTY_EDIT_KANJI____0","前排进攻型武器：厚板（破坏属性）","PARTY_EDIT_KANJI____0","机翻辅助：
+
+适合前卫　武器：厚板（坏属性）
+
+前排向武器：厚板（坏属性）
+
+前排朝向武器：厚板（坏属性）"
+"PARTY_EDIT_NAOTO____0","后排面向，武器：手枪（突属性）","PARTY_EDIT_NAOTO____0","机翻辅助：
+
+适合后卫　武器：手枪（突属性）
+
+后排武器：手枪（突属性）
+
+后排适合武器：手枪（突属性）"
+"PARTY_EDIT_KUMA_____0","前排进攻武器：爪（斩属性）","PARTY_EDIT_KUMA_____0","机翻辅助：
+
+适合前卫　武器：爪子（斩属性）
+
+前排向武器：爪（斩属性）
+
+前排适合武器：爪（斩属性）"
+"PARTY_EDIT_YUKARI___0","后排武器：弓（突属性）","PARTY_EDIT_YUKARI___0","机翻辅助：
+
+适合后卫　武器：弓（突属性）
+
+后排武器：弓（突属性）
+
+后排适合武器：弓（突属性）"
+"PARTY_EDIT_JUNPEI___0","前排进攻型武器：双手剑（斩击属性）","PARTY_EDIT_JUNPEI___0","机翻辅助：
+
+适合前卫　武器：双手剑（斩属性）
+
+前排向武器：双手剑（斩属性）
+
+前排适合武器：双手剑（斩属性）"
+"PARTY_EDIT_SANADA___0","前排积极 出拳（破坏属性）","PARTY_EDIT_SANADA___0","机翻辅助：
+
+适合前卫　武器：拳头（坏属性）
+
+前排向武器：拳（坏属性）
+
+前排朝向武器：拳头（坏属性）"
+"PARTY_EDIT_MITURU___0","前列积极 武器：突刺剑（突击属性）","PARTY_EDIT_MITURU___0","机翻辅助：
+
+适合前卫　武器：突剑（突属性）
+
+前排向武器：刺剑（突属性）
+
+前排朝向武器：突剑（突属性）"
+"PARTY_EDIT_FUKA_____0","后方支援","PARTY_EDIT_FUKA_____0","机翻辅助：
+
+后方支援
+
+后勤支援
+
+后勤"
+"PARTY_EDIT_AEGIS____0","后排朝向，武器：重炮（破坏属性）","PARTY_EDIT_AEGIS____0","机翻辅助：
+
+适合后卫　武器：重炮（坏属性）
+
+后排向武器：重炮（破坏属性）
+
+后排朝向武器：重炮（坏属性）"
+"PARTY_EDIT_AMADA____0","后排朝向，武器：枪（突属性）","PARTY_EDIT_AMADA____0","机翻辅助：
+
+适合后卫　武器：长枪（突属性）
+
+后排向武器：枪（突属性）
+
+后排朝向武器：枪（突属性）"
+"PARTY_EDIT_KOROMARU_0","前排进攻武器：短剑（斩属性）","PARTY_EDIT_KOROMARU_0","机翻辅助：
+
+适合前卫　武器：短剑（斩属性）
+
+前排向武器：短剑（斩属性）
+
+前排适合武器：短剑（斩属性）"
+"PARTY_EDIT_ARAGAKI__0","前排进攻，武器：钝器（破坏属性）","PARTY_EDIT_ARAGAKI__0","机翻辅助：
+
+适合前卫　武器：钝器（坏属性）
+
+前排向武器：钝器（坏属性）
+
+前排用武器：钝器（坏属性）"
+"PARTY_EDIT_ZENLEI___0","后排面向，武器：机械弓（突属性）","PARTY_EDIT_ZENLEI___0","机翻辅助：
+
+适合后卫　武器：机械弓（突属性）
+
+后排向武器：机械弓（突属性）
+
+后排武器：机械弓（突属性）"
+"PARTY_EDIT_ZEN______0","后排面向，武器：机械弓（突属性）","PARTY_EDIT_ZEN______0","机翻辅助：
+
+适合后卫　武器：机械弓（突属性）
+
+后排向武器：机械弓（突属性）
+
+后排武器：机械弓（突属性）"

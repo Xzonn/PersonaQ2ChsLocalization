@@ -1,83 +1,511 @@
 "source","target","id","developer_comments"
 "YUKARI_FOE_FOLLOW_START__0","哎呀，
-好像被发现了！ ","YUKARI_FOE_FOLLOW_START__0",""
-"YUKARI_FOE_FOLLOW_START__2_0","怎么办，F.O.E在追过来！？ ","YUKARI_FOE_FOLLOW_START__2_0",""
-"YUKARI_FOE_FOLLOW_START__3_0","糟糕，F.O.E正在追来！ ","YUKARI_FOE_FOLLOW_START__3_0",""
-"YUKARI_FOE_NEAR_1_0","Ｆ．Ｏ．Ｅ在那里……小心前进吗？ ","YUKARI_FOE_NEAR_1_0",""
-"YUKARI_FOE_NEAR_2_0","那个是前女友吧？ ","YUKARI_FOE_NEAR_2_0",""
+好像被发现了！ ","YUKARI_FOE_FOLLOW_START__0","机翻辅助：
+
+糟糕，我们好像被F.O.E
+发现了！ 
+
+等等，好像被F.O.E发现了！
+ 
+
+喂，好像被F.O.E发现了！"
+"YUKARI_FOE_FOLLOW_START__2_0","怎么办，F.O.E在追过来！？ ","YUKARI_FOE_FOLLOW_START__2_0","机翻辅助：
+
+怎么办，F.O.E追上来了耶！ 
+
+怎么办，F.O.E会追来的！？ 
+
+怎么办，F.O.E我去追你！？"
+"YUKARI_FOE_FOLLOW_START__3_0","糟糕，F.O.E正在追来！ ","YUKARI_FOE_FOLLOW_START__3_0","机翻辅助：
+
+不妙，F.O.E追上来了！ 
+
+哎呀，F.O.E追上来了！"
+"YUKARI_FOE_NEAR_1_0","Ｆ．Ｏ．Ｅ在那里……小心前进吗？ ","YUKARI_FOE_NEAR_1_0","机翻辅助：
+
+有F.O.E……前进的时候也要小心？ 
+
+有F.O.E在……小心前进？ 
+
+有F.O.E……小心前进吗？"
+"YUKARI_FOE_NEAR_2_0","那个是前女友吧？ ","YUKARI_FOE_NEAR_2_0","机翻辅助：
+
+那应该是F.O.E吧？ 
+
+那是F.O.E吧？"
 "YUKARI_FOE_NEAR_3_0","糟糕…… F.O.E离得很近。
- ","YUKARI_FOE_NEAR_3_0",""
+ ","YUKARI_FOE_NEAR_3_0","机翻辅助：
+
+糟糕……
+F.O.E离我好近！ 
+
+呀……
+F.O.E在keco附近哦。 
+
+我就在附近。"
 "YUKARI_FOE_FOLLOW_END_1_0","Ｆ．Ｏ．Ｅ，
-看起来已经不再追赶我们了！ ","YUKARI_FOE_FOLLOW_END_1_0",""
-"YUKARI_FOE_FOLLOW_END_2_0","似乎成功逃脱了F.O.E……？ ","YUKARI_FOE_FOLLOW_END_2_0",""
-"YUKARI_FOE_FOLLOW_END_3_0","哦，好像刚才的F.O.E放弃了。 ","YUKARI_FOE_FOLLOW_END_3_0",""
-"YUKARI_KANSI_REACTION_1_0","找到了就糟糕了！ ","YUKARI_KANSI_REACTION_1_0",""
-"YUKARI_KANSI_REACTION_2_0","请小心前进！ ","YUKARI_KANSI_REACTION_2_0",""
-"YUKARI_KANSI_REACTION_3_0","不要被发现哦！ ","YUKARI_KANSI_REACTION_3_0",""
-"YUKARI_DENKISAKU_REACTIO_0","先把电灯关掉吧。 ","YUKARI_DENKISAKU_REACTIO_0",""
-"YUKARI_DENKISAKU_REACTIO_2_0","这个一碰就不好了，是吧。","YUKARI_DENKISAKU_REACTIO_2_0",""
-"YUKARI_DENKISAKU_REACTIO_3_0","哎呀……好刺痛…… ","YUKARI_DENKISAKU_REACTIO_3_0",""
-"YUKARI_KYOUHU_REACTION_1_0","哎呀！？ ","YUKARI_KYOUHU_REACTION_1_0",""
-"YUKARI_KYOUHU_REACTION_2_0","啊！ ","YUKARI_KYOUHU_REACTION_2_0",""
-"YUKARI_KYOUHU_REACTION_3_0","哇，真的吗？ ","YUKARI_KYOUHU_REACTION_3_0",""
-"YUKARI_STAIR_FIND_1_0","あっ、階段発見！　進んじゃう？ ","YUKARI_STAIR_FIND_1_0",""
-"YUKARI_STAIR_FIND_2_0","あそこ！　階段あるよ？ ","YUKARI_STAIR_FIND_2_0",""
-"YUKARI_STAIR_FIND_3_0","看起来可以前往下一个区域呢。","YUKARI_STAIR_FIND_3_0",""
-"YUKARI_TREASURE_FIND_1_0","宝箱虽然有，但不会是陷阱吧？ ","YUKARI_TREASURE_FIND_1_0",""
-"YUKARI_TREASURE_FIND_2_0","ラッキー！　宝箱みっけ！ ","YUKARI_TREASURE_FIND_2_0",""
-"YUKARI_TREASURE_FIND_3_0","宝箱在那里。要打开看看吗？ ","YUKARI_TREASURE_FIND_3_0",""
-"YUKARI_CHECK_WALL_1_0","有什么事吗？要不要调查一下？ ","YUKARI_CHECK_WALL_1_0",""
-"YUKARI_CHECK_WALL_2_0","这附近感觉有点可疑呢。","YUKARI_CHECK_WALL_2_0",""
-"YUKARI_CHECK_WALL_3_0","あれ？　なんかあるよ？ ","YUKARI_CHECK_WALL_3_0",""
-"YUKARI_SWITCH_FIND_1_0","要按一下开关吗？ ","YUKARI_SWITCH_FIND_1_0",""
-"YUKARI_SWITCH_FIND_2_0","あっ、これスイッチ…？　どうする？ ","YUKARI_SWITCH_FIND_2_0",""
-"YUKARI_SWITCH_FIND_3_0","有开关哦！ ","YUKARI_SWITCH_FIND_3_0",""
-"YUKARI_SHORTCUT_FIND_1_0","那里，看起来能通过吧？ ","YUKARI_SHORTCUT_FIND_1_0",""
-"YUKARI_SHORTCUT_FIND_2_0","看起来好像能走捷径的地方，发现了！ ","YUKARI_SHORTCUT_FIND_2_0",""
-"YUKARI_SHORTCUT_FIND_3_0","看，好像有条近路可以走。","YUKARI_SHORTCUT_FIND_3_0",""
-"YUKARI_FOE_WARNING_NEAR__0","哎呀，还在来呢……太烦人了！ ","YUKARI_FOE_WARNING_NEAR__0",""
-"YUKARI_FOE_WARNING_NEAR__2_0","刚才的，还没有追上来吗？ ","YUKARI_FOE_WARNING_NEAR__2_0",""
-"YUKARI_FOE_WARNING_NEAR__3_0","F.O.E还在附近呢！ ","YUKARI_FOE_WARNING_NEAR__3_0",""
-"YUKARI_1PERSON_HPTP10_1_0","对不起，有点困难…… ","YUKARI_1PERSON_HPTP10_1_0",""
-"YUKARI_1PERSON_HPTP10_2_0","哈啊，哈啊……已经到极限了…… ","YUKARI_1PERSON_HPTP10_2_0",""
-"YUKARI_1PERSON_HPTP10_3_0","再也不行了……要不要回去一次？ ","YUKARI_1PERSON_HPTP10_3_0",""
-"YUKARI_1PERSON_HP10_1_0","体力快要耗尽了。 ","YUKARI_1PERSON_HP10_1_0",""
-"YUKARI_1PERSON_HP10_2_0","唉，有点体力不够啊…… ","YUKARI_1PERSON_HP10_2_0",""
-"YUKARI_1PERSON_HP10_3_0","糟糕，快要倒下了……求恢复…… ","YUKARI_1PERSON_HP10_3_0",""
-"YUKARI_1PERSON_TP10_1_0","对不起，我好像快没体力了…… ","YUKARI_1PERSON_TP10_1_0",""
-"YUKARI_1PERSON_TP10_2_0","唉，累了……要不要稍微休息一下？ ","YUKARI_1PERSON_TP10_2_0",""
-"YUKARI_1PERSON_TP10_3_0","已经没有精力了呀…… ","YUKARI_1PERSON_TP10_3_0",""
-"YUKARI_1PERSON_HP80_1_0","现在的战斗感觉不错呢。","YUKARI_1PERSON_HP80_1_0",""
-"YUKARI_1PERSON_HP80_2_0","希望能够保持这种状态！ ","YUKARI_1PERSON_HP80_2_0",""
-"YUKARI_1PERSON_HP80_3_0","采配の勝利って感じ？　ありがとね。","YUKARI_1PERSON_HP80_3_0",""
-"YUKARI_DUNGEON_START_1_0","不知道会发生什么，所以要小心。","YUKARI_DUNGEON_START_1_0",""
-"YUKARI_DUNGEON_START_2_0","忘れ物とかないよね？　よし、行こ！ ","YUKARI_DUNGEON_START_2_0",""
-"YUKARI_DUNGEON_START_3_0","好的，我们来试试看吧！ ","YUKARI_DUNGEON_START_3_0",""
-"YUKARI_QUEST_START_1_0","那么，就努力吧。","YUKARI_QUEST_START_1_0",""
-"YUKARI_QUEST_START_2_0","準備は万端だよ！ ","YUKARI_QUEST_START_2_0",""
-"YUKARI_QUEST_START_3_0","特别上映，出发吧！ ","YUKARI_QUEST_START_3_0",""
+看起来已经不再追赶我们了！ ","YUKARI_FOE_FOLLOW_END_1_0","机翻辅助：
+
+
+F.O.E好像已经不追我了！ 
+
+F.O.E，
+好像已经没人追了！ 
+
+好像已经追不上了！"
+"YUKARI_FOE_FOLLOW_END_2_0","似乎成功逃脱了F.O.E……？ ","YUKARI_FOE_FOLLOW_END_2_0","机翻辅助：
+
+我好像甩掉F.O.E了……？ 
+
+好像从F.O.E逃完了……？ 
+
+好像从F.O.E逃出来了……？"
+"YUKARI_FOE_FOLLOW_END_3_0","哦，好像刚才的F.O.E放弃了。 ","YUKARI_FOE_FOLLOW_END_3_0","机翻辅助：
+
+啊，刚才的F.O.E好像放弃了。"
+"YUKARI_KANSI_REACTION_1_0","找到了就糟糕了！ ","YUKARI_KANSI_REACTION_1_0","机翻辅助：
+
+要是被发现就糟了！ 
+
+被发现的话就糟了！ 
+
+要是找到了就糟了！"
+"YUKARI_KANSI_REACTION_2_0","请小心前进！ ","YUKARI_KANSI_REACTION_2_0","机翻辅助：
+
+前进的时候也要小心！ 
+
+小心前进！"
+"YUKARI_KANSI_REACTION_3_0","不要被发现哦！ ","YUKARI_KANSI_REACTION_3_0","机翻辅助：
+
+不要被发现了！ 
+
+不要找到哦！ 
+
+不要被发现哦！"
+"YUKARI_DENKISAKU_REACTIO_0","先把电灯关掉吧。 ","YUKARI_DENKISAKU_REACTIO_0","机翻辅助：
+
+要先关掉电源才行。 
+
+你得先关灯啊。 
+
+必须先把电关掉。"
+"YUKARI_DENKISAKU_REACTIO_2_0","这个一碰就不好了，是吧。","YUKARI_DENKISAKU_REACTIO_2_0","机翻辅助：
+
+这个要是碰到就糟了，嗯。
+
+这个碰了可不妙，嗯。
+
+这个摸起来很糟糕吧，嗯。"
+"YUKARI_DENKISAKU_REACTIO_3_0","哎呀……好刺痛…… ","YUKARI_DENKISAKU_REACTIO_3_0","机翻辅助：
+
+呜哇……好刺人…… 
+
+嗯……我很紧张…… 
+
+天啊……胆战心惊的……"
+"YUKARI_KYOUHU_REACTION_1_0","哎呀！？ ","YUKARI_KYOUHU_REACTION_1_0","机翻辅助：
+
+哎哎！？ 
+
+诶！？"
+"YUKARI_KYOUHU_REACTION_2_0","啊！ ","YUKARI_KYOUHU_REACTION_2_0","机翻辅助：
+
+呀啊啊！ 
+
+啊啊啊！"
+"YUKARI_KYOUHU_REACTION_3_0","哇，真的吗？ ","YUKARI_KYOUHU_REACTION_3_0","机翻辅助：
+
+哎，真的假的！？ 
+
+哎呀，真的！？ 
+
+呃，真的！？"
+"YUKARI_STAIR_FIND_1_0","啊，发现楼梯！要前进吗？ ","YUKARI_STAIR_FIND_1_0","机翻辅助：
+
+啊，发现楼梯！要前进吗？ 
+
+啊，发现楼梯！前进吧？ 
+
+啊，发现楼梯了！前进吧？"
+"YUKARI_STAIR_FIND_2_0","那边！有楼梯哦。 ","YUKARI_STAIR_FIND_2_0","机翻辅助：
+
+那边！有楼梯哦。 
+
+那里！有楼梯吗？"
+"YUKARI_STAIR_FIND_3_0","看起来可以前往下一个区域呢。","YUKARI_STAIR_FIND_3_0","机翻辅助：
+
+好像可以前进到下一个区域。
+
+好像可以进入下一个区域了呢。
+
+好像要进入下一个区域了呢。"
+"YUKARI_TREASURE_FIND_1_0","宝箱虽然有，但不会是陷阱吧？ ","YUKARI_TREASURE_FIND_1_0","机翻辅助：
+
+有宝箱……应该不是陷阱吧？ 
+
+虽然有宝箱……但不是陷阱吧？ 
+
+有宝箱……不会是陷阱吧？"
+"YUKARI_TREASURE_FIND_2_0","太幸运了！发现宝箱！ ","YUKARI_TREASURE_FIND_2_0","机翻辅助：
+
+太幸运了！发现宝箱！ 
+
+幸运！宝箱！ 
+
+幸运！宝箱来了！"
+"YUKARI_TREASURE_FIND_3_0","宝箱在那里。要打开看看吗？ ","YUKARI_TREASURE_FIND_3_0","机翻辅助：
+
+有宝箱呢。要打开看看吗？ 
+
+有宝箱啊。打开看看？ 
+
+有个宝箱呢。打开看看？"
+"YUKARI_CHECK_WALL_1_0","有什么事吗？要不要调查一下？ ","YUKARI_CHECK_WALL_1_0","机翻辅助：
+
+好像有什么东西……要不要调查一下？ 
+
+好像有什么事……不调查一下吗？ 
+
+好像有什么……要不要调查一下？"
+"YUKARI_CHECK_WALL_2_0","这附近感觉有点可疑呢。","YUKARI_CHECK_WALL_2_0","机翻辅助：
+
+总觉得这附近很可疑啊。
+
+不知道为什么，这一带很可疑。
+
+这附近好奇怪啊。"
+"YUKARI_CHECK_WALL_3_0","咦？好像有什么东西？ ","YUKARI_CHECK_WALL_3_0","机翻辅助：
+
+咦？好像有什么东西？ 
+
+咦？有什么事吗？"
+"YUKARI_SWITCH_FIND_1_0","要按一下开关吗？ ","YUKARI_SWITCH_FIND_1_0","机翻辅助：
+
+要按一下开关吗？ 
+
+试着按下开关？ 
+
+要不要按一下开关？"
+"YUKARI_SWITCH_FIND_2_0","啊，这是开关……？怎么办？ ","YUKARI_SWITCH_FIND_2_0","机翻辅助：
+
+啊，这是开关……？怎么办？ 
+
+啊，这个开关……？怎么办？"
+"YUKARI_SWITCH_FIND_3_0","有开关哦！ ","YUKARI_SWITCH_FIND_3_0","机翻辅助：
+
+有开关呢！ 
+
+有开关哦！"
+"YUKARI_SHORTCUT_FIND_1_0","那里，看起来能通过吧？ ","YUKARI_SHORTCUT_FIND_1_0","机翻辅助：
+
+那边好像可以过去。 
+
+那里应该可以通过吧？ 
+
+那里不是可以通过吗？"
+"YUKARI_SHORTCUT_FIND_2_0","看起来好像能走捷径的地方，发现了！ ","YUKARI_SHORTCUT_FIND_2_0","机翻辅助：
+
+发现可以抄近路的地方！ 
+
+发现可以抄近道的地方！ 
+
+发现能抄近路的地方！"
+"YUKARI_SHORTCUT_FIND_3_0","看，好像有条近路可以走。","YUKARI_SHORTCUT_FIND_3_0","机翻辅助：
+
+你看，可以抄近路的地方。
+
+看，有可以抄近路的地方。
+
+有个可以抄近道的地方。"
+"YUKARI_FOE_WARNING_NEAR__0","哎呀，还在来呢……太烦人了！ ","YUKARI_FOE_WARNING_NEAR__0","机翻辅助：
+
+呃，又来了……太缠人了吧！ 
+
+啊，还来着……太烦人了！ 
+
+啊，还来了……太执着了！"
+"YUKARI_FOE_WARNING_NEAR__2_0","刚才的，还没有追上来吗？ ","YUKARI_FOE_WARNING_NEAR__2_0","机翻辅助：
+
+刚才的F.O.E还没追过来！？ 
+
+刚才的，还没追上来！？ 
+
+刚才那个，还没追上来！？"
+"YUKARI_FOE_WARNING_NEAR__3_0","F.O.E还在附近呢！ ","YUKARI_FOE_WARNING_NEAR__3_0","机翻辅助：
+
+F.O.E还在附近！ 
+
+F.O.E还在附近呢！ 
+
+F.O.E还在附近哟！"
+"YUKARI_1PERSON_HPTP10_1_0","对不起，有点困难…… ","YUKARI_1PERSON_HPTP10_1_0","机翻辅助：
+
+抱歉，有点撑不住了…… 
+
+对不起，有点紧…… 
+
+对不起，有点累……"
+"YUKARI_1PERSON_HPTP10_2_0","哈啊，哈啊……已经到极限了…… ","YUKARI_1PERSON_HPTP10_2_0","机翻辅助：
+
+呼、呼……到极限了…… 
+
+啊、啊……也是极限…… 
+
+哈、哈……极限……"
+"YUKARI_1PERSON_HPTP10_3_0","再也不行了……要不要回去一次？ ","YUKARI_1PERSON_HPTP10_3_0","机翻辅助：
+
+已经不行了……先回去吧？ 
+
+已经不行了……回去一次吧？ 
+
+已经不行了……回去一次？"
+"YUKARI_1PERSON_HP10_1_0","体力快要耗尽了。 ","YUKARI_1PERSON_HP10_1_0","机翻辅助：
+
+体力……快没了…… 
+
+体力好像没有了…… 
+
+体力……快要消失了……"
+"YUKARI_1PERSON_HP10_2_0","唉，有点体力不够啊…… ","YUKARI_1PERSON_HP10_2_0","机翻辅助：
+
+呜呜，体力有点不够…… 
+
+嗯，体力有点吃不消…… 
+
+嗯，体力有点紧张……"
+"YUKARI_1PERSON_HP10_3_0","糟糕，快要倒下了……求恢复…… ","YUKARI_1PERSON_HP10_3_0","机翻辅助：
+
+糟糕，快倒下了……麻烦帮我补血…… 
+
+啊，快要倒下了……请恢复…… 
+
+哎呀，快倒下了……请回复……"
+"YUKARI_1PERSON_TP10_1_0","对不起，我好像快没体力了…… ","YUKARI_1PERSON_TP10_1_0","机翻辅助：
+
+抱歉，我快没体力了…… 
+
+对不起，体力快用完了…… 
+
+对不起，我好像没力气了……"
+"YUKARI_1PERSON_TP10_2_0","唉，累了……要不要稍微休息一下？ ","YUKARI_1PERSON_TP10_2_0","机翻辅助：
+
+呜呜，好累……要不要休息一下？ 
+
+嗯，累了……要不要休息一下？ 
+
+呜呜，累了……要不要休息一下？"
+"YUKARI_1PERSON_TP10_3_0","已经没有精力了呀…… ","YUKARI_1PERSON_TP10_3_0","机翻辅助：
+
+我已经没力气了啦…… 
+
+已经没有力气了……"
+"YUKARI_1PERSON_HP80_1_0","现在的战斗感觉不错呢。","YUKARI_1PERSON_HP80_1_0","机翻辅助：
+
+刚才的战斗感觉不错呢。
+
+现在的战斗，感觉很好呢。
+
+现在的战斗感觉真好啊。"
+"YUKARI_1PERSON_HP80_2_0","希望能够保持这种状态！ ","YUKARI_1PERSON_HP80_2_0","机翻辅助：
+
+如果能继续这样下去就好了！ 
+
+照这样下去就好了！ 
+
+这样下去就好了！"
+"YUKARI_1PERSON_HP80_3_0","感觉像是指挥的胜利？谢谢你喽。","YUKARI_1PERSON_HP80_3_0","机翻辅助：
+
+感觉像是指挥的胜利？谢谢你喽。
+
+感觉指挥的胜利？谢谢你。
+
+是指挥棒的胜利吗？谢谢你。"
+"YUKARI_DUNGEON_START_1_0","不知道会发生什么，所以要小心。","YUKARI_DUNGEON_START_1_0","机翻辅助：
+
+因为不知道会遇到什么，所以要慎重行事。
+
+不知道有什么，要慎重。
+
+不知道会发生什么，要慎重哦。"
+"YUKARI_DUNGEON_START_2_0","应该没有忘记什么东西吧？好，走吧！ ","YUKARI_DUNGEON_START_2_0","机翻辅助：
+
+应该没有忘记什么东西吧？好，走吧！ 
+
+没有遗忘的东西吧？好，走！ 
+
+没忘东西吧？好，走吧！"
+"YUKARI_DUNGEON_START_3_0","好的，我们来试试看吧！ ","YUKARI_DUNGEON_START_3_0","机翻辅助：
+
+好～～来大干一场吧！ 
+
+好了，要做一次吗！ 
+
+好了，要做吗？"
+"YUKARI_QUEST_START_1_0","那么，就努力吧。","YUKARI_QUEST_START_1_0","机翻辅助：
+
+好啦，加油吧。
+
+那么，要努力吗。
+
+那么，要努力吗？"
+"YUKARI_QUEST_START_2_0","准备万全了！ ","YUKARI_QUEST_START_2_0","机翻辅助：
+
+准备万全了！ 
+
+一切都准备好了！ 
+
+一切准备就绪！"
+"YUKARI_QUEST_START_3_0","特别上映，出发吧！ ","YUKARI_QUEST_START_3_0","机翻辅助：
+
+特别上映，开始喽～～！ 
+
+特别上映！ 
+
+特别上映，去吧～！"
 "YUKARI_TOUHA_25_1_0","还有很长的路要走呢。
-小心前进。 ","YUKARI_TOUHA_25_1_0",""
-"YUKARI_TOUHA_25_2_0","哇哦……这个楼层看起来也很宽敞呢…… ","YUKARI_TOUHA_25_2_0",""
-"YUKARI_TOUHA_50_1_0","地图，填得很不错嘛！ ","YUKARI_TOUHA_50_1_0",""
-"YUKARI_TOUHA_50_2_0","差不多就是一半的感觉吧？ ","YUKARI_TOUHA_50_2_0",""
-"YUKARI_TOUHA_75_1_0","再坚持一会儿吧！ ","YUKARI_TOUHA_75_1_0",""
-"YUKARI_TOUHA_75_2_0","剩下的空白让人在意呢。 ","YUKARI_TOUHA_75_2_0",""
+小心前进。 ","YUKARI_TOUHA_25_1_0","机翻辅助：
+
+前面的路还很长呢。
+前进时要小心。 
+
+还有很长的路要走呢。
+小心前进。 
+
+路还很长呢。小心前进。"
+"YUKARI_TOUHA_25_2_0","哇哦……这个楼层看起来也很宽敞呢…… ","YUKARI_TOUHA_25_2_0","机翻辅助：
+
+呜哇～～……这一层楼好像也很宽广…… 
+
+天啊……这个楼层看起来也很宽敞呢…… 
+
+嗯……这个楼层看起来也很大啊……"
+"YUKARI_TOUHA_50_1_0","地图，填得很不错嘛！ ","YUKARI_TOUHA_50_1_0","机翻辅助：
+
+地图填得差不多了呢！ 
+
+地图，被很好的感觉填满了呢！ 
+
+地图，填得真好啊！"
+"YUKARI_TOUHA_50_2_0","差不多就是一半的感觉吧？ ","YUKARI_TOUHA_50_2_0","机翻辅助：
+
+差不多填到一半了吧？ 
+
+正好是一半的感觉吧？"
+"YUKARI_TOUHA_75_1_0","再坚持一会儿吧！ ","YUKARI_TOUHA_75_1_0","机翻辅助：
+
+还差一点点！ 
+
+还有一点呢！ 
+
+就差一点点了！"
+"YUKARI_TOUHA_75_2_0","剩下的空白让人在意呢。 ","YUKARI_TOUHA_75_2_0","机翻辅助：
+
+剩下的空白让人很在意呢。 
+
+我很在意剩下的空白。"
 "YUKARI_TOUHA_100_1_0","嗯，成就感！
-地图制作辛苦了！ ","YUKARI_TOUHA_100_1_0",""
+地图制作辛苦了！ ","YUKARI_TOUHA_100_1_0","机翻辅助：
+
+嗯～～成就感！
+画地图辛苦了！ 
+
+嗯，成就感！
+映射，辛苦了！ 
+
+嗯，成就感！
+绘图，辛苦了！"
 "YUKARI_TOUHA_100_2_0","这个区域的事情就交给我了？
-这种感觉？ ","YUKARI_TOUHA_100_2_0",""
-"YUKARI_MAPPING_ICON_ALL__0","对对对！ ","YUKARI_MAPPING_ICON_ALL__0",""
-"YUKARI_MAPPING_ICON_ALL__2_0","哇，这是一张准确的地图呢！ ","YUKARI_MAPPING_ICON_ALL__2_0",""
-"YUKARI_MAPPING_ICON_KAID_0","そうそう！　階段、そこにあったよね。","YUKARI_MAPPING_ICON_KAID_0",""
-"YUKARI_MAPPING_ICON_KAID_2_0","这样就能毫不迷茫地走到楼梯口了。 ","YUKARI_MAPPING_ICON_KAID_2_0",""
+这种感觉？ ","YUKARI_TOUHA_100_2_0","机翻辅助：
+
+这个区域就交给我吧？
+大概是这种感觉？ 
+
+这个区域的事就交给我吧？
+这样的感觉？ 
+
+这个区域的事情就交给我吧？
+的感觉？"
+"YUKARI_MAPPING_ICON_ALL__0","对对对！ ","YUKARI_MAPPING_ICON_ALL__0","机翻辅助：
+
+没错没错！ 
+
+对、对！ 
+
+很对很对！"
+"YUKARI_MAPPING_ICON_ALL__2_0","哇，这是一张准确的地图呢！ ","YUKARI_MAPPING_ICON_ALL__2_0","机翻辅助：
+
+哦，好精确的地图！ 
+
+啊，这地图真准确啊！ 
+
+啊，是正确的地图啊！"
+"YUKARI_MAPPING_ICON_KAID_0","对对对！楼梯就在那里。","YUKARI_MAPPING_ICON_KAID_0","机翻辅助：
+
+对对对！楼梯就在那里。
+
+对了对了！楼梯在那里吧。"
+"YUKARI_MAPPING_ICON_KAID_2_0","这样就能毫不迷茫地走到楼梯口了。 ","YUKARI_MAPPING_ICON_KAID_2_0","机翻辅助：
+
+这样就能毫不迷惘地走到楼梯了。 
+
+这样就可以毫不犹豫地走到楼梯了。"
 "YUKARI_MAPPING_CHANGE_CO_0","哇，那个颜色好可爱！
-感觉很不错。 ","YUKARI_MAPPING_CHANGE_CO_0",""
-"YUKARI_MAPPING_CHANGE_CO_2_0","换个颜色，就容易看懂了！ ","YUKARI_MAPPING_CHANGE_CO_2_0",""
-"YUKARI_MAPPING_ICON_DEL__0","整理整顿对我来说挺不擅长的呢…… ","YUKARI_MAPPING_ICON_DEL__0",""
-"YUKARI_MAPPING_ICON_DEL__2_0","毫无犹豫地放下是很重要的呢～","YUKARI_MAPPING_ICON_DEL__2_0",""
-"YUKARI_MAPPING_MEMO_1_0","备忘录很重要呢，嗯。","YUKARI_MAPPING_MEMO_1_0",""
-"YUKARI_MAPPING_MEMO_2_0","记下备忘录，之后就能放心了。","YUKARI_MAPPING_MEMO_2_0",""
-"YUKARI_DOOR_OPEN_1_0","过来过来！ ","YUKARI_DOOR_OPEN_1_0",""
-"YUKARI_DOOR_OPEN_2_0","快，走吧！ ","YUKARI_DOOR_OPEN_2_0",""
-"YUKARI_DOOR_OPEN_3_0","哦赛基！ ","YUKARI_DOOR_OPEN_3_0",""
+感觉很不错。 ","YUKARI_MAPPING_CHANGE_CO_0","机翻辅助：
+
+啊，那个颜色好可爱！
+感觉不错。 
+
+啊，那个颜色好可爱！
+感觉很好。"
+"YUKARI_MAPPING_CHANGE_CO_2_0","换个颜色，就容易看懂了！ ","YUKARI_MAPPING_CHANGE_CO_2_0","机翻辅助：
+
+改变颜色后，就很好辨认了呢！ 
+
+改变颜色的话，很容易理解呢！ 
+
+换个颜色，就容易理解了！"
+"YUKARI_MAPPING_ICON_DEL__0","整理整顿对我来说挺不擅长的呢…… ","YUKARI_MAPPING_ICON_DEL__0","机翻辅助：
+
+我其实满不擅长整理的…… 
+
+整理整顿真的很不擅长啊…… 
+
+我很不擅长整理整顿……"
+"YUKARI_MAPPING_ICON_DEL__2_0","毫无犹豫地放下是很重要的呢～","YUKARI_MAPPING_ICON_DEL__2_0","机翻辅助：
+
+毫不迷惘地丢掉是很重要的呢～～
+
+毫不犹豫地扔掉是很重要的呢～
+
+毫不犹豫地扔掉很重要哦～"
+"YUKARI_MAPPING_MEMO_1_0","备忘录很重要呢，嗯。","YUKARI_MAPPING_MEMO_1_0","机翻辅助：
+
+笔记很重要呢，嗯。
+
+笔记很重要吧，嗯。"
+"YUKARI_MAPPING_MEMO_2_0","记下备忘录，之后就能放心了。","YUKARI_MAPPING_MEMO_2_0","机翻辅助：
+
+做好笔记的话，之后就能放心了。
+
+记笔记的话，以后就放心了。
+
+做好笔记的话，之后就放心了吧。"
+"YUKARI_DOOR_OPEN_1_0","过来过来！ ","YUKARI_DOOR_OPEN_1_0","机翻辅助：
+
+这边这边！ 
+
+这边这边这边！"
+"YUKARI_DOOR_OPEN_2_0","快，走吧！ ","YUKARI_DOOR_OPEN_2_0","机翻辅助：
+
+好啦，走喽！ 
+
+看，我走了！ 
+
+好了，走吧！"
+"YUKARI_DOOR_OPEN_3_0","哦赛基！ ","YUKARI_DOOR_OPEN_3_0","机翻辅助：
+
+冲啊～～！ 
+
+哎呀！ 
+
+喂！"

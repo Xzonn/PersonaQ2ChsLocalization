@@ -1,7 +1,37 @@
 "source","target","id","developer_comments"
-"DG_OBJECTIVE_MSG_LARGE_0_0","寻找英雄腰带。","DG_OBJECTIVE_MSG_LARGE_0_0",""
-"DG_OBJECTIVE_MSG_SMALL_0_0","到某个地方找到英雄腰带。","DG_OBJECTIVE_MSG_SMALL_0_0",""
-"DG_OBJECTIVE_MSG_SMALL_0_2_0","寻找目的地上的英雄腰带。","DG_OBJECTIVE_MSG_SMALL_0_2_0",""
-"DG_OBJECTIVE_MSG_SMALL_0_3_0","前往完成任务报告。","DG_OBJECTIVE_MSG_SMALL_0_3_0",""
-"DG_OBJECTIVE_MSG_SMALL_0_4_0","任务1 小目标04","DG_OBJECTIVE_MSG_SMALL_0_4_0",""
-"DG_OBJECTIVE_MSG_SMALL_0_5_0","任务1 小目标05","DG_OBJECTIVE_MSG_SMALL_0_5_0",""
+"DG_OBJECTIVE_MSG_LARGE_0_0","寻找英雄腰带。","DG_OBJECTIVE_MSG_LARGE_0_0","机翻辅助：
+
+寻找英雄皮带
+
+寻找英雄腰带"
+"DG_OBJECTIVE_MSG_SMALL_0_0","到某个地方找到英雄腰带。","DG_OBJECTIVE_MSG_SMALL_0_0","机翻辅助：
+
+寻找位于某处的英雄腰带
+
+找到某个地方的英雄腰带吧
+
+寻找某处的英雄腰带"
+"DG_OBJECTIVE_MSG_SMALL_0_2_0","寻找目的地上的英雄腰带。","DG_OBJECTIVE_MSG_SMALL_0_2_0","机翻辅助：
+
+寻找位于目的地的英雄腰带
+
+找到目的地的英雄腰带吧
+
+寻找目的地的英雄地带"
+"DG_OBJECTIVE_MSG_SMALL_0_3_0","前往完成任务报告。","DG_OBJECTIVE_MSG_SMALL_0_3_0","机翻辅助：
+
+去完成任务报告
+
+向着任务完成报告前进吧
+
+前往任务通关报告"
+"DG_OBJECTIVE_MSG_SMALL_0_4_0","任务1 小目标04","DG_OBJECTIVE_MSG_SMALL_0_4_0","机翻辅助：
+
+任务1 小目标04
+
+任务1小目标04"
+"DG_OBJECTIVE_MSG_SMALL_0_5_0","任务1 小目标05","DG_OBJECTIVE_MSG_SMALL_0_5_0","机翻辅助：
+
+任务1 小目标05
+
+任务1小目标05"

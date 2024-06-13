@@ -1,24 +1,48 @@
 "source","target","id","developer_comments"
-"OK_SEL_0","ＯＫ","OK_SEL_0",""
-"YESNO_SEL_0","是的","YESNO_SEL_0","机翻辅助：
+"OK_SEL_0","ＯＫ","OK_SEL_0","机翻辅助：
 
-好的。
+OK
 
-是的
+确定"
+"YESNO_SEL_0","是的","YESNO_SEL_0",""
+"YESNO_SEL_1","不是","YESNO_SEL_1",""
+"FIRST_LEADER_NOT_EXIST_0","＞在FIRST队伍中
+没有队长。","FIRST_LEADER_NOT_EXIST_0","机翻辅助：
 
-是"
-"YESNO_SEL_1","不是","YESNO_SEL_1","机翻辅助：
+＞在FIRST队伍中
+没有队长。
 
-不。
+>FIRST团队
+领导不存在
 
-否
+第一团队中没有领导者。"
+"SECOND_LEADER_NOT_EXIST_0","＞在SECOND队伍中
+没有队长。","SECOND_LEADER_NOT_EXIST_0","机翻辅助：
 
-没有"
-"FIRST_LEADER_NOT_EXIST_0","＞ＦＩＲＳＴチームに
-　リーダーが存在しません","FIRST_LEADER_NOT_EXIST_0",""
-"SECOND_LEADER_NOT_EXIST_0","＞ＳＥＣＯＮＤチームに
-　リーダーが存在しません","SECOND_LEADER_NOT_EXIST_0",""
-"FIRST_NAVI_NOT_EXIST_0","＞ＦＩＲＳＴチームに
-　ナビが存在しません","FIRST_NAVI_NOT_EXIST_0",""
-"SECOND_NAVI_NOT_EXIST_0","＞ＳＥＣＯＮＤチームに
-　ナビが存在しません","SECOND_NAVI_NOT_EXIST_0",""
+＞在SECOND队伍中
+没有队长。
+
+>SECOND团队中
+不存在领导
+
+SECOND团队中不存在领导"
+"FIRST_NAVI_NOT_EXIST_0","＞在FIRST队伍中
+没有导航。","FIRST_NAVI_NOT_EXIST_0","机翻辅助：
+
+＞在FIRST队伍中
+没有导航。
+
+>FIRST团队
+导航不存在
+
+第一组没有导航系统。"
+"SECOND_NAVI_NOT_EXIST_0","＞在SECOND队伍中
+没有导航。","SECOND_NAVI_NOT_EXIST_0","机翻辅助：
+
+＞在SECOND队伍中
+没有导航。
+
+>SECOND团队中
+导航不存在
+
+SECOND团队中没有导航系统"

@@ -16,6 +16,7 @@ dotnet publish -c Release --framework net8.0 "bin\PersonaQ2ChsLocalizationHelper
 & $cpkmakec "original_files\patch102.cpk" -extract="temp\patch102"
 & $pq2helper export -i "original_files\unpacked" -o "temp\export"
 python scripts\export_code_bin.py
+python scripts\export_ctd.py
 
 # Convert texts and create a character table
 python scripts\remove_duplicate_files.py
@@ -26,6 +27,7 @@ python scripts\convert_json_to_msg.py
 python scripts\copy_duplicate_files.py
 
 # Import texts
+python scripts\import_ctd.py
 python scripts\import_code_bin.py
 & $pq2helper import -i "original_files\unpacked" -j "temp\import" -o "temp\patch102"
 

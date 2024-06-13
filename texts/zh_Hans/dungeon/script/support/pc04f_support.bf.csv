@@ -1,117 +1,678 @@
 "source","target","id","developer_comments"
-"JUSTINE_FOE_FOLLOW_START_0","那是…… ","JUSTINE_FOE_FOLLOW_START_0",""
-"JUSTINE_FOE_FOLLOW_START_2_0","我被F.O.E察觉到了。 ","JUSTINE_FOE_FOLLOW_START_2_0",""
-"JUSTINE_FOE_FOLLOW_START_3_0","追尾状态。 ","JUSTINE_FOE_FOLLOW_START_3_0",""
-"JUSTINE_FOE_NEAR_1_0","F.O.E正在接近。 ","JUSTINE_FOE_NEAR_1_0",""
-"JUSTINE_FOE_NEAR_2_0","请注意，附近有敌方侦察兵。 ","JUSTINE_FOE_NEAR_2_0",""
-"JUSTINE_FOE_NEAR_3_0","谨慎前行。 ","JUSTINE_FOE_NEAR_3_0",""
+"JUSTINE_FOE_FOLLOW_START_0","那是…… ","JUSTINE_FOE_FOLLOW_START_0","机翻辅助：
+
+那是……"
+"JUSTINE_FOE_FOLLOW_START_2_0","我被F.O.E察觉到了。 ","JUSTINE_FOE_FOLLOW_START_2_0","机翻辅助：
+
+被F.O.E发现了。 
+
+我注意到F.O.E了。 
+
+我被F.O.E发现了。"
+"JUSTINE_FOE_FOLLOW_START_3_0","追尾状态。 ","JUSTINE_FOE_FOLLOW_START_3_0","机翻辅助：
+
+处于追踪状态。 
+
+处于跟踪状态。"
+"JUSTINE_FOE_NEAR_1_0","F.O.E正在接近。 ","JUSTINE_FOE_NEAR_1_0","机翻辅助：
+
+F.O.E正在接近。"
+"JUSTINE_FOE_NEAR_2_0","请注意，附近有敌方侦察兵。 ","JUSTINE_FOE_NEAR_2_0","机翻辅助：
+
+请注意，F.O.E就在附近。"
+"JUSTINE_FOE_NEAR_3_0","谨慎前行。 ","JUSTINE_FOE_NEAR_3_0","机翻辅助：
+
+要慎重前进。 
+
+要慎重地前进。"
 "JUSTINE_FOE_FOLLOW_END_1_0","这样你会稍微安心一点的，
-卡萝丽娜。 ","JUSTINE_FOE_FOLLOW_END_1_0",""
+卡萝丽娜。 ","JUSTINE_FOE_FOLLOW_END_1_0","机翻辅助：
+
+这样就能稍微冷静下来了呢。
+卡萝丽娜。 
+
+这样能稍微冷静一点呢。
+卡萝丽娜。 
+
+这样就能稍微冷静一些了。
+卡萝丽娜。"
 "JUSTINE_FOE_FOLLOW_END_2_0","看来，
-F.O.E已经停止追踪了。 ","JUSTINE_FOE_FOLLOW_END_2_0",""
-"JUSTINE_FOE_FOLLOW_END_3_0","看起来已经停止追尾了，卡萝丽娜。 ","JUSTINE_FOE_FOLLOW_END_3_0",""
+F.O.E已经停止追踪了。 ","JUSTINE_FOE_FOLLOW_END_2_0","机翻辅助：
+
+看来F.O.E.
+停止追踪了。 
+
+看来，F.O.E已经停止跟踪了。
+ 
+
+看来F.O.E停止了跟踪。"
+"JUSTINE_FOE_FOLLOW_END_3_0","看起来已经停止追尾了，卡萝丽娜。 ","JUSTINE_FOE_FOLLOW_END_3_0","机翻辅助：
+
+你好像停止追踪了呢，卡萝琳娜。 
+
+好像停止跟踪了，卡萝丽娜。 
+
+卡萝丽娜。"
 "JUSTINE_KANSI_REACTION_1_0","请小心地前进，
-以免被灯光发现。 ","JUSTINE_KANSI_REACTION_1_0",""
+以免被灯光发现。 ","JUSTINE_KANSI_REACTION_1_0","机翻辅助：
+
+请不要被灯光发现
+前进吧。 
+
+请前进，以免在灯光下发现。
+ 
+
+请前进，不要被灯光发现。"
 "JUSTINE_KANSI_REACTION_2_0","在关闭开关之前，
-避开灯光前进。 ","JUSTINE_KANSI_REACTION_2_0",""
+避开灯光前进。 ","JUSTINE_KANSI_REACTION_2_0","机翻辅助：
+
+在关掉开关之前
+请避开灯光前进。 
+
+在关闭开关之前，
+要避开车灯前进。 
+
+在关掉开关之前，要避开灯前进。"
 "JUSTINE_KANSI_REACTION_3_0","避开就可以前进，
-不会被发现的。 ","JUSTINE_KANSI_REACTION_3_0",""
+不会被发现的。 ","JUSTINE_KANSI_REACTION_3_0","机翻辅助：
+
+只要避开灯光前进
+应该就不会被发现。 
+
+如果避开进行的话，
+是不会被发现的吧。 
+
+避开前进的话，就不会找到了吧。"
 "JUSTINE_DENKISAKU_REACTI_0","如果不停电，
-就无法前进。 ","JUSTINE_DENKISAKU_REACTI_0",""
-"JUSTINE_DENKISAKU_REACTI_2_0","应该有关闭电源的开关。 ","JUSTINE_DENKISAKU_REACTI_2_0",""
+就无法前进。 ","JUSTINE_DENKISAKU_REACTI_0","机翻辅助：
+
+不关掉电灯
+就无法前进。 
+
+如果不断电，就无法前进。
+ 
+
+如果不关灯，就无法前进。"
+"JUSTINE_DENKISAKU_REACTI_2_0","应该有关闭电源的开关。 ","JUSTINE_DENKISAKU_REACTI_2_0","机翻辅助：
+
+应该有可以关灯的开关。 
+
+应该有断电的开关。 
+
+应该有关灯的开关。"
 "JUSTINE_DENKISAKU_REACTI_3_0","如果能找到开关，
-应该就能继续前进了。 ","JUSTINE_DENKISAKU_REACTI_3_0",""
-"JUSTINE_KYOUHU_REACTION__0","啊，风……！？ ","JUSTINE_KYOUHU_REACTION__0",""
-"JUSTINE_KYOUHU_REACTION__2_0","这是用来移动的。 ","JUSTINE_KYOUHU_REACTION__2_0",""
-"JUSTINE_KYOUHU_REACTION__3_0","没事吧…… ","JUSTINE_KYOUHU_REACTION__3_0",""
+应该就能继续前进了。 ","JUSTINE_DENKISAKU_REACTI_3_0","机翻辅助：
+
+只要找到开关
+应该就能前进。 
+
+只要找到开关，
+就能走得更远。 
+
+如果能找到开关的话，应该能往前走。"
+"JUSTINE_KYOUHU_REACTION__0","啊，风……！？ ","JUSTINE_KYOUHU_REACTION__0","机翻辅助：
+
+啊，有风……！？ 
+
+啊，风……！？"
+"JUSTINE_KYOUHU_REACTION__2_0","这是用来移动的。 ","JUSTINE_KYOUHU_REACTION__2_0","机翻辅助：
+
+我们搭着它移动。 
+
+坐这个移动。 
+
+乘坐这个移动。"
+"JUSTINE_KYOUHU_REACTION__3_0","没事吧…… ","JUSTINE_KYOUHU_REACTION__3_0","机翻辅助：
+
+没……没问题吗…… 
+
+没关系吗…… 
+
+没事吧……"
 "JUSTINE_STAIR_FIND_1_0","看起来是这样的。
-请确认一下。 ","JUSTINE_STAIR_FIND_1_0",""
+请确认一下。 ","JUSTINE_STAIR_FIND_1_0","机翻辅助：
+
+看来没问题呢。
+请确认看看。 
+
+好像是那样啊。
+请确认一下。 
+
+好像是这样。请确认一下。"
 "JUSTINE_STAIR_FIND_2_0","不愧是卡萝丽娜，
-赶紧确认一下。 ","JUSTINE_STAIR_FIND_2_0",""
-"JUSTINE_STAIR_FIND_3_0","前方看到的是楼梯。 ","JUSTINE_STAIR_FIND_3_0",""
-"JUSTINE_TREASURE_FIND_1_0","那个看起来像宝箱。 ","JUSTINE_TREASURE_FIND_1_0",""
-"JUSTINE_TREASURE_FIND_2_0","我找到了宝箱。 ","JUSTINE_TREASURE_FIND_2_0",""
-"JUSTINE_TREASURE_FIND_3_0","那就是所谓的宝物吗。 ","JUSTINE_TREASURE_FIND_3_0",""
-"JUSTINE_CHECK_WALL_1_0","附近似乎有什么东西。 ","JUSTINE_CHECK_WALL_1_0",""
-"JUSTINE_CHECK_WALL_2_0","我感觉到附近有什么。 ","JUSTINE_CHECK_WALL_2_0",""
+赶紧确认一下。 ","JUSTINE_STAIR_FIND_2_0","机翻辅助：
+
+真不愧是卡萝丽娜
+请快点确认。 
+
+萝丽娜卡是流石，
+赶紧确认。 
+
+真不愧是卡萝丽娜，
+赶紧确认一下。"
+"JUSTINE_STAIR_FIND_3_0","前方看到的是楼梯。 ","JUSTINE_STAIR_FIND_3_0","机翻辅助：
+
+前方可以看到楼梯。 
+
+前面看到的是楼梯啊。 
+
+前面看到的是楼梯。"
+"JUSTINE_TREASURE_FIND_1_0","那个看起来像宝箱。 ","JUSTINE_TREASURE_FIND_1_0","机翻辅助：
+
+那似乎是宝箱。 
+
+那个好像是宝箱。 
+
+那好像是个百宝箱。"
+"JUSTINE_TREASURE_FIND_2_0","我找到了宝箱。 ","JUSTINE_TREASURE_FIND_2_0","机翻辅助：
+
+找到宝箱了呢。 
+
+你找到宝箱了啊。"
+"JUSTINE_TREASURE_FIND_3_0","那就是所谓的宝物吗。 ","JUSTINE_TREASURE_FIND_3_0","机翻辅助：
+
+那就是所谓的宝物吧。 
+
+那就是所谓的宝贝。 
+
+那就是宝物啊。"
+"JUSTINE_CHECK_WALL_1_0","附近似乎有什么东西。 ","JUSTINE_CHECK_WALL_1_0","机翻辅助：
+
+附近好像有什么。 
+
+附近好像有什么东西。"
+"JUSTINE_CHECK_WALL_2_0","我感觉到附近有什么。 ","JUSTINE_CHECK_WALL_2_0","机翻辅助：
+
+我在这附近感觉到什么了。 
+
+我从这附近感觉到什么。 
+
+我感觉这附近有什么。"
 "JUSTINE_CHECK_WALL_3_0","这附近也值得调查一下。
- ","JUSTINE_CHECK_WALL_3_0",""
-"JUSTINE_SWITCH_FIND_1_0","那是……开关吧。 ","JUSTINE_SWITCH_FIND_1_0",""
-"JUSTINE_SWITCH_FIND_2_0","附近有一个开关。 ","JUSTINE_SWITCH_FIND_2_0",""
+ ","JUSTINE_CHECK_WALL_3_0","机翻辅助：
+
+调查一下这附近
+应该也不错。 
+
+调查一下这附近也很好吧。
+ 
+
+试着调查一下这附近也不错吧。"
+"JUSTINE_SWITCH_FIND_1_0","那是……开关吧。 ","JUSTINE_SWITCH_FIND_1_0","机翻辅助：
+
+那是……开关吧。 
+
+那是……开关啊。 
+
+那是……是开关吧。"
+"JUSTINE_SWITCH_FIND_2_0","附近有一个开关。 ","JUSTINE_SWITCH_FIND_2_0","机翻辅助：
+
+附近有开关。"
 "JUSTINE_SWITCH_FIND_3_0","如果按下开关，
-会有一些变化吧。 ","JUSTINE_SWITCH_FIND_3_0",""
-"JUSTINE_SHORTCUT_FIND_1_0","附近似乎有一堵可以通行的墙。 ","JUSTINE_SHORTCUT_FIND_1_0",""
-"JUSTINE_SHORTCUT_FIND_2_0","那面墙也许可以穿过去。 ","JUSTINE_SHORTCUT_FIND_2_0",""
-"JUSTINE_SHORTCUT_FIND_3_0","请检查附近的墙壁。 ","JUSTINE_SHORTCUT_FIND_3_0",""
+会有一些变化吧。 ","JUSTINE_SWITCH_FIND_3_0","机翻辅助：
+
+只要按下开关
+应该就会有某种变化。 
+
+按下开关，
+会有什么变化吧。"
+"JUSTINE_SHORTCUT_FIND_1_0","附近似乎有一堵可以通行的墙。 ","JUSTINE_SHORTCUT_FIND_1_0","机翻辅助：
+
+附近好像有墙壁可以穿过去。 
+
+附近好像有可以通过的墙。 
+
+附近好像有可以通过的墙壁。"
+"JUSTINE_SHORTCUT_FIND_2_0","那面墙也许可以穿过去。 ","JUSTINE_SHORTCUT_FIND_2_0","机翻辅助：
+
+那面墙或许可以穿过去。 
+
+也许能通过那堵墙。 
+
+那堵墙，也许能通过。"
+"JUSTINE_SHORTCUT_FIND_3_0","请检查附近的墙壁。 ","JUSTINE_SHORTCUT_FIND_3_0","机翻辅助：
+
+请调查一下附近的墙壁。 
+
+请查一下附近的墙壁。 
+
+请检查一下附近的墙壁。"
 "JUSTINE_PARTY_DEAD_1_0","卡萝丽娜……
-你……没事吧…… ","JUSTINE_PARTY_DEAD_1_0",""
-"JUSTINE_PARTY_DEAD_2_0","先赶紧恢复健康。 ","JUSTINE_PARTY_DEAD_2_0",""
+你……没事吧…… ","JUSTINE_PARTY_DEAD_1_0","机翻辅助：
+
+卡萝丽娜……
+没……没问题吗…… 
+
+萝妮萝娜……
+是……不要紧吧…… 
+
+卡萝丽娜……
+没关系吧……"
+"JUSTINE_PARTY_DEAD_2_0","先赶紧恢复健康。 ","JUSTINE_PARTY_DEAD_2_0","机翻辅助：
+
+先赶快回复再说。 
+
+你先抓紧恢复啊。 
+
+请尽快恢复。"
 "JUSTINE_PARTY_DEAD_3_0","考虑到回归，
-选择行动。 ","JUSTINE_PARTY_DEAD_3_0",""
+选择行动。 ","JUSTINE_PARTY_DEAD_3_0","机翻辅助：
+
+请考虑撤退
+选择行动。 
+
+也要考虑回归，
+选择行动。 
+
+考虑到返回，
+选择行动。"
 "JUSTINE_FOE_WARNING_NEAR_0","我仍然被F.O.E追赶着。
- 卡萝丽娜也要小心。 ","JUSTINE_FOE_WARNING_NEAR_0",""
-"JUSTINE_FOE_WARNING_NEAR_2_0","继续保持警惕。 ","JUSTINE_FOE_WARNING_NEAR_2_0",""
-"JUSTINE_FOE_WARNING_NEAR_3_0","F.O.E正在追踪状态。 ","JUSTINE_FOE_WARNING_NEAR_3_0",""
-"JUSTINE_PARTY_HPTP10_1_0","诸位，看起来已经到达了极限的样子…… ","JUSTINE_PARTY_HPTP10_1_0",""
-"JUSTINE_PARTY_HPTP10_2_0","应该中止作战。 ","JUSTINE_PARTY_HPTP10_2_0",""
-"JUSTINE_PARTY_HPTP10_3_0","大家都看起来很疲倦。 ","JUSTINE_PARTY_HPTP10_3_0",""
+ 卡萝丽娜也要小心。 ","JUSTINE_FOE_WARNING_NEAR_0","机翻辅助：
+
+我们还在被F.O.E.追着。
+卡萝丽娜也请警戒。 
+
+我还在被F.O.E追赶。
+萝妮娜也要提高警惕。 
+
+我还在追F.O.E。
+卡萝丽娜也要警惕。"
+"JUSTINE_FOE_WARNING_NEAR_2_0","继续保持警惕。 ","JUSTINE_FOE_WARNING_NEAR_2_0","机翻辅助：
+
+接下来也不能松懈哦。 
+
+继续，不能松懈哦。 
+
+我不会继续放松的。"
+"JUSTINE_FOE_WARNING_NEAR_3_0","F.O.E正在追踪状态。 ","JUSTINE_FOE_WARNING_NEAR_3_0","机翻辅助：
+
+F.O.E进入追踪状态。 
+
+F.O.E是跟踪状态。 
+
+F.O.E处于跟踪状态。"
+"JUSTINE_PARTY_HPTP10_1_0","诸位，看起来已经到达了极限的样子…… ","JUSTINE_PARTY_HPTP10_1_0","机翻辅助：
+
+各位似乎已经到达极限了…… 
+
+各位，已经到了极限的样子……"
+"JUSTINE_PARTY_HPTP10_2_0","应该中止作战。 ","JUSTINE_PARTY_HPTP10_2_0","机翻辅助：
+
+应该中止作战。 
+
+我们应该停止作战。 
+
+你应该停止作战。"
+"JUSTINE_PARTY_HPTP10_3_0","大家都看起来很疲倦。 ","JUSTINE_PARTY_HPTP10_3_0","机翻辅助：
+
+各位看起来很疲惫。 
+
+大家疲劳的颜色很浓。 
+
+大家都很疲惫。"
 "JUSTINE_PARTY_HP10_1_0","哎呀，卡萝丽娜竟然这么温柔……
-不过我同意。 ","JUSTINE_PARTY_HP10_1_0",""
+不过我同意。 ","JUSTINE_PARTY_HP10_1_0","机翻辅助：
+
+哎呀，以卡萝丽娜来说，这很温柔……
+但我也有同感。 
+
+哎呀，对卡萝丽娜来说很温柔……
+但是有同感。 
+
+哎呀，萝丽娜卡那么温柔……
+不过我也有同感。"
 "JUSTINE_PARTY_HP10_2_0","我确认了派对中体力的下降。
- ","JUSTINE_PARTY_HP10_2_0",""
-"JUSTINE_PARTY_HP10_3_0","首先要冷静下来恢复。 ","JUSTINE_PARTY_HP10_3_0",""
-"JUSTINE_1PERSON_HPTP10_1_0","是时候到达极限了吗？ ","JUSTINE_1PERSON_HPTP10_1_0",""
-"JUSTINE_1PERSON_HPTP10_2_0","心灵和身体都有极限。 ","JUSTINE_1PERSON_HPTP10_2_0",""
-"JUSTINE_1PERSON_HPTP10_3_0","请伸出援助之手。 ","JUSTINE_1PERSON_HPTP10_3_0",""
-"JUSTINE_PARTY_TP10_1_0","卡萝丽娜，让他们休息吧。 ","JUSTINE_PARTY_TP10_1_0",""
+ ","JUSTINE_PARTY_HP10_2_0","机翻辅助：
+
+我确认到队伍内的体力
+正在降低。 
+
+
+确认了派对上体力的下降。 
+
+确认了聚会内的体力下降。"
+"JUSTINE_PARTY_HP10_3_0","首先要冷静下来恢复。 ","JUSTINE_PARTY_HP10_3_0","机翻辅助：
+
+先冷静下来恢复体力。 
+
+首先要冷静地进行恢复。 
+
+首先要冷静地恢复。"
+"JUSTINE_1PERSON_HPTP10_1_0","是时候到达极限了吗？ ","JUSTINE_1PERSON_HPTP10_1_0","机翻辅助：
+
+差不多到极限了吧？ 
+
+是不是快到极限了？"
+"JUSTINE_1PERSON_HPTP10_2_0","心灵和身体都有极限。 ","JUSTINE_1PERSON_HPTP10_2_0","机翻辅助：
+
+身心都到极限了。 
+
+心和身体都是极限。 
+
+身心都到了极限。"
+"JUSTINE_1PERSON_HPTP10_3_0","请伸出援助之手。 ","JUSTINE_1PERSON_HPTP10_3_0","机翻辅助：
+
+请伸出援手。 
+
+请伸出恢复之手。"
+"JUSTINE_PARTY_TP10_1_0","卡萝丽娜，让他们休息吧。 ","JUSTINE_PARTY_TP10_1_0","机翻辅助：
+
+卡萝丽娜，让他们休息吧。 
+
+萝丽娜卡，让他们休息吧。"
 "JUSTINE_PARTY_TP10_2_0","大家的精力已经到了极限……
- 让我们回去吧，卡萝丽娜。 ","JUSTINE_PARTY_TP10_2_0",""
-"JUSTINE_PARTY_TP10_3_0","现在这样下去很难战斗。 ","JUSTINE_PARTY_TP10_3_0",""
-"JUSTINE_1PERSON_HP10_1_0","囚犯的体力已经到达极限了，要不要休息一下？ ","JUSTINE_1PERSON_HP10_1_0",""
-"JUSTINE_1PERSON_HP10_2_0","囚犯的体力正在下降。 ","JUSTINE_1PERSON_HP10_2_0",""
-"JUSTINE_1PERSON_HP10_3_0","请有人帮囚犯恢复健康。 ","JUSTINE_1PERSON_HP10_3_0",""
-"JUSTINE_1PERSON_TP10_1_0","看起来精神状态有些疲惫…… ","JUSTINE_1PERSON_TP10_1_0",""
-"JUSTINE_1PERSON_TP10_2_0","精力快要到达极限了呢。 ","JUSTINE_1PERSON_TP10_2_0",""
-"JUSTINE_1PERSON_TP10_3_0","看起来快到极限了呢。 ","JUSTINE_1PERSON_TP10_3_0",""
-"JUSTINE_ITEM_90_BATTLE_1_0","看起来拿的东西太多了。 ","JUSTINE_ITEM_90_BATTLE_1_0",""
-"JUSTINE_ITEM_90_BATTLE_2_0","整理物品似乎是个不错的主意。 ","JUSTINE_ITEM_90_BATTLE_2_0",""
-"JUSTINE_ITEM_90_BATTLE_3_0","你太拥有了，整理一下吧。 ","JUSTINE_ITEM_90_BATTLE_3_0",""
+ 让我们回去吧，卡萝丽娜。 ","JUSTINE_PARTY_TP10_2_0","机翻辅助：
+
+各位的气力已经到极限了……
+让她们回去吧，卡萝丽娜。 
+
+大家的精力已经到了极限……
+让萝丽娜回来吧。 
+
+大家的精力已经到极限了……让我们回去吧。"
+"JUSTINE_PARTY_TP10_3_0","现在这样下去很难战斗。 ","JUSTINE_PARTY_TP10_3_0","机翻辅助：
+
+照这样下去，很难继续战斗哦。 
+
+现在这样的话很难战斗哦。 
+
+现在这样下去是很难战斗的。"
+"JUSTINE_1PERSON_HP10_1_0","囚犯的体力已经到达极限了，要不要休息一下？ ","JUSTINE_1PERSON_HP10_1_0","机翻辅助：
+
+囚犯的体力已经到极限了，休息一下吧？ 
+
+囚犯的体力已经到极限了，休息一下怎么样？ 
+
+囚犯的体力已经到了极限，休息一下怎么样？"
+"JUSTINE_1PERSON_HP10_2_0","囚犯的体力正在下降。 ","JUSTINE_1PERSON_HP10_2_0","机翻辅助：
+
+囚犯的体力正在降低。 
+
+囚犯的体力正在下降。"
+"JUSTINE_1PERSON_HP10_3_0","请有人帮囚犯恢复健康。 ","JUSTINE_1PERSON_HP10_3_0","机翻辅助：
+
+请某个人帮囚犯回复。 
+
+有谁要恢复囚犯。 
+
+谁来恢复囚犯。"
+"JUSTINE_1PERSON_TP10_1_0","看起来精神状态有些疲惫…… ","JUSTINE_1PERSON_TP10_1_0","机翻辅助：
+
+看来精神疲惫了…… 
+
+看来精神疲惫的样子…… 
+
+看来，精神疲惫的样子……"
+"JUSTINE_1PERSON_TP10_2_0","精力快要到达极限了呢。 ","JUSTINE_1PERSON_TP10_2_0","机翻辅助：
+
+气力快到极限了呢。 
+
+精力的极限很近呢。 
+
+精力已经接近极限了。"
+"JUSTINE_1PERSON_TP10_3_0","看起来快到极限了呢。 ","JUSTINE_1PERSON_TP10_3_0","机翻辅助：
+
+好像快到极限了呢。 
+
+好像快到极限了。"
+"JUSTINE_ITEM_90_BATTLE_1_0","看起来拿的东西太多了。 ","JUSTINE_ITEM_90_BATTLE_1_0","机翻辅助：
+
+东西好像太多了。 
+
+我好像拿了太多东西。 
+
+我好像拿东西太多了。"
+"JUSTINE_ITEM_90_BATTLE_2_0","整理物品似乎是个不错的主意。 ","JUSTINE_ITEM_90_BATTLE_2_0","机翻辅助：
+
+整理一下东西比较好。 
+
+你好像整理一下东西比较好。 
+
+我觉得整理东西比较好。"
+"JUSTINE_ITEM_90_BATTLE_3_0","你太拥有了，整理一下吧。 ","JUSTINE_ITEM_90_BATTLE_3_0","机翻辅助：
+
+带太多东西了，快整理。） 
+
+你带太多了，整理一下。 
+
+拿得太多了，请整理一下。"
 "JUSTINE_1PERSON_HP80_1_0","是的，卡萝丽娜。
-我们也能感到安心。 ","JUSTINE_1PERSON_HP80_1_0",""
-"JUSTINE_1PERSON_HP80_2_0","这是一个很好的战斗方式。 ","JUSTINE_1PERSON_HP80_2_0",""
-"JUSTINE_1PERSON_HP80_3_0","还可以继续战斗呢。 ","JUSTINE_1PERSON_HP80_3_0",""
-"JUSTINE_ITEM_90_DUNGEON__0","看起来拿的东西太多了。 ","JUSTINE_ITEM_90_DUNGEON__0",""
-"JUSTINE_ITEM_90_DUNGEON__2_0","整理物品似乎是个不错的主意。 ","JUSTINE_ITEM_90_DUNGEON__2_0",""
-"JUSTINE_ITEM_90_DUNGEON__3_0","你太拥有了，整理一下吧。 ","JUSTINE_ITEM_90_DUNGEON__3_0",""
-"JUSTINE_DUNGEON_START_1_0","你要开始探索了吗？ ","JUSTINE_DUNGEON_START_1_0",""
-"JUSTINE_DUNGEON_START_2_0","那么，我们将提供支援。 ","JUSTINE_DUNGEON_START_2_0",""
-"JUSTINE_DUNGEON_START_3_0","那么，让我们继续探索吧。 ","JUSTINE_DUNGEON_START_3_0",""
-"JUSTINE_QUEST_START_1_0","特别上映将开始。 ","JUSTINE_QUEST_START_1_0",""
-"JUSTINE_QUEST_START_2_0","让我们在达成目标之前予以支持。 ","JUSTINE_QUEST_START_2_0",""
-"JUSTINE_QUEST_START_3_0","那么，让我们开始吧。 ","JUSTINE_QUEST_START_3_0",""
-"JUSTINE_TOUHA_25_1_0","还有很长的路要走呢。 ","JUSTINE_TOUHA_25_1_0",""
-"JUSTINE_TOUHA_25_2_0","地图只完成了一点点。 ","JUSTINE_TOUHA_25_2_0",""
-"JUSTINE_TOUHA_50_1_0","这样就完成了大约一半了呢。 ","JUSTINE_TOUHA_50_1_0",""
-"JUSTINE_TOUHA_50_2_0","大概是一半左右吧。 ","JUSTINE_TOUHA_50_2_0",""
+我们也能感到安心。 ","JUSTINE_1PERSON_HP80_1_0","机翻辅助：
+
+说得也是，卡萝丽娜。
+这样我们也能放心。 
+
+是啊，卡萝丽娜。
+我们也可以放心。 
+
+是啊，卡萝丽娜。我们也可以放心了。"
+"JUSTINE_1PERSON_HP80_2_0","这是一个很好的战斗方式。 ","JUSTINE_1PERSON_HP80_2_0","机翻辅助：
+
+战法不错呢。 
+
+是很好的战斗方法呢。 
+
+这是很好的战斗方法。"
+"JUSTINE_1PERSON_HP80_3_0","还可以继续战斗呢。 ","JUSTINE_1PERSON_HP80_3_0","机翻辅助：
+
+好像还能继续战斗呢。 
+
+好像还能战斗呢。 
+
+看来还能继续战斗呢。"
+"JUSTINE_ITEM_90_DUNGEON__0","看起来拿的东西太多了。 ","JUSTINE_ITEM_90_DUNGEON__0","机翻辅助：
+
+东西好像太多了。 
+
+我好像拿了太多东西。 
+
+我好像拿东西太多了。"
+"JUSTINE_ITEM_90_DUNGEON__2_0","整理物品似乎是个不错的主意。 ","JUSTINE_ITEM_90_DUNGEON__2_0","机翻辅助：
+
+整理一下东西比较好。 
+
+你好像整理一下东西比较好。 
+
+我觉得整理东西比较好。"
+"JUSTINE_ITEM_90_DUNGEON__3_0","你太拥有了，整理一下吧。 ","JUSTINE_ITEM_90_DUNGEON__3_0","机翻辅助：
+
+带太多东西了，快整理。） 
+
+你带太多了，整理一下。 
+
+拿得太多了，请整理一下。"
+"JUSTINE_DUNGEON_START_1_0","你要开始探索了吗？ ","JUSTINE_DUNGEON_START_1_0","机翻辅助：
+
+要开始探索了吧？ 
+
+开始探索，对吧？ 
+
+开始探索了吧？"
+"JUSTINE_DUNGEON_START_2_0","那么，我们将提供支援。 ","JUSTINE_DUNGEON_START_2_0","机翻辅助：
+
+那么，我们来支援你们。 
+
+那么，我们来打掩护。 
+
+那我们来掩护。"
+"JUSTINE_DUNGEON_START_3_0","那么，让我们继续探索吧。 ","JUSTINE_DUNGEON_START_3_0","机翻辅助：
+
+那么，继续探索吧。 
+
+那么，我们进行探索吧。 
+
+那么，我们继续探索吧。"
+"JUSTINE_QUEST_START_1_0","特别上映将开始。 ","JUSTINE_QUEST_START_1_0","机翻辅助：
+
+特别上映即将开始。 
+
+开始特别放映。"
+"JUSTINE_QUEST_START_2_0","让我们在达成目标之前予以支持。 ","JUSTINE_QUEST_START_2_0","机翻辅助：
+
+在达成目标之前，我们来支援你们吧。 
+
+在达成之前我们来掩护吧。 
+
+在达成之前由我们来支援吧。"
+"JUSTINE_QUEST_START_3_0","那么，让我们开始吧。 ","JUSTINE_QUEST_START_3_0","机翻辅助：
+
+那么，开始吧。 
+
+那么开始吧。 
+
+那么我们开始吧。"
+"JUSTINE_TOUHA_25_1_0","还有很长的路要走呢。 ","JUSTINE_TOUHA_25_1_0","机翻辅助：
+
+前面好像还很长呢。 
+
+看来路还很长呢。"
+"JUSTINE_TOUHA_25_2_0","地图只完成了一点点。 ","JUSTINE_TOUHA_25_2_0","机翻辅助：
+
+地图稍微画好了呢。 
+
+稍微画出一点地图了吧。 
+
+地图画好了一点呢。"
+"JUSTINE_TOUHA_50_1_0","这样就完成了大约一半了呢。 ","JUSTINE_TOUHA_50_1_0","机翻辅助：
+
+这样就走完一半了呢。 
+
+这样进行了一半左右呢。 
+
+这样就进行了一半吧。"
+"JUSTINE_TOUHA_50_2_0","大概是一半左右吧。 ","JUSTINE_TOUHA_50_2_0","机翻辅助：
+
+终于走到一半了吧。 
+
+总算是一半了吧。 
+
+才到一半吧。"
 "JUSTINE_TOUHA_75_1_0","再过一会儿，
-你就能了解这个楼层的所有情况了。 ","JUSTINE_TOUHA_75_1_0",""
+你就能了解这个楼层的所有情况了。 ","JUSTINE_TOUHA_75_1_0","机翻辅助：
+
+再一下下
+就能知道这层楼的所有资讯了。 
+
+差一点
+就能知道这个楼层的一切了吧。 
+
+再过一会儿就能知道这层楼的一切了。"
 "JUSTINE_TOUHA_75_2_0","直到掌握这个楼层的所有内容为止，
-就快了。 ","JUSTINE_TOUHA_75_2_0",""
+就快了。 ","JUSTINE_TOUHA_75_2_0","机翻辅助：
+
+再一下下
+就能掌握这层楼的一切。 
+
+离掌握这个楼层的全部
+还有一点。 
+
+在这层楼全部掌握之前，还有一点。"
 "JUSTINE_TOUHA_100_1_0","你已经征服了整个楼层，
-太棒了。 ","JUSTINE_TOUHA_100_1_0",""
-"JUSTINE_TOUHA_100_2_0","这个楼层已经被踏破了。 ","JUSTINE_TOUHA_100_2_0",""
-"JUSTINE_MAPPING_ICON_ALL_0","这是一个相当不错的描绘方式。 ","JUSTINE_MAPPING_ICON_ALL_0",""
-"JUSTINE_MAPPING_ICON_ALL_2_0","囚犯身份来说做得很好。 ","JUSTINE_MAPPING_ICON_ALL_2_0",""
-"JUSTINE_MAPPING_ICON_KAI_0","这是我们复生的成果啊。 ","JUSTINE_MAPPING_ICON_KAI_0",""
-"JUSTINE_MAPPING_ICON_KAI_2_0","你是要在楼梯上做标记吗？ ","JUSTINE_MAPPING_ICON_KAI_2_0",""
-"JUSTINE_MAPPING_CHANGE_C_0","我很期待看到会是怎样的地图。 ","JUSTINE_MAPPING_CHANGE_C_0",""
-"JUSTINE_MAPPING_CHANGE_C_2_0","这个颜色搭配很有趣。 ","JUSTINE_MAPPING_CHANGE_C_2_0",""
-"JUSTINE_MAPPING_ICON_DEL_0","错误是可以被纠正的。 ","JUSTINE_MAPPING_ICON_DEL_0",""
-"JUSTINE_MAPPING_ICON_DEL_2_0","地图整洁是件好事。 ","JUSTINE_MAPPING_ICON_DEL_2_0",""
+太棒了。 ","JUSTINE_TOUHA_100_1_0","机翻辅助：
+
+已经走完这层楼了呢
+太棒了。 
+
+踏破了楼层
+太棒了。 
+
+走遍了楼层呢
+太棒了。"
+"JUSTINE_TOUHA_100_2_0","这个楼层已经被踏破了。 ","JUSTINE_TOUHA_100_2_0","机翻辅助：
+
+这个楼层已经通过了呢。 
+
+这个楼层已经踏过了呢。 
+
+这一层已经走完了吧。"
+"JUSTINE_MAPPING_ICON_ALL_0","这是一个相当不错的描绘方式。 ","JUSTINE_MAPPING_ICON_ALL_0","机翻辅助：
+
+画得相当不错。 
+
+很好的画法。 
+
+画得很好。"
+"JUSTINE_MAPPING_ICON_ALL_2_0","囚犯身份来说做得很好。 ","JUSTINE_MAPPING_ICON_ALL_2_0","机翻辅助：
+
+以囚犯来说画得相当不错。 
+
+作为囚犯来说做得很好。 
+
+作为一名囚犯，我做得很好。"
+"JUSTINE_MAPPING_ICON_KAI_0","这是我们复生的成果啊。 ","JUSTINE_MAPPING_ICON_KAI_0","机翻辅助：
+
+这是我们的更生成果呢。 
+
+这是我们重新做人的成果。 
+
+是我们重生的成果啊。"
+"JUSTINE_MAPPING_ICON_KAI_2_0","你是要在楼梯上做标记吗？ ","JUSTINE_MAPPING_ICON_KAI_2_0","机翻辅助：
+
+要在楼梯做记号吗？ 
+
+是在楼梯上做记号吗？ 
+
+在楼梯上做记号，对吧？"
+"JUSTINE_MAPPING_CHANGE_C_0","我很期待看到会是怎样的地图。 ","JUSTINE_MAPPING_CHANGE_C_0","机翻辅助：
+
+真期待会画成什么样的地图。 
+
+我很期待会变成什么样的地图。 
+
+我很期待会是怎样的地图。"
+"JUSTINE_MAPPING_CHANGE_C_2_0","这个颜色搭配很有趣。 ","JUSTINE_MAPPING_CHANGE_C_2_0","机翻辅助：
+
+颜色用得挺有趣的。 
+
+是有趣的颜色使用。 
+
+真是有趣的用色方法。"
+"JUSTINE_MAPPING_ICON_DEL_0","错误是可以被纠正的。 ","JUSTINE_MAPPING_ICON_DEL_0","机翻辅助：
+
+错误就是要改正。 
+
+错误是可以纠正的。"
+"JUSTINE_MAPPING_ICON_DEL_2_0","地图整洁是件好事。 ","JUSTINE_MAPPING_ICON_DEL_2_0","机翻辅助：
+
+把地图画漂亮是好事哦。 
+
+把地图弄干净是好事哦。 
+
+把地图弄干净是件好事。"
 "JUSTINE_MAPPING_MEMO_1_0","记笔记是感受到你的成长。
- ","JUSTINE_MAPPING_MEMO_1_0",""
-"JUSTINE_MAPPING_MEMO_2_0","这样就不会忘记了吧。 ","JUSTINE_MAPPING_MEMO_2_0",""
+ ","JUSTINE_MAPPING_MEMO_1_0","机翻辅助：
+
+居然会做笔记……
+我感受到你的成长了。 
+
+记笔记是……
+能感受到你的成长。 
+
+记笔记……我感觉到你的成长。"
+"JUSTINE_MAPPING_MEMO_2_0","这样就不会忘记了吧。 ","JUSTINE_MAPPING_MEMO_2_0","机翻辅助：
+
+这样就不会忘记了。 
+
+这样就不会忘记了吧。"
 "JUSTINE_KARITORU_ENCOUNT_0","有人来收割，
-请注意。 ","JUSTINE_KARITORU_ENCOUNT_0",""
-"JUSTINE_KARITORU_ENCOUNT_2_0","请注意，我是收割者。 ","JUSTINE_KARITORU_ENCOUNT_2_0",""
-"JUSTINE_KARITORU_ENCOUNT_3_0","收割者……要小心。 ","JUSTINE_KARITORU_ENCOUNT_3_0",""
+请注意。 ","JUSTINE_KARITORU_ENCOUNT_0","机翻辅助：
+
+收割者要来了
+请多加留意。 
+
+收割者来了。
+请注意。 
+
+收割的人来了。请注意。"
+"JUSTINE_KARITORU_ENCOUNT_2_0","请注意，我是收割者。 ","JUSTINE_KARITORU_ENCOUNT_2_0","机翻辅助：
+
+请小心，是收割者。 
+
+请注意，我是收割者。 
+
+请注意，是收割的人。"
+"JUSTINE_KARITORU_ENCOUNT_3_0","收割者……要小心。 ","JUSTINE_KARITORU_ENCOUNT_3_0","机翻辅助：
+
+收割者……请小心。） 
+
+收割者……要注意。"

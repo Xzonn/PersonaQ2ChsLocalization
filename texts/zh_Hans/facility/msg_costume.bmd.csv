@@ -1,25 +1,67 @@
 "source","target","id","developer_comments"
-"Y_FCL_DIALOG_MSG_EITHER_0","是的。","Y_FCL_DIALOG_MSG_EITHER_0","机翻辅助：
+"Y_FCL_DIALOG_MSG_EITHER_0","是的。","Y_FCL_DIALOG_MSG_EITHER_0",""
+"Y_FCL_DIALOG_MSG_EITHER_1","不是","Y_FCL_DIALOG_MSG_EITHER_1",""
+"Y_FCLSHOP_BUY_MSG_0","＞是否购买[占位B 01]？","Y_FCLSHOP_BUY_MSG_0","机翻辅助：
 
-好的。
+＞是否购买[占位B 01]？
 
-是的
+购买>[占位B 01]吗？
 
-是"
-"Y_FCL_DIALOG_MSG_EITHER_1","不是","Y_FCL_DIALOG_MSG_EITHER_1","机翻辅助：
+>购买[占位B 01]？"
+"Y_FCLSHOP_SELL_MSG_0","[占位B 01]要卖掉[占位A 02]　张吗？","Y_FCLSHOP_SELL_MSG_0","机翻辅助：
 
-不。
+[占位B 01]要卖掉[占位A 02]　张吗？
 
-否
+>[占位B 01][占位A 02]个出售？
 
-没有"
-"Y_FCLSHOP_BUY_MSG_0","＞[占位B 01]を購入しますか？","Y_FCLSHOP_BUY_MSG_0",""
-"Y_FCLSHOP_SELL_MSG_0","＞[占位B 01]を[占位A 02]個売却しますか？","Y_FCLSHOP_SELL_MSG_0",""
-"Y_FCLSHOP_EQUIP_0","＞[占位B 01]を装備しますか？","Y_FCLSHOP_EQUIP_0",""
-"Y_FCLSHOP_TRADE_0","＞今まで装備していた
-　[占位B 01]を売りますか？","Y_FCLSHOP_TRADE_0",""
-"CSHOP_ADDNEW_0","新到货消息","CSHOP_ADDNEW_0",""
-"CSHOP_HELLO_0","入店时打招呼","CSHOP_HELLO_0",""
-"CSHOP_HELLO_RAIN_0","入店时打招呼","CSHOP_HELLO_RAIN_0",""
-"CSHOP_MSG_EQUIP_SET_0","＞この衣装はセットになっています。
-　全員、この衣装を装備しますか？","CSHOP_MSG_EQUIP_SET_0",""
+出售[占位B 01]个吗？[占位A 02]"
+"Y_FCLSHOP_EQUIP_0","＞要装备[占位B 01]　吗？","Y_FCLSHOP_EQUIP_0","机翻辅助：
+
+＞要装备[占位B 01]　吗？
+
+装备>[占位B 01]吗？
+
+装备[占位B 01]吗？"
+"Y_FCLSHOP_TRADE_0","＞要卖掉至今装备的
+　和[占位B 01]　吗？","Y_FCLSHOP_TRADE_0","机翻辅助：
+
+＞要卖掉至今装备的
+　和[占位B 01]　吗？
+
+卖到现在为止装备的
+[占位B 01]吗？
+
+至今为止装备的
+[占位B 01]有卖吗？"
+"CSHOP_ADDNEW_0","新到货消息","CSHOP_ADDNEW_0","机翻辅助：
+
+＞进货通知
+
+>新建收货消息
+
+新到货信息"
+"CSHOP_HELLO_0","入店时打招呼","CSHOP_HELLO_0","机翻辅助：
+
+＞入店时招呼
+
+>进店时打招呼
+
+进店时问候"
+"CSHOP_HELLO_RAIN_0","入店时打招呼","CSHOP_HELLO_RAIN_0","机翻辅助：
+
+＞入店时招呼
+
+>进店时打招呼
+
+进店时问候"
+"CSHOP_MSG_EQUIP_SET_0","＞这套服装是成套的。
+　要所有人一起装备吗？","CSHOP_MSG_EQUIP_SET_0","机翻辅助：
+
+＞这套服装是成套的。
+　要所有人一起装备吗？
+
+这件衣服是成套的。
+所有人都会装备这件衣服吗？
+
+这个服装是成套的。
+全体人员都装备这个服装吗？"

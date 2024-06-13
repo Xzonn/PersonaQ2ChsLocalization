@@ -1,18 +1,18 @@
 "source","target","id","developer_comments"
-"unite_sel_0","是的","unite_sel_0","机翻辅助：
+"unite_sel_0","是的","unite_sel_0",""
+"unite_sel_1","不是","unite_sel_1",""
+"unite_check_0","这把武器可以吗？","unite_check_0","机翻辅助：
 
-好的。
+＞这个武器可以吗？
 
-是的
+这个武器可以吗？"
+"msg_unite_ok_0","[颜色 02][占位A 01][颜色 01]我得到
+了。","msg_unite_ok_0","机翻辅助：
 
-是"
-"unite_sel_1","不是","unite_sel_1","机翻辅助：
+[颜色 02][占位A 01][颜色 01]我得到
+了。
 
-不。
+得到了[颜色 02][占位A 01][颜色 01]
+。
 
-否
-
-没有"
-"unite_check_0","这把武器可以吗？","unite_check_0",""
-"msg_unite_ok_0","＞[颜色 02][占位A 01][颜色 01]を
-手に入れた。","msg_unite_ok_0",""
+得到了>[颜色 02][占位A 01][颜色 01]。"

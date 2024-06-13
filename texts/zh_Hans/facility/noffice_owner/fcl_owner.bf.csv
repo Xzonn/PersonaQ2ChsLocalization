@@ -1,17 +1,14 @@
 "source","target","id","developer_comments"
-"YESNO_SEL_0","是的","YESNO_SEL_0","机翻辅助：
+"YESNO_SEL_0","是的","YESNO_SEL_0",""
+"YESNO_SEL_1","不是","YESNO_SEL_1",""
+"MSG_TEST_0","选择呼叫经理
+这是信息测试。","MSG_TEST_0","机翻辅助：
 
-好的。
+选择呼叫经理
+这是信息测试。
 
-是的
+选择了叫经理
+信息测试。
 
-是"
-"YESNO_SEL_1","不是","YESNO_SEL_1","机翻辅助：
-
-不。
-
-否
-
-没有"
-"MSG_TEST_0","支配人を呼ぶを選んだ
-メッセージテストです。","MSG_TEST_0",""
+选择了召唤经理
+信息测试。"

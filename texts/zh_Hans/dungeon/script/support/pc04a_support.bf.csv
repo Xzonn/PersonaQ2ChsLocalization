@@ -1,263 +1,1479 @@
 "source","target","id","developer_comments"
-"ELIZABETH_FOE_FOLLOW_STA_0","成功锁定目标。 ","ELIZABETH_FOE_FOLLOW_STA_0",""
-"THEODOR_FOE_FOLLOW_START_0","各位，F.O.E正在追踪。 ","THEODOR_FOE_FOLLOW_START_0",""
-"ELIZABETH_FOE_FOLLOW_STA_2_0","紧急情况。 ","ELIZABETH_FOE_FOLLOW_STA_2_0",""
+"ELIZABETH_FOE_FOLLOW_STA_0","成功锁定目标。 ","ELIZABETH_FOE_FOLLOW_STA_0","机翻辅助：
+
+漂亮地锁定目标。 
+
+非常棒的摇滚乐。 
+
+完美地锁定了。"
+"THEODOR_FOE_FOLLOW_START_0","各位，F.O.E正在追踪。 ","THEODOR_FOE_FOLLOW_START_0","机翻辅助：
+
+各位，F.O.E正在追踪。　　 
+
+各位，F.O.E正在跟踪。"
+"ELIZABETH_FOE_FOLLOW_STA_2_0","紧急情况。 ","ELIZABETH_FOE_FOLLOW_STA_2_0","机翻辅助：
+
+紧急状况。 
+
+我是emergency。 
+
+这是紧急情况。"
 "THEODOR_FOE_FOLLOW_START_2_0","哈！？
-好像被发现了。 ","THEODOR_FOE_FOLLOW_START_2_0",""
+好像被发现了。 ","THEODOR_FOE_FOLLOW_START_2_0","机翻辅助：
+
+啊！？　　
+F.O.E似乎发现了。 
+
+哈！？
+好像注意到了F.O.E。 
+
+哈！？
+好象被F.O.E注意到了。"
 "ELIZABETH_FOE_FOLLOW_STA_3_0","阿拉，F.O.E正在追踪状态……
- 提奥，就交给你了。 ","ELIZABETH_FOE_FOLLOW_STA_3_0",""
-"THEODOR_FOE_FOLLOW_START_3_0","哎呀，啊，请注意！ ","THEODOR_FOE_FOLLOW_START_3_0",""
+ 提奥，就交给你了。 ","ELIZABETH_FOE_FOLLOW_STA_3_0","机翻辅助：
+
+哎呀，F.O.E在追踪……　　
+泰欧，交给你了。 
+
+哎呀F.O.E处于跟踪状态……
+泰奥，交给你了。 
+
+F.O.E跟踪状态……
+特奥，交给你了。"
+"THEODOR_FOE_FOLLOW_START_3_0","哎呀，啊，请注意！ ","THEODOR_FOE_FOLLOW_START_3_0","机翻辅助：
+
+咦？啊！请、请小心！ 
+
+啊、啊，请注意！ 
+
+啊、啊、请注意！"
 "ELIZABETH_FOE_NEAR_1_0","附近似乎有F.O.E。
- ","ELIZABETH_FOE_NEAR_1_0",""
-"THEODOR_FOE_NEAR_1_0","各位，请注意！ ","THEODOR_FOE_NEAR_1_0",""
-"ELIZABETH_FOE_NEAR_2_0","Ｆ．Ｏ．Ｅ接近警报发令。 ","ELIZABETH_FOE_NEAR_2_0",""
-"THEODOR_FOE_NEAR_2_0","各位，附近有F.O.E！ ","THEODOR_FOE_NEAR_2_0",""
+ ","ELIZABETH_FOE_NEAR_1_0","机翻辅助：
+
+附近似乎有F.O.E 
+ 
+
+附近好像有F.O.E
+。 
+
+附近好像有F.O.E"
+"THEODOR_FOE_NEAR_1_0","各位，请注意！ ","THEODOR_FOE_NEAR_1_0","机翻辅助：
+
+请注意！ 
+
+各位，请注意！"
+"ELIZABETH_FOE_NEAR_2_0","Ｆ．Ｏ．Ｅ接近警报发令。 ","ELIZABETH_FOE_NEAR_2_0","机翻辅助：
+
+F.O.E接近警报发布。 
+
+发出接近警报。 
+
+F.O.E发出接近警报。"
+"THEODOR_FOE_NEAR_2_0","各位，附近有F.O.E！ ","THEODOR_FOE_NEAR_2_0","机翻辅助：
+
+附近有F.O.E！ 
+
+各位，F.O.E就在附近！ 
+
+各位，附近有F.O.E！"
 "ELIZABETH_FOE_NEAR_3_0","F.O.E反应存在。
-让我们出发吧。 ","ELIZABETH_FOE_NEAR_3_0",""
-"THEODOR_FOE_NEAR_3_0","あっ、いけません！　ご注意ください！ ","THEODOR_FOE_NEAR_3_0",""
-"ELIZABETH_FOE_FOLLOW_END_0","逃跑的速度非常出色。 ","ELIZABETH_FOE_FOLLOW_END_0",""
+让我们出发吧。 ","ELIZABETH_FOE_NEAR_3_0","机翻辅助：
+
+侦测到F.O.E反应。 
+Let's go。 
+
+有F.O.E反应。
+这是红果。 
+
+有F.O.E反应。我是雷兹拉戈。"
+"THEODOR_FOE_NEAR_3_0","啊，不行！请小心！ ","THEODOR_FOE_NEAR_3_0","机翻辅助：
+
+啊，不行！请小心！ 
+
+啊，不行！请注意！"
+"ELIZABETH_FOE_FOLLOW_END_0","逃跑的速度非常出色。 ","ELIZABETH_FOE_FOLLOW_END_0","机翻辅助：
+
+逃跑的速度真快。 
+
+是漂亮的逃跑的脚。 
+
+逃得很漂亮。"
 "THEODOR_FOE_FOLLOW_END_1_0","呼，
-看来FOE已经放弃了呢。 ","THEODOR_FOE_FOLLOW_END_1_0",""
+看来FOE已经放弃了呢。 ","THEODOR_FOE_FOLLOW_END_1_0","机翻辅助：
+
+呼，看来F.O.E 
+放弃了。 
+
+嗯，看来F.O.E已经放弃了。"
 "ELIZABETH_FOE_FOLLOW_END_2_0","哦，
-看来Ｆ．Ｏ．Ｅ已经放弃追踪了呢。 ","ELIZABETH_FOE_FOLLOW_END_2_0",""
-"THEODOR_FOE_FOLLOW_END_2_0","漂亮的身姿，不愧是您。 ","THEODOR_FOE_FOLLOW_END_2_0",""
-"ELIZABETH_FOE_FOLLOW_END_3_0","紧急情况解除。 ","ELIZABETH_FOE_FOLLOW_END_3_0",""
+看来Ｆ．Ｏ．Ｅ已经放弃追踪了呢。 ","ELIZABETH_FOE_FOLLOW_END_2_0","机翻辅助：
+
+哎呀…… 
+F.O.E似乎放弃了追踪。 
+
+哎……
+F.O.E好像放弃跟踪了。 
+
+哎呀……好像F.O.E放弃了跟踪。"
+"THEODOR_FOE_FOLLOW_END_2_0","漂亮的身姿，不愧是您。 ","THEODOR_FOE_FOLLOW_END_2_0","机翻辅助：
+
+身手真好，真了不起。 
+
+漂亮的身体动作，不愧是。 
+
+风度翩翩，风度翩翩。"
+"ELIZABETH_FOE_FOLLOW_END_3_0","紧急情况解除。 ","ELIZABETH_FOE_FOLLOW_END_3_0","机翻辅助：
+
+紧急状态解除。 
+
+解除授权。 
+
+紧急解除。"
 "THEODOR_FOE_FOLLOW_END_3_0","成功地将F.O.E拉开了距离，
-是吧。 ","THEODOR_FOE_FOLLOW_END_3_0",""
+是吧。 ","THEODOR_FOE_FOLLOW_END_3_0","机翻辅助：
+
+成功将F.O.E引开。 
+ 
+
+
+成功把F.O.E拉开了呢。 
+
+成功地拉开了F.O.E。"
 "ELIZABETH_KANSI_REACTION_0","请继续前行，
-不要被灯光照射到。 ","ELIZABETH_KANSI_REACTION_0",""
+不要被灯光照射到。 ","ELIZABETH_KANSI_REACTION_0","机翻辅助：
+
+请小心别被灯光照到。 
+ 
+
+请前进，不要被灯光照亮。
+ 
+
+为了不被灯光照射，请前进。"
 "THEODOR_KANSI_REACTION_1_0","让我们不要被灯光照射到，
-继续前行吧。 ","THEODOR_KANSI_REACTION_1_0",""
+继续前行吧。 ","THEODOR_KANSI_REACTION_1_0","机翻辅助：
+
+别被灯光照到。 
+ 
+
+为了不被灯光照射
+前进吧。 
+
+不要被灯光照亮
+前进。"
 "ELIZABETH_KANSI_REACTION_2_0","为了不被发现，
-我悄悄地走了进去。 ","ELIZABETH_KANSI_REACTION_2_0",""
-"THEODOR_KANSI_REACTION_2_0","悄悄地前进吧。 ","THEODOR_KANSI_REACTION_2_0",""
+我悄悄地走了进去。 ","ELIZABETH_KANSI_REACTION_2_0","机翻辅助：
+
+为了不被发现，
+蹑手蹑脚。 
+
+为了不被发现，
+蹑手蹑脚，蹑手蹑脚。 
+
+蹑手蹑脚，小心前进。"
+"THEODOR_KANSI_REACTION_2_0","悄悄地前进吧。 ","THEODOR_KANSI_REACTION_2_0","机翻辅助：
+
+蹑手蹑脚前进吧。 
+
+悄悄地走吧。 
+
+蹑手蹑脚地前进。"
 "ELIZABETH_KANSI_REACTION_3_0","避开灯光走，
-也不会被发现吧。 ","ELIZABETH_KANSI_REACTION_3_0",""
-"THEODOR_KANSI_REACTION_3_0","请避开那个灯。 ","THEODOR_KANSI_REACTION_3_0",""
-"ELIZABETH_DENKISAKU_REAC_0","这难道是调教装置吗？ ","ELIZABETH_DENKISAKU_REAC_0",""
-"THEODOR_DENKISAKU_REACTI_0","不停电就无法前进。 ","THEODOR_DENKISAKU_REACTI_0",""
+也不会被发现吧。 ","ELIZABETH_KANSI_REACTION_3_0","机翻辅助：
+
+只要避开灯光， 
+就不会被发现。 
+
+如果避开灯光走的话
+也不会被发现吧。 
+
+避开灯光走的话
+也不会找到吧。"
+"THEODOR_KANSI_REACTION_3_0","请避开那个灯。 ","THEODOR_KANSI_REACTION_3_0","机翻辅助：
+
+请避开那个灯光。 
+
+请避开那盏灯。 
+
+请避开那个灯。"
+"ELIZABETH_DENKISAKU_REAC_0","这难道是调教装置吗？ ","ELIZABETH_DENKISAKU_REAC_0","机翻辅助：
+
+这是……难道是调教装置！？"
+"THEODOR_DENKISAKU_REACTI_0","不停电就无法前进。 ","THEODOR_DENKISAKU_REACTI_0","机翻辅助：
+
+不关掉电源就无法前进。  
+
+不关灯的话不能前进哦。 
+
+不断电就无法前进。"
 "ELIZABETH_DENKISAKU_REAC_2_0","让我们找一下那边的关闭电灯的开关。
- ","ELIZABETH_DENKISAKU_REAC_2_0",""
-"THEODOR_DENKISAKU_REACTI_2_0","应该有一个开关在某个地方…… ","THEODOR_DENKISAKU_REACTI_2_0",""
+ ","ELIZABETH_DENKISAKU_REAC_2_0","机翻辅助：
+
+找找看有没有开关可以关掉电源。
+ 
+
+让我们寻找那边的关灯开关。
+ 
+
+找找那边的开关吧。"
+"THEODOR_DENKISAKU_REACTI_2_0","应该有一个开关在某个地方…… ","THEODOR_DENKISAKU_REACTI_2_0","机翻辅助：
+
+应该有开关才对…… 
+
+应该在哪里有开关…… 
+
+哪里应该有开关……"
 "ELIZABETH_DENKISAKU_REAC_3_0","嗯，那个充满电荷的东西，有多少伏特呢？
- ","ELIZABETH_DENKISAKU_REAC_3_0",""
+ ","ELIZABETH_DENKISAKU_REAC_3_0","机翻辅助：
+
+哎呀，那个电击， 
+不知道有多少伏特？ 
+
+嗯，那个垫底，
+有多少伏特呢？ 
+
+嗯，那个哔哩哔哩，有多少伏特呢？"
 "THEODOR_DENKISAKU_REACTI_3_0","电网栅栏吗……就像姐姐的……不，
-没什么。 ","THEODOR_DENKISAKU_REACTI_3_0",""
+没什么。 ","THEODOR_DENKISAKU_REACTI_3_0","机翻辅助：
+
+是电栅栏吗？简直就像姐姐的…… 
+不，没事。 
+
+是电栅栏吗……简直就像姐姐的……
+不，没什么。 
+
+电栅栏吗……简直就像姐姐的……不，没什么。"
 "ELIZABETH_KYOUHU_REACTIO_0","裙子飘飘～
-现在是服务时间。 ","ELIZABETH_KYOUHU_REACTIO_0",""
-"THEODOR_KYOUHU_REACTION__0","请注意突发风险！ ","THEODOR_KYOUHU_REACTION__0",""
-"ELIZABETH_KYOUHU_REACTIO_2_0","最终的归宿取决于风的方向。 ","ELIZABETH_KYOUHU_REACTIO_2_0",""
-"THEODOR_KYOUHU_REACTION__2_0","请随风飘荡。 ","THEODOR_KYOUHU_REACTION__2_0",""
-"ELIZABETH_KYOUHU_REACTIO_3_0","啊～是～ ","ELIZABETH_KYOUHU_REACTIO_3_0",""
-"THEODOR_KYOUHU_REACTION__3_0","あ！　すごい風です！ ","THEODOR_KYOUHU_REACTION__3_0",""
+现在是服务时间。 ","ELIZABETH_KYOUHU_REACTIO_0","机翻辅助：
+
+裙摆飘飘～ 
+是杀必死时间。 
+
+裙子飘飘～
+服务时间到了。 
+
+是裙子翩翩起舞～
+服务时间。"
+"THEODOR_KYOUHU_REACTION__0","请注意突发风险！ ","THEODOR_KYOUHU_REACTION__0","机翻辅助：
+
+请小心强风！ 
+
+小心刮大风！ 
+
+小心暴风！"
+"ELIZABETH_KYOUHU_REACTIO_2_0","最终的归宿取决于风的方向。 ","ELIZABETH_KYOUHU_REACTIO_2_0","机翻辅助：
+
+前进的方向由风决定。 
+
+目的地取决于风向。 
+
+去的地方要看风。"
+"THEODOR_KYOUHU_REACTION__2_0","请随风飘荡。 ","THEODOR_KYOUHU_REACTION__2_0","机翻辅助：
+
+请顺着风的流向前进。 
+
+请随风而去。 
+
+请乘着风的流动。"
+"ELIZABETH_KYOUHU_REACTIO_3_0","啊～是～ ","ELIZABETH_KYOUHU_REACTIO_3_0","机翻辅助：
+
+哎～呀～ 
+
+啊～啊～"
+"THEODOR_KYOUHU_REACTION__3_0","啊！好强的风！ ","THEODOR_KYOUHU_REACTION__3_0","机翻辅助：
+
+啊！好强的风！ 
+
+啊！好厉害的风！ 
+
+啊！好大的风！"
 "ELIZABETH_STAIR_FIND_1_0","请看右手，
-那边是楼梯。 ","ELIZABETH_STAIR_FIND_1_0",""
-"THEODOR_STAIR_FIND_1_0","姐姐，楼梯在正前方看得见，但是…… ","THEODOR_STAIR_FIND_1_0",""
-"ELIZABETH_STAIR_FIND_2_0","上去参拜，下去也参拜。 ","ELIZABETH_STAIR_FIND_2_0",""
-"THEODOR_STAIR_FIND_2_0","哦，那是楼梯！ ","THEODOR_STAIR_FIND_2_0",""
-"ELIZABETH_STAIR_FIND_3_0","哎呀，这是楼梯。 ","ELIZABETH_STAIR_FIND_3_0",""
-"THEODOR_STAIR_FIND_3_0","不愧是姐姐，观察力真是敏锐。 ","THEODOR_STAIR_FIND_3_0",""
-"ELIZABETH_TREASURE_FIND__0","我在前方确认到了宝箱。 ","ELIZABETH_TREASURE_FIND__0",""
-"THEODOR_TREASURE_FIND_1_0","やりました！　宝箱ですよ！ ","THEODOR_TREASURE_FIND_1_0",""
+那边是楼梯。 ","ELIZABETH_STAIR_FIND_1_0","机翻辅助：
+
+请看右手边～那里是楼梯～
+ 
+
+请看右手。那边是楼梯。"
+"THEODOR_STAIR_FIND_1_0","姐姐，楼梯在正前方看得见，但是…… ","THEODOR_STAIR_FIND_1_0","机翻辅助：
+
+姐姐，楼梯在正面耶…… 
+
+姐姐，楼梯看起来在正面…… 
+
+姐姐，你看楼梯在正面……"
+"ELIZABETH_STAIR_FIND_2_0","上去参拜，下去也参拜。 ","ELIZABETH_STAIR_FIND_2_0","机翻辅助：
+
+上楼～下楼～ 
+
+往上走，也往下走。 
+
+我要上去，也要下去。"
+"THEODOR_STAIR_FIND_2_0","哦，那是楼梯！ ","THEODOR_STAIR_FIND_2_0","机翻辅助：
+
+啊，那是楼梯！"
+"ELIZABETH_STAIR_FIND_3_0","哎呀，这是楼梯。 ","ELIZABETH_STAIR_FIND_3_0","机翻辅助：
+
+哎呀，是楼梯呢。 
+
+哎呀，是楼梯。 
+
+哎呀，在楼梯上。"
+"THEODOR_STAIR_FIND_3_0","不愧是姐姐，观察力真是敏锐。 ","THEODOR_STAIR_FIND_3_0","机翻辅助：
+
+不愧是姐姐，观察力真敏锐。 
+
+不愧是姐姐，敏锐的观察眼。 
+
+不愧是姐姐，观察力很敏锐。"
+"ELIZABETH_TREASURE_FIND__0","我在前方确认到了宝箱。 ","ELIZABETH_TREASURE_FIND__0","机翻辅助：
+
+前方发现宝箱。 
+
+前面确认了宝箱。 
+
+确认了前方的宝箱。"
+"THEODOR_TREASURE_FIND_1_0","太好了！是宝箱耶！ ","THEODOR_TREASURE_FIND_1_0","机翻辅助：
+
+太好了！是宝箱耶！ 
+
+做到了！宝箱哟！ 
+
+做了！宝箱！"
 "ELIZABETH_TREASURE_FIND__2_0","那个是宝藏吗？
- ","ELIZABETH_TREASURE_FIND__2_0",""
-"THEODOR_TREASURE_FIND_2_0","宝箱里面的东西让人很好奇。 ","THEODOR_TREASURE_FIND_2_0",""
+ ","ELIZABETH_TREASURE_FIND__2_0","机翻辅助：
+
+那是
+所谓的宝物吗？ 
+
+那就是
+宝贝吗？ 
+
+那就是所谓的宝物吗？"
+"THEODOR_TREASURE_FIND_2_0","宝箱里面的东西让人很好奇。 ","THEODOR_TREASURE_FIND_2_0","机翻辅助：
+
+宝箱里面是什么呢？ 
+
+我很在意宝箱里的东西。 
+
+很在意宝箱的内容。"
 "ELIZABETH_TREASURE_FIND__3_0","我希望宝箱里面是薯片或者章鱼烧。
- ","ELIZABETH_TREASURE_FIND__3_0",""
-"THEODOR_TREASURE_FIND_3_0","啊，是宝箱呢，好期待呀。 ","THEODOR_TREASURE_FIND_3_0",""
-"ELIZABETH_CHECK_WALL_1_0","这附近好像有什么东西…… ","ELIZABETH_CHECK_WALL_1_0",""
-"THEODOR_CHECK_WALL_1_0","哎呀，那边有什么东西！ ","THEODOR_CHECK_WALL_1_0",""
-"ELIZABETH_CHECK_WALL_2_0","这周围有一些让我在意的地方。 ","ELIZABETH_CHECK_WALL_2_0",""
-"THEODOR_CHECK_WALL_2_0","那个……要不要稍微调查一下呢？ ","THEODOR_CHECK_WALL_2_0",""
+ ","ELIZABETH_TREASURE_FIND__3_0","机翻辅助：
+
+我想要宝箱里面
+有薯片或章鱼烧。 
+
+我想要百宝箱里的东西是薯片或章鱼烧。
+ 
+
+我想买薯片或章鱼烧。"
+"THEODOR_TREASURE_FIND_3_0","啊，是宝箱呢，好期待呀。 ","THEODOR_TREASURE_FIND_3_0","机翻辅助：
+
+啊，是宝箱呢，好兴奋哦。 
+
+啊，是宝箱啊，很兴奋。 
+
+啊，是百宝箱啊，好兴奋啊。"
+"ELIZABETH_CHECK_WALL_1_0","这附近好像有什么东西…… ","ELIZABETH_CHECK_WALL_1_0","机翻辅助：
+
+这附近好像有什么…… 
+
+这是附近好像有什么…… 
+
+这，附近好像有什么东西……"
+"THEODOR_CHECK_WALL_1_0","哎呀，那边有什么东西！ ","THEODOR_CHECK_WALL_1_0","机翻辅助：
+
+啊，那里好像有什么！ 
+
+啊，那边有什么东西！"
+"ELIZABETH_CHECK_WALL_2_0","这周围有一些让我在意的地方。 ","ELIZABETH_CHECK_WALL_2_0","机翻辅助：
+
+这附近有令人在意的地方。 
+
+这个周围，有在意的地方。 
+
+这周围有让我在意的地方。"
+"THEODOR_CHECK_WALL_2_0","那个……要不要稍微调查一下呢？ ","THEODOR_CHECK_WALL_2_0","机翻辅助：
+
+那个……要不要稍微调查一下？） 
+
+那个……要不要查一下？ 
+
+那是……要不要稍微调查一下？"
 "ELIZABETH_CHECK_WALL_3_0","我感觉附近似乎有什么存在的迹象。
- ","ELIZABETH_CHECK_WALL_3_0",""
-"THEODOR_CHECK_WALL_3_0","附近似乎有什么存在的迹象。 ","THEODOR_CHECK_WALL_3_0",""
-"ELIZABETH_SWITCH_FIND_1_0","我已经确认了开关。 ","ELIZABETH_SWITCH_FIND_1_0",""
-"THEODOR_SWITCH_FIND_1_0","有开关，你要怎么做？ ","THEODOR_SWITCH_FIND_1_0",""
+ ","ELIZABETH_CHECK_WALL_3_0","机翻辅助：
+
+我感觉到附近好像有什么。
+ 
+
+
+感觉附近好像有什么东西。 
+
+我感觉到附近好像有什么事。"
+"THEODOR_CHECK_WALL_3_0","附近似乎有什么存在的迹象。 ","THEODOR_CHECK_WALL_3_0","机翻辅助：
+
+附近好像有什么。） 
+
+我感觉附近好像有什么事。 
+
+我感觉附近好像有什么东西。"
+"ELIZABETH_SWITCH_FIND_1_0","我已经确认了开关。 ","ELIZABETH_SWITCH_FIND_1_0","机翻辅助：
+
+发现开关了。） 
+
+确认了开关。"
+"THEODOR_SWITCH_FIND_1_0","有开关，你要怎么做？ ","THEODOR_SWITCH_FIND_1_0","机翻辅助：
+
+有开关，要按吗？ 
+
+有开关，怎么办？"
 "ELIZABETH_SWITCH_FIND_2_0","那里有一个开关。
- ","ELIZABETH_SWITCH_FIND_2_0",""
-"THEODOR_SWITCH_FIND_2_0","那个开关，要按一下吗？ ","THEODOR_SWITCH_FIND_2_0",""
-"ELIZABETH_SWITCH_FIND_3_0","スイッチがございます。 
-押しますか？　押しますか？ ","ELIZABETH_SWITCH_FIND_3_0",""
-"THEODOR_SWITCH_FIND_3_0","那里有一个开关的样子。 ","THEODOR_SWITCH_FIND_3_0",""
+ ","ELIZABETH_SWITCH_FIND_2_0","机翻辅助：
+
+那里是
+开关。） 
+
+那里有
+开关。"
+"THEODOR_SWITCH_FIND_2_0","那个开关，要按一下吗？ ","THEODOR_SWITCH_FIND_2_0","机翻辅助：
+
+要按那个开关吗？ 
+
+要按一下那个开关吗？"
+"ELIZABETH_SWITCH_FIND_3_0","有开关。
+要按吗？要按吗？ ","ELIZABETH_SWITCH_FIND_3_0","机翻辅助：
+
+有开关。
+要按吗？要按吗？"
+"THEODOR_SWITCH_FIND_3_0","那里有一个开关的样子。 ","THEODOR_SWITCH_FIND_3_0","机翻辅助：
+
+那里好像是开关。） 
+
+那边那个好像是个开关。 
+
+那里好像有开关。"
 "ELIZABETH_SHORTCUT_FIND__0","附近的墙壁。
-可以轻松地穿过去。 ","ELIZABETH_SHORTCUT_FIND__0",""
-"THEODOR_SHORTCUT_FIND_1_0","这面墙……感觉有什么东西。 ","THEODOR_SHORTCUT_FIND_1_0",""
+可以轻松地穿过去。 ","ELIZABETH_SHORTCUT_FIND__0","机翻辅助：
+
+附近的墙壁
+可以轻松通过。） 
+
+附近的墙壁。
+可以通过。 
+
+附近的墙壁。
+可以顺利通过。"
+"THEODOR_SHORTCUT_FIND_1_0","这面墙……感觉有什么东西。 ","THEODOR_SHORTCUT_FIND_1_0","机翻辅助：
+
+这面墙……好像有什么哦。 
+
+这堵墙……好像有什么事。"
 "ELIZABETH_SHORTCUT_FIND__2_0","嗯，那面墙……
-散发着怪异的气息。 ","ELIZABETH_SHORTCUT_FIND__2_0",""
-"THEODOR_SHORTCUT_FIND_2_0","请问你要不要检查一下那面墙？ ","THEODOR_SHORTCUT_FIND_2_0",""
+散发着怪异的气息。 ","ELIZABETH_SHORTCUT_FIND__2_0","机翻辅助：
+
+不过，那面墙壁……
+可疑到不行。 
+
+嗯，那堵墙……
+很奇怪。 
+
+唉，那堵墙……真是太可疑了。"
+"THEODOR_SHORTCUT_FIND_2_0","请问你要不要检查一下那面墙？ ","THEODOR_SHORTCUT_FIND_2_0","机翻辅助：
+
+要不要调查一下那面墙壁？ 
+
+要不要调查一下那里的墙壁？ 
+
+不查一下那边的墙壁吗？"
 "ELIZABETH_SHORTCUT_FIND__3_0","附近有一堵可以通过的墙，
-我的直觉告诉我。 ","ELIZABETH_SHORTCUT_FIND__3_0",""
-"THEODOR_SHORTCUT_FIND_3_0","前方似乎有什么东西。 ","THEODOR_SHORTCUT_FIND_3_0",""
-"ELIZABETH_PARTY_DEAD_1_0","这是……让我们祈祷……泰奥…… ","ELIZABETH_PARTY_DEAD_1_0",""
-"THEODOR_PARTY_DEAD_1_0","み、皆様！？　大丈夫ですか！？ ","THEODOR_PARTY_DEAD_1_0",""
+我的直觉告诉我。 ","ELIZABETH_SHORTCUT_FIND__3_0","机翻辅助：
+
+
+我的直觉告诉我，附近有可以通过的墙。 
+
+我的直觉告诉我，附近有可以通行的墙壁。
+ 
+
+我的直觉告诉我附近有一堵墙可以通过。"
+"THEODOR_SHORTCUT_FIND_3_0","前方似乎有什么东西。 ","THEODOR_SHORTCUT_FIND_3_0","机翻辅助：
+
+前方的墙壁似乎有什么东西。 
+
+前面的墙壁好像有什么。 
+
+前方的墙上好像有什么东西。"
+"ELIZABETH_PARTY_DEAD_1_0","这是……让我们祈祷……泰奥…… ","ELIZABETH_PARTY_DEAD_1_0","机翻辅助：
+
+这是……祈祷吧……泰欧…… 
+
+这是……祈祷吧……泰奥…… 
+
+这是……祈祷吧……特奥……"
+"THEODOR_PARTY_DEAD_1_0","各、各位！？没事吧！？ ","THEODOR_PARTY_DEAD_1_0","机翻辅助：
+
+各、各位！？没事吧！？ 
+
+大家好！？没事吧！？ 
+
+各位、各位！？你没事吧！？"
 "ELIZABETH_PARTY_DEAD_2_0","让我们稍微调整一下姿势。
- ","ELIZABETH_PARTY_DEAD_2_0",""
-"THEODOR_PARTY_DEAD_2_0","请考虑返回。 ","THEODOR_PARTY_DEAD_2_0",""
-"ELIZABETH_PARTY_DEAD_3_0","急不可，回避障碍。 ","ELIZABETH_PARTY_DEAD_3_0",""
-"THEODOR_PARTY_DEAD_3_0","首先，让我们加快康复速度。 ","THEODOR_PARTY_DEAD_3_0",""
-"ELIZABETH_FOE_WARNING_NE_0","请注意一下战斗。 ","ELIZABETH_FOE_WARNING_NE_0",""
-"THEODOR_FOE_WARNING_NEAR_0","他们还在追击 F.O.E。 ","THEODOR_FOE_WARNING_NEAR_0",""
+ ","ELIZABETH_PARTY_DEAD_2_0","机翻辅助：
+
+我们先重整态势吧
+。 
+
+让我们暂时重整态势吧。
+ 
+
+暂时重整旗鼓吧。"
+"THEODOR_PARTY_DEAD_2_0","请考虑返回。 ","THEODOR_PARTY_DEAD_2_0","机翻辅助：
+
+也请考虑撤退。 
+
+请考虑返回。 
+
+请考虑返航。"
+"ELIZABETH_PARTY_DEAD_3_0","急不可，回避障碍。 ","ELIZABETH_PARTY_DEAD_3_0","机翻辅助：
+
+欲速则不达。"
+"THEODOR_PARTY_DEAD_3_0","首先，让我们加快康复速度。 ","THEODOR_PARTY_DEAD_3_0","机翻辅助：
+
+首先，我们先赶快恢复吧。 
+
+首先，赶紧恢复吧。 
+
+首先，尽快恢复吧。"
+"ELIZABETH_FOE_WARNING_NE_0","请注意一下战斗。 ","ELIZABETH_FOE_WARNING_NE_0","机翻辅助：
+
+暂时先不要战斗。 
+
+请暂时注意战斗。"
+"THEODOR_FOE_WARNING_NEAR_0","他们还在追击 F.O.E。 ","THEODOR_FOE_WARNING_NEAR_0","机翻辅助：
+
+F.O.E还在追我们。 
+
+还有F.O.E在追赶。 
+
+F.O.E还在追。"
 "ELIZABETH_FOE_WARNING_NE_2_0","接下来是跟踪F.O.E的行动。
- ","ELIZABETH_FOE_WARNING_NE_2_0",""
-"THEODOR_FOE_WARNING_NEAR_2_0","不太容易放弃呢…… ","THEODOR_FOE_WARNING_NEAR_2_0",""
-"ELIZABETH_FOE_WARNING_NE_3_0","Ｆ．Ｏ．Ｅ正在继续追踪的样子…… ","ELIZABETH_FOE_WARNING_NE_3_0",""
-"THEODOR_FOE_WARNING_NEAR_3_0","各位，请小心。 ","THEODOR_FOE_WARNING_NEAR_3_0",""
+ ","ELIZABETH_FOE_WARNING_NE_2_0","机翻辅助：
+
+那么
+，接下来是追踪F.O.E。 
+
+那么，
+接下来是F.O.E的跟踪。 
+
+接下来是F.O.E的跟踪。"
+"THEODOR_FOE_WARNING_NEAR_2_0","不太容易放弃呢…… ","THEODOR_FOE_WARNING_NEAR_2_0","机翻辅助：
+
+真是不肯放弃呢…… 
+
+放弃不好啊…… 
+
+不好意思放弃啊……"
+"ELIZABETH_FOE_WARNING_NE_3_0","Ｆ．Ｏ．Ｅ正在继续追踪的样子…… ","ELIZABETH_FOE_WARNING_NE_3_0","机翻辅助：
+
+F.O.E似乎还在追踪我们…… 
+
+F.O.E继续跟踪的样子…… 
+
+F.O.E持续跟踪的样子……"
+"THEODOR_FOE_WARNING_NEAR_3_0","各位，请小心。 ","THEODOR_FOE_WARNING_NEAR_3_0","机翻辅助：
+
+各位请小心。 
+
+各位，请注意。 
+
+请大家小心。"
 "ELIZABETH_PARTY_HPTP10_1_0","这是……！？
-紧急情况，请立即采取行动。 ","ELIZABETH_PARTY_HPTP10_1_0",""
-"THEODOR_PARTY_HPTP10_1_0","姉上、落ち着いて、 
-まずは態勢を整えましょう。 ","THEODOR_PARTY_HPTP10_1_0",""
-"ELIZABETH_PARTY_HPTP10_2_0","提奥，准备迎接的准备。 ","ELIZABETH_PARTY_HPTP10_2_0",""
+紧急情况，请立即采取行动。 ","ELIZABETH_PARTY_HPTP10_1_0","机翻辅助：
+
+这是……！？
+紧、紧急状况。 
+
+这是……！？
+来，有紧急情况。 
+
+这是……！？下、有紧急事态。"
+"THEODOR_PARTY_HPTP10_1_0","姐姐，冷静点
+，我们先重整态势吧。 ","THEODOR_PARTY_HPTP10_1_0","机翻辅助：
+
+姐姐，冷静点
+，我们先重整态势吧。 
+
+姐姐，冷静下来，
+首先调整好状态吧。 
+
+姐姐，冷静下来，先做好准备吧。"
+"ELIZABETH_PARTY_HPTP10_2_0","提奥，准备迎接的准备。 ","ELIZABETH_PARTY_HPTP10_2_0","机翻辅助：
+
+泰欧，准备迎接他们。 
+
+特奥，准备迎接您。 
+
+泰奥，准备迎接你。"
 "THEODOR_PARTY_HPTP10_2_0","大家的疲劳让我担心，
-不如回去休息一下吧？","THEODOR_PARTY_HPTP10_2_0",""
+不如回去休息一下吧？","THEODOR_PARTY_HPTP10_2_0","机翻辅助：
+
+我很担心各位的体力消耗
+，要不要先回去一趟？
+
+担心大家的消耗，
+回来一次怎么样？
+
+担心大家的消耗，
+能不能回去一趟？"
 "ELIZABETH_PARTY_HPTP10_3_0","大家的疲劳状态，
-像是到了古怪的极限。 ","ELIZABETH_PARTY_HPTP10_3_0",""
-"THEODOR_PARTY_HPTP10_3_0","姐姐似乎希望回家。 ","THEODOR_PARTY_HPTP10_3_0",""
-"ELIZABETH_PARTY_HP10_1_0","哎呀……已经到极限了吗？ ","ELIZABETH_PARTY_HP10_1_0",""
-"THEODOR_PARTY_HP10_1_0","大家的体力消耗似乎很明显。 ","THEODOR_PARTY_HP10_1_0",""
-"ELIZABETH_PARTY_HP10_2_0","大家的体力都已经到了极限！ ","ELIZABETH_PARTY_HP10_2_0",""
-"THEODOR_PARTY_HP10_2_0","请尽快回复。 ","THEODOR_PARTY_HP10_2_0",""
+像是到了古怪的极限。 ","ELIZABETH_PARTY_HPTP10_3_0","机翻辅助：
+
+各位的体力
+，似乎已经到达极限了。 
+
+各位的消耗达到了极限。
+ 
+
+大家的消耗达到了极限。"
+"THEODOR_PARTY_HPTP10_3_0","姐姐似乎希望回家。 ","THEODOR_PARTY_HPTP10_3_0","机翻辅助：
+
+姐姐似乎希望撤退。 
+
+姐姐好像希望回归。 
+
+姐姐似乎希望我回来。"
+"ELIZABETH_PARTY_HP10_1_0","哎呀……已经到极限了吗？ ","ELIZABETH_PARTY_HP10_1_0","机翻辅助：
+
+哎呀……到极限了吗？ 
+
+啊……是极限了吗？"
+"THEODOR_PARTY_HP10_1_0","大家的体力消耗似乎很明显。 ","THEODOR_PARTY_HP10_1_0","机翻辅助：
+
+各位的体力消耗相当严重。 
+
+大家的体力消耗好像很显著。 
+
+大家的体力消耗明显。"
+"ELIZABETH_PARTY_HP10_2_0","大家的体力都已经到了极限！ ","ELIZABETH_PARTY_HP10_2_0","机翻辅助：
+
+各位的体力，已经面临危～险！ 
+
+大家的体力，向麦克斯冲刺！ 
+
+大家的体力，max ！"
+"THEODOR_PARTY_HP10_2_0","请尽快回复。 ","THEODOR_PARTY_HP10_2_0","机翻辅助：
+
+请尽快恢复体力。 
+
+赶紧恢复吧。 
+
+赶快恢复吧。"
 "ELIZABETH_PARTY_HP10_3_0","诸位的体力，已所剩无几。
-只剩下麻雀眼泪那么一点点了。 ","ELIZABETH_PARTY_HP10_3_0",""
-"THEODOR_PARTY_HP10_3_0","请优先恢复伤势。 ","THEODOR_PARTY_HP10_3_0",""
-"ELIZABETH_1PERSON_HPTP10_0","どなたか回復～！　回復を～！ ","ELIZABETH_1PERSON_HPTP10_0",""
+只剩下麻雀眼泪那么一点点了。 ","ELIZABETH_PARTY_HP10_3_0","机翻辅助：
+
+各位的体力所剩无几
+，已经少到微乎其微了。 
+
+大家的体力只剩下一点点了。
+只有麻雀的眼泪。 
+
+大家的体力所剩无几。只有麻雀的眼泪。"
+"THEODOR_PARTY_HP10_3_0","请优先恢复伤势。 ","THEODOR_PARTY_HP10_3_0","机翻辅助：
+
+请优先恢复伤势。 
+
+请优先恢复受伤。 
+
+请优先恢复您的伤。"
+"ELIZABETH_1PERSON_HPTP10_0","哪位来回复～！回复～！ ","ELIZABETH_1PERSON_HPTP10_0","机翻辅助：
+
+哪位来回复～！回复～！ 
+
+谁恢复了～！恢复！ 
+
+谁来回复～！请回复～！"
 "THEODOR_1PERSON_HPTP10_1_0","你的精力和体力不是已经所剩无几了吗？
- ","THEODOR_1PERSON_HPTP10_1_0",""
-"ELIZABETH_1PERSON_HPTP10_2_0","您的心灵和身体似乎都到了极限的样子…… ","ELIZABETH_1PERSON_HPTP10_2_0",""
+ ","THEODOR_1PERSON_HPTP10_1_0","机翻辅助：
+
+自身的气力、体力
+是不是所剩无几了呢？ 
+
+您自己的精力、体力
+是不是所剩无几了？ 
+
+您自己的精力和体力是不是只剩下一点点了？"
+"ELIZABETH_1PERSON_HPTP10_2_0","您的心灵和身体似乎都到了极限的样子…… ","ELIZABETH_1PERSON_HPTP10_2_0","机翻辅助：
+
+您的身心似乎都已到达极限…… 
+
+自己的心和身体都是极限的样子…… 
+
+自己的身心都达到极限的样子……"
 "THEODOR_1PERSON_HPTP10_2_0","单单恢复体力，
-怎么样？ ","THEODOR_1PERSON_HPTP10_2_0",""
+怎么样？ ","THEODOR_1PERSON_HPTP10_2_0","机翻辅助：
+
+
+要不要回复一下体力呢？ 
+
+仅仅是体力
+恢复一下怎么样？ 
+
+哪怕只是体力
+恢复一下怎么样？"
 "ELIZABETH_1PERSON_HPTP10_3_0","回国时，我会提供支持。……
-提奥。 ","ELIZABETH_1PERSON_HPTP10_3_0",""
+提奥。 ","ELIZABETH_1PERSON_HPTP10_3_0","机翻辅助：
+
+您回去时，我会支援您。
+……泰欧会。） 
+
+返回时，支持。
+……泰奥。 
+
+我们会在您回国的时候提供帮助。
+……特奥加。"
 "THEODOR_1PERSON_HPTP10_3_0","勉强能站立的样子…… 能够重新站起来吗？
- ","THEODOR_1PERSON_HPTP10_3_0",""
+ ","THEODOR_1PERSON_HPTP10_3_0","机翻辅助：
+
+您看起来已经连站着都很勉强了……
+要不要重整态势呢？ 
+
+站着好不容易的样子……
+重新站起来怎么样？ 
+
+勉强站着的样子……
+重新振作起来怎么样？"
 "ELIZABETH_PARTY_TP10_1_0","坦白说，
-你能尽快回去吗？ ","ELIZABETH_PARTY_TP10_1_0",""
+你能尽快回去吗？ ","ELIZABETH_PARTY_TP10_1_0","机翻辅助：
+
+坦白说，
+我觉得您还是快点回去比较好……） 
+
+说实话，一下子就回来
+好吗…… 
+
+老实说，马上就回来了……"
 "THEODOR_PARTY_TP10_1_0","大家的精力所剩无几……你们打算怎么办呢？
- ","THEODOR_PARTY_TP10_1_0",""
+ ","THEODOR_PARTY_TP10_1_0","机翻辅助：
+
+各位的气力所剩无几……
+您打算怎么做呢？ 
+
+大家的气力所剩无几……
+怎么办？ 
+
+大家的精力所剩无几……
+怎么办？"
 "ELIZABETH_PARTY_TP10_2_0","最终奥义，一击必杀！
-……那么就麻烦您回去吧。 ","ELIZABETH_PARTY_TP10_2_0",""
+……那么就麻烦您回去吧。 ","ELIZABETH_PARTY_TP10_2_0","机翻辅助：
+
+最终奥义，豁出去乱打一通！
+……那样我会很困扰，所以请您回去。 
+
+最终奥义，碰碎吧！
+……那就麻烦了，请回去吧。 
+
+最终奥义，击中并粉碎！
+……那就麻烦了，请您回去吧。"
 "THEODOR_PARTY_TP10_2_0","考虑剩余的精力，
-我们改变战略吧。 ","THEODOR_PARTY_TP10_2_0",""
+我们改变战略吧。 ","THEODOR_PARTY_TP10_2_0","机翻辅助：
+
+考虑到剩余的气力……
+还是改变作战计划吧。 
+
+考虑到剩下的气力，
+变更作战计划吧。 
+
+考虑到剩下的精力，改变作战计划吧。"
 "ELIZABETH_PARTY_TP10_3_0","剩下的精力最好留着回归时使用。
- ","ELIZABETH_PARTY_TP10_3_0",""
-"THEODOR_PARTY_TP10_3_0","さすがは姉上！　よきアドバイスです！ ","THEODOR_PARTY_TP10_3_0",""
+ ","ELIZABETH_PARTY_TP10_3_0","机翻辅助：
+
+剩余的气力
+还是留着回去比较好吧。 
+
+剩下的精力，
+为了回归而留下比较好吧。 
+
+剩下的气力，留给归来就好了吧。"
+"THEODOR_PARTY_TP10_3_0","不愧是姐姐！真是个好建议！ ","THEODOR_PARTY_TP10_3_0","机翻辅助：
+
+不愧是姐姐！真是个好建议！ 
+
+不愧是姐姐！好的建议！ 
+
+不愧是姐姐！很好的建议！"
 "ELIZABETH_1PERSON_HP10_1_0","胡闹是蛮勇的表现。
-请冷静下来。 ","ELIZABETH_1PERSON_HP10_1_0",""
-"THEODOR_1PERSON_HP10_1_0","请注意您的身体健康。 ","THEODOR_1PERSON_HP10_1_0",""
+请冷静下来。 ","ELIZABETH_1PERSON_HP10_1_0","机翻辅助：
+
+逞强只是匹夫之勇哦。
+请重整态势。 
+
+乱搞是蛮勇的。
+请重建。 
+
+胡来就是蛮勇。请重整。"
+"THEODOR_1PERSON_HP10_1_0","请注意您的身体健康。 ","THEODOR_1PERSON_HP10_1_0","机翻辅助：
+
+请留意自身的体力。 
+
+请注意自己的体力。"
 "ELIZABETH_1PERSON_HP10_2_0","身体状况似乎很虚弱，
-不要勉强自己。 ","ELIZABETH_1PERSON_HP10_2_0",""
-"THEODOR_1PERSON_HP10_2_0","首先祝愿您早日康复。 ","THEODOR_1PERSON_HP10_2_0",""
-"ELIZABETH_1PERSON_HP10_3_0","大家都不是那么软弱的。 ","ELIZABETH_1PERSON_HP10_3_0",""
-"THEODOR_1PERSON_HP10_3_0","那个，你的体力还好吗？ ","THEODOR_1PERSON_HP10_3_0",""
+不要勉强自己。 ","ELIZABETH_1PERSON_HP10_2_0","机翻辅助：
+
+体力似乎所剩无几……
+请不要勉强。） 
+
+体力微乎其微……
+请不要勉强。 
+
+体力不太好……请不要勉强。"
+"THEODOR_1PERSON_HP10_2_0","首先祝愿您早日康复。 ","THEODOR_1PERSON_HP10_2_0","机翻辅助：
+
+首先希望您能回复自身。） 
+
+首先希望您自己恢复健康。 
+
+首先希望您能早日康复。"
+"ELIZABETH_1PERSON_HP10_3_0","大家都不是那么软弱的。 ","ELIZABETH_1PERSON_HP10_3_0","机翻辅助：
+
+各位并没有那么脆弱哦。 
+
+大家可没有那么柔软。 
+
+大家都不是那么软的。"
+"THEODOR_1PERSON_HP10_3_0","那个，你的体力还好吗？ ","THEODOR_1PERSON_HP10_3_0","机翻辅助：
+
+那个，体力没问题吗？ 
+
+那个，体力没问题吧？ 
+
+那个，你的体力没问题吧？"
 "ELIZABETH_1PERSON_TP10_1_0","我注意到您的精力已经达到了极限。
- ","ELIZABETH_1PERSON_TP10_1_0",""
-"THEODOR_1PERSON_TP10_1_0","最好改变战术。 ","THEODOR_1PERSON_TP10_1_0",""
+ ","ELIZABETH_1PERSON_TP10_1_0","机翻辅助：
+
+
+我看到您的气力已到极限。） 
+
+看得出您自己的气力已经到了极限。
+ 
+
+您自己的精力已经到了极限。"
+"THEODOR_1PERSON_TP10_1_0","最好改变战术。 ","THEODOR_1PERSON_TP10_1_0","机翻辅助：
+
+改变战术应该会比较好吧。 
+
+改变战术比较好吧。"
 "ELIZABETH_1PERSON_TP10_2_0","提奥。
-这里就让大家自行判断吧。 ","ELIZABETH_1PERSON_TP10_2_0",""
-"THEODOR_1PERSON_TP10_2_0","啊，你觉得有精力吗？ ","THEODOR_1PERSON_TP10_2_0",""
-"ELIZABETH_1PERSON_TP10_3_0","立て！　立つんだ！
-でございます。 ","ELIZABETH_1PERSON_TP10_3_0",""
-"THEODOR_1PERSON_TP10_3_0","精力耗尽了吗？ ","THEODOR_1PERSON_TP10_3_0",""
+这里就让大家自行判断吧。 ","ELIZABETH_1PERSON_TP10_2_0","机翻辅助：
+
+泰欧。
+这里就交给各位判断吧。 
+
+泰奥。
+这里就交给大家来判断吧。 
+
+特奥。这里就交给大家来判断吧。"
+"THEODOR_1PERSON_TP10_2_0","啊，你觉得有精力吗？ ","THEODOR_1PERSON_TP10_2_0","机翻辅助：
+
+啊，气力还撑得住吗？） 
+
+啊，还有力气吗？ 
+
+啊，有力气吗？"
+"ELIZABETH_1PERSON_TP10_3_0","站起来！站起来啊！
+是的。 ","ELIZABETH_1PERSON_TP10_3_0","机翻辅助：
+
+站起来！站起来啊！
+是的。 
+
+站起来！站起来！
+。 
+
+站起来！站起来！
+是的。"
+"THEODOR_1PERSON_TP10_3_0","精力耗尽了吗？ ","THEODOR_1PERSON_TP10_3_0","机翻辅助：
+
+气力用尽……了吗？ 
+
+是精力耗尽了吗？ 
+
+筋疲力尽了……是吗？"
 "ELIZABETH_ITEM_90_BATTLE_0","无法携带的物品，
-请扔掉。 ","ELIZABETH_ITEM_90_BATTLE_0",""
-"THEODOR_ITEM_90_BATTLE_1_0","姉上！？　それは私の虎の子の！？ ","THEODOR_ITEM_90_BATTLE_1_0",""
+请扔掉。 ","ELIZABETH_ITEM_90_BATTLE_0","机翻辅助：
+
+拿不动的道具就用
+丢丢丢。 
+
+拿不完的物品是
+口袋妖怪。 
+
+拿不动的物品是
+poi poi poi。"
+"THEODOR_ITEM_90_BATTLE_1_0","姐姐！？那是我珍藏的！？ ","THEODOR_ITEM_90_BATTLE_1_0","机翻辅助：
+
+姐姐！？那是我珍藏的！？ 
+
+姐姐！？那是我的虎子！？ 
+
+姐姐！？那是我的小老虎！？"
 "ELIZABETH_ITEM_90_BATTLE_2_0","关于行李的事情，
-请交给不肖的愚弟西奥多。 ","ELIZABETH_ITEM_90_BATTLE_2_0",""
-"THEODOR_ITEM_90_BATTLE_2_0","你的东西很多吗？ ","THEODOR_ITEM_90_BATTLE_2_0",""
-"ELIZABETH_ITEM_90_BATTLE_3_0","哎呀，看起来无法搬运这么多行李呢。 ","ELIZABETH_ITEM_90_BATTLE_3_0",""
+请交给不肖的愚弟西奥多。 ","ELIZABETH_ITEM_90_BATTLE_2_0","机翻辅助：
+
+行李的事就交给我
+不肖愚弟西奥多吧。 
+
+如果是行李的话，就交给我不肖的弟弟西奥多吧。
+ 
+
+行李的事，就交给我不肖的愚弟西奥多吧。"
+"THEODOR_ITEM_90_BATTLE_2_0","你的东西很多吗？ ","THEODOR_ITEM_90_BATTLE_2_0","机翻辅助：
+
+您是不是有很多东西要拿？ 
+
+你有没有囤了很多东西？ 
+
+您带的东西不是很多吗？"
+"ELIZABETH_ITEM_90_BATTLE_3_0","哎呀，看起来无法搬运这么多行李呢。 ","ELIZABETH_ITEM_90_BATTLE_3_0","机翻辅助：
+
+哎呀，看来您拿不动了呢。 
+
+哎呀，行李拿不完的样子。 
+
+哎呀，行李拿不动了。"
 "THEODOR_ITEM_90_BATTLE_3_0","请您来我们的西奥多商店整理物品。
- ","THEODOR_ITEM_90_BATTLE_3_0",""
-"ELIZABETH_1PERSON_HP80_1_0","正处于绝佳状态。 ","ELIZABETH_1PERSON_HP80_1_0",""
-"THEODOR_1PERSON_HP80_1_0","皆様！　素晴らしい戦いでした！ ","THEODOR_1PERSON_HP80_1_0",""
+ ","THEODOR_ITEM_90_BATTLE_3_0","机翻辅助：
+
+整理的时候
+请来西奥多商店。 
+
+整理的时候请到我们的西奥多店来。
+ 
+
+整理的时候请光临我们的百货商店。"
+"ELIZABETH_1PERSON_HP80_1_0","正处于绝佳状态。 ","ELIZABETH_1PERSON_HP80_1_0","机翻辅助：
+
+正是绝佳状态。 
+
+真是绝·好·调。 
+
+真是绝、好、调。"
+"THEODOR_1PERSON_HP80_1_0","各位！真是场精采的战斗！ ","THEODOR_1PERSON_HP80_1_0","机翻辅助：
+
+各位！真是场精采的战斗！ 
+
+各位！精彩的战斗！ 
+
+各位！这是一场精彩的战斗！"
 "ELIZABETH_1PERSON_HP80_2_0","这样的状态下，
-大步向前走吧。 ","ELIZABETH_1PERSON_HP80_2_0",""
+大步向前走吧。 ","ELIZABETH_1PERSON_HP80_2_0","机翻辅助：
+
+就照这个步调
+不断前进吧。 
+
+以这样的状态
+不断地前进吧。 
+
+就这样啪嗒啪嗒地前进吧。"
 "THEODOR_1PERSON_HP80_2_0","哎呀，姐姐！？
-请不要挥舞手臂！？ ","THEODOR_1PERSON_HP80_2_0",""
-"ELIZABETH_1PERSON_HP80_3_0","よっ！　お見事！ ","ELIZABETH_1PERSON_HP80_3_0",""
+请不要挥舞手臂！？ ","THEODOR_1PERSON_HP80_2_0","机翻辅助：
+
+啊，姐姐！
+请不要乱挥手！ 
+
+啊，姐姐！？
+请不要折腾！？ 
+
+啊，姐姐！？请不要玩弄我的手！？"
+"ELIZABETH_1PERSON_HP80_3_0","哟！漂亮！ ","ELIZABETH_1PERSON_HP80_3_0","机翻辅助：
+
+哟！漂亮！ 
+
+哟！太棒了！ 
+
+哟！真漂亮！"
 "THEODOR_1PERSON_HP80_3_0","姐姐！？
-喜悦之舞只存在于梦中…… ","THEODOR_1PERSON_HP80_3_0",""
+喜悦之舞只存在于梦中…… ","THEODOR_1PERSON_HP80_3_0","机翻辅助：
+
+姐姐！
+喜悦之舞只存在于梦中…… 
+
+姐姐！？
+喜悦之舞只在梦中…… 
+
+姐姐！？喜悦之舞只在梦中……"
 "ELIZABETH_ITEM_90_DUNGEO_0","无法携带的物品，
-请扔掉。 ","ELIZABETH_ITEM_90_DUNGEO_0",""
-"THEODOR_ITEM_90_DUNGEON__0","姉上！？　それは私の虎の子の！？ ","THEODOR_ITEM_90_DUNGEON__0",""
+请扔掉。 ","ELIZABETH_ITEM_90_DUNGEO_0","机翻辅助：
+
+拿不动的道具就用
+丢丢丢。 
+
+拿不完的物品是
+口袋妖怪。 
+
+拿不动的物品是
+poi poi poi。"
+"THEODOR_ITEM_90_DUNGEON__0","姐姐！？那是我珍藏的！？ ","THEODOR_ITEM_90_DUNGEON__0","机翻辅助：
+
+姐姐！？那是我珍藏的！？ 
+
+姐姐！？那是我的虎子！？ 
+
+姐姐！？那是我的小老虎！？"
 "ELIZABETH_ITEM_90_DUNGEO_2_0","关于行李的事情，
-请交给不肖的愚弟西奥多。 ","ELIZABETH_ITEM_90_DUNGEO_2_0",""
-"THEODOR_ITEM_90_DUNGEON__2_0","你的东西很多吗？ ","THEODOR_ITEM_90_DUNGEON__2_0",""
-"ELIZABETH_ITEM_90_DUNGEO_3_0","哎呀，看起来无法搬运这么多行李呢。 ","ELIZABETH_ITEM_90_DUNGEO_3_0",""
+请交给不肖的愚弟西奥多。 ","ELIZABETH_ITEM_90_DUNGEO_2_0","机翻辅助：
+
+行李的事就交给我
+不肖愚弟西奥多吧。 
+
+如果是行李的话，就交给我不肖的弟弟西奥多吧。
+ 
+
+行李的事，就交给我不肖的愚弟西奥多吧。"
+"THEODOR_ITEM_90_DUNGEON__2_0","你的东西很多吗？ ","THEODOR_ITEM_90_DUNGEON__2_0","机翻辅助：
+
+您是不是有很多东西要拿？ 
+
+你有没有囤了很多东西？ 
+
+您带的东西不是很多吗？"
+"ELIZABETH_ITEM_90_DUNGEO_3_0","哎呀，看起来无法搬运这么多行李呢。 ","ELIZABETH_ITEM_90_DUNGEO_3_0","机翻辅助：
+
+哎呀，看来您拿不动了呢。 
+
+哎呀，行李拿不完的样子。 
+
+哎呀，行李拿不动了。"
 "THEODOR_ITEM_90_DUNGEON__3_0","请您来我们的西奥多商店整理物品。
- ","THEODOR_ITEM_90_DUNGEON__3_0",""
-"ELIZABETH_DUNGEON_START__0","被叫到就飞出来，伊丽莎白！ ","ELIZABETH_DUNGEON_START__0",""
+ ","THEODOR_ITEM_90_DUNGEON__3_0","机翻辅助：
+
+整理的时候
+请来西奥多商店。 
+
+整理的时候请到我们的西奥多店来。
+ 
+
+整理的时候请光临我们的百货商店。"
+"ELIZABETH_DUNGEON_START__0","被叫到就飞出来，伊丽莎白！ ","ELIZABETH_DUNGEON_START__0","机翻辅助：
+
+我听到呼唤就跑出来了，艾莉纱贝斯！ 
+
+被召唤飞出伊丽莎白贝斯！ 
+
+被叫出来以利莎贝斯！"
 "THEODOR_DUNGEON_START_1_0","…而西奥多将担任导航。
- ","THEODOR_DUNGEON_START_1_0",""
+ ","THEODOR_DUNGEON_START_1_0","机翻辅助：
+
+……呃，狄、西奥多
+将担任导航。 
+
+……请让我，西奥多担任
+导航。 
+
+……泰、西奥多担任
+导航。"
 "ELIZABETH_DUNGEON_START__2_0","今天我将担任导游，
-我是伊丽莎白。 ","ELIZABETH_DUNGEON_START__2_0",""
-"THEODOR_DUNGEON_START_2_0","请对我温柔一点，西奥多先生。 ","THEODOR_DUNGEON_START_2_0",""
-"ELIZABETH_DUNGEON_START__3_0","伊丽莎白，我们走啦！ ","ELIZABETH_DUNGEON_START__3_0",""
-"THEODOR_DUNGEON_START_3_0","那么，我们开始探索吧。 ","THEODOR_DUNGEON_START_3_0",""
-"ELIZABETH_QUEST_START_1_0","干脆解决了。 ","ELIZABETH_QUEST_START_1_0",""
-"THEODOR_QUEST_START_1_0","特别上映即将开始。 ","THEODOR_QUEST_START_1_0",""
-"ELIZABETH_QUEST_START_2_0","特别上映，即将开始。 ","ELIZABETH_QUEST_START_2_0",""
-"THEODOR_QUEST_START_2_0","达成之前，我和姐姐将陪伴您。 ","THEODOR_QUEST_START_2_0",""
+我是伊丽莎白。 ","ELIZABETH_DUNGEON_START__2_0","机翻辅助：
+
+今天担任向导的是
+我伊丽莎白和…… 
+
+今天让我担任导游的是
+我和伊丽莎白…… 
+
+今天担任导游的是，我伊丽莎白和……"
+"THEODOR_DUNGEON_START_2_0","请对我温柔一点，西奥多先生。 ","THEODOR_DUNGEON_START_2_0","机翻辅助：
+
+西奥多，请手下留情。 
+
+在西奥多，请手下留情。 
+
+在西奥多，请多关照。"
+"ELIZABETH_DUNGEON_START__3_0","伊丽莎白，我们走啦！ ","ELIZABETH_DUNGEON_START__3_0","机翻辅助：
+
+伊丽莎白，要走喽！ 
+
+伊丽莎白，走吧！"
+"THEODOR_DUNGEON_START_3_0","那么，我们开始探索吧。 ","THEODOR_DUNGEON_START_3_0","机翻辅助：
+
+那么，开始探索吧。 
+
+那么，我们开始探索吧。"
+"ELIZABETH_QUEST_START_1_0","干脆解决了。 ","ELIZABETH_QUEST_START_1_0","机翻辅助：
+
+俐落地解决。 
+
+一下子就解决了。"
+"THEODOR_QUEST_START_1_0","特别上映即将开始。 ","THEODOR_QUEST_START_1_0","机翻辅助：
+
+特别上映即将开始。 
+
+特别放映开始了。"
+"ELIZABETH_QUEST_START_2_0","特别上映，即将开始。 ","ELIZABETH_QUEST_START_2_0","机翻辅助：
+
+特别上映，开始。 
+
+特别放映，开始。 
+
+特别上映，开始了。"
+"THEODOR_QUEST_START_2_0","达成之前，我和姐姐将陪伴您。 ","THEODOR_QUEST_START_2_0","机翻辅助：
+
+在达成目标之前，姐姐和我将与您同行。 
+
+直到达成为止，姐姐和我都会陪您。 
+
+在达成之前，姐姐和我陪你。"
 "ELIZABETH_QUEST_START_3_0","请挑战我吧，
-我已准备好。 ","ELIZABETH_QUEST_START_3_0",""
-"THEODOR_QUEST_START_3_0","那么，让我们开始吧。 ","THEODOR_QUEST_START_3_0",""
+我已准备好。 ","ELIZABETH_QUEST_START_3_0","机翻辅助：
+
+尽管放马过来
+导航万岁。 
+
+这是您的电话。
+导航很好。 
+
+是打来的。导航器是上等的。"
+"THEODOR_QUEST_START_3_0","那么，让我们开始吧。 ","THEODOR_QUEST_START_3_0","机翻辅助：
+
+那么，开始吧。 
+
+那么开始吧。 
+
+那么我们开始吧。"
 "ELIZABETH_TOUHA_25_1_0","还有很长的路要走，充满挑战，遥远无边……
-加油！ ","ELIZABETH_TOUHA_25_1_0",""
+加油！ ","ELIZABETH_TOUHA_25_1_0","机翻辅助：
+
+前方还有很长、很险峻、很遥远的路要走……
+加油。 
+
+前方还很长，险峻，很远……
+战斗。 
+
+路还很长，很险，很远……
+我要加油。"
 "THEODOR_TOUHA_25_1_0","这个楼层似乎还有很长的路要走。
- ","THEODOR_TOUHA_25_1_0",""
+ ","THEODOR_TOUHA_25_1_0","机翻辅助：
+
+这个楼层也才刚开始……
+探索。 
+
+这个楼层
+好像才刚刚开始。 
+
+这个楼层
+好像还在继续。"
 "ELIZABETH_TOUHA_25_2_0","这个楼层也刚刚开始，
-就是这样。 ","ELIZABETH_TOUHA_25_2_0",""
-"THEODOR_TOUHA_25_2_0","还有很长的路要走呢。 ","THEODOR_TOUHA_25_2_0",""
+就是这样。 ","ELIZABETH_TOUHA_25_2_0","机翻辅助：
+
+这个楼层也才刚开始……
+探索。 
+
+这个楼层也是刚刚开始，是
+。 
+
+这个楼层也刚开始。"
+"THEODOR_TOUHA_25_2_0","还有很长的路要走呢。 ","THEODOR_TOUHA_25_2_0","机翻辅助：
+
+前方似乎还很漫长呢。 
+
+看来路还很长呢。 
+
+前面好像还很长啊。"
 "ELIZABETH_TOUHA_50_1_0","到目前为止，
-大概可以说已经完成了一半吧。 ","ELIZABETH_TOUHA_50_1_0",""
-"THEODOR_TOUHA_50_1_0","大概是一半左右吧。 ","THEODOR_TOUHA_50_1_0",""
-"ELIZABETH_TOUHA_50_2_0","剩下一半，让我们回归初心。 ","ELIZABETH_TOUHA_50_2_0",""
+大概可以说已经完成了一半吧。 ","ELIZABETH_TOUHA_50_1_0","机翻辅助：
+
+到这里为止……
+差不多走了一半吧。 
+
+到这里为止，大概是一半吧。
+ 
+
+到此为止，只说了一半吧。"
+"THEODOR_TOUHA_50_1_0","大概是一半左右吧。 ","THEODOR_TOUHA_50_1_0","机翻辅助：
+
+终于走到一半了吧。 
+
+总算是一半了吧。 
+
+才到一半吧。"
+"ELIZABETH_TOUHA_50_2_0","剩下一半，让我们回归初心。 ","ELIZABETH_TOUHA_50_2_0","机翻辅助：
+
+剩下的一半，让我们回归初心吧。 
+
+剩下的一半，回到初心吧。"
 "THEODOR_TOUHA_50_2_0","我们已经完成了一半。
-加油！ ","THEODOR_TOUHA_50_2_0",""
+加油！ ","THEODOR_TOUHA_50_2_0","机翻辅助：
+
+走到一半了哦……
+加油吧。 
+
+我来了一半。
+加油吧。 
+
+已经到一半了。加油吧。"
 "ELIZABETH_TOUHA_75_1_0","快到了，
-我是楼层管理员。 ","ELIZABETH_TOUHA_75_1_0",""
-"THEODOR_TOUHA_75_1_0","这个楼层还有一点点就到了。 ","THEODOR_TOUHA_75_1_0",""
-"ELIZABETH_TOUHA_75_2_0","再过一会儿就要突破了。 ","ELIZABETH_TOUHA_75_2_0",""
-"THEODOR_TOUHA_75_2_0","马上就要完成地图了！ ","THEODOR_TOUHA_75_2_0",""
-"ELIZABETH_TOUHA_100_1_0","盼盼卡巴恩。 ","ELIZABETH_TOUHA_100_1_0",""
-"THEODOR_TOUHA_100_1_0","素晴らしい！　地図の完成です！ ","THEODOR_TOUHA_100_1_0",""
+我是楼层管理员。 ","ELIZABETH_TOUHA_75_1_0","机翻辅助：
+
+差不多了……
+楼层魔王。 
+
+已经差不多了，
+我是楼层经理。 
+
+我已经是楼层大师了。"
+"THEODOR_TOUHA_75_1_0","这个楼层还有一点点就到了。 ","THEODOR_TOUHA_75_1_0","机翻辅助：
+
+这个楼层也快走完了。 
+
+这个楼层也差一点哦。 
+
+这个楼层也差一点。"
+"ELIZABETH_TOUHA_75_2_0","再过一会儿就要突破了。 ","ELIZABETH_TOUHA_75_2_0","机翻辅助：
+
+再一下下就走到尽头了。 
+
+再过一会儿就要踏破了。 
+
+就差一点点了。"
+"THEODOR_TOUHA_75_2_0","马上就要完成地图了！ ","THEODOR_TOUHA_75_2_0","机翻辅助：
+
+再一下下地图就完成了！ 
+
+再过一会儿地图就完成了！ 
+
+再有一点点地图就完成了！"
+"ELIZABETH_TOUHA_100_1_0","盼盼卡巴恩。 ","ELIZABETH_TOUHA_100_1_0","机翻辅助：
+
+叭叭叭叭叭。 
+
+我是潘帕卡帕恩。 
+
+是面包、面包。"
+"THEODOR_TOUHA_100_1_0","太棒了！地图完成了！ ","THEODOR_TOUHA_100_1_0","机翻辅助：
+
+太棒了！地图完成了！"
 "ELIZABETH_TOUHA_100_2_0","恭喜你，
-成为了楼层主管。 ","ELIZABETH_TOUHA_100_2_0",""
+成为了楼层主管。 ","ELIZABETH_TOUHA_100_2_0","机翻辅助：
+
+漂亮……
+楼层魔王。 
+
+漂亮，
+我是楼层老板。 
+
+您太棒了，
+我是楼层经理。"
 "THEODOR_TOUHA_100_2_0","地图完成了呢。
-你做得很好。 ","THEODOR_TOUHA_100_2_0",""
+你做得很好。 ","THEODOR_TOUHA_100_2_0","机翻辅助：
+
+地图完成了呢……
+辛苦了。” 
+
+地图完成了啊。
+很好地努力了。 
+
+地图完成了呢。你很努力了。"
 "ELIZABETH_MAPPING_ICON_A_0","确实是地图绘制大师。
- ","ELIZABETH_MAPPING_ICON_A_0",""
-"THEODOR_MAPPING_ICON_ALL_0","你画了一幅准确的地图。 ","THEODOR_MAPPING_ICON_ALL_0",""
-"ELIZABETH_MAPPING_ICON_A_2_0","地图绘制……那是人类的浪漫…… ","ELIZABETH_MAPPING_ICON_A_2_0",""
-"THEODOR_MAPPING_ICON_ALL_2_0","姐姐……那是真的吗…… ","THEODOR_MAPPING_ICON_ALL_2_0",""
+ ","ELIZABETH_MAPPING_ICON_A_0","机翻辅助：
+
+您真的是……
+绘制地图大师。 
+
+确实是地图描绘大师
+吧。 
+
+简直就是画地图的大师。"
+"THEODOR_MAPPING_ICON_ALL_0","你画了一幅准确的地图。 ","THEODOR_MAPPING_ICON_ALL_0","机翻辅助：
+
+您画的地图很正确呢。 
+
+画了正确的地图呢。 
+
+地图画得很准确呢。"
+"ELIZABETH_MAPPING_ICON_A_2_0","地图绘制……那是人类的浪漫…… ","ELIZABETH_MAPPING_ICON_A_2_0","机翻辅助：
+
+绘制地图……是人类的浪漫…… 
+
+画地图……那是人类的浪漫……"
+"THEODOR_MAPPING_ICON_ALL_2_0","姐姐……那是真的吗…… ","THEODOR_MAPPING_ICON_ALL_2_0","机翻辅助：
+
+皇姐……这是真的吗…… 
+
+姐姐……那是真的吗……"
 "ELIZABETH_MAPPING_ICON_K_0","干得漂亮！
-现在应该不会迷路了。 ","ELIZABETH_MAPPING_ICON_K_0",""
-"THEODOR_MAPPING_ICON_KAI_0","阶段被准确地把握了呢。 ","THEODOR_MAPPING_ICON_KAI_0",""
-"ELIZABETH_MAPPING_ICON_K_2_0","正解ー！　テオ、正解のご褒美を… ","ELIZABETH_MAPPING_ICON_K_2_0",""
-"THEODOR_MAPPING_ICON_KAI_2_0","えっ姉上！？　そんな準備はありません！ ","THEODOR_MAPPING_ICON_KAI_2_0",""
+现在应该不会迷路了。 ","ELIZABETH_MAPPING_ICON_K_0","机翻辅助：
+
+漂亮！
+这样就不会迷路了吧。 
+
+太棒了！
+这样也不会迷路吧。 
+
+真漂亮！
+这样就不会迷路了吧。"
+"THEODOR_MAPPING_ICON_KAI_0","阶段被准确地把握了呢。 ","THEODOR_MAPPING_ICON_KAI_0","机翻辅助：
+
+您正确地掌握了楼梯的位置呢。 
+
+您准确地把握了楼梯。 
+
+楼梯掌握得很准确呢。"
+"ELIZABETH_MAPPING_ICON_K_2_0","正确答案！泰欧，给正确答案的奖励…… ","ELIZABETH_MAPPING_ICON_K_2_0","机翻辅助：
+
+正确答案！泰欧，给正确答案的奖励…… 
+
+正解——！特奥，奖励你正确答案…… 
+
+正确答案！泰奥，奖励正确答案……"
+"THEODOR_MAPPING_ICON_KAI_2_0","咦！皇姐！？我没有准备那种东西！ ","THEODOR_MAPPING_ICON_KAI_2_0","机翻辅助：
+
+咦！皇姐！？我没有准备那种东西！ 
+
+啊姐姐！？没有那样的准备！ 
+
+啊姐姐！？我没有那样的准备！"
 "ELIZABETH_MAPPING_CHANGE_0","使用那种颜色……真是时髦的感觉。
- ","ELIZABETH_MAPPING_CHANGE_0",""
-"THEODOR_MAPPING_CHANGE_C_0","非常有品味。 ","THEODOR_MAPPING_CHANGE_C_0",""
+ ","ELIZABETH_MAPPING_CHANGE_0","机翻辅助：
+
+居然用那种颜色……
+很NOW的感觉。 
+
+竟然使用那个颜色……
+感觉很好。 
+
+用那个颜色……
+有种时髦的感觉。"
+"THEODOR_MAPPING_CHANGE_C_0","非常有品味。 ","THEODOR_MAPPING_CHANGE_C_0","机翻辅助：
+
+好棒的品味。 
+
+很棒的品味。 
+
+很棒的感觉。"
 "ELIZABETH_MAPPING_CHANGE_2_0","我是多基姆内，
-我会成为怎样的地图呢？ ","ELIZABETH_MAPPING_CHANGE_2_0",""
+我会成为怎样的地图呢？ ","ELIZABETH_MAPPING_CHANGE_2_0","机翻辅助：
+
+会是什么样的地图呢……
+我好紧张。 
+
+将会是怎样的地图呢？
+我很着急。 
+
+这是什么样的地图呢。"
 "THEODOR_MAPPING_CHANGE_C_2_0","我很期待看到最终的地图是什么样子。
- ","THEODOR_MAPPING_CHANGE_C_2_0",""
+ ","THEODOR_MAPPING_CHANGE_C_2_0","机翻辅助：
+
+不知道会做出什么样的地图呢
+真期待。 
+
+会做出怎样的地图呢
+很期待。 
+
+我很期待能做出什么样的地图。"
 "ELIZABETH_MAPPING_ICON_D_0","邪魔的东西就扔掉吧，
-就像废物一样。 ","ELIZABETH_MAPPING_ICON_D_0",""
-"THEODOR_MAPPING_ICON_DEL_0","姉上！？　私を捨てる気ですか！？ ","THEODOR_MAPPING_ICON_DEL_0",""
+就像废物一样。 ","ELIZABETH_MAPPING_ICON_D_0","机翻辅助：
+
+碍事的东西就丢掉。
+……就像丢掉泰欧一样。 
+
+碍事的东西是poy。
+……就像特奥一样。 
+
+麻烦的东西是Poi。
+就像泰奥一样。"
+"THEODOR_MAPPING_ICON_DEL_0","姐姐！？你想抛弃我吗！？ ","THEODOR_MAPPING_ICON_DEL_0","机翻辅助：
+
+姐姐！？你想抛弃我吗！？ 
+
+姐姐！？你打算抛弃我吗？？"
 "ELIZABETH_MAPPING_ICON_D_2_0","那么，
-我偷了提奥的零食…… ","ELIZABETH_MAPPING_ICON_D_2_0",""
-"THEODOR_MAPPING_ICON_DEL_2_0","错误的话只要改正就好了。 ","THEODOR_MAPPING_ICON_DEL_2_0",""
+我偷了提奥的零食…… ","ELIZABETH_MAPPING_ICON_D_2_0","机翻辅助：
+
+那么，我偷吃泰欧的点心
+也…… 
+
+那么，我偷teo的点心的事也……
+ 
+
+那么，我偷了泰奥的零食……"
+"THEODOR_MAPPING_ICON_DEL_2_0","错误的话只要改正就好了。 ","THEODOR_MAPPING_ICON_DEL_2_0","机翻辅助：
+
+只要改正错误就行了。 
+
+改正错误就可以了。 
+
+错了改正就好了。"
 "ELIZABETH_MAPPING_MEMO_1_0","能干的人不会懈怠，
-记下来吧。 ","ELIZABETH_MAPPING_MEMO_1_0",""
-"THEODOR_MAPPING_MEMO_1_0","那种心态真是太棒了。 ","THEODOR_MAPPING_MEMO_1_0",""
-"ELIZABETH_MAPPING_MEMO_2_0","エ・リ・ザ・ベ・ス… 
-と書いてみては如何でしょう？ ","ELIZABETH_MAPPING_MEMO_2_0",""
-"THEODOR_MAPPING_MEMO_2_0","记得留下备忘录以免忘记。 ","THEODOR_MAPPING_MEMO_2_0",""
-"ELIZABETH_KARITORU_ENCOU_0","收割者，登场了。 ","ELIZABETH_KARITORU_ENCOU_0",""
-"THEODOR_KARITORU_ENCOUNT_0","请小心，我是收割者！ ","THEODOR_KARITORU_ENCOUNT_0",""
+记下来吧。 ","ELIZABETH_MAPPING_MEMO_1_0","机翻辅助：
+
+能干的男人不会疏于笔记……
+就写下来吧。 
+
+有能力的男人不会懈怠笔记……把
+记下来吧。 
+
+能干的男人不会懈怠笔记……记下来吧。"
+"THEODOR_MAPPING_MEMO_1_0","那种心态真是太棒了。 ","THEODOR_MAPPING_MEMO_1_0","机翻辅助：
+
+这种心态非常好。 
+
+那个用心很棒。"
+"ELIZABETH_MAPPING_MEMO_2_0","伊·莉·莎·白……
+写写看如何？ ","ELIZABETH_MAPPING_MEMO_2_0","机翻辅助：
+
+伊·莉·莎·白……
+写写看如何？ 
+
+我爱你……试着写
+怎么样？ 
+
+试着写一下“エ·リ·ザ·ベス……
+”怎么样？"
+"THEODOR_MAPPING_MEMO_2_0","记得留下备忘录以免忘记。 ","THEODOR_MAPPING_MEMO_2_0","机翻辅助：
+
+为了不忘记而留下笔记呢。 
+
+为了不忘记要留下笔记。"
+"ELIZABETH_KARITORU_ENCOU_0","收割者，登场了。 ","ELIZABETH_KARITORU_ENCOU_0","机翻辅助：
+
+收割者登场～ 
+
+收割者，登场～ 
+
+收割者登场了。"
+"THEODOR_KARITORU_ENCOUNT_0","请小心，我是收割者！ ","THEODOR_KARITORU_ENCOUNT_0","机翻辅助：
+
+请小心，是收割者！ 
+
+小心，我是收割的人！ 
+
+请注意，我是收割者！"
 "ELIZABETH_KARITORU_ENCOU_2_0","被呼唤后飞出来，
-我是收割者。 ","ELIZABETH_KARITORU_ENCOU_2_0",""
-"THEODOR_KARITORU_ENCOUNT_2_0","刈り取る者が来ます。　ご注意を！ ","THEODOR_KARITORU_ENCOUNT_2_0",""
+我是收割者。 ","ELIZABETH_KARITORU_ENCOU_2_0","机翻辅助：
+
+被叫出来的是
+收割者。 
+
+我是被叫来飞出去的收割者。
+ 
+
+我是收割的人。"
+"THEODOR_KARITORU_ENCOUNT_2_0","收割者来了。　请注意！ ","THEODOR_KARITORU_ENCOUNT_2_0","机翻辅助：
+
+收割者来了。　请注意！ 
+
+收割者来了。请注意！ 
+
+收割的人来了。请注意！"
 "ELIZABETH_KARITORU_ENCOU_3_0","正是这个声音……
- 我看到了收割者。 ","ELIZABETH_KARITORU_ENCOU_3_0",""
-"THEODOR_KARITORU_ENCOUNT_3_0","这股气息……是要收割的人！ ","THEODOR_KARITORU_ENCOUNT_3_0",""
+ 我看到了收割者。 ","ELIZABETH_KARITORU_ENCOU_3_0","机翻辅助：
+
+这声音……
+看来是收割者。 
+
+正是这个声音……
+被认为是收割者。 
+
+正是这个声音……我认为是收割的人。"
+"THEODOR_KARITORU_ENCOUNT_3_0","这股气息……是要收割的人！ ","THEODOR_KARITORU_ENCOUNT_3_0","机翻辅助：
+
+这股气息……是收割者！ 
+
+这气息……收割的人！ 
+
+这个样子……是收割者！"

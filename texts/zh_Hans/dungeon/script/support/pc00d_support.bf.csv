@@ -1,81 +1,496 @@
 "source","target","id","developer_comments"
-"MITURU_FOE_FOLLOW_START__0","被发现在Ｆ．Ｏ．Ｅ了！ ","MITURU_FOE_FOLLOW_START__0",""
-"MITURU_FOE_FOLLOW_START__2_0","哦……F.O.E正在追来！ ","MITURU_FOE_FOLLOW_START__2_0",""
-"MITURU_FOE_FOLLOW_START__3_0","F.O.E正在追踪着我们！ ","MITURU_FOE_FOLLOW_START__3_0",""
-"MITURU_FOE_NEAR_1_0","附近有F.O.E.呢…… ","MITURU_FOE_NEAR_1_0",""
+"MITURU_FOE_FOLLOW_START__0","被发现在Ｆ．Ｏ．Ｅ了！ ","MITURU_FOE_FOLLOW_START__0","机翻辅助：
+
+被F.O.E发现了！ 
+
+被F.O.E发现了吗！ 
+
+找到F.O.E了吗！"
+"MITURU_FOE_FOLLOW_START__2_0","哦……F.O.E正在追来！ ","MITURU_FOE_FOLLOW_START__2_0","机翻辅助：
+
+唔……F.O.E追上来了！ 
+
+啊……F.O.E在追你！"
+"MITURU_FOE_FOLLOW_START__3_0","F.O.E正在追踪着我们！ ","MITURU_FOE_FOLLOW_START__3_0","机翻辅助：
+
+被F.O.E追上了！ 
+
+被F.O.E跟踪了！"
+"MITURU_FOE_NEAR_1_0","附近有F.O.E.呢…… ","MITURU_FOE_NEAR_1_0","机翻辅助：
+
+附近有F.O.E啊…… 
+
+附近有F.O.E……"
 "MITURU_FOE_NEAR_2_0","Ｆ·Ｏ·Ｅ吗。
-居然也在这种地方。 ","MITURU_FOE_NEAR_2_0",""
-"MITURU_FOE_NEAR_3_0","F.O.E.，小心！ ","MITURU_FOE_NEAR_3_0",""
-"MITURU_FOE_FOLLOW_END_1_0","看起来像是撒了Ｆ·Ｏ·Ｅ。 ","MITURU_FOE_FOLLOW_END_1_0",""
-"MITURU_FOE_FOLLOW_END_2_0","呼呼，看来你已经放弃了。 ","MITURU_FOE_FOLLOW_END_2_0",""
-"MITURU_FOE_FOLLOW_END_3_0","看来成功地逃脱了…… ","MITURU_FOE_FOLLOW_END_3_0",""
-"MITURU_KANSI_REACTION_1_0","这里要小心。 ","MITURU_KANSI_REACTION_1_0",""
-"MITURU_KANSI_REACTION_2_0","这是一个棘手的陷阱。 ","MITURU_KANSI_REACTION_2_0",""
-"MITURU_KANSI_REACTION_3_0","小心不要被发现。 ","MITURU_KANSI_REACTION_3_0",""
-"MITURU_DENKISAKU_REACTIO_0","注意不要触碰。 ","MITURU_DENKISAKU_REACTIO_0",""
-"MITURU_DENKISAKU_REACTIO_2_0","停止电流然后前进吧。 ","MITURU_DENKISAKU_REACTIO_2_0",""
-"MITURU_DENKISAKU_REACTIO_3_0","最好把电灯关掉。 ","MITURU_DENKISAKU_REACTIO_3_0",""
-"MITURU_KYOUHU_REACTION_1_0","哎呀……！ ","MITURU_KYOUHU_REACTION_1_0",""
-"MITURU_KYOUHU_REACTION_2_0","这是什么！？ ","MITURU_KYOUHU_REACTION_2_0",""
-"MITURU_KYOUHU_REACTION_3_0","哇，风吹来了！ ","MITURU_KYOUHU_REACTION_3_0",""
-"MITURU_STAIR_FIND_1_0","看起来可以继续前进，你打算怎么办呢？ ","MITURU_STAIR_FIND_1_0",""
-"MITURU_STAIR_FIND_2_0","那边有楼梯呢。 ","MITURU_STAIR_FIND_2_0",""
-"MITURU_STAIR_FIND_3_0","楼梯吗……好像可以前往下一层。 ","MITURU_STAIR_FIND_3_0",""
-"MITURU_TREASURE_FIND_1_0","宝箱啊……要不要打开看看呢。 ","MITURU_TREASURE_FIND_1_0",""
-"MITURU_TREASURE_FIND_2_0","嗯……那里有一个宝箱。 ","MITURU_TREASURE_FIND_2_0",""
-"MITURU_TREASURE_FIND_3_0","前方有宝箱。 ","MITURU_TREASURE_FIND_3_0",""
-"MITURU_CHECK_WALL_1_0","那个是什么？ ","MITURU_CHECK_WALL_1_0",""
-"MITURU_CHECK_WALL_2_0","…你在意了吗？可以帮我查一下吗？ ","MITURU_CHECK_WALL_2_0",""
-"MITURU_CHECK_WALL_3_0","あれは何だ…？　調べてみよう。 ","MITURU_CHECK_WALL_3_0",""
-"MITURU_SWITCH_FIND_1_0","ん？　これは…スイッチか？ ","MITURU_SWITCH_FIND_1_0",""
-"MITURU_SWITCH_FIND_2_0","看啊，这里有一个开关。 ","MITURU_SWITCH_FIND_2_0",""
-"MITURU_SWITCH_FIND_3_0","开关吗……判断就交给你了。 ","MITURU_SWITCH_FIND_3_0",""
-"MITURU_SHORTCUT_FIND_1_0","ん？　そこから通れそうだな。 ","MITURU_SHORTCUT_FIND_1_0",""
-"MITURU_SHORTCUT_FIND_2_0","好，看起来可以走捷径。 ","MITURU_SHORTCUT_FIND_2_0",""
-"MITURU_SHORTCUT_FIND_3_0","看，好像要剪短发了。 ","MITURU_SHORTCUT_FIND_3_0",""
+居然也在这种地方。 ","MITURU_FOE_NEAR_2_0","机翻辅助：
+
+可恶的F.O.E。
+没想到居然会出现在这种地方。 
+
+F.O.E。
+没想到这里也有。 
+
+F.O.E目。没想到这种地方也有。"
+"MITURU_FOE_NEAR_3_0","F.O.E.，小心！ ","MITURU_FOE_NEAR_3_0","机翻辅助：
+
+是F.O.E，小心！ 
+
+F.O.E，小心！"
+"MITURU_FOE_FOLLOW_END_1_0","看起来像是撒了Ｆ·Ｏ·Ｅ。 ","MITURU_FOE_FOLLOW_END_1_0","机翻辅助：
+
+好像甩掉F.O.E了。 
+
+好像撒了F.O.E。"
+"MITURU_FOE_FOLLOW_END_2_0","呼呼，看来你已经放弃了。 ","MITURU_FOE_FOLLOW_END_2_0","机翻辅助：
+
+呼，看来是放弃了。 
+
+嗯，好像放弃了。 
+
+嗯，你好像放弃了。"
+"MITURU_FOE_FOLLOW_END_3_0","看来成功地逃脱了…… ","MITURU_FOE_FOLLOW_END_3_0","机翻辅助：
+
+看来是顺利逃掉了…… 
+
+好像逃得很好…… 
+
+好像顺利逃过了……"
+"MITURU_KANSI_REACTION_1_0","这里要小心。 ","MITURU_KANSI_REACTION_1_0","机翻辅助：
+
+这里要小心。"
+"MITURU_KANSI_REACTION_2_0","这是一个棘手的陷阱。 ","MITURU_KANSI_REACTION_2_0","机翻辅助：
+
+真是个麻烦的陷阱啊。 
+
+真是个麻烦的陷阱。 
+
+真是麻烦的陷阱啊。"
+"MITURU_KANSI_REACTION_3_0","小心不要被发现。 ","MITURU_KANSI_REACTION_3_0","机翻辅助：
+
+要小心别被发现了。 
+
+注意不要找到。 
+
+注意不要被发现。"
+"MITURU_DENKISAKU_REACTIO_0","注意不要触碰。 ","MITURU_DENKISAKU_REACTIO_0","机翻辅助：
+
+要小心别碰到了。 
+
+注意不要碰。 
+
+小心别碰。"
+"MITURU_DENKISAKU_REACTIO_2_0","停止电流然后前进吧。 ","MITURU_DENKISAKU_REACTIO_2_0","机翻辅助：
+
+还是等电流停了以后再前进吧。 
+
+假设先停止电流再前进。 
+
+我们把电流关掉再继续前进吧。"
+"MITURU_DENKISAKU_REACTIO_3_0","最好把电灯关掉。 ","MITURU_DENKISAKU_REACTIO_3_0","机翻辅助：
+
+看来还是把电停掉比较好。 
+
+好像还是把电关掉比较好。 
+
+好像还是关灯比较好。"
+"MITURU_KYOUHU_REACTION_1_0","哎呀……！ ","MITURU_KYOUHU_REACTION_1_0","机翻辅助：
+
+唔……！ 
+
+啊……！"
+"MITURU_KYOUHU_REACTION_2_0","这是什么！？ ","MITURU_KYOUHU_REACTION_2_0","机翻辅助：
+
+这是！？"
+"MITURU_KYOUHU_REACTION_3_0","哇，风吹来了！ ","MITURU_KYOUHU_REACTION_3_0","机翻辅助：
+
+风、风！？ 
+
+嗯，风！？ 
+
+呜，风！？"
+"MITURU_STAIR_FIND_1_0","看起来可以继续前进，你打算怎么办呢？ ","MITURU_STAIR_FIND_1_0","机翻辅助：
+
+虽然能继续前进，但是该怎么办？ 
+
+好像要往前走了，怎么办？ 
+
+好像要继续前进了，怎么办？"
+"MITURU_STAIR_FIND_2_0","那边有楼梯呢。 ","MITURU_STAIR_FIND_2_0","机翻辅助：
+
+那里有楼梯啊。 
+
+那里有楼梯。"
+"MITURU_STAIR_FIND_3_0","楼梯吗……好像可以前往下一层。 ","MITURU_STAIR_FIND_3_0","机翻辅助：
+
+楼梯吗……看来能去下一层了。 
+
+楼梯啊……好像要进下一层。 
+
+楼梯吗……好像要进入下一层了。"
+"MITURU_TREASURE_FIND_1_0","宝箱啊……要不要打开看看呢。 ","MITURU_TREASURE_FIND_1_0","机翻辅助：
+
+有宝箱啊……打开看看吧。 
+
+有宝箱啊……要不要打开看看？"
+"MITURU_TREASURE_FIND_2_0","嗯……那里有一个宝箱。 ","MITURU_TREASURE_FIND_2_0","机翻辅助：
+
+唔……有宝箱啊。 
+
+嗯……有宝箱啊。 
+
+唔……有个宝箱。"
+"MITURU_TREASURE_FIND_3_0","前方有宝箱。 ","MITURU_TREASURE_FIND_3_0","机翻辅助：
+
+前方有宝箱。 
+
+前方有个宝箱。 
+
+前面是宝箱。"
+"MITURU_CHECK_WALL_1_0","那个是什么？ ","MITURU_CHECK_WALL_1_0","机翻辅助：
+
+唔……那是什么？ 
+
+嗯……那是什么？"
+"MITURU_CHECK_WALL_2_0","…你在意了吗？可以帮我查一下吗？ ","MITURU_CHECK_WALL_2_0","机翻辅助：
+
+……真让人在意啊，能帮我调查一下吗？ 
+
+……别在意，能帮我查一下吗？"
+"MITURU_CHECK_WALL_3_0","那是什么……？调查一下吧。 ","MITURU_CHECK_WALL_3_0","机翻辅助：
+
+那是什么……？调查一下吧。 
+
+那是什么……？我查一下吧。"
+"MITURU_SWITCH_FIND_1_0","嗯？这是……开关吗？ ","MITURU_SWITCH_FIND_1_0","机翻辅助：
+
+嗯？这是……开关吗？ 
+
+？这是……开关吗？"
+"MITURU_SWITCH_FIND_2_0","看啊，这里有一个开关。 ","MITURU_SWITCH_FIND_2_0","机翻辅助：
+
+看，这里有个开关。 
+
+看，这里有开关。 
+
+你看，这里有开关。"
+"MITURU_SWITCH_FIND_3_0","开关吗……判断就交给你了。 ","MITURU_SWITCH_FIND_3_0","机翻辅助：
+
+开关吗……判断交给你。 
+
+开关啊……交给你判断。 
+
+是开关吗……判断就交给你了。"
+"MITURU_SHORTCUT_FIND_1_0","嗯？好像可以从那里过去。 ","MITURU_SHORTCUT_FIND_1_0","机翻辅助：
+
+嗯？好像可以从那里过去。 
+
+？好像可以从那里通过。 
+
+嗯？好像可以从那里通过啊。"
+"MITURU_SHORTCUT_FIND_2_0","好，看起来可以走捷径。 ","MITURU_SHORTCUT_FIND_2_0","机翻辅助：
+
+好，应该可以抄近路。 
+
+好吧，看来可以抄近路了。 
+
+好，看来可以抄近道了。"
+"MITURU_SHORTCUT_FIND_3_0","看，好像要剪短发了。 ","MITURU_SHORTCUT_FIND_3_0","机翻辅助：
+
+看，好像可以抄捷径。 
+
+你看，快变成短发了。 
+
+看，好像是快捷方式。"
 "MITURU_FOE_WARNING_NEAR__0","不要掉以轻心！
-F.O.E还在这里！ ","MITURU_FOE_WARNING_NEAR__0",""
+F.O.E还在这里！ ","MITURU_FOE_WARNING_NEAR__0","机翻辅助：
+
+别大意！
+Ｆ．Ｏ．Ｅ还在追我们。 
+
+不要疏忽大意！
+还有F.O.E呢！ 
+
+别大意！
+还有F.O.E呢！"
 "MITURU_FOE_WARNING_NEAR__2_0","那个F.O.E，
-还在追着我们吗…… ","MITURU_FOE_WARNING_NEAR__2_0",""
+还在追着我们吗…… ","MITURU_FOE_WARNING_NEAR__2_0","机翻辅助：
+
+那个Ｆ．Ｏ．Ｅ……
+还在追我们吗…… 
+
+那个F.O.E，
+还在追吗…… 
+
+那个F.O.E，
+你还在追我吗……"
 "MITURU_FOE_WARNING_NEAR__3_0","不要放松警惕！
-F.O.E也在这里！ ","MITURU_FOE_WARNING_NEAR__3_0",""
-"MITURU_1PERSON_HPTP10_1_0","哦……没事，还可以…… ","MITURU_1PERSON_HPTP10_1_0",""
-"MITURU_1PERSON_HPTP10_2_0","我做了一件让我感到羞愧的事情。 ","MITURU_1PERSON_HPTP10_2_0",""
-"MITURU_1PERSON_HPTP10_3_0","不想成为累赘，但是…… ","MITURU_1PERSON_HPTP10_3_0",""
-"MITURU_1PERSON_HP10_1_0","ハァっ…悪いが、回復を頼めないか？ ","MITURU_1PERSON_HP10_1_0",""
-"MITURU_1PERSON_HP10_2_0","哎呀……体力不行啊…… ","MITURU_1PERSON_HP10_2_0",""
-"MITURU_1PERSON_HP10_3_0","对不起，我的体力快要到达极限了…… ","MITURU_1PERSON_HP10_3_0",""
-"MITURU_1PERSON_TP10_1_0","精力快要耗尽了……抱歉…… ","MITURU_1PERSON_TP10_1_0",""
-"MITURU_1PERSON_TP10_2_0","有点疲惫了呢…… ","MITURU_1PERSON_TP10_2_0",""
-"MITURU_1PERSON_TP10_3_0","不好意思……要不要稍微休息一下？ ","MITURU_1PERSON_TP10_3_0",""
-"MITURU_1PERSON_HP80_1_0","希望下次也能保持这样的状态。 ","MITURU_1PERSON_HP80_1_0",""
-"MITURU_1PERSON_HP80_2_0","我们也在成长。 ","MITURU_1PERSON_HP80_2_0",""
-"MITURU_1PERSON_HP80_3_0","ブリリアント！　見事な戦いだった。 ","MITURU_1PERSON_HP80_3_0",""
-"MITURU_DUNGEON_START_1_0","指挥就交给我吧。 ","MITURU_DUNGEON_START_1_0",""
-"MITURU_DUNGEON_START_2_0","走吧！ ","MITURU_DUNGEON_START_2_0",""
-"MITURU_DUNGEON_START_3_0","开始探索！ ","MITURU_DUNGEON_START_3_0",""
-"MITURU_QUEST_START_1_0","那我们就走吧。 ","MITURU_QUEST_START_1_0",""
-"MITURU_QUEST_START_2_0","开始任务！ ","MITURU_QUEST_START_2_0",""
-"MITURU_QUEST_START_3_0","开始吧，大家。 ","MITURU_QUEST_START_3_0",""
-"MITURU_TOUHA_25_1_0","还有很长的路要走呢。 ","MITURU_TOUHA_25_1_0",""
-"MITURU_TOUHA_25_2_0","不要勉强，慢慢前进。 ","MITURU_TOUHA_25_2_0",""
-"MITURU_TOUHA_50_1_0","抱歉让你操心了，你不累吧？ ","MITURU_TOUHA_50_1_0",""
-"MITURU_TOUHA_50_2_0","这个楼层也相当复杂。 ","MITURU_TOUHA_50_2_0",""
-"MITURU_TOUHA_75_1_0","你走了相当长的路，体力还好吗？ ","MITURU_TOUHA_75_1_0",""
-"MITURU_TOUHA_75_2_0","整体的结构已经显现出来了呢…… ","MITURU_TOUHA_75_2_0",""
+F.O.E也在这里！ ","MITURU_FOE_WARNING_NEAR__3_0","机翻辅助：
+
+别松懈！
+Ｆ．Ｏ．Ｅ也在哦！ 
+
+别泄气！
+F.O.E也在！ 
+
+不要松懈！
+F.O.E也在哦！"
+"MITURU_1PERSON_HPTP10_1_0","哦……没事，还可以…… ","MITURU_1PERSON_HPTP10_1_0","机翻辅助：
+
+唔……没问题，还撑得下去…… 
+
+嗯……没关系，还可以…… 
+
+唔……没关系，还行……"
+"MITURU_1PERSON_HPTP10_2_0","我做了一件让我感到羞愧的事情。 ","MITURU_1PERSON_HPTP10_2_0","机翻辅助：
+
+我居然会……一时大意…… 
+
+和我做过的事……冒失了…… 
+
+和我做的事……失败了……"
+"MITURU_1PERSON_HPTP10_3_0","不想成为累赘，但是…… ","MITURU_1PERSON_HPTP10_3_0","机翻辅助：
+
+我可不想成为累赘啊…… 
+
+虽然不想成为累赘…… 
+
+我不想成为累赘……"
+"MITURU_1PERSON_HP10_1_0","呼……不好意思，可以帮我补血吗？ ","MITURU_1PERSON_HP10_1_0","机翻辅助：
+
+呼……不好意思，可以帮我补血吗？ 
+
+啊……不好意思，能拜托你恢复吗？ 
+
+哈……不好意思，能拜托你帮我恢复吗？"
+"MITURU_1PERSON_HP10_2_0","哎呀……体力不行啊…… ","MITURU_1PERSON_HP10_2_0","机翻辅助：
+
+唔……体力不太够…… 
+
+啊……体力好紧张啊…… 
+
+唔……体力吃不消啊……"
+"MITURU_1PERSON_HP10_3_0","对不起，我的体力快要到达极限了…… ","MITURU_1PERSON_HP10_3_0","机翻辅助：
+
+抱歉，体力快到极限了…… 
+
+对不起，体力的极限很近…… 
+
+对不起，体力已经接近极限了……"
+"MITURU_1PERSON_TP10_1_0","精力快要耗尽了……抱歉…… ","MITURU_1PERSON_TP10_1_0","机翻辅助：
+
+我好像快没力气了……抱歉…… 
+
+快要筋疲力尽了……对不起…… 
+
+我快精疲力尽了……对不起……"
+"MITURU_1PERSON_TP10_2_0","有点疲惫了呢…… ","MITURU_1PERSON_TP10_2_0","机翻辅助：
+
+我好像有点累了…… 
+
+好像有点疲惫了…… 
+
+好像有点累了……"
+"MITURU_1PERSON_TP10_3_0","不好意思……要不要稍微休息一下？ ","MITURU_1PERSON_TP10_3_0","机翻辅助：
+
+抱歉……要不要休息一下？ 
+
+对不起……不稍微休息一下吗？ 
+
+对不起……要不要休息一下？"
+"MITURU_1PERSON_HP80_1_0","希望下次也能保持这样的状态。 ","MITURU_1PERSON_HP80_1_0","机翻辅助：
+
+希望下次也能像这样顺利。 
+
+下次也想这样下去啊。 
+
+希望下次也能继续这样下去。"
+"MITURU_1PERSON_HP80_2_0","我们也在成长。 ","MITURU_1PERSON_HP80_2_0","机翻辅助：
+
+这表示我们也有所成长了。 
+
+我们也在成长啊。 
+
+我们也在成长。"
+"MITURU_1PERSON_HP80_3_0","Brilliant！刚才的战斗很精彩。 ","MITURU_1PERSON_HP80_3_0","机翻辅助：
+
+Brilliant！刚才的战斗很精彩。 
+
+不列颠！这是一场漂亮的战斗。 
+
+亮！这是一场精彩的战斗。"
+"MITURU_DUNGEON_START_1_0","指挥就交给我吧。 ","MITURU_DUNGEON_START_1_0","机翻辅助：
+
+指挥交给你。 
+
+任凭指挥。 
+
+指挥交给他。"
+"MITURU_DUNGEON_START_2_0","走吧！ ","MITURU_DUNGEON_START_2_0","机翻辅助：
+
+上吧！ 
+
+走吧！"
+"MITURU_DUNGEON_START_3_0","开始探索！ ","MITURU_DUNGEON_START_3_0","机翻辅助：
+
+开始探索！"
+"MITURU_QUEST_START_1_0","那我们就走吧。 ","MITURU_QUEST_START_1_0","机翻辅助：
+
+那就出发吧。 
+
+那就去吧。"
+"MITURU_QUEST_START_2_0","开始任务！ ","MITURU_QUEST_START_2_0","机翻辅助：
+
+开始任务！ 
+
+任务开始！"
+"MITURU_QUEST_START_3_0","开始吧，大家。 ","MITURU_QUEST_START_3_0","机翻辅助：
+
+大家，要开始喽。 
+
+开始了，大家。 
+
+开始吧，大家。"
+"MITURU_TOUHA_25_1_0","还有很长的路要走呢。 ","MITURU_TOUHA_25_1_0","机翻辅助：
+
+前方似乎还很漫长。 
+
+看来路还很长呢。 
+
+前面好像还很长啊。"
+"MITURU_TOUHA_25_2_0","不要勉强，慢慢前进。 ","MITURU_TOUHA_25_2_0","机翻辅助：
+
+别勉强自己，慢慢前进吧。 
+
+不要勉强前进吧。 
+
+不要勉强自己前进吧。"
+"MITURU_TOUHA_50_1_0","抱歉让你操心了，你不累吧？ ","MITURU_TOUHA_50_1_0","机翻辅助：
+
+不好意思，都交给你指挥，你累不累？ 
+
+完全交给你，对不起，你不累吗？ 
+
+交给你了对不起，你累了吗？"
+"MITURU_TOUHA_50_2_0","这个楼层也相当复杂。 ","MITURU_TOUHA_50_2_0","机翻辅助：
+
+这层楼的构造也相当复杂呢。 
+
+这个楼层也挺复杂的。 
+
+这个楼层也很复杂啊。"
+"MITURU_TOUHA_75_1_0","你走了相当长的路，体力还好吗？ ","MITURU_TOUHA_75_1_0","机翻辅助：
+
+走了好长一段路，体力还行吗？ 
+
+走了很长一段路，体力还好吗？ 
+
+走了不少路，体力还好吗？"
+"MITURU_TOUHA_75_2_0","整体的结构已经显现出来了呢…… ","MITURU_TOUHA_75_2_0","机翻辅助：
+
+已经看得出整体构造了…… 
+
+看到了整体的构造啊…… 
+
+看到了整体的构造……"
 "MITURU_TOUHA_100_1_0","这样这个楼层就可以毫无迷惑地移动了。
- ","MITURU_TOUHA_100_1_0",""
-"MITURU_TOUHA_100_2_0","你负责的结果是正确的。 ","MITURU_TOUHA_100_2_0",""
-"MITURU_MAPPING_ICON_ALL__0","我的记忆没有错。 ","MITURU_MAPPING_ICON_ALL__0",""
-"MITURU_MAPPING_ICON_ALL__2_0","顺便说一下，还有那样的东西。 ","MITURU_MAPPING_ICON_ALL__2_0",""
-"MITURU_MAPPING_ICON_KAID_0","这样就不会迷路到楼梯了。 ","MITURU_MAPPING_ICON_KAID_0",""
-"MITURU_MAPPING_ICON_KAID_2_0","从这里可以移动到另一个楼层。 ","MITURU_MAPPING_ICON_KAID_2_0",""
-"MITURU_MAPPING_CHANGE_CO_0","哦，不错的品味。 ","MITURU_MAPPING_CHANGE_CO_0",""
-"MITURU_MAPPING_CHANGE_CO_2_0","那个想法我没有想到。 ","MITURU_MAPPING_CHANGE_CO_2_0",""
-"MITURU_MAPPING_ICON_DEL__0","感觉很清爽。 ","MITURU_MAPPING_ICON_DEL__0",""
-"MITURU_MAPPING_ICON_DEL__2_0","这是一张简洁而美丽的地图。 ","MITURU_MAPPING_ICON_DEL__2_0",""
-"MITURU_MAPPING_MEMO_1_0","啊，这样就不会忘记了。 ","MITURU_MAPPING_MEMO_1_0",""
-"MITURU_MAPPING_MEMO_2_0","稍后再确认。 ","MITURU_MAPPING_MEMO_2_0",""
-"MITURU_DOOR_OPEN_1_0","让我们继续前进吧。 ","MITURU_DOOR_OPEN_1_0",""
-"MITURU_DOOR_OPEN_2_0","好，前进吧。 ","MITURU_DOOR_OPEN_2_0",""
-"MITURU_DOOR_OPEN_3_0","快点来。 ","MITURU_DOOR_OPEN_3_0",""
+ ","MITURU_TOUHA_100_1_0","机翻辅助：
+
+这样就能在这一层楼
+毫无迷惘地移动了。 
+
+这样这个楼层就可以毫不犹豫地移动了。
+ 
+
+这样就可以毫不犹豫地移动这个楼层了。"
+"MITURU_TOUHA_100_2_0","你负责的结果是正确的。 ","MITURU_TOUHA_100_2_0","机翻辅助：
+
+交给你指挥是正确的。 
+
+交给你才是正确答案。 
+
+交给你就对了。"
+"MITURU_MAPPING_ICON_ALL__0","我的记忆没有错。 ","MITURU_MAPPING_ICON_ALL__0","机翻辅助：
+
+和我的记忆没有不同。 
+
+和我的记忆没错。 
+
+和我的记忆一样。"
+"MITURU_MAPPING_ICON_ALL__2_0","顺便说一下，还有那样的东西。 ","MITURU_MAPPING_ICON_ALL__2_0","机翻辅助：
+
+话说回来，好像有这种东西呢。 
+
+这么说来，也有那样的东西啊。 
+
+这么说来，也有那种东西。"
+"MITURU_MAPPING_ICON_KAID_0","这样就不会迷路到楼梯了。 ","MITURU_MAPPING_ICON_KAID_0","机翻辅助：
+
+这样就能毫不迷惘地走到楼梯了。 
+
+这样就不会迷路到楼梯了。 
+
+这样就不会迷路了。"
+"MITURU_MAPPING_ICON_KAID_2_0","从这里可以移动到另一个楼层。 ","MITURU_MAPPING_ICON_KAID_2_0","机翻辅助：
+
+可以从此处移动到其他楼层呢。 
+
+从这里可以移动楼层啊。"
+"MITURU_MAPPING_CHANGE_CO_0","哦，不错的品味。 ","MITURU_MAPPING_CHANGE_CO_0","机翻辅助：
+
+哦……品味不错嘛。 
+
+嗯……感觉不错。 
+
+哦……感觉还不错。"
+"MITURU_MAPPING_CHANGE_CO_2_0","那个想法我没有想到。 ","MITURU_MAPPING_CHANGE_CO_2_0","机翻辅助：
+
+我完全没想到这一点。 
+
+没有那个想法。 
+
+我可没有这个想法。"
+"MITURU_MAPPING_ICON_DEL__0","感觉很清爽。 ","MITURU_MAPPING_ICON_DEL__0","机翻辅助：
+
+心情舒畅多了。 
+
+好清爽啊。 
+
+心情舒畅啊。"
+"MITURU_MAPPING_ICON_DEL__2_0","这是一张简洁而美丽的地图。 ","MITURU_MAPPING_ICON_DEL__2_0","机翻辅助：
+
+是一张没有多余之处的美丽地图。 
+
+这是一张没有浪费的美丽地图。 
+
+没有多余的美丽地图。"
+"MITURU_MAPPING_MEMO_1_0","啊，这样就不会忘记了。 ","MITURU_MAPPING_MEMO_1_0","机翻辅助：
+
+啊啊，这下子我不会忘记了。 
+
+啊，这样就忘不了了。 
+
+啊，这样就不会忘记了。"
+"MITURU_MAPPING_MEMO_2_0","稍后再确认。 ","MITURU_MAPPING_MEMO_2_0","机翻辅助：
+
+之后再确认吧。 
+
+以后再确认吧。"
+"MITURU_DOOR_OPEN_1_0","让我们继续前进吧。 ","MITURU_DOOR_OPEN_1_0","机翻辅助：
+
+继续前进吧。 
+
+我们先走吧。"
+"MITURU_DOOR_OPEN_2_0","好，前进吧。 ","MITURU_DOOR_OPEN_2_0","机翻辅助：
+
+好，前进吧。 
+
+好，前进。 
+
+好，继续前进。"
+"MITURU_DOOR_OPEN_3_0","快点来。 ","MITURU_DOOR_OPEN_3_0","机翻辅助：
+
+快点来吧。 
+
+快来。 
+
+快来！"
