@@ -7,6 +7,7 @@ DIR_ORIGINAL_ROOT = "original_files/unpacked"
 DIR_EXPORT_ROOT = "temp/export"
 DIR_IMPORT_ROOT = "temp/import"
 DIR_JSON_ROOT = "temp/json"
+DIR_PACK_ROOT = "temp/patch102"
 DIR_CSV_ROOT = "texts"
 DIR_XLSX_ROOT = "out/xlsx"
 DIR_PATCH_ROOT = "out/00040000001CBE00"
@@ -18,7 +19,7 @@ CHAR_TABLE_PATH = "out/char_table.json"
 
 CONTROL_PATTERN = re.compile(r"(\[[0-9A-F]{2}(?: [0-9A-F]{2})*\]|\n)")
 TRASH_PATTERN = re.compile(
-  r"^(?:|.*(?:0x|＿|※|（仮）|ダミーメッセージ|ダミーMSG|ダミー枠|ＲＥＳＥＲＶＥ|リザーブ|ダ\[(?:n|e|f(?: \d+)+)\]ミ\[(?:n|e|f(?: \d+)+)\]ー|★未使用|MSG|これが出るとバグです).*|ダミー\d*|＜声のみ＞ダミー|会話ダミー|ダミ－|ブランク|未使用)$",
+  r"^(?:|.*(?:0x|＿|※|（仮）|ダミーメッセージ|ダミーMSG|ダミー枠|ＲＥＳＥＲＶＥ|リザーブ|ダ\[(?:n|e|f(?: \d+)+)\]ミ\[(?:n|e|f(?: \d+)+)\]ー|★未使用|・未使用|未使用・|MSG|これが出るとバグです).*|ダミー\d*|＜声のみ＞ダミー|会話ダミー|ダミ－|ブランク|未使用)$",
   re.DOTALL,
 )
 KANA_PATTERN = re.compile(r"[\u3040-\u309F\u30A0-\u30FF]+")
