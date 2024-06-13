@@ -39,10 +39,11 @@ def convert_msg_to_json(msg_root: str, json_root: str):
             "suffix": suffix,
           }
 
-          if all(map(
-              lambda x: len(x) == 1 or (x.startswith("[") and x.endswith("]")),
-              content.split("[F2 03 01 FF]"),
-          )):
+          if "[F2 03 01 FF]" in content and all(
+              map(
+                lambda x: len(x) == 1 or (x.startswith("[") and x.endswith("]")),
+                content.split("[F2 03 01 FF]"),
+              )):
             content = content.replace("[F2 03 01 FF]", "")
             item.update({
               "content": content,
