@@ -1,5 +1,5 @@
 import json
-from helper import CODE_BIN_PATH, DIR_MESSAGE_ROOT, HARDCODED_TEXTS, get_text_bases
+from helper import CODE_BIN_PATH, DIR_EXPORT_ROOT, HARDCODED_TEXTS, get_text_bases
 
 
 def export_code_bin(code_bin_path: str, message_root: str, hardcoded_texts: list[tuple[str, str]]):
@@ -56,4 +56,4 @@ def export_code_bin(code_bin_path: str, message_root: str, hardcoded_texts: list
 
 
 if __name__ == "__main__":
-  export_code_bin(CODE_BIN_PATH, DIR_MESSAGE_ROOT, HARDCODED_TEXTS)
+  export_code_bin(CODE_BIN_PATH, DIR_EXPORT_ROOT, HARDCODED_TEXTS)

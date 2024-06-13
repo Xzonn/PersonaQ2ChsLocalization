@@ -8,16 +8,13 @@ if (Test-Path -Path "out\" -PathType "Container") {
 if (Test-Path -Path "temp\" -PathType "Container") {
   Remove-Item -Recurse -Force "temp\"
 }
-if (Test-Path -Path "files\normalized\" -PathType "Container") {
-  Remove-Item -Recurse -Force "files\normalized\"
-}
 
 # Prepare for tools
 dotnet publish -c Release --framework net8.0 "bin\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper.csproj"
 
 # Unpack/extract original files
 & $cpkmakec "original_files\patch102.cpk" -extract="temp\patch102"
-& $pq2helper export -i "original_files\unpacked" -o "temp\messages"
+& $pq2helper export -i "original_files\unpacked" -o "temp\export"
 python scripts\export_code_bin.py
 
 # Convert texts and create a character table
@@ -30,7 +27,7 @@ python scripts\copy_duplicate_files.py
 
 # Import texts
 python scripts\import_code_bin.py
-& $pq2helper import -i "original_files\unpacked" -j "temp\messages_new" -o "temp\patch102"
+& $pq2helper import -i "original_files\unpacked" -j "temp\import" -o "temp\patch102"
 
 # Create new font
 New-Item -ItemType Directory -Path "temp\font" -Force

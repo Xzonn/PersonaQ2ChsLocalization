@@ -2,7 +2,7 @@ import json
 import os
 import shutil
 
-from helper import DIR_MESSAGE_NEW_ROOT, DUPLICATE_FILES_INFO_PATH
+from helper import DIR_IMPORT_ROOT, DUPLICATE_FILES_INFO_PATH
 
 
 def copy_duplicate_files(root: str, info_path: str):
@@ -18,4 +18,4 @@ def copy_duplicate_files(root: str, info_path: str):
 
 
 if __name__ == "__main__":
-  copy_duplicate_files(DIR_MESSAGE_NEW_ROOT, DUPLICATE_FILES_INFO_PATH)
+  copy_duplicate_files(DIR_IMPORT_ROOT, DUPLICATE_FILES_INFO_PATH)

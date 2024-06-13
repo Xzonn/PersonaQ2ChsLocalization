@@ -1,6 +1,6 @@
 import json
 import os
-from helper import DIR_JSON_ROOT, DIR_MESSAGE_ROOT, DIR_MESSAGE_NEW_ROOT, convert_back_special_controls, convert_zh_hans_to_shift_jis
+from helper import DIR_JSON_ROOT, DIR_EXPORT_ROOT, DIR_IMPORT_ROOT, convert_back_special_controls, convert_zh_hans_to_shift_jis
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
@@ -69,4 +69,4 @@ def convert_json_to_msg(json_root: str, msg_root: str, msg_new_root: str):
 
 
 if __name__ == "__main__":
-  convert_json_to_msg(f"{DIR_JSON_ROOT}/{LANGUAGE}", DIR_MESSAGE_ROOT, DIR_MESSAGE_NEW_ROOT)
+  convert_json_to_msg(f"{DIR_JSON_ROOT}/{LANGUAGE}", DIR_EXPORT_ROOT, DIR_IMPORT_ROOT)

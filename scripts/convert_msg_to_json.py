@@ -1,7 +1,7 @@
 import json
 import os
 
-from helper import DIR_JSON_ROOT, DIR_MESSAGE_ROOT, TRASH_PATTERN, convert_special_controls, remove_controls
+from helper import DIR_JSON_ROOT, DIR_EXPORT_ROOT, TRASH_PATTERN, convert_special_controls, remove_controls
 
 
 def convert_msg_to_json(msg_root: str, json_root: str):
@@ -70,4 +70,4 @@ def convert_msg_to_json(msg_root: str, json_root: str):
 
 
 if __name__ == "__main__":
-  convert_msg_to_json(DIR_MESSAGE_ROOT, f"{DIR_JSON_ROOT}/ja")
+  convert_msg_to_json(DIR_EXPORT_ROOT, f"{DIR_JSON_ROOT}/ja")

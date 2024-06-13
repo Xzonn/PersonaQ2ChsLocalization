@@ -2,7 +2,7 @@ import json
 from logging import warning
 import os
 from typing import Any
-from helper import CODE_BIN_PATH, CONTROL_PATTERN, DIR_MESSAGE_NEW_ROOT, DIR_PATCH_ROOT
+from helper import CODE_BIN_PATH, CONTROL_PATTERN, DIR_IMPORT_ROOT, DIR_PATCH_ROOT
 
 
 def import_code_bin(code_bin_path: str, message_root: str, output_root: str):
@@ -40,4 +40,4 @@ def import_code_bin(code_bin_path: str, message_root: str, output_root: str):
 
 
 if __name__ == "__main__":
-  import_code_bin(CODE_BIN_PATH, DIR_MESSAGE_NEW_ROOT, DIR_PATCH_ROOT)
+  import_code_bin(CODE_BIN_PATH, DIR_IMPORT_ROOT, DIR_PATCH_ROOT)

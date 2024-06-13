@@ -8,7 +8,6 @@ cpkmaker.out.csv
 files/fonts/*.ttf
 
 # Temporary files
-files/normalized/
 temp/
 out/
 maintenance/

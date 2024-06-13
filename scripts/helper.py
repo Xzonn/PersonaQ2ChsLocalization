@@ -4,9 +4,9 @@ import re
 from typing import Any, Generator
 
 DIR_ORIGINAL_ROOT = "original_files/unpacked"
-DIR_MESSAGE_ROOT = "temp/messages"
-DIR_MESSAGE_NEW_ROOT = "temp/messages_new"
-DIR_JSON_ROOT = "files/normalized"
+DIR_EXPORT_ROOT = "temp/export"
+DIR_IMPORT_ROOT = "temp/import"
+DIR_JSON_ROOT = "temp/json"
 DIR_CSV_ROOT = "texts"
 DIR_XLSX_ROOT = "out/xlsx"
 DIR_PATCH_ROOT = "out/00040000001CBE00"

@@ -1,7 +1,7 @@
 import json
 import os
 
-from helper import DIR_MESSAGE_ROOT, DUPLICATE_FILES_INFO_PATH
+from helper import DIR_EXPORT_ROOT, DUPLICATE_FILES_INFO_PATH
 
 
 def remove_duplicate_files(root: str, info_path: str):
@@ -16,4 +16,4 @@ def remove_duplicate_files(root: str, info_path: str):
 
 
 if __name__ == "__main__":
-  remove_duplicate_files(DIR_MESSAGE_ROOT, DUPLICATE_FILES_INFO_PATH)
+  remove_duplicate_files(DIR_EXPORT_ROOT, DUPLICATE_FILES_INFO_PATH)
