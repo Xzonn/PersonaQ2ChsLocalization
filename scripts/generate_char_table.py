@@ -101,7 +101,7 @@ def generate_char_table(json_root: str) -> dict[str, str]:
 
     insert_char(char)
 
-  char_table = {k: v for k, v in sorted(char_table.items(), key=lambda x: x[0].encode("cp932").ljust(2, b"\0"))}
+  char_table = {k: v for k, v in sorted(char_table.items(), key=lambda x: x[0].encode("cp932").rjust(2, b"\0"))}
   return char_table
 
 

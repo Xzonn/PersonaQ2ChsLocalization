@@ -43,7 +43,7 @@ def create_new_font(file_name: str, input_dir: str, output_dir: str, char_table:
     if char not in new_characters:
       new_characters.append(char)
 
-  new_characters.sort(key=lambda x: x.encode("cp932").ljust(2, b"\0"))
+  new_characters.sort(key=lambda x: x.encode("cp932").rjust(2, b"\0"))
   new_widths = {}
 
   sheet_index, x, y = 0, 0, 0
