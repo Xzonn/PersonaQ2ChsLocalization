@@ -41,7 +41,9 @@ jobs:
         id: cache-fonts
         uses: actions/cache@v4
         with:
-          path: files/fonts/*.ttf
+          path: |
+            files/fonts/*.ttf
+            files/fonts/*.otf
           key: fonts-${{ hashFiles('scripts/download_fonts.ps1') }}
       - name: Download fonts
         if: steps.cache-fonts.outputs.cache-hit != 'true'

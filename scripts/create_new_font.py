@@ -4,8 +4,16 @@ from math import ceil
 import math
 import os
 from PIL import Image, ImageDraw, ImageFont
+from fontTools.ttLib import TTFont
 
 from helper import CHAR_TABLE_PATH, FONT_PATHS, CHINESE_PUNCTUATIONS_LEFT, CHINESE_PUNCTUATIONS_RIGHT, CHINESE_PUNCTUATIONS_CENTER
+
+
+def has_glyph(font: TTFont, glyph: str):
+  for table in font["cmap"].tables:
+    if ord(glyph) in table.cmap.keys():
+      return True
+  return False
 
 
 def create_new_font(file_name: str, input_dir: str, output_dir: str, char_table: dict[str, str], font_paths: list[str]):
@@ -52,6 +60,7 @@ def create_new_font(file_name: str, input_dir: str, output_dir: str, char_table:
   font_size = manifest["fontInfo"]["width"] - 1
   ascent = manifest["fontInfo"]["ascent"] + 0.5
   fonts = [ImageFont.truetype(font_path, font_size * SCALE) for font_path in font_paths if os.path.exists(font_path)]
+  ttfonts = [TTFont(font_path, fontNumber=0) for font_path in font_paths if os.path.exists(font_path)]
 
   check_image_cols = math.ceil(math.sqrt(len(new_characters)))
   check_image_rows = math.ceil(len(new_characters) / check_image_cols)
@@ -75,9 +84,8 @@ def create_new_font(file_name: str, input_dir: str, output_dir: str, char_table:
     else:
       glyph = Image.new("RGBA", (glyph_width * SCALE, glyph_height * SCALE))
       draw = ImageDraw.Draw(glyph)
-      for font in fonts:
-        left, top, right, bottom = font.getbbox(char_table[char])
-        if left == right or top == bottom:
+      for font, ttfont in zip(fonts, ttfonts):
+        if not has_glyph(ttfont, char_table[char]):
           continue
         draw.text(
           (0 * SCALE, ascent * SCALE),

@@ -20,6 +20,8 @@ CHAR_TABLE_PATH = "out/char_table.json"
 FONT_PATHS = [
   "files/fonts/FZFWQingYinTiJWB.ttf",
   "files/fonts/FOT-HummingStd-B.otf",
+  "fonts/MiSans-Semibold.otf",
+  "files/fonts/SourceHanSansSC-Medium.otf",
 ]
 
 CONTROL_PATTERN = re.compile(r"(\[[0-9A-F]{2}(?: [0-9A-F]{2})*\]|\n)")
