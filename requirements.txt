@@ -1,3 +1,4 @@
+fontTools
 openpyxl
 pypng
 pillow
