@@ -13,6 +13,8 @@ def copy_duplicate_files(root: str, info_path: str):
     source_path = f"{root}/{sub_list[0]}.json"
     for file_path in sub_list[1:]:
       full_path = f"{root}/{file_path}.json"
+      if not os.path.exists(source_path):
+        continue
       os.makedirs(os.path.dirname(full_path), exist_ok=True)
       shutil.copyfile(source_path, full_path)
 
