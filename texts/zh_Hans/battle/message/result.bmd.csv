@@ -1,6 +1,6 @@
 "source","target","id","developer_comments"
-"BTLMSGID_RESULT00_0","是的。","BTLMSGID_RESULT00_0",""
-"BTLMSGID_RESULT00_1","不是","BTLMSGID_RESULT00_1",""
+"BTLMSGID_RESULT00_0","是","BTLMSGID_RESULT00_0",""
+"BTLMSGID_RESULT00_1","否","BTLMSGID_RESULT00_1",""
 "BTLMSGID_RESULT01_0","＞“[占位A 01]”的等级提升了！","BTLMSGID_RESULT01_0","机翻辅助：
 
 ＞“[占位A 01]”的等级提升了！
@@ -24,8 +24,8 @@
 
 “[颜色 02][占位A 01][颜色 01]”记住了
 “[颜色 02][占位A 02][颜色 01]”！"
-"BTLMSGID_RESULT04_0","技能很多。
-请选择要删除的技能。","BTLMSGID_RESULT04_0","机翻辅助：
+"BTLMSGID_RESULT04_0","＞技能满了。
+请选择要消除的技能。","BTLMSGID_RESULT04_0","机翻辅助：
 
 ＞技能满了。
 请选择要消除的技能。

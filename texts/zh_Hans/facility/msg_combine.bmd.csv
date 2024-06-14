@@ -1,19 +1,19 @@
 "source","target","id","developer_comments"
-"combine_sel_0","是的","combine_sel_0",""
-"combine_sel_1","不是","combine_sel_1",""
-"combine_check_zyusu_0","这是你的个人形象吗？","combine_check_zyusu_0","机翻辅助：
+"combine_sel_0","是","combine_sel_0",""
+"combine_sel_1","否","combine_sel_1",""
+"combine_check_zyusu_0","是这个人格面具吧？","combine_check_zyusu_0","机翻辅助：
 
 是这个人格面具吧？
 
 这个人格面具是吧？"
-"combine_check_karo_0","这个人设可以吗？","combine_check_karo_0","机翻辅助：
+"combine_check_karo_0","用这个人格面具可以吗？","combine_check_karo_0","机翻辅助：
 
 用这个人格面具可以吗？
 
 这个人格面具可以吗？"
-"combine_not_level_0","你们的水平还不够，
-无法创造这个人格面具！
-知耻吧！！","combine_not_level_0","机翻辅助：
+"combine_not_level_0","要制造出这个人格面具，
+你们的等级还不够！
+知不知耻啊！！","combine_not_level_0","机翻辅助：
 
 要制造出这个人格面具，
 你们的等级还不够！
@@ -26,8 +26,8 @@
 要产生这个人格面具，
 你们的水平不够！
 知耻！！"
-"combine_possession_0","这个人设不是已经有了吗！
-","combine_possession_0","机翻辅助：
+"combine_possession_0","这个人格面具
+不是已经拥有了吗！","combine_possession_0","机翻辅助：
 
 这个人格面具
 不是已经拥有了吗！
@@ -36,8 +36,8 @@
 不是已经有了吗！
 
 这个人格面具不是已经有了吗！"
-"combine_not_has_sorce_pe_0","你没有适合的人物形象！
-","combine_not_has_sorce_pe_0","机翻辅助：
+"combine_not_has_sorce_pe_0","作为素材的人格面具
+不是没有吗！","combine_not_has_sorce_pe_0","机翻辅助：
 
 作为素材的人格面具
 不是没有吗！
@@ -47,9 +47,9 @@
 
 没有作为素材的人格面具
 不是吗！"
-"combine_stock_over_0","不能再拥有更多的人格了！贪婪的家伙！
-
-","combine_stock_over_0","机翻辅助：
+"combine_stock_over_0","你已经
+张人格面具了哦！
+贪心的家伙！","combine_stock_over_0","机翻辅助：
 
 你已经
 张人格面具了哦！
@@ -71,7 +71,7 @@
 使用免费合体吗？
 
 [道具 0647]有一张是吧？[占位A 01]使用免费合体吗？"
-"combine_money_0","手头的钱好像不够呢……","combine_money_0","机翻辅助：
+"combine_money_0","你似乎没有足够的钱呢……","combine_money_0","机翻辅助：
 
 你似乎没有足够的钱呢……
 
@@ -89,7 +89,7 @@
 
 这个人格面具是
 [颜色 03][占位A 01][颜色 01]。可以吗？"
-"combine_succession_0","选择要继承的技能。","combine_succession_0","机翻辅助：
+"combine_succession_0","请选择要继承的技能。","combine_succession_0","机翻辅助：
 
 请选择要继承的技能。
 
@@ -101,8 +101,8 @@
 心中诞生了。
 
 人格面具“[颜色 02][占位A 01][颜色 01]”诞生在心中。"
-"combine_accident_0","多少有些出乎意料，但……嗯，应该没问题吧！
-","combine_accident_0","机翻辅助：
+"combine_accident_0","虽然和预料中不太一样……
+算、算了，应该没问题吧！","combine_accident_0","机翻辅助：
 
 虽然和预料中不太一样……
 算、算了，应该没问题吧！
@@ -111,8 +111,8 @@
 嘛，没问题吧！
 
 虽然多少和预想的不一样……嗯，没什么问题吧！"
-"combine_fool_accident_0","哎呀，这是……“百搭牌”
-呢。","combine_fool_accident_0","机翻辅助：
+"combine_fool_accident_0","哎呀，这是……
+“万用牌”呢。","combine_fool_accident_0","机翻辅助：
 
 哎呀，这是……
 “万用牌”呢。
@@ -122,8 +122,8 @@
 
 哎呀，这是……
 “百搭牌”吧。"
-"combine_accident_Ex_0","多少有些出乎意料，但……嗯，应该没问题吧！
-","combine_accident_Ex_0","机翻辅助：
+"combine_accident_Ex_0","虽然和预料中不太一样……
+算、算了，应该没问题吧！","combine_accident_Ex_0","机翻辅助：
 
 虽然和预料中不太一样……
 算、算了，应该没问题吧！
@@ -132,8 +132,8 @@
 嘛，没问题吧！
 
 虽然多少和预想的不一样……嗯，没什么问题吧！"
-"combine_fool_accident_Ex_0","哎呀，这是……“百搭牌”
-呢。","combine_fool_accident_Ex_0","机翻辅助：
+"combine_fool_accident_Ex_0","哎呀，这是……
+“万用牌”呢。","combine_fool_accident_Ex_0","机翻辅助：
 
 哎呀，这是……
 “万用牌”呢。
@@ -154,8 +154,8 @@
 
 要召唤这个人格面具，要花
 [颜色 03][占位A 01]日元[颜色 01]哦。可以吗？"
-"zensyo_not_summons_0","我没有足够的现金。
-……如果只是闲逛的话可以。","zensyo_not_summons_0","机翻辅助：
+"zensyo_not_summons_0","你没有足够的钱。
+……只是想来闹的就免了。","zensyo_not_summons_0","机翻辅助：
 
 你没有足够的钱。
 ……只是想来闹的就免了。
@@ -172,8 +172,8 @@
 ”。
 
 召唤了人格面具“[颜色 02][占位A 01][颜色 01]”。"
-"zensyo_not2_summons_0","这个人格似乎已经被持有了。
-请好好确认一下。","zensyo_not2_summons_0","机翻辅助：
+"zensyo_not2_summons_0","你似乎已经持有这张人格面具了。
+好好确认一下。","zensyo_not2_summons_0","机翻辅助：
 
 你似乎已经持有这张人格面具了。
 好好确认一下。
@@ -182,8 +182,8 @@
 请好好确认。
 
 这个人格面具好像已经持有了。请好好确认。"
-"zensyo_not3_summons_0","这个角色似乎还不符合你的等级要求……
-","zensyo_not3_summons_0","机翻辅助：
+"zensyo_not3_summons_0","要产生这张人格面具，
+你的等级似乎还不够……","zensyo_not3_summons_0","机翻辅助：
 
 要产生这张人格面具，
 你的等级似乎还不够……
@@ -193,7 +193,7 @@
 
 要创造出这个人格面具，
 你的水平好像还不够……"
-"zensyo_not4_summons_0","不能再拥有更多的人格了。
+"zensyo_not4_summons_0","你不能再持有更多人格面具了哦。
 不要太贪心。","zensyo_not4_summons_0","机翻辅助：
 
 你不能再持有更多人格面具了哦。
@@ -203,7 +203,7 @@
 不要太贪心。
 
 再没有人格面具了。不要太贪心。"
-"zensyo_regist_0","我已经覆盖在人格面具电影上了！","zensyo_regist_0","机翻辅助：
+"zensyo_regist_0","人格面具底片覆写完毕！","zensyo_regist_0","机翻辅助：
 
 人格面具底片覆写完毕！
 
@@ -220,8 +220,8 @@
 人格面具胶片上可以吗？
 
 把持有的[颜色 02][占位A 01][颜色 01]登记在人格面具胶卷上可以吗？"
-"zensyo_all_add_check_0","可以把所有拥有的人格面具都登记到人格面具视频里吗？
-","zensyo_all_add_check_0","机翻辅助：
+"zensyo_all_add_check_0","你将持有的所有人格面具登录到
+人格面具底片里了，可以吗？","zensyo_all_add_check_0","机翻辅助：
 
 你将持有的所有人格面具登录到
 人格面具底片里了，可以吗？
@@ -230,8 +230,8 @@
 可以登记在人格面具胶片上吗？
 
 持有的全部的人格面具可以登记在人格面具胶卷上吗？"
-"zensyo_mark_add_check_0","你可以把选择的人格注册到人格视频上吗？
-","zensyo_mark_add_check_0","机翻辅助：
+"zensyo_mark_add_check_0","你将选择的人格面具登录到
+人格面具底片里了，可以吗？","zensyo_mark_add_check_0","机翻辅助：
 
 你将选择的人格面具登录到
 人格面具底片里了，可以吗？
@@ -240,9 +240,9 @@
 人格面具胶卷登记可以吗？
 
 把选择的人格面具登记在人格面具胶卷上可以吗？"
-"zensyo_no_regist_0","看来没有拥有可以登记在册的人格啊……真是令人吃惊。
-
-","zensyo_no_regist_0","机翻辅助：
+"zensyo_no_regist_0","好像没有
+拥有能登录全书的人格面具。
+……真让人吃惊。","zensyo_no_regist_0","机翻辅助：
 
 好像没有
 拥有能登录全书的人格面具。
@@ -254,13 +254,13 @@
 
 好像没有持有可以登录全书的人格面具。
 ……真让人吃惊啊。"
-"powerup_message_0","你想强化这个角色吗？","powerup_message_0","机翻辅助：
+"powerup_message_0","要强化这张人格面具吗？","powerup_message_0","机翻辅助：
 
 要强化这张人格面具吗？
 
 强化这个人格面具吗？"
-"powerup_cancel_0","关于您目前所穿戴的人格面具，
-我无法接受……","powerup_cancel_0","机翻辅助：
+"powerup_cancel_0","关于你现在身上装备的
+人格面具，我无法代为保管……","powerup_cancel_0","机翻辅助：
 
 关于你现在身上装备的
 人格面具，我无法代为保管……
@@ -270,8 +270,8 @@
 
 关于你现在穿的
 人格面具，不能寄存……"
-"powerup_non_0","您似乎没有强化素材的个人……
-","powerup_non_0","机翻辅助：
+"powerup_non_0","你似乎没有
+作为强化素材的人格面具……","powerup_non_0","机翻辅助：
 
 你似乎没有
 作为强化素材的人格面具……
@@ -281,8 +281,8 @@
 
 作为强化素材的人格面具
 没有的样子……"
-"powerup_receive_0","您要停止强化这个角色吗？
-","powerup_receive_0","机翻辅助：
+"powerup_receive_0","要中止这个人格面具的强化，
+取回吗？","powerup_receive_0","机翻辅助：
 
 要中止这个人格面具的强化，
 取回吗？
@@ -292,8 +292,8 @@
 
 中止这个人格面具的强化，
 收回吗？"
-"powerup_receive1_0","现在我们所持有的角色已经处于展示状态。
-","powerup_receive1_0","机翻辅助：
+"powerup_receive1_0","现在我代为保管的人格面具，是
+你所看到的状态。","powerup_receive1_0","机翻辅助：
 
 现在我代为保管的人格面具，是
 你所看到的状态。
@@ -303,8 +303,8 @@
 
 现在保管的人格面具是
 看的状态。"
-"powerup_receive2_0","现在我们所持有的角色已经处于展示状态。
-","powerup_receive2_0","机翻辅助：
+"powerup_receive2_0","现在我代为保管的人格面具，是
+你所看到的状态。","powerup_receive2_0","机翻辅助：
 
 现在我代为保管的人格面具，是
 你所看到的状态。
@@ -314,8 +314,8 @@
 
 现在保管的人格面具是
 看的状态。"
-"powerup_receive3_0","现在我们所持有的角色已经处于展示状态。
-","powerup_receive3_0","机翻辅助：
+"powerup_receive3_0","现在我代为保管的人格面具，是
+你所看到的状态。","powerup_receive3_0","机翻辅助：
 
 现在我代为保管的人格面具，是
 你所看到的状态。
@@ -325,15 +325,15 @@
 
 现在保管的人格面具是
 看的状态。"
-"powerup_failed_0","很遗憾发生了这样的事情…","powerup_failed_0","机翻辅助：
+"powerup_failed_0","真是遗憾……","powerup_failed_0","机翻辅助：
 
 真是遗憾……
 
 变成了遗憾的事情……
 
 很遗憾……"
-"powerup_no_receive_0","看起来您已经无法再拥有更多的人格了，
-请等待空位后再来领取。","powerup_no_receive_0","机翻辅助：
+"powerup_no_receive_0","你似乎无法再持有更多人格面具……
+请在腾出空位后再来取回。","powerup_no_receive_0","机翻辅助：
 
 你似乎无法再持有更多人格面具……
 请在腾出空位后再来取回。
@@ -342,7 +342,7 @@
 请空出空再来领取。
 
 无法再持有人格面具的样子……请腾出空房之后再来领。"
-"skill_powerup_0","人格面具的技能似乎会得到强化。","skill_powerup_0","机翻辅助：
+"skill_powerup_0","人格面具的技能似乎要强化了。","skill_powerup_0","机翻辅助：
 
 人格面具的技能似乎要强化了。
 
@@ -361,8 +361,8 @@
 得到了>[占位B 01]。
 
 得到了[占位B 01]。"
-"comu_achieve_rank_A_0","我的忠告似乎是不需要的。
-","comu_achieve_rank_A_0","机翻辅助：
+"comu_achieve_rank_A_0","看来
+不需要我的忠告呢。","comu_achieve_rank_A_0","机翻辅助：
 
 看来
 不需要我的忠告呢。
@@ -371,15 +371,15 @@
 没有必要吧。
 
 你不需要我的忠告。"
-"comu_achieve_rank_B_0","这是一个很棒的步调。","comu_achieve_rank_B_0","机翻辅助：
+"comu_achieve_rank_B_0","真是了不起的步调。","comu_achieve_rank_B_0","机翻辅助：
 
 真是了不起的步调。
 
 很棒的步调。
 
 非常棒的节奏。"
-"comu_achieve_rank_B_1","社区才是构建你的“世界”
-的关键，请不要忘记。","comu_achieve_rank_B_1","机翻辅助：
+"comu_achieve_rank_B_1","社群正是你所创造的“世界”……
+请不要忘记……","comu_achieve_rank_B_1","机翻辅助：
 
 社群正是你所创造的“世界”……
 请不要忘记……
@@ -388,15 +388,15 @@
 请不要忘记……
 
 只有社区才能创造你的“世界”……请不要忘记……"
-"comu_achieve_rank_C_0","相当不错的速度呢。","comu_achieve_rank_C_0","机翻辅助：
+"comu_achieve_rank_C_0","真是不错的步调呢。","comu_achieve_rank_C_0","机翻辅助：
 
 真是不错的步调呢。
 
 速度相当快啊。
 
 很快啊。"
-"comu_achieve_rank_C_1","社区才是构建你的“世界”
-的关键，请不要忘记。","comu_achieve_rank_C_1","机翻辅助：
+"comu_achieve_rank_C_1","社群正是你所创造的“世界”……
+请不要忘记……","comu_achieve_rank_C_1","机翻辅助：
 
 社群正是你所创造的“世界”……
 请不要忘记……
@@ -405,15 +405,15 @@
 请不要忘记……
 
 只有社区才能创造你的“世界”……请不要忘记……"
-"comu_achieve_rank_D_0","更加重视彼此的纽带可能会更好。","comu_achieve_rank_D_0","机翻辅助：
+"comu_achieve_rank_D_0","我认为你应该更加重视羁绊。","comu_achieve_rank_D_0","机翻辅助：
 
 我认为你应该更加重视羁绊。
 
 我觉得更重视羁绊比较好。
 
 应该更重视彼此之间的羁绊。"
-"comu_achieve_rank_D_1","社区才是构建你的“世界”
-的关键，请不要忘记。","comu_achieve_rank_D_1","机翻辅助：
+"comu_achieve_rank_D_1","社群正是你所创造的“世界”……
+请不要忘记……","comu_achieve_rank_D_1","机翻辅助：
 
 社群正是你所创造的“世界”……
 请不要忘记……
@@ -422,8 +422,8 @@
 请不要忘记……
 
 只有社区才能创造你的“世界”……请不要忘记……"
-"comu_achieve_rank_E_0","多珍惜彼此的羁绊。
-因为在你身边，一定会找到的。","comu_achieve_rank_E_0","机翻辅助：
+"comu_achieve_rank_E_0","请更加重视羁绊。
+因为，你一定能在身边找到。","comu_achieve_rank_E_0","机翻辅助：
 
 请更加重视羁绊。
 因为，你一定能在身边找到。
@@ -432,8 +432,8 @@
 在你身边一定能找到。
 
 请更重视羁绊。因为在你的身边，一定会找到的。"
-"comu_achieve_rank_E_1","社区才是构建你的“世界”
-的关键，请不要忘记。","comu_achieve_rank_E_1","机翻辅助：
+"comu_achieve_rank_E_1","社群正是你所创造的“世界”……
+请不要忘记……","comu_achieve_rank_E_1","机翻辅助：
 
 社群正是你所创造的“世界”……
 请不要忘记……
@@ -442,11 +442,11 @@
 请不要忘记……
 
 只有社区才能创造你的“世界”……请不要忘记……"
-"cmb_comu_achieve_0","啊……？","cmb_comu_achieve_0","机翻辅助：
+"cmb_comu_achieve_0","哎呀……？","cmb_comu_achieve_0","机翻辅助：
 
 哎呀……？"
-"cmb_comu_achieve_1","看起来，
-您的社区完成率已经超过了50%的样子…","cmb_comu_achieve_1","机翻辅助：
+"cmb_comu_achieve_1","看来，你的社群达成率，
+超过了50%……","cmb_comu_achieve_1","机翻辅助：
 
 看来，你的社群达成率，
 超过了50%……
@@ -456,12 +456,12 @@
 
 看来你的社区成就率超过了50%……"
 "cmb_comu_achieve_2","太棒了。
-那么……请收下这个吧。","cmb_comu_achieve_2","机翻辅助：
+那么……请收下这个。","cmb_comu_achieve_2","机翻辅助：
 
 太棒了。
 那么……请收下这个。"
-"cmb_comu_achieve_3","社交圈的充实才能让你的“世界”
-变得充实……","cmb_comu_achieve_3","机翻辅助：
+"cmb_comu_achieve_3","社群的充实，
+正是你“世界”的充实……","cmb_comu_achieve_3","机翻辅助：
 
 社群的充实，
 正是你“世界”的充实……
@@ -470,18 +470,18 @@
 你的“世界”的充实……
 
 只有充实的漫画，才能充实你的“世界”……"
-"cmb_comu_achieve_4","我期待着你的“世界”。
+"cmb_comu_achieve_4","我，很期待你的“世界”……
 ","cmb_comu_achieve_4","机翻辅助：
 
 我，很期待你的“世界”……
 
 
 我很期待你的“世界”。"
-"cmb_comu_achieve_100_0","太棒了…","cmb_comu_achieve_100_0","机翻辅助：
+"cmb_comu_achieve_100_0","太棒了……","cmb_comu_achieve_100_0","机翻辅助：
 
 太棒了……"
-"cmb_comu_achieve_100_1","你终于把所有的社区都培养成了真正的联系了呢……
-","cmb_comu_achieve_100_1","机翻辅助：
+"cmb_comu_achieve_100_1","你终于将所有的社群，
+培育成真正的羁绊了呢……","cmb_comu_achieve_100_1","机翻辅助：
 
 你终于将所有的社群，
 培育成真正的羁绊了呢……
@@ -490,22 +490,22 @@
 
 
 你终于把所有的社区培养成真正的纽带了吗……"
-"cmb_comu_achieve_100_2","这不是每个人都能做到的事情……","cmb_comu_achieve_100_2","机翻辅助：
+"cmb_comu_achieve_100_2","这可不是谁都做得到的……","cmb_comu_achieve_100_2","机翻辅助：
 
 这可不是谁都做得到的……
 
 不是谁都能做的事……
 
 不是谁都能做到的事……"
-"cmb_comu_achieve_100_3","果然你就是我所想的那样的人。","cmb_comu_achieve_100_3","机翻辅助：
+"cmb_comu_achieve_100_3","你果然……是我想的那种人。","cmb_comu_achieve_100_3","机翻辅助：
 
 你果然……是我想的那种人。
 
 你果然是……和我想的一样的人。
 
 果然你是……和我想的一样的人。"
-"cmb_comu_achieve_100_4","你的“世界”
-是什么样的呢。","cmb_comu_achieve_100_4","机翻辅助：
+"cmb_comu_achieve_100_4","你的“世界”……
+是什么样的世界呢？","cmb_comu_achieve_100_4","机翻辅助：
 
 你的“世界”……
 是什么样的世界呢？
@@ -514,8 +514,8 @@
 是什么样的东西呢？
 
 你的“世界”是什么呢。"
-"cmb_comu_achieve_100_5","如果可以的话，我也希望被带到那个“世界”
-去。","cmb_comu_achieve_100_5","机翻辅助：
+"cmb_comu_achieve_100_5","可以的话，希望你
+也能带我去你的世界。","cmb_comu_achieve_100_5","机翻辅助：
 
 可以的话，希望你
 也能带我去你的世界。
@@ -524,8 +524,8 @@
 
 
 如果可以的话，我也想带你去那个“世界”……"
-"cmb_comu_achieve_100_6","……那么，就是这个了。
-这是我花了很长时间制作的东西。","cmb_comu_achieve_100_6","机翻辅助：
+"cmb_comu_achieve_100_6","……那么，这个
+是我花了很长的时间做出来的。","cmb_comu_achieve_100_6","机翻辅助：
 
 ……那么，这个
 是我花了很长的时间做出来的。
@@ -534,8 +534,8 @@
 这是我花了很长时间制作的。
 
 ……那么，这个。我花了很长时间做的东西。"
-"cmb_comu_achieve_100_7","我一定会保护你的。
-就算是代替我这个我……","cmb_comu_achieve_100_7","机翻辅助：
+"cmb_comu_achieve_100_7","它一定会保护你
+代替我保护你……","cmb_comu_achieve_100_7","机翻辅助：
 
 它一定会保护你
 代替我保护你……
@@ -560,8 +560,8 @@
 “[占位A 01]”您好像还没有留言。
 不过，要构筑“[占位A 01]”漫画，
 似乎还很遥远……"
-"combine_before_comu_none_1","并没有赋予新的力量，
-但使用这个人格面具可以吗？","combine_before_comu_none_1","机翻辅助：
+"combine_before_comu_none_1","你似乎没有被授予新的力量
+用这个人格面具可以吗？","combine_before_comu_none_1","机翻辅助：
 
 你似乎没有被授予新的力量
 用这个人格面具可以吗？
@@ -581,8 +581,8 @@
 
 “[占位A 01]”您好像还没有留言。
 我想差不多该出现了……"
-"combine_before_comu_none_2_1","并没有赋予新的力量，
-但使用这个人格面具可以吗？","combine_before_comu_none_2_1","机翻辅助：
+"combine_before_comu_none_2_1","你似乎没有被授予新的力量
+用这个人格面具可以吗？","combine_before_comu_none_2_1","机翻辅助：
 
 你似乎没有被授予新的力量
 用这个人格面具可以吗？
@@ -598,8 +598,8 @@
 “[占位A 01]”社区还没有的样子。
 
 “[占位A 01]”您好像还没有留言。"
-"combine_before_comu_none_3_1","并没有赋予新的力量，
-但使用这个人格面具可以吗？","combine_before_comu_none_3_1","机翻辅助：
+"combine_before_comu_none_3_1","你似乎没有被授予新的力量
+用这个人格面具可以吗？","combine_before_comu_none_3_1","机翻辅助：
 
 你似乎没有被授予新的力量
 用这个人格面具可以吗？
@@ -608,8 +608,8 @@
 这个人格面具可以吗？
 
 没有被授予新的力量，不过，用这个人格面具可以吗？"
-"combine_comu_rank_00_0","您似乎没有适应“社交”
-的能力……无法获得新的力量。","combine_comu_rank_00_0","机翻辅助：
+"combine_comu_rank_00_0","你似乎没有对应的“社群”……
+看来你不会被授予新的力量。","combine_comu_rank_00_0","机翻辅助：
 
 你似乎没有对应的“社群”……
 看来你不会被授予新的力量。
@@ -618,13 +618,13 @@
 没有被授予新的力量。
 
 没有对应的“comic”的样子……不会被赐予新的力量吧。"
-"combine_comu_rank_00_1","这个角色可以吗？","combine_comu_rank_00_1","机翻辅助：
+"combine_comu_rank_00_1","用这个人格面具可以吗？","combine_comu_rank_00_1","机翻辅助：
 
 用这个人格面具可以吗？
 
 这个人格面具可以吗？"
-"combine_comu_rank_01_0","对应的“社交”
-等级是1……嗯……能获得多少力量呢。","combine_comu_rank_01_0","机翻辅助：
+"combine_comu_rank_01_0","对应的“社群”等级1……
+那么，你会被授予多少力量呢？","combine_comu_rank_01_0","机翻辅助：
 
 对应的“社群”等级1……
 那么，你会被授予多少力量呢？
@@ -634,13 +634,13 @@
 
 对应的“交流”的等级是1……
 那么……能给予多少力量呢。"
-"combine_comu_rank_01_1","这个角色可以吗？","combine_comu_rank_01_1","机翻辅助：
+"combine_comu_rank_01_1","用这个人格面具可以吗？","combine_comu_rank_01_1","机翻辅助：
 
 用这个人格面具可以吗？
 
 这个人格面具可以吗？"
-"combine_comu_rank_02_0","对应的“社交”
-等级是2……有些可能是天生具备的力量吧……","combine_comu_rank_02_0","机翻辅助：
+"combine_comu_rank_02_0","对应的“社群”等级2……
+你会带着一些力量出生吧……","combine_comu_rank_02_0","机翻辅助：
 
 对应的“社群”等级2……
 你会带着一些力量出生吧……
@@ -650,13 +650,13 @@
 
 对应的“交流”的等级是2……
 多少会被赐予力量产生吧……"
-"combine_comu_rank_02_1","这个角色可以吗？","combine_comu_rank_02_1","机翻辅助：
+"combine_comu_rank_02_1","用这个人格面具可以吗？","combine_comu_rank_02_1","机翻辅助：
 
 用这个人格面具可以吗？
 
 这个人格面具可以吗？"
-"combine_comu_rank_03_0","对应的“社交”
-等级是3……可能会有一些力量赋予而出生吧……","combine_comu_rank_03_0","机翻辅助：
+"combine_comu_rank_03_0","对应的“社群”等级3……
+你会带着一些力量出生吧……","combine_comu_rank_03_0","机翻辅助：
 
 对应的“社群”等级3……
 你会带着一些力量出生吧……
@@ -666,13 +666,13 @@
 
 对应的“交流”的等级是3……
 多少会被赐予力量产生吧……"
-"combine_comu_rank_03_1","这个角色可以吗？","combine_comu_rank_03_1","机翻辅助：
+"combine_comu_rank_03_1","用这个人格面具可以吗？","combine_comu_rank_03_1","机翻辅助：
 
 用这个人格面具可以吗？
 
 这个人格面具可以吗？"
-"combine_comu_rank_04_0","对应的“社交”
-等级是4……看起来将会获得相当的力量诞生。","combine_comu_rank_04_0","机翻辅助：
+"combine_comu_rank_04_0","对应的“社群”等级4……
+看来你会带着相当的力量出生。","combine_comu_rank_04_0","机翻辅助：
 
 对应的“社群”等级4……
 看来你会带着相当的力量出生。
@@ -681,13 +681,13 @@
 好像是被赋予相当大的力量而诞生的。
 
 对应的“comic”等级是4……好像被赋予了相当大的力量出生呢。"
-"combine_comu_rank_04_1","这个角色可以吗？","combine_comu_rank_04_1","机翻辅助：
+"combine_comu_rank_04_1","用这个人格面具可以吗？","combine_comu_rank_04_1","机翻辅助：
 
 用这个人格面具可以吗？
 
 这个人格面具可以吗？"
-"combine_comu_rank_05_0","对应的“社交”
-等级是5……看起来将会得到相当的力量诞生。","combine_comu_rank_05_0","机翻辅助：
+"combine_comu_rank_05_0","对应的“社群”等级5……
+看来你会带着相当的力量出生。","combine_comu_rank_05_0","机翻辅助：
 
 对应的“社群”等级5……
 看来你会带着相当的力量出生。
@@ -696,13 +696,13 @@
 好像是被赋予相当大的力量而诞生的。
 
 对应的“comic”的等级是5……好像被赋予了相当大的力量出生呢。"
-"combine_comu_rank_05_1","这个角色可以吗？","combine_comu_rank_05_1","机翻辅助：
+"combine_comu_rank_05_1","用这个人格面具可以吗？","combine_comu_rank_05_1","机翻辅助：
 
 用这个人格面具可以吗？
 
 这个人格面具可以吗？"
-"combine_comu_rank_06_0","对应的“社群”
-等级是6……看起来将会诞生出相当强大的力量。","combine_comu_rank_06_0","机翻辅助：
+"combine_comu_rank_06_0","对应“交流”的等级是6……
+看来会带着相当强大的力量诞生。","combine_comu_rank_06_0","机翻辅助：
 
 对应“交流”的等级是6……
 看来会带着相当强大的力量诞生。
@@ -711,13 +711,13 @@
 好像是被赋予相当大的力量而诞生的。
 
 对应的“comic”等级是6……好像被赋予了相当大的力量出生呢。"
-"combine_comu_rank_06_1","这个角色可以吗？","combine_comu_rank_06_1","机翻辅助：
+"combine_comu_rank_06_1","用这个人格面具可以吗？","combine_comu_rank_06_1","机翻辅助：
 
 用这个人格面具可以吗？
 
 这个人格面具可以吗？"
-"combine_comu_rank_07_0","对应的“社交”
-等级是7……看起来将会获得相当大的力量诞生。","combine_comu_rank_07_0","机翻辅助：
+"combine_comu_rank_07_0","对应“交流”的等级是7……
+看来会带着相当强大的力量诞生。","combine_comu_rank_07_0","机翻辅助：
 
 对应“交流”的等级是7……
 看来会带着相当强大的力量诞生。
@@ -726,13 +726,13 @@
 被赋予相当的力量快要诞生了。
 
 对应的“comic”等级是7……好像被赋予了相当大的力量出生呢。"
-"combine_comu_rank_07_1","这个角色可以吗？","combine_comu_rank_07_1","机翻辅助：
+"combine_comu_rank_07_1","用这个人格面具可以吗？","combine_comu_rank_07_1","机翻辅助：
 
 用这个人格面具可以吗？
 
 这个人格面具可以吗？"
-"combine_comu_rank_08_0","对应的“社交”
-等级是8……获得了巨大的力量而诞生了……","combine_comu_rank_08_0","机翻辅助：
+"combine_comu_rank_08_0","对应“交流”的等级是8……
+看来会带着强大的力量诞生。","combine_comu_rank_08_0","机翻辅助：
 
 对应“交流”的等级是8……
 看来会带着强大的力量诞生。
@@ -741,13 +741,13 @@
 被赋予很大的力量而诞生……
 
 对应的“comic”等级是8……被赋予了巨大的力量而诞生……"
-"combine_comu_rank_08_1","这个角色可以吗？","combine_comu_rank_08_1","机翻辅助：
+"combine_comu_rank_08_1","用这个人格面具可以吗？","combine_comu_rank_08_1","机翻辅助：
 
 用这个人格面具可以吗？
 
 这个人格面具可以吗？"
-"combine_comu_rank_09_0","对应的“社群”
-等级是9……获得了巨大的力量而诞生了……","combine_comu_rank_09_0","机翻辅助：
+"combine_comu_rank_09_0","对应“交流”的等级是9……
+看来会带着强大的力量诞生。","combine_comu_rank_09_0","机翻辅助：
 
 对应“交流”的等级是9……
 看来会带着强大的力量诞生。
@@ -756,20 +756,20 @@
 被赋予很大的力量而诞生……
 
 对应的“comic”的等级是9……被赋予了巨大的力量而诞生……"
-"combine_comu_rank_09_1","这个角色可以吗？","combine_comu_rank_09_1","机翻辅助：
+"combine_comu_rank_09_1","用这个人格面具可以吗？","combine_comu_rank_09_1","机翻辅助：
 
 用这个人格面具可以吗？
 
 这个人格面具可以吗？"
-"combine_comu_rank_10_0","对应的“社交”等级是10…","combine_comu_rank_10_0","机翻辅助：
+"combine_comu_rank_10_0","对应“交流”的等级是10……","combine_comu_rank_10_0","机翻辅助：
 
 对应“交流”的等级是10……
 
 对应的“交流”的等级是10……
 
 对应的“comic”的等级是10……"
-"combine_comu_rank_10_1","哦……毫无疑问，
-你生来就被赋予了强大的力量。","combine_comu_rank_10_1","机翻辅助：
+"combine_comu_rank_10_1","哦……这毫无疑问是
+会带着强大的力量诞生。","combine_comu_rank_10_1","机翻辅助：
 
 哦……这毫无疑问是
 会带着强大的力量诞生。
@@ -778,18 +778,18 @@
 被赐予强大的力量而诞生的。
 
 哦……毫无疑问，这是被赋予了强大的力量而诞生的。"
-"combine_comu_rank_10_2","这个角色可以吗？","combine_comu_rank_10_2","机翻辅助：
+"combine_comu_rank_10_2","用这个人格面具可以吗？","combine_comu_rank_10_2","机翻辅助：
 
 用这个人格面具可以吗？
 
 这个人格面具可以吗？"
-"combine_comu_world_0","这个角色可以吗？","combine_comu_world_0","机翻辅助：
+"combine_comu_world_0","用这个人格面具可以吗？","combine_comu_world_0","机翻辅助：
 
 用这个人格面具可以吗？
 
 这个人格面具可以吗？"
-"msg_combine_MHELP001_M_0","“人格面具 Film”
-中注册的人格面具信息随时可供查阅。","msg_combine_MHELP001_M_0","机翻辅助：
+"msg_combine_MHELP001_M_0","登录在“人格面具胶卷”的
+人格面具情报，随时都能阅览。","msg_combine_MHELP001_M_0","机翻辅助：
 
 登录在“人格面具胶卷”的
 人格面具情报，随时都能阅览。
@@ -798,8 +798,8 @@
 
 
 在“人格面具电影”中登记的人格面具信息随时都可以阅览。"
-"msg_combine_MHELP001_M_1","此外，
-注册的人格面具只要支付代价就可以直接召唤出来！","msg_combine_MHELP001_M_1","机翻辅助：
+"msg_combine_MHELP001_M_1","而且，只要支付
+代价，就能直接召唤登录的人格面具。","msg_combine_MHELP001_M_1","机翻辅助：
 
 而且，只要支付
 代价，就能直接召唤登录的人格面具。
@@ -809,8 +809,8 @@
 
 并且，被登记了的人格面具
 付了代价就那样叫出来吧！"
-"msg_combine_MHELP001_M_2","然而，
-召唤强大的人格面具的代价自然会随之增加。","msg_combine_MHELP001_M_2","机翻辅助：
+"msg_combine_MHELP001_M_2","只不过，召唤的人格面具愈强
+代价当然也会愈高。","msg_combine_MHELP001_M_2","机翻辅助：
 
 只不过，召唤的人格面具愈强
 代价当然也会愈高。
@@ -819,8 +819,8 @@
 代价当然就越高。
 
 但是，召唤出的人格面具越强大，代价当然就越高。"
-"msg_combine_MHELP001_M_3","如果电影的注册进展顺利，也不排除考虑折扣。
-加油！","msg_combine_MHELP001_M_3","机翻辅助：
+"msg_combine_MHELP001_M_3","随着登录的人格面具愈多，折扣
+也不是不可能。好好加油吧！","msg_combine_MHELP001_M_3","机翻辅助：
 
 随着登录的人格面具愈多，折扣
 也不是不可能。好好加油吧！
@@ -829,8 +829,8 @@
 
 
 随着胶卷的注册，折扣也会增加。要竭尽全力啊！"
-"msg_combine_MHELP002_M_0","在人格面具电影中，
-首次获取时的状态将被记录。","msg_combine_MHELP002_M_0","机翻辅助：
+"msg_combine_MHELP002_M_0","人格面具胶卷会登录第一次取得时的
+状态。","msg_combine_MHELP002_M_0","机翻辅助：
 
 人格面具胶卷会登录第一次取得时的
 状态。
@@ -840,8 +840,8 @@
 
 人格面具胶卷，第一次得到的时候的
 状态被登记。"
-"msg_combine_MHELP002_M_1","但是，
-可以将经过增强的状态覆盖记录到胶片中。","msg_combine_MHELP002_M_1","机翻辅助：
+"msg_combine_MHELP002_M_1","不过，可以登录强化后的状态
+覆盖胶卷。","msg_combine_MHELP002_M_1","机翻辅助：
 
 不过，可以登录强化后的状态
 覆盖胶卷。
@@ -851,16 +851,16 @@
 
 但是，使之成长强化了的状态
 胶卷能覆盖登记。"
-"msg_combine_MHELP002_M_2","代价是不需要的，但覆盖是申报制的。","msg_combine_MHELP002_M_2","机翻辅助：
+"msg_combine_MHELP002_M_2","虽然不需要代价，但覆盖是申报制。","msg_combine_MHELP002_M_2","机翻辅助：
 
 虽然不需要代价，但覆盖是申报制。
 
 不需要代价，但是覆盖是申报制。
 
 不需要付出任何代价，重写是申报制。"
-"msg_combine_MHELP002_M_3","希望覆盖时，
-请从“覆盖到人格面具 Film”
-中传达您的意愿……可以吗？","msg_combine_MHELP002_M_3","机翻辅助：
+"msg_combine_MHELP002_M_3","希望覆盖时，请从
+“覆盖人格面具胶卷”开始，
+告知我覆盖的主旨……明白了吗？","msg_combine_MHELP002_M_3","机翻辅助：
 
 希望覆盖时，请从
 “覆盖人格面具胶卷”开始，
@@ -872,7 +872,7 @@
 
 希望覆盖的时候，
 从“人格面具胶卷覆盖”，请传达那个意思……好吗？"
-"msg_combine_MESSAGE000_0","我是大米～哟","msg_combine_MESSAGE000_0","机翻辅助：
+"msg_combine_MESSAGE000_0","我是达咪～哟。","msg_combine_MESSAGE000_0","机翻辅助：
 
 我是达咪～哟。
 
@@ -884,8 +884,8 @@
 吾是[颜色 02][占位A 02][颜色 01]……
 
 我是[颜色 02][占位A 02][颜色 01]……"
-"msg_combine_MESSAGE001_1","双眸睁开，你，现在发出吧……！
-","msg_combine_MESSAGE001_1","机翻辅助：
+"msg_combine_MESSAGE001_1","睁大双眼，
+汝，现在就释放吧……！","msg_combine_MESSAGE001_1","机翻辅助：
 
 睁大双眼，
 汝，现在就释放吧……！
@@ -905,15 +905,15 @@
 虽然姿态不同，但我是你……刚果。
 
 我[颜色 02][占位A 02][颜色 01]……虽然姿态不同，但我是你……今后也请多多关照。"
-"msg_combine_MESSAGE003_0","是你叫我的吗？","msg_combine_MESSAGE003_0","机翻辅助：
+"msg_combine_MESSAGE003_0","召唤我的就是你吗……？","msg_combine_MESSAGE003_0","机翻辅助：
 
 召唤我的就是你吗……？
 
 呼唤我的是你吗……？
 
 叫我的是你吗……？"
-"msg_combine_MESSAGE003_1","你坚定的眼神……不错。
-好吧，我和你一起走吧。","msg_combine_MESSAGE003_1","机翻辅助：
+"msg_combine_MESSAGE003_1","你那坚定的眼神……不错。
+好吧，我就跟你走。","msg_combine_MESSAGE003_1","机翻辅助：
 
 你那坚定的眼神……不错。
 好吧，我就跟你走。
@@ -1296,15 +1296,15 @@
 不要舔哦，嘻嘻！！
 
 我是[颜色 02][占位A 02][颜色 01]啊霍！不是舔脸，呵呵呵！！"
-"msg_combine_MESSAGE039_0","谁在召唤我…","msg_combine_MESSAGE039_0","机翻辅助：
+"msg_combine_MESSAGE039_0","呼唤我的是谁……","msg_combine_MESSAGE039_0","机翻辅助：
 
 呼唤我的是谁……
 
 呼喊我的是谁……
 
 唤醒我的是谁……"
-"msg_combine_MESSAGE039_1","他不会逃避自己的黑暗，这种坚强……我喜欢你，小子……
-","msg_combine_MESSAGE039_1","机翻辅助：
+"msg_combine_MESSAGE039_1","不逃避自身黑暗的那份坚强……
+我很欣赏你啊，小鬼头……","msg_combine_MESSAGE039_1","机翻辅助：
 
 不逃避自身黑暗的那份坚强……
 我很欣赏你啊，小鬼头……
@@ -1324,15 +1324,15 @@
 
 
 我想暂时借给小僧力量……[颜色 02][占位A 02][颜色 01]"
-"msg_combine_MESSAGE040_0","谁在召唤我…","msg_combine_MESSAGE040_0","机翻辅助：
+"msg_combine_MESSAGE040_0","呼唤我的是谁……","msg_combine_MESSAGE040_0","机翻辅助：
 
 呼唤我的是谁……
 
 呼喊我的是谁……
 
 唤醒我的是谁……"
-"msg_combine_MESSAGE040_1","将强大的光芒寄宿在高贵的人之子身上……
-我将赐予你祝福……","msg_combine_MESSAGE040_1","机翻辅助：
+"msg_combine_MESSAGE040_1","寄宿着强烈光芒的高贵人子啊……
+赐予汝加护……","msg_combine_MESSAGE040_1","机翻辅助：
 
 寄宿着强烈光芒的高贵人子啊……
 赐予汝加护……
@@ -1352,8 +1352,8 @@
 
 我是[颜色 02][占位A 02][颜色 01]
 贴近你的心的东西……"
-"msg_combine_MESSAGE041_0","我是你……你是我……我乃出自你心灵之海的存在……
-","msg_combine_MESSAGE041_0","机翻辅助：
+"msg_combine_MESSAGE041_0","我是你……你是我……
+我是从你心中的大海中出来的……","msg_combine_MESSAGE041_0","机翻辅助：
 
 我是你……你是我……
 我是从你心中的大海中出来的……
@@ -1362,8 +1362,8 @@
 ……汝之我……我乃汝之心海所出之物……
 
 我是你……你是我……我出自你心的海洋……"
-"msg_combine_MESSAGE041_1","一切的开始之源，
-愿成为照亮你前行道路的引导……","msg_combine_MESSAGE041_1","机翻辅助：
+"msg_combine_MESSAGE041_1","一切的开端，扣下扳机……
+愿成为照亮汝之路的指引……","msg_combine_MESSAGE041_1","机翻辅助：
 
 一切的开端，扣下扳机……
 愿成为照亮汝之路的指引……
@@ -1383,15 +1383,15 @@
 
 我是开始之神……
 [颜色 02][占位A 02][颜色 01]"
-"msg_combine_MESSAGE042_0","谁在召唤我…","msg_combine_MESSAGE042_0","机翻辅助：
+"msg_combine_MESSAGE042_0","呼唤我的是谁……","msg_combine_MESSAGE042_0","机翻辅助：
 
 呼唤我的是谁……
 
 呼喊我的是谁……
 
 唤醒我的是谁……"
-"msg_combine_MESSAGE042_1","犹如照亮黑夜般，炫目的心灵……
-愿成为你的力量……","msg_combine_MESSAGE042_1","机翻辅助：
+"msg_combine_MESSAGE042_1","如照亮黑夜的耀眼之心……
+愿成为汝的力量……","msg_combine_MESSAGE042_1","机翻辅助：
 
 如照亮黑夜的耀眼之心……
 愿成为汝的力量……
@@ -1411,15 +1411,15 @@
 
 我是[颜色 02][占位A 02][颜色 01]
 那光芒，不要断绝……"
-"msg_combine_MESSAGE043_0","谁在召唤我…","msg_combine_MESSAGE043_0","机翻辅助：
+"msg_combine_MESSAGE043_0","呼唤我的是谁……","msg_combine_MESSAGE043_0","机翻辅助：
 
 呼唤我的是谁……
 
 呼喊我的是谁……
 
 唤醒我的是谁……"
-"msg_combine_MESSAGE043_1","照亮无数黑暗的人啊，
-你是否将虚无视为自己的力量……","msg_combine_MESSAGE043_1","机翻辅助：
+"msg_combine_MESSAGE043_1","照亮无数黑暗之人……
+愿将虚无化为己力……","msg_combine_MESSAGE043_1","机翻辅助：
 
 照亮无数黑暗之人……
 愿将虚无化为己力……
@@ -1438,8 +1438,8 @@
 
 
 我是[颜色 02][占位A 02][颜色 01]……望着你一路前行……"
-"msg_combine_NETWORK_STOC_0","不行啊。
-你没有备用身份证件吗？","msg_combine_NETWORK_STOC_0","机翻辅助：
+"msg_combine_NETWORK_STOC_0","不行啦。
+你没有副人格面具嘛。","msg_combine_NETWORK_STOC_0","机翻辅助：
 
 不行啦。
 你没有副人格面具嘛。
@@ -1449,8 +1449,8 @@
 
 不行啊。
 没有副人格面具。"
-"msg_combine_NETWORK_STOC_1","开始通信需要准备好辅助人格，
-所以请准备好。","msg_combine_NETWORK_STOC_1","机翻辅助：
+"msg_combine_NETWORK_STOC_1","要开始通讯
+需要副人格面具，去准备一下。","msg_combine_NETWORK_STOC_1","机翻辅助：
 
 要开始通讯
 需要副人格面具，去准备一下。
@@ -1459,8 +1459,8 @@
 是必要的，准备一下。
 
 开始通信需要副人格面具，所以要准备好。"
-"msg_combine_NETWORK_STOC_2_0","不行啊。
-你没有备用身份证件吗？","msg_combine_NETWORK_STOC_2_0","机翻辅助：
+"msg_combine_NETWORK_STOC_2_0","不行啦。
+你没有副人格面具嘛。","msg_combine_NETWORK_STOC_2_0","机翻辅助：
 
 不行啦。
 你没有副人格面具嘛。
@@ -1470,8 +1470,8 @@
 
 不行啊。
 没有副人格面具。"
-"msg_combine_NETWORK_STOC_2_1","开始通信需要准备好辅助人格，
-所以请准备好。","msg_combine_NETWORK_STOC_2_1","机翻辅助：
+"msg_combine_NETWORK_STOC_2_1","要开始通讯
+需要副人格面具，去准备一下。","msg_combine_NETWORK_STOC_2_1","机翻辅助：
 
 要开始通讯
 需要副人格面具，去准备一下。
@@ -1513,13 +1513,13 @@
 
 >成为祭品的人格面具的技能寄宿在
 [颜色 02][占位A 01][颜色 01]中……"
-"msg_combine_sacrifice_it_2_0","　　　　得到了！","msg_combine_sacrifice_it_2_0","机翻辅助：
+"msg_combine_sacrifice_it_2_0","　　　　得到啦！","msg_combine_sacrifice_it_2_0","机翻辅助：
 
 　　　　得到啦！
 
 　　　　得到了！"
-"msg_combine_sacrifice_it_3_0","> 技能很多。
-请选择要忘记的技能。","msg_combine_sacrifice_it_3_0","机翻辅助：
+"msg_combine_sacrifice_it_3_0","＞技能已满。
+　请选择要遗忘的技能。","msg_combine_sacrifice_it_3_0","机翻辅助：
 
 ＞技能已满。
 　请选择要遗忘的技能。
@@ -1529,22 +1529,22 @@
 
 技能满满。
 请选择遗忘的技能。"
-"msg_combine_skcard_money_0","手头的钱好像不够呢……","msg_combine_skcard_money_0","机翻辅助：
+"msg_combine_skcard_money_0","你似乎没有足够的钱呢……","msg_combine_skcard_money_0","机翻辅助：
 
 你似乎没有足够的钱呢……
 
 带的钱好像不够啊……
 
 身上的钱好像不够。"
-"msg_combine_HELP_ACCIDEN_0","人格面具的合体是非常精细的工作。","msg_combine_HELP_ACCIDEN_0","机翻辅助：
+"msg_combine_HELP_ACCIDEN_0","人格面具合体是非常细腻的作业。","msg_combine_HELP_ACCIDEN_0","机翻辅助：
 
 人格面具合体是非常细腻的作业。
 
 人格面具合体是非常细致的工作。
 
 人格面具合体是非常纤细的工作。"
-"msg_combine_HELP_ACCIDEN_1","虽然很少见，但有时手头会出错，导致发生“事故”。
-","msg_combine_HELP_ACCIDEN_1","机翻辅助：
+"msg_combine_HELP_ACCIDEN_1","虽然概率极低，但有时
+会不小心失手，导致“事故”发生。","msg_combine_HELP_ACCIDEN_1","机翻辅助：
 
 虽然概率极低，但有时
 会不小心失手，导致“事故”发生。
@@ -1553,8 +1553,8 @@
 发生“事故”。
 
 虽然极少，但一不小心手就乱了……有时会产生“事故”。"
-"msg_combine_HELP_ACCIDEN_2","事故发生时，
-可能会出现与事前通知不同的人格。","msg_combine_HELP_ACCIDEN_2","机翻辅助：
+"msg_combine_HELP_ACCIDEN_2","发生事故时，有时
+会诞生与事前告知不同的人格面具。","msg_combine_HELP_ACCIDEN_2","机翻辅助：
 
 发生事故时，有时
 会诞生与事前告知不同的人格面具。
@@ -1563,8 +1563,8 @@
 有产生人格面具的情况。
 
 发生事故的时候，有时会产生与事前通知不同的人格面具。"
-"msg_combine_HELP_ACCIDEN_3","我们也不知道会诞生什么。
-……不要太在意细节会更明智。","msg_combine_HELP_ACCIDEN_3","机翻辅助：
+"msg_combine_HELP_ACCIDEN_3","吾等也不知道会诞生什么。
+……别在意小事才是明智之举。","msg_combine_HELP_ACCIDEN_3","机翻辅助：
 
 吾等也不知道会诞生什么。
 ……别在意小事才是明智之举。
@@ -1574,8 +1574,8 @@
 
 我们也不知道会发生什么。
 ……不要在意细小的事情才是明智的。"
-"msg_combine_HELP_KENSAKU_0","在搜寻合体中，可以确认当前可以合成的所有人格面具，从持有的人格面具中。
-","msg_combine_HELP_KENSAKU_0","机翻辅助：
+"msg_combine_HELP_KENSAKU_0","在搜寻合体时，可以从持有的人格面具
+确认目前能产生的所有人格面具！","msg_combine_HELP_KENSAKU_0","机翻辅助：
 
 在搜寻合体时，可以从持有的人格面具
 确认目前能产生的所有人格面具！
@@ -1584,8 +1584,8 @@
 现在能产生的全部人格面具的确认可能！
 
 检索合体可以从所持有的人格面具中确认现在能产生的全部人格面具！"
-"msg_combine_HELP_KENSAKU_1","从可以产生的候选者中寻找最高水平的人格面具……
-","msg_combine_HELP_KENSAKU_1","机翻辅助：
+"msg_combine_HELP_KENSAKU_1","从能产生的候补中
+寻找等级最高的人格面具……","msg_combine_HELP_KENSAKU_1","机翻辅助：
 
 从能产生的候补中
 寻找等级最高的人格面具……
@@ -1594,8 +1594,8 @@
 人格面具……
 
 从能产生的候选人中寻找最高水平的人格面具……"
-"msg_combine_HELP_KENSAKU_2","在寻找未注册的人格面具时，
-应该可以方便地使用在人格面具视频中。","msg_combine_HELP_KENSAKU_2","机翻辅助：
+"msg_combine_HELP_KENSAKU_2","在
+寻找没有登录的人格面具时，应该也能很方便地使用人格面具薄膜。","msg_combine_HELP_KENSAKU_2","机翻辅助：
 
 在
 寻找没有登录的人格面具时，应该也能很方便地使用人格面具薄膜。
@@ -1604,8 +1604,8 @@
 找没有登记的人格面具的时候什么的应该也方便使用。
 
 在人格面具胶片上寻找没有登记的人格面具时也应该很方便。"
-"msg_combine_HELP_3SIN_0","“三体合体”
-是以三个人格为基础，产生更高级别的人格的合体。","msg_combine_HELP_3SIN_0","机翻辅助：
+"msg_combine_HELP_3SIN_0","所谓的“3合1”，是将3个人格面具作为基础，
+产生出更高阶人格面具的合体。","msg_combine_HELP_3SIN_0","机翻辅助：
 
 所谓的“3合1”，是将3个人格面具作为基础，
 产生出更高阶人格面具的合体。
@@ -1615,8 +1615,8 @@
 
 所谓“3体合体”，是以3体的人格面具为基础，产生
 更高级的人格面具的合体。"
-"msg_combine_HELP_3SIN_1","使用过的三个人格面具将会消失，
-但可以期待它们变得更加强大。","msg_combine_HELP_3SIN_1","机翻辅助：
+"msg_combine_HELP_3SIN_1","虽然使用的3个人格面具会消灭，但可以期待
+产生出强力的人格面具。","msg_combine_HELP_3SIN_1","机翻辅助：
 
 虽然使用的3个人格面具会消灭，但可以期待
 产生出强力的人格面具。
@@ -1625,8 +1625,8 @@
 可以期待成为强有力的人格面具。
 
 使用了的3体消灭了，不过，能期待成为强有力的人格面具的事。"
-"msg_combine_HELP_3SIN_2","如果你想寻求更多力量的话，
-利用现有资源是明智的选择。","msg_combine_HELP_3SIN_2","机翻辅助：
+"msg_combine_HELP_3SIN_2","如果想要追求更强大的力量，
+活用这个功能才是明智的判断。","msg_combine_HELP_3SIN_2","机翻辅助：
 
 如果想要追求更强大的力量，
 活用这个功能才是明智的判断。
@@ -1635,8 +1635,8 @@
 活用是明智的判断吧。
 
 如果想追求更强的能力，灵活运用是明智的判断。"
-"msg_combine_HELP_TOKUSYU_0","“特殊合体”
-是以特定的人格面具为基础，产生特殊的特定人格面具的合体。","msg_combine_HELP_TOKUSYU_0","机翻辅助：
+"msg_combine_HELP_TOKUSYU_0","“特殊合体”是将特定的人格面具作为基础，
+产生出特殊特定人格面具的合体。","msg_combine_HELP_TOKUSYU_0","机翻辅助：
 
 “特殊合体”是将特定的人格面具作为基础，
 产生出特殊特定人格面具的合体。
@@ -1645,8 +1645,8 @@
 产生特殊的特定人格面具的合体。
 
 “特殊合体”是以特定的人格面具为基础，创造出特殊的特定人格面具的合体。"
-"msg_combine_HELP_TOKUSYU_1","特殊合体产生的人格面具是其他合体无法产生的。
-","msg_combine_HELP_TOKUSYU_1","机翻辅助：
+"msg_combine_HELP_TOKUSYU_1","特殊合体能产生的人格面具，
+是其他合体绝对无法产生的东西。","msg_combine_HELP_TOKUSYU_1","机翻辅助：
 
 特殊合体能产生的人格面具，
 是其他合体绝对无法产生的东西。
@@ -1655,8 +1655,8 @@
 是其他合体绝对不能产生的东西。
 
 特殊合体所能产生的人格面具是其他合体所无法产生的。"
-"msg_combine_HELP_TOKUSYU_2","也许不那么容易制作，
-但都是相当强大的人格面具。","msg_combine_HELP_TOKUSYU_2","机翻辅助：
+"msg_combine_HELP_TOKUSYU_2","虽然可能无法轻易制作，但
+全都是相当强力的人格面具哦。","msg_combine_HELP_TOKUSYU_2","机翻辅助：
 
 虽然可能无法轻易制作，但
 全都是相当强力的人格面具哦。
@@ -1665,8 +1665,8 @@
 
 
 也许没那么容易做出来，不过，都是相应强有力的人格面具哦。"
-"msg_combine_HELP_TOKUSYU_3","嗯，没有不做的事情。
-好好利用吧！","msg_combine_HELP_TOKUSYU_3","机翻辅助：
+"msg_combine_HELP_TOKUSYU_3","哎，没有不做的道理呢。
+要好好活用哦！","msg_combine_HELP_TOKUSYU_3","机翻辅助：
 
 哎，没有不做的道理呢。
 要好好活用哦！
@@ -1676,16 +1676,16 @@
 
 嗯，没有不做的办法。
 好好利用啊！"
-"msg_combine_HELP_SACRIFI_0","这里是我负责的部分。","msg_combine_HELP_SACRIFI_0","机翻辅助：
+"msg_combine_HELP_SACRIFI_0","这部分由我来负责。","msg_combine_HELP_SACRIFI_0","机翻辅助：
 
 这部分由我来负责。
 
 这是我负责的。
 
 这个由我来负责。"
-"msg_combine_HELP_SACRIFI_1","“汇合伊吉”
-是将一个人格面具变为伊吉，
-以促进另一个人格面具的成长的秘仪。","msg_combine_HELP_SACRIFI_1","机翻辅助：
+"msg_combine_HELP_SACRIFI_1","所谓的“活祭品合体”，是
+将一个人格面具作为活祭品，
+促进另一个人格面具成长的秘仪。","msg_combine_HELP_SACRIFI_1","机翻辅助：
 
 所谓的“活祭品合体”，是
 将一个人格面具作为活祭品，
@@ -1698,8 +1698,8 @@
 
 供品合体
 是将一个人格面具作为供品，促进另一个身体成长的秘方。"
-"msg_combine_HELP_SACRIFI_2","成长的程度取决于伊吉尼尔设定的角色等级越高，
-成长就会越大。","msg_combine_HELP_SACRIFI_2","机翻辅助：
+"msg_combine_HELP_SACRIFI_2","成长的程度，
+愈高阶的人格面具作为活祭品，成长愈大。","msg_combine_HELP_SACRIFI_2","机翻辅助：
 
 成长的程度，
 愈高阶的人格面具作为活祭品，成长愈大。
@@ -1709,8 +1709,8 @@
 
 作为牺牲品的人格面具
 等级越高，成长的程度就越大。"
-"msg_combine_HELP_SACRIFI_3","通常情况下，
-这种秘仪是需要相应的代价的……","msg_combine_HELP_SACRIFI_3","机翻辅助：
+"msg_combine_HELP_SACRIFI_3","通常，这个秘仪
+需要相应的代价……","msg_combine_HELP_SACRIFI_3","机翻辅助：
 
 通常，这个秘仪
 需要相应的代价……
@@ -1719,8 +1719,8 @@
 
 
 通常，这个秘仪是需要相应的代价的……"
-"msg_combine_HELP_SACRIFI_4","为了这个世界的研究，
-这一次我将采取特别措施。","msg_combine_HELP_SACRIFI_4","机翻辅助：
+"msg_combine_HELP_SACRIFI_4","为了研究这个世界，
+这次就特别采用特别措施吧。","msg_combine_HELP_SACRIFI_4","机翻辅助：
 
 为了研究这个世界，
 这次就特别采用特别措施吧。
@@ -1729,8 +1729,8 @@
 措施。
 
 为了这个世界的研究，这次请允许我采取特别的措施。"
-"msg_combine_HELP_SACRIFI_5","每个人设只有在第一次作为神明的时候才是免费的哦。
-","msg_combine_HELP_SACRIFI_5","机翻辅助：
+"msg_combine_HELP_SACRIFI_5","对于每个人格面具，
+只有第一次作为活祭品时免费。","msg_combine_HELP_SACRIFI_5","机翻辅助：
 
 对于每个人格面具，
 只有第一次作为活祭品时免费。
@@ -1740,8 +1740,8 @@
 
 每个人格面具都可以作为祭品
 只有在第一次的情况下免费。"
-"msg_combine_HELP_SACRIFI_6","培养主要角色也是可能的。
-这也可能有助于提升战斗力。","msg_combine_HELP_SACRIFI_6","机翻辅助：
+"msg_combine_HELP_SACRIFI_6","要让主要人格面具成长也是可以的哦。
+或许也可以用来提升战力。","msg_combine_HELP_SACRIFI_6","机翻辅助：
 
 要让主要人格面具成长也是可以的哦。
 或许也可以用来提升战力。
@@ -1751,8 +1751,8 @@
 
 使之成长，主要人格面具也可能哟。
 也许可以提高战斗力。"
-"msg_combine_HELP_SACRIFI_7","当你第一次获得人格面具时，不妨试试将其用于合体，看看会怎样呢？
-","msg_combine_HELP_SACRIFI_7","机翻辅助：
+"msg_combine_HELP_SACRIFI_7","如果得到第一个人格面具，
+要不要试着拿来当活祭品合体呢？","msg_combine_HELP_SACRIFI_7","机翻辅助：
 
 如果得到第一个人格面具，
 要不要试着拿来当活祭品合体呢？
@@ -1762,8 +1762,8 @@
 
 如果得到了第一次的人格面具，试着使用一次，
 供品合体怎样？"
-"msg_combine_NETWORK_HELP_0","那么，我来解释一下“擦肩手账”，请仔细听哦。
-","msg_combine_NETWORK_HELP_0","机翻辅助：
+"msg_combine_NETWORK_HELP_0","那我就来
+说明一下关于“错身记事本”的事，你们要仔细听哦。","msg_combine_NETWORK_HELP_0","机翻辅助：
 
 那我就来
 说明一下关于“错身记事本”的事，你们要仔细听哦。
@@ -1772,8 +1772,8 @@
 我来说明一下，仔细听哦。
 
 那么，我来说明一下“擦肩而过手册”，请仔细听。"
-"msg_combine_NETWORK_HELP_1","这里有很多和这里一样的世界，
-那里也有“不是你的你”。","msg_combine_NETWORK_HELP_1","机翻辅助：
+"msg_combine_NETWORK_HELP_1","有很多跟这里一样的世界，
+那些世界里也有“不是你的你”。","msg_combine_NETWORK_HELP_1","机翻辅助：
 
 有很多跟这里一样的世界，
 那些世界里也有“不是你的你”。
@@ -1792,8 +1792,8 @@
 
 
 所谓的“擦肩而过手册”，是用来和另一个世界通信的。"
-"msg_combine_NETWORK_HELP_3","和“不是你的你”
-通信的话，可以交换一个人格面具。","msg_combine_NETWORK_HELP_3","机翻辅助：
+"msg_combine_NETWORK_HELP_3","跟“不是你的你”通讯的话，
+就可以交换一个人格面具。","msg_combine_NETWORK_HELP_3","机翻辅助：
 
 跟“不是你的你”通讯的话，
 就可以交换一个人格面具。
@@ -1802,8 +1802,8 @@
 可以交换一个人格面具。
 
 和“不是你的你”进行通信的话，可以交换一个人格面具。"
-"msg_combine_NETWORK_HELP_4","方法是，在“巧遇手帐”
-上附上你们的信息和喜欢的人格面具。","msg_combine_NETWORK_HELP_4","机翻辅助：
+"msg_combine_NETWORK_HELP_4","方法是把你们的情报
+跟喜欢的人格面具附在“错身记事本”上。","msg_combine_NETWORK_HELP_4","机翻辅助：
 
 方法是把你们的情报
 跟喜欢的人格面具附在“错身记事本”上。
@@ -1813,8 +1813,8 @@
 
 方法是，在“擦身而过手册”里附上你们的信息和
 喜欢的人格面具。"
-"msg_combine_NETWORK_HELP_5","啊，
-因为只能选择一个副人格哦。","msg_combine_NETWORK_HELP_5","机翻辅助：
+"msg_combine_NETWORK_HELP_5","啊，可以选择的人格面具
+只能从副人格面具中选一个哦。","msg_combine_NETWORK_HELP_5","机翻辅助：
 
 啊，可以选择的人格面具
 只能从副人格面具中选一个哦。
@@ -1823,8 +1823,8 @@
 亚人格面具中的一个。
 
 啊，因为可以选择的人格面具只有副人格面具中的一个。"
-"msg_combine_NETWORK_HELP_6","所以，如果成功与另一个世界的你进行通信，就可以召唤对方交换的人格面具。
-","msg_combine_NETWORK_HELP_6","机翻辅助：
+"msg_combine_NETWORK_HELP_6","然后，如果跟另一个世界的你通讯成功，
+就可以召唤跟对方交换的人格面具。","msg_combine_NETWORK_HELP_6","机翻辅助：
 
 然后，如果跟另一个世界的你通讯成功，
 就可以召唤跟对方交换的人格面具。
@@ -1834,8 +1834,8 @@
 
 那么，如果和别的世界的你通信成功的话，
 可以召唤和对方交换的人格面具哦。"
-"msg_combine_NETWORK_HELP_7","如果能善加利用的话，
-或许就有机会获得强大的次要人设。","msg_combine_NETWORK_HELP_7","机翻辅助：
+"msg_combine_NETWORK_HELP_7","如果好好利用，说不定
+有机会得到很强的副人格面具。","msg_combine_NETWORK_HELP_7","机翻辅助：
 
 如果好好利用，说不定
 有机会得到很强的副人格面具。
@@ -1844,8 +1844,8 @@
 的机会。
 
 如果很好地利用，说不定能得到强的副人格面具的机会。"
-"msg_combine_NETWORK_HELP_2_0","那么，我来解释一下“擦肩手账”，请仔细听哦。
-","msg_combine_NETWORK_HELP_2_0","机翻辅助：
+"msg_combine_NETWORK_HELP_2_0","那我就来
+说明一下关于“错身记事本”的事，你们要仔细听哦。","msg_combine_NETWORK_HELP_2_0","机翻辅助：
 
 那我就来
 说明一下关于“错身记事本”的事，你们要仔细听哦。
@@ -1854,8 +1854,8 @@
 我来说明一下，仔细听哦。
 
 那么，我来说明一下“擦肩而过手册”，请仔细听。"
-"msg_combine_NETWORK_HELP_2_1","这里有很多和这里一样的世界，
-那里也有“不是你的你”。","msg_combine_NETWORK_HELP_2_1","机翻辅助：
+"msg_combine_NETWORK_HELP_2_1","有很多跟这里一样的世界，
+那些世界里也有“不是你的你”。","msg_combine_NETWORK_HELP_2_1","机翻辅助：
 
 有很多跟这里一样的世界，
 那些世界里也有“不是你的你”。
@@ -1874,8 +1874,8 @@
 
 
 所谓的“擦肩而过手册”，是用来和另一个世界通信的。"
-"msg_combine_NETWORK_HELP_2_3","和“不是你的你”
-通信的话，可以交换一个人格面具。","msg_combine_NETWORK_HELP_2_3","机翻辅助：
+"msg_combine_NETWORK_HELP_2_3","跟“不是你的你”通讯的话，
+就可以交换一个人格面具。","msg_combine_NETWORK_HELP_2_3","机翻辅助：
 
 跟“不是你的你”通讯的话，
 就可以交换一个人格面具。
@@ -1884,8 +1884,8 @@
 可以交换一个人格面具。
 
 和“不是你的你”进行通信的话，可以交换一个人格面具。"
-"msg_combine_NETWORK_HELP_2_4","方法是，在“巧遇手帐”
-上附上你们的信息和喜欢的人格面具。","msg_combine_NETWORK_HELP_2_4","机翻辅助：
+"msg_combine_NETWORK_HELP_2_4","方法是把你们的情报
+跟喜欢的人格面具附在“错身记事本”上。","msg_combine_NETWORK_HELP_2_4","机翻辅助：
 
 方法是把你们的情报
 跟喜欢的人格面具附在“错身记事本”上。
@@ -1895,8 +1895,8 @@
 
 方法是，在“擦身而过手册”里附上你们的信息和
 喜欢的人格面具。"
-"msg_combine_NETWORK_HELP_2_5","啊，
-因为只能选择一个副人格哦。","msg_combine_NETWORK_HELP_2_5","机翻辅助：
+"msg_combine_NETWORK_HELP_2_5","啊，可以选择的人格面具
+只能从副人格面具中选一个哦。","msg_combine_NETWORK_HELP_2_5","机翻辅助：
 
 啊，可以选择的人格面具
 只能从副人格面具中选一个哦。
@@ -1905,8 +1905,8 @@
 亚人格面具中的一个。
 
 啊，因为可以选择的人格面具只有副人格面具中的一个。"
-"msg_combine_NETWORK_HELP_2_6","所以，如果成功与另一个世界的你进行通信，就可以召唤对方交换的人格面具。
-","msg_combine_NETWORK_HELP_2_6","机翻辅助：
+"msg_combine_NETWORK_HELP_2_6","然后，如果跟另一个世界的你通讯成功，
+就可以召唤跟对方交换的人格面具。","msg_combine_NETWORK_HELP_2_6","机翻辅助：
 
 然后，如果跟另一个世界的你通讯成功，
 就可以召唤跟对方交换的人格面具。
@@ -1916,8 +1916,8 @@
 
 那么，如果和别的世界的你通信成功的话，
 可以召唤和对方交换的人格面具哦。"
-"msg_combine_NETWORK_HELP_2_7","如果能善加利用的话，
-或许就有机会获得强大的次要人设。","msg_combine_NETWORK_HELP_2_7","机翻辅助：
+"msg_combine_NETWORK_HELP_2_7","如果好好利用，说不定
+有机会得到很强的副人格面具。","msg_combine_NETWORK_HELP_2_7","机翻辅助：
 
 如果好好利用，说不定
 有机会得到很强的副人格面具。
@@ -1926,8 +1926,8 @@
 的机会。
 
 如果很好地利用，说不定能得到强的副人格面具的机会。"
-"msg_combine_NETWORK_HELP_3_0","我收到的“错过的手账”，如果你告诉我，我就可以确认。
-","msg_combine_NETWORK_HELP_3_0","机翻辅助：
+"msg_combine_NETWORK_HELP_3_0","如果你们拿到“错身记事本”，
+跟我说一声，我就可以帮你们确认。","msg_combine_NETWORK_HELP_3_0","机翻辅助：
 
 如果你们拿到“错身记事本”，
 跟我说一声，我就可以帮你们确认。
@@ -1936,8 +1936,8 @@
 告诉我就能确认。
 
 收到的“擦肩而过手册”，跟我说一下就可以确认了。"
-"msg_combine_NETWORK_HELP_3_1","顺便说一下，如果你得到了新的“擦肩手帐”，我会一起教给你。
-","msg_combine_NETWORK_HELP_3_1","机翻辅助：
+"msg_combine_NETWORK_HELP_3_1","顺便说一下，如果你们
+拿到新的“错身记事本”，我也会一起告诉你们。","msg_combine_NETWORK_HELP_3_1","机翻辅助：
 
 顺便说一下，如果你们
 拿到新的“错身记事本”，我也会一起告诉你们。
@@ -1946,8 +1946,8 @@
 
 
 顺便说一下，拿到新的“擦肩而过手册”的时候一起告诉你。"
-"msg_combine_NETWORK_HELP_3_2","但是“错过的手账”
-里，交换的东西并不能全部保存下来。","msg_combine_NETWORK_HELP_3_2","机翻辅助：
+"msg_combine_NETWORK_HELP_3_2","可是“错身记事本”
+没办法把交换的东西全部留下来。","msg_combine_NETWORK_HELP_3_2","机翻辅助：
 
 可是“错身记事本”
 没办法把交换的东西全部留下来。
@@ -1956,8 +1956,8 @@
 
 
 但是，即使是“擦肩而过的手册”，交换的东西也不能全部留下。"
-"msg_combine_NETWORK_HELP_3_3","因为最多只能保存100个项目，
-所以最好保护好重要的数据。","msg_combine_NETWORK_HELP_3_3","机翻辅助：
+"msg_combine_NETWORK_HELP_3_3","因为最多是“100”件，所以重要的
+数据要“保护”好哦。","msg_combine_NETWORK_HELP_3_3","机翻辅助：
 
 因为最多是“100”件，所以重要的
 数据要“保护”好哦。
@@ -1966,8 +1966,8 @@
 “100”件，所以重要的资料记得要“保护”起来哦。
 
 最多也就100件，所以重要的数据还是“保护”一下比较好。"
-"msg_combine_NETWORK_HELP_3_4","要不然，就会按照旧数据的顺序逐渐消失，所以请注意。
-","msg_combine_NETWORK_HELP_3_4","机翻辅助：
+"msg_combine_NETWORK_HELP_3_4","不然的话，旧的资料会从最前面开始
+被删除，要小心哦。","msg_combine_NETWORK_HELP_3_4","机翻辅助：
 
 不然的话，旧的资料会从最前面开始
 被删除，要小心哦。
@@ -1976,8 +1976,8 @@
 
 
 不然的话，会从旧数据中按顺序消失的，请注意。"
-"msg_combine_NETWORK_HELP_3_5","哦，
-记得最多只能保护80个项目哦。","msg_combine_NETWORK_HELP_3_5","机翻辅助：
+"msg_combine_NETWORK_HELP_3_5","啊，保护最多可以到
+“80”件，别忘了哦。","msg_combine_NETWORK_HELP_3_5","机翻辅助：
 
 啊，保护最多可以到
 “80”件，别忘了哦。
@@ -1986,8 +1986,8 @@
 
 
 啊，保护最多是“80件”，这个也别忘了哦。"
-"msg_combine_NETWORK_HELP_3_6","如果你在得到的“交错手帐”
-中想召唤某个人格面具的话，请告诉我。","msg_combine_NETWORK_HELP_3_6","机翻辅助：
+"msg_combine_NETWORK_HELP_3_6","还有，如果想从拿到的“错身手帐”中召唤
+某个人格面具的话，跟我说一声。","msg_combine_NETWORK_HELP_3_6","机翻辅助：
 
 还有，如果想从拿到的“错身手帐”中召唤
 某个人格面具的话，跟我说一声。
@@ -1997,8 +1997,8 @@
 
 还有，从收到的“擦肩而过手册”中
 如果有想召唤的人格面具，请说出来。"
-"msg_combine_NETWORK_HELP_3_7","对方会支付报酬，
-但是玛格丽特说小孩子们会召唤……","msg_combine_NETWORK_HELP_3_7","机翻辅助：
+"msg_combine_NETWORK_HELP_3_7","虽然要收取对价，不过小不点们
+会进行召唤……玛格丽特是这么说的。","msg_combine_NETWORK_HELP_3_7","机翻辅助：
 
 虽然要收取对价，不过小不点们
 会进行召唤……玛格丽特是这么说的。
@@ -2007,8 +2007,8 @@
 
 
 玛格丽特说，虽然要支付代价，但是小孩子们会召唤。"
-"msg_combine_NETWORK_HELP_4_0","我收到的“错过的手账”，如果你告诉我，我就可以确认。
-","msg_combine_NETWORK_HELP_4_0","机翻辅助：
+"msg_combine_NETWORK_HELP_4_0","如果你们拿到“错身记事本”，
+跟我说一声，我就可以帮你们确认。","msg_combine_NETWORK_HELP_4_0","机翻辅助：
 
 如果你们拿到“错身记事本”，
 跟我说一声，我就可以帮你们确认。
@@ -2017,8 +2017,8 @@
 告诉我就能确认。
 
 收到的“擦肩而过手册”，跟我说一下就可以确认了。"
-"msg_combine_NETWORK_HELP_4_1","顺便说一下，如果你得到了新的“擦肩手帐”，我会一起教给你。
-","msg_combine_NETWORK_HELP_4_1","机翻辅助：
+"msg_combine_NETWORK_HELP_4_1","顺便说一下，如果你们
+拿到新的“错身记事本”，我也会一起告诉你们。","msg_combine_NETWORK_HELP_4_1","机翻辅助：
 
 顺便说一下，如果你们
 拿到新的“错身记事本”，我也会一起告诉你们。
@@ -2027,8 +2027,8 @@
 
 
 顺便说一下，拿到新的“擦肩而过手册”的时候一起告诉你。"
-"msg_combine_NETWORK_HELP_4_2","但是“错过的手账”
-里，交换的东西并不能全部保存下来。","msg_combine_NETWORK_HELP_4_2","机翻辅助：
+"msg_combine_NETWORK_HELP_4_2","可是“错身记事本”
+没办法把交换的东西全部留下来。","msg_combine_NETWORK_HELP_4_2","机翻辅助：
 
 可是“错身记事本”
 没办法把交换的东西全部留下来。
@@ -2037,8 +2037,8 @@
 
 
 但是，即使是“擦肩而过的手册”，交换的东西也不能全部留下。"
-"msg_combine_NETWORK_HELP_4_3","因为最多只能保存100个项目，
-所以最好保护好重要的数据。","msg_combine_NETWORK_HELP_4_3","机翻辅助：
+"msg_combine_NETWORK_HELP_4_3","因为最多是“100”件，所以重要的
+数据要“保护”好哦。","msg_combine_NETWORK_HELP_4_3","机翻辅助：
 
 因为最多是“100”件，所以重要的
 数据要“保护”好哦。
@@ -2047,8 +2047,8 @@
 “100”件，所以重要的资料记得要“保护”起来哦。
 
 最多也就100件，所以重要的数据还是“保护”一下比较好。"
-"msg_combine_NETWORK_HELP_4_4","要不然，就会按照旧数据的顺序逐渐消失，所以请注意。
-","msg_combine_NETWORK_HELP_4_4","机翻辅助：
+"msg_combine_NETWORK_HELP_4_4","不然的话，旧的资料会从最前面开始
+被删除，要小心哦。","msg_combine_NETWORK_HELP_4_4","机翻辅助：
 
 不然的话，旧的资料会从最前面开始
 被删除，要小心哦。
@@ -2057,8 +2057,8 @@
 
 
 不然的话，会从旧数据中按顺序消失的，请注意。"
-"msg_combine_NETWORK_HELP_4_5","哦，
-记得最多只能保护80个项目哦。","msg_combine_NETWORK_HELP_4_5","机翻辅助：
+"msg_combine_NETWORK_HELP_4_5","啊，保护最多可以到
+“80”件，别忘了哦。","msg_combine_NETWORK_HELP_4_5","机翻辅助：
 
 啊，保护最多可以到
 “80”件，别忘了哦。
@@ -2067,8 +2067,8 @@
 
 
 啊，保护最多是“80件”，这个也别忘了哦。"
-"msg_combine_NETWORK_HELP_4_6","如果你在得到的“交错手帐”
-中想召唤某个人格面具的话，请告诉我。","msg_combine_NETWORK_HELP_4_6","机翻辅助：
+"msg_combine_NETWORK_HELP_4_6","还有，如果想从拿到的“错身手帐”中召唤
+某个人格面具的话，跟我说一声。","msg_combine_NETWORK_HELP_4_6","机翻辅助：
 
 还有，如果想从拿到的“错身手帐”中召唤
 某个人格面具的话，跟我说一声。
@@ -2078,8 +2078,8 @@
 
 还有，从收到的“擦肩而过手册”中
 如果有想召唤的人格面具，请说出来。"
-"msg_combine_NETWORK_HELP_4_7","对方会支付报酬，
-但是玛格丽特说小孩子们会召唤……","msg_combine_NETWORK_HELP_4_7","机翻辅助：
+"msg_combine_NETWORK_HELP_4_7","虽然要收取对价，不过小不点们
+会进行召唤……玛格丽特是这么说的。","msg_combine_NETWORK_HELP_4_7","机翻辅助：
 
 虽然要收取对价，不过小不点们
 会进行召唤……玛格丽特是这么说的。
@@ -2088,8 +2088,8 @@
 
 
 玛格丽特说，虽然要支付代价，但是小孩子们会召唤。"
-"msg_combine_NETWORK_HELP_5_0","“擦肩而过手账”
-的内容可以随时自由更改。","msg_combine_NETWORK_HELP_5_0","机翻辅助：
+"msg_combine_NETWORK_HELP_5_0","“错身手帐”的内容，
+随时都可以自由变更哦。","msg_combine_NETWORK_HELP_5_0","机翻辅助：
 
 “错身手帐”的内容，
 随时都可以自由变更哦。
@@ -2099,8 +2099,8 @@
 
 交错手册的内容
 随时都可以自由变更。"
-"msg_combine_NETWORK_HELP_5_1","附加的子人设当然也包括遇见名和消息之类的。
-","msg_combine_NETWORK_HELP_5_1","机翻辅助：
+"msg_combine_NETWORK_HELP_5_1","附在上面的副人格面具当然
+也是，还有错身人名和留言也是。","msg_combine_NETWORK_HELP_5_1","机翻辅助：
 
 附在上面的副人格面具当然
 也是，还有错身人名和留言也是。
@@ -2109,8 +2109,8 @@
 可能是交错的名字和信息。
 
 附带的副人格面具当然，也许是擦身而过的名字和信息。"
-"msg_combine_NETWORK_HELP_5_2","心情好的话，更新一下“错过手账”
-可能会不错哦。","msg_combine_NETWORK_HELP_5_2","机翻辅助：
+"msg_combine_NETWORK_HELP_5_2","如果心情不错，
+更新“错身手帐”应该也不错吧。","msg_combine_NETWORK_HELP_5_2","机翻辅助：
 
 如果心情不错，
 更新“错身手帐”应该也不错吧。
@@ -2119,8 +2119,8 @@
 
 
 心情好的话，更新“擦肩而过手册”不就好了吗。"
-"msg_combine_NETWORK_HELP_5_3","但是，不可以写出让“不是你的你”
-感到不愉快的名字或内容哦。","msg_combine_NETWORK_HELP_5_3","机翻辅助：
+"msg_combine_NETWORK_HELP_5_3","不过，
+不可以写会惹“不是你的你”不高兴的名字和内容哦。","msg_combine_NETWORK_HELP_5_3","机翻辅助：
 
 不过，
 不可以写会惹“不是你的你”不高兴的名字和内容哦。
@@ -2129,8 +2129,8 @@
 这样的名字和内容是不能写的。
 
 但是，不能写会让“不是你的你”感到不快的名字和内容哦。"
-"msg_combine_NETWORK_HELP_5_4","反正，如果把手帐做得让人看着开心，大家都会更幸福吧？
-","msg_combine_NETWORK_HELP_5_4","机翻辅助：
+"msg_combine_NETWORK_HELP_5_4","既然要写，
+写个看了会开心的手帐，大家都会比较幸福吧？","msg_combine_NETWORK_HELP_5_4","机翻辅助：
 
 既然要写，
 写个看了会开心的手帐，大家都会比较幸福吧？
@@ -2139,8 +2139,8 @@
 记在笔记本上大家都很幸福吧？
 
 既然如此，做成让人看了就会开心的手帐，大家不是更幸福吗？"
-"msg_combine_NETWORK_HELP_6_0","“擦肩而过手账”
-的内容可以随时自由更改。","msg_combine_NETWORK_HELP_6_0","机翻辅助：
+"msg_combine_NETWORK_HELP_6_0","“错身手帐”的内容，
+随时都可以自由变更哦。","msg_combine_NETWORK_HELP_6_0","机翻辅助：
 
 “错身手帐”的内容，
 随时都可以自由变更哦。
@@ -2150,8 +2150,8 @@
 
 交错手册的内容
 随时都可以自由变更。"
-"msg_combine_NETWORK_HELP_6_1","附加的子人设当然也包括遇见名和消息之类的。
-","msg_combine_NETWORK_HELP_6_1","机翻辅助：
+"msg_combine_NETWORK_HELP_6_1","附在上面的副人格面具当然
+也是，还有错身人名和留言也是。","msg_combine_NETWORK_HELP_6_1","机翻辅助：
 
 附在上面的副人格面具当然
 也是，还有错身人名和留言也是。
@@ -2160,8 +2160,8 @@
 可能是交错的名字和信息。
 
 附带的副人格面具当然，也许是擦身而过的名字和信息。"
-"msg_combine_NETWORK_HELP_6_2","心情好的话，更新一下“错过手账”
-可能会不错哦。","msg_combine_NETWORK_HELP_6_2","机翻辅助：
+"msg_combine_NETWORK_HELP_6_2","如果心情不错，
+更新“错身手帐”应该也不错吧。","msg_combine_NETWORK_HELP_6_2","机翻辅助：
 
 如果心情不错，
 更新“错身手帐”应该也不错吧。
@@ -2170,8 +2170,8 @@
 
 
 心情好的话，更新“擦肩而过手册”不就好了吗。"
-"msg_combine_NETWORK_HELP_6_3","但是，不可以写出让“不是你的你”
-感到不愉快的名字或内容哦。","msg_combine_NETWORK_HELP_6_3","机翻辅助：
+"msg_combine_NETWORK_HELP_6_3","不过，
+不可以写会惹“不是你的你”不高兴的名字和内容哦。","msg_combine_NETWORK_HELP_6_3","机翻辅助：
 
 不过，
 不可以写会惹“不是你的你”不高兴的名字和内容哦。
@@ -2180,8 +2180,8 @@
 这样的名字和内容是不能写的。
 
 但是，不能写会让“不是你的你”感到不快的名字和内容哦。"
-"msg_combine_NETWORK_HELP_6_4","反正，如果把手帐做得让人看着开心，大家都会更幸福吧？
-","msg_combine_NETWORK_HELP_6_4","机翻辅助：
+"msg_combine_NETWORK_HELP_6_4","既然要写，
+写个看了会开心的手帐，大家都会比较幸福吧？","msg_combine_NETWORK_HELP_6_4","机翻辅助：
 
 既然要写，
 写个看了会开心的手帐，大家都会比较幸福吧？
@@ -2200,8 +2200,8 @@
 
 
 “交错手册”可以转换成“QR码”。"
-"msg_combine_NETWORK_HELP_7_1","“QR码”
-似乎也可以交换“不是你的你”和“擦肩而过手账”。","msg_combine_NETWORK_HELP_7_1","机翻辅助：
+"msg_combine_NETWORK_HELP_7_1","“QR码”好像也可以
+和“不是你的你”交换“错身手帐”。","msg_combine_NETWORK_HELP_7_1","机翻辅助：
 
 “QR码”好像也可以
 和“不是你的你”交换“错身手帐”。
@@ -2210,8 +2210,8 @@
 “擦肩而过手册”。
 
 “QR码”好像也可以交换“不是你的你”和“擦身而过手帐”。"
-"msg_combine_NETWORK_HELP_7_2","如果通信出了问题，
-也可以考虑使用“QR码”。","msg_combine_NETWORK_HELP_7_2","机翻辅助：
+"msg_combine_NETWORK_HELP_7_2","如果通讯不顺利
+的话，也可以使用“QR码”。","msg_combine_NETWORK_HELP_7_2","机翻辅助：
 
 如果通讯不顺利
 的话，也可以使用“QR码”。
@@ -2220,15 +2220,15 @@
 
 
 如果通信不顺利的话，也可以使用“二维码”。"
-"msg_combine_NETWORK_HELP_7_3","你可以制作“QR码”，
-也可以扫描对方的“QR码”。","msg_combine_NETWORK_HELP_7_3","机翻辅助：
+"msg_combine_NETWORK_HELP_7_3","你可以制作“QR码”，也可以读取
+对方的“QR码”。","msg_combine_NETWORK_HELP_7_3","机翻辅助：
 
 你可以制作“QR码”，也可以读取
 对方的“QR码”。
 
 你可以制作“QR码”，也可以读取对方的“QR码”。"
-"msg_combine_NETWORK_HELP_7_4","嗯，要不你就试着好好利用“擦肩而过手账”
-不断地交换吧？","msg_combine_NETWORK_HELP_7_4","机翻辅助：
+"msg_combine_NETWORK_HELP_7_4","总之，你就试着好好运用“交错记事本”，
+尽量交换看看吧。","msg_combine_NETWORK_HELP_7_4","机翻辅助：
 
 总之，你就试着好好运用“交错记事本”，
 尽量交换看看吧。
@@ -2248,8 +2248,8 @@
 
 
 “交错手册”可以转换成“QR码”。"
-"msg_combine_NETWORK_HELP_8_1","“QR码”
-似乎也可以交换“不是你的你”和“擦肩而过手账”。","msg_combine_NETWORK_HELP_8_1","机翻辅助：
+"msg_combine_NETWORK_HELP_8_1","“QR码”好像也可以
+和“不是你的你”交换“错身手帐”。","msg_combine_NETWORK_HELP_8_1","机翻辅助：
 
 “QR码”好像也可以
 和“不是你的你”交换“错身手帐”。
@@ -2258,8 +2258,8 @@
 “擦肩而过手册”。
 
 “QR码”好像也可以交换“不是你的你”和“擦身而过手帐”。"
-"msg_combine_NETWORK_HELP_8_2","如果通信出了问题，
-也可以考虑使用“QR码”。","msg_combine_NETWORK_HELP_8_2","机翻辅助：
+"msg_combine_NETWORK_HELP_8_2","如果通讯不顺利
+的话，也可以使用“QR码”。","msg_combine_NETWORK_HELP_8_2","机翻辅助：
 
 如果通讯不顺利
 的话，也可以使用“QR码”。
@@ -2268,15 +2268,15 @@
 
 
 如果通信不顺利的话，也可以使用“二维码”。"
-"msg_combine_NETWORK_HELP_8_3","你可以制作“QR码”，
-也可以扫描对方的“QR码”。","msg_combine_NETWORK_HELP_8_3","机翻辅助：
+"msg_combine_NETWORK_HELP_8_3","你可以制作“QR码”，也可以读取
+对方的“QR码”。","msg_combine_NETWORK_HELP_8_3","机翻辅助：
 
 你可以制作“QR码”，也可以读取
 对方的“QR码”。
 
 你可以制作“QR码”，也可以读取对方的“QR码”。"
-"msg_combine_NETWORK_HELP_8_4","嗯，要不你就试着好好利用“擦肩而过手账”
-不断地交换吧？","msg_combine_NETWORK_HELP_8_4","机翻辅助：
+"msg_combine_NETWORK_HELP_8_4","总之，你就试着好好运用“交错记事本”，
+尽量交换看看吧。","msg_combine_NETWORK_HELP_8_4","机翻辅助：
 
 总之，你就试着好好运用“交错记事本”，
 尽量交换看看吧。
@@ -2286,7 +2286,7 @@
 
 嗯，好好地使用“擦肩而过手册”
 不断地试着交换不就好了吗？"
-"msg_combine_MESSAGE044_0","谁在召唤我…","msg_combine_MESSAGE044_0","机翻辅助：
+"msg_combine_MESSAGE044_0","呼唤我的是谁……","msg_combine_MESSAGE044_0","机翻辅助：
 
 呼唤我的是谁……
 
@@ -2303,8 +2303,8 @@
 
 
 我的名字是宙斯。[颜色 02]被对方称呼的人……[颜色 01]"
-"msg_combine_MESSAGE044_2","与羁绊一同前往未踏之地的人啊……我将审视你的决心……
-","msg_combine_MESSAGE044_2","机翻辅助：
+"msg_combine_MESSAGE044_2","与羁绊一同前往未知之地之人啊……
+吾将鉴定汝之觉悟……","msg_combine_MESSAGE044_2","机翻辅助：
 
 与羁绊一同前往未知之地之人啊……
 吾将鉴定汝之觉悟……
@@ -2314,15 +2314,15 @@
 
 与羁绊一起踏上处女地的人啊……
 要看清那个觉悟……"
-"msg_combine_MESSAGE045_0","我是你，你是我…","msg_combine_MESSAGE045_0","机翻辅助：
+"msg_combine_MESSAGE045_0","吾为汝，汝为吾……","msg_combine_MESSAGE045_0","机翻辅助：
 
 吾为汝，汝为吾……
 
 我就是你，你就是我……
 
 我是你，你是我……"
-"msg_combine_MESSAGE045_1","真正以羁绊为力量的人啊……
-你是否渴望获得更多的自由呢……","msg_combine_MESSAGE045_1","机翻辅助：
+"msg_combine_MESSAGE045_1","真正将羁绊化为力量之人啊……
+欲获得更进一步之自由吗……","msg_combine_MESSAGE045_1","机翻辅助：
 
 真正将羁绊化为力量之人啊……
 欲获得更进一步之自由吗……
@@ -2332,8 +2332,8 @@
 
 真正以羁绊为力量的人啊……
 是否想要获得更大的自由？"
-"msg_combine_MESSAGE045_2","那么就与你一起前往吧。
-这片遥远的自由之地……","msg_combine_MESSAGE045_2","机翻辅助：
+"msg_combine_MESSAGE045_2","那么吾将与汝同往。
+前往这片遥远之自由之地……","msg_combine_MESSAGE045_2","机翻辅助：
 
 那么吾将与汝同往。
 前往这片遥远之自由之地……
@@ -2343,8 +2343,8 @@
 
 那就和你一起去吧。
 这片遥远的自由之地……"
-"msg_combine_MESSAGE046_0","我是汝……汝是我……我是汝心灵之海中的来者……
-","msg_combine_MESSAGE046_0","机翻辅助：
+"msg_combine_MESSAGE046_0","吾为汝……汝为吾……
+吾乃脱离汝之心海之人……","msg_combine_MESSAGE046_0","机翻辅助：
 
 吾为汝……汝为吾……
 吾乃脱离汝之心海之人……
@@ -2370,8 +2370,8 @@
 从你出生，走在你身边的人……
 
 我是[颜色 02][占位A 02][颜色 01]……生在你身边，走在你身边的人。"
-"combine_regist_NG_0","这个人设已经被保护，
-无法由您自己注册。","combine_regist_NG_0","机翻辅助：
+"combine_regist_NG_0","这个人格面具受到保护，无法由你亲手
+登录。","combine_regist_NG_0","机翻辅助：
 
 这个人格面具受到保护，无法由你亲手
 登录。
@@ -2381,8 +2381,8 @@
 
 这个人格面具，用你自己的手
 被保护着不能登记。"
-"combine_regist_NG_Ex_0","这个人设已经被保护，
-无法由您自己注册。","combine_regist_NG_Ex_0","机翻辅助：
+"combine_regist_NG_Ex_0","这个人格面具受到保护，无法由你亲手
+登录。","combine_regist_NG_Ex_0","机翻辅助：
 
 这个人格面具受到保护，无法由你亲手
 登录。
@@ -2392,8 +2392,8 @@
 
 这个人格面具，用你自己的手
 被保护着不能登记。"
-"msg_combine_scr_error_0","这个人格已经无法再成长了。
-","msg_combine_scr_error_0","机翻辅助：
+"msg_combine_scr_error_0","这个人格面具无法
+继续成长。","msg_combine_scr_error_0","机翻辅助：
 
 这个人格面具无法
 继续成长。
@@ -2402,8 +2402,8 @@
 
 
 你的人格面具再也无法成长了。"
-"msg_combine_skcard_yet_0","这个人格面具还没有学会可以提取的技能。
-","msg_combine_skcard_yet_0","机翻辅助：
+"msg_combine_skcard_yet_0","这个人格面具尚未
+学会可抽取之技能。","msg_combine_skcard_yet_0","机翻辅助：
 
 这个人格面具尚未
 学会可抽取之技能。
@@ -2412,8 +2412,8 @@
 
 
 这个人格面具还没有学会提取技能。"
-"msg_combine_skcard_lost_0","这个角色已经放弃了可以提取的技能。
-","msg_combine_skcard_lost_0","机翻辅助：
+"msg_combine_skcard_lost_0","这个人格面具
+舍弃了可抽取之技能。","msg_combine_skcard_lost_0","机翻辅助：
 
 这个人格面具
 舍弃了可抽取之技能。
@@ -2422,8 +2422,8 @@
 
 
 这个人格面具，丢掉了提取技能。"
-"msg_combine_NETWORK_STOC_3_0","啊……现在持有的副人格好像无法与“不在此世界”
-的交流。","msg_combine_NETWORK_STOC_3_0","机翻辅助：
+"msg_combine_NETWORK_STOC_3_0","啊……现在拥有的人格面具似乎无法用来与“不是
+这里的世界”通讯。","msg_combine_NETWORK_STOC_3_0","机翻辅助：
 
 啊……现在拥有的人格面具似乎无法用来与“不是
 这里的世界”通讯。
@@ -2433,15 +2433,15 @@
 
 啊……现在拥有的副人格面具好像不能用于和“在这里
 没有的世界”的交流。"
-"msg_combine_NETWORK_STOC_3_1","准备另一个人格过来吧。","msg_combine_NETWORK_STOC_3_1","机翻辅助：
+"msg_combine_NETWORK_STOC_3_1","去准备其他的人格面具吧。","msg_combine_NETWORK_STOC_3_1","机翻辅助：
 
 去准备其他的人格面具吧。
 
 你去准备别的人格面具啊。
 
 你去准备别的人格面具吧。"
-"msg_combine_NETWORK_STOC_4_0","啊……现在持有的副人格好像无法与“不在此世界”
-的交流。","msg_combine_NETWORK_STOC_4_0","机翻辅助：
+"msg_combine_NETWORK_STOC_4_0","啊……现在拥有的人格面具似乎无法用来与“不是
+这里的世界”通讯。","msg_combine_NETWORK_STOC_4_0","机翻辅助：
 
 啊……现在拥有的人格面具似乎无法用来与“不是
 这里的世界”通讯。
@@ -2451,15 +2451,15 @@
 
 啊……现在拥有的副人格面具好像不能用于和“在这里
 没有的世界”的交流。"
-"msg_combine_NETWORK_STOC_4_1","准备另一个人格过来吧。","msg_combine_NETWORK_STOC_4_1","机翻辅助：
+"msg_combine_NETWORK_STOC_4_1","去准备其他的人格面具吧。","msg_combine_NETWORK_STOC_4_1","机翻辅助：
 
 去准备其他的人格面具吧。
 
 你去准备别的人格面具啊。
 
 你去准备别的人格面具吧。"
-"combine_stock_lack_0","人格面具库中的人格面具数量不足。
-","combine_stock_lack_0","机翻辅助：
+"combine_stock_lack_0","人格面具库存的
+人格面具数量不足。","combine_stock_lack_0","机翻辅助：
 
 人格面具库存的
 人格面具数量不足。
@@ -2469,19 +2469,19 @@
 
 人格面具库存
 人格面具的数量不足。"
-"combine_sel_TICKET_0","收费合体","combine_sel_TICKET_0","机翻辅助：
+"combine_sel_TICKET_0","付费合体","combine_sel_TICKET_0","机翻辅助：
 
 付费合体
 
 收费合体
 
 有偿合体"
-"combine_sel_TICKET_1","停止合体","combine_sel_TICKET_1","机翻辅助：
+"combine_sel_TICKET_1","取消合体","combine_sel_TICKET_1","机翻辅助：
 
 取消合体
 
 停止合体"
-"combine_sel_TICKET_2","使用门票","combine_sel_TICKET_2","机翻辅助：
+"combine_sel_TICKET_2","使用票券","combine_sel_TICKET_2","机翻辅助：
 
 使用票券
 
@@ -2531,8 +2531,8 @@
 
 从人格面具胶卷的抽屉
 还有[占位A 01]框存量的空余是必要的哟。"
-"msg_combine_sac_cost_fre_0","这是第一次见到力量的共鸣。
-这次的费用是免费的。可以合体吗？","msg_combine_sac_cost_fre_0","机翻辅助：
+"msg_combine_sac_cost_fre_0","这是第一次看到的力量共鸣。这次的费用是
+免费。可以合体吗？","msg_combine_sac_cost_fre_0","机翻辅助：
 
 这是第一次看到的力量共鸣。这次的费用是
 免费。可以合体吗？
@@ -2552,8 +2552,8 @@
 
 为了供品合体[颜色 03][占位A 01]日元[颜色 01]
 我要吃。可以吗？"
-"combine_money_caro_0","你的钱不够啊！
-真丢脸。","combine_money_caro_0","机翻辅助：
+"combine_money_caro_0","这样钱根本不够用啊！
+真是难看。","combine_money_caro_0","机翻辅助：
 
 这样钱根本不够用啊！
 真是难看。
@@ -2567,35 +2567,35 @@
 召唤
 
 传唤"
-"combine_book_summon_sel_1","不要了","combine_book_summon_sel_1","机翻辅助：
+"combine_book_summon_sel_1","还是算了","combine_book_summon_sel_1","机翻辅助：
 
 还是算了
 
 停止
 
 算了"
-"combine_book_reg_all_sel_0","全部注册","combine_book_reg_all_sel_0","机翻辅助：
+"combine_book_reg_all_sel_0","全部登录","combine_book_reg_all_sel_0","机翻辅助：
 
 全部登录
 
 全部登记
 
 全部注册"
-"combine_book_reg_all_sel_1","不要了","combine_book_reg_all_sel_1","机翻辅助：
+"combine_book_reg_all_sel_1","还是算了","combine_book_reg_all_sel_1","机翻辅助：
 
 还是算了
 
 算了
 
 停止"
-"combine_book_reg_sel_0","注册","combine_book_reg_sel_0","机翻辅助：
+"combine_book_reg_sel_0","登录","combine_book_reg_sel_0","机翻辅助：
 
 登录
 
 登记
 
 注册"
-"combine_book_reg_sel_1","不要了","combine_book_reg_sel_1","机翻辅助：
+"combine_book_reg_sel_1","还是算了","combine_book_reg_sel_1","机翻辅助：
 
 还是算了
 
@@ -2607,17 +2607,17 @@
 没问题
 
 没有问题"
-"combine_cmb_sel_1","还是不行","combine_cmb_sel_1","机翻辅助：
+"combine_cmb_sel_1","果然还是不行","combine_cmb_sel_1","机翻辅助：
 
 果然还是不行
 
 果然不行"
-"combine_cmb_sac_free_sel_0","请多关照","combine_cmb_sac_free_sel_0","机翻辅助：
+"combine_cmb_sac_free_sel_0","请多指教","combine_cmb_sac_free_sel_0","机翻辅助：
 
 请多指教
 
 请多关照"
-"combine_cmb_sac_free_sel_1","不要了","combine_cmb_sac_free_sel_1","机翻辅助：
+"combine_cmb_sac_free_sel_1","还是算了","combine_cmb_sac_free_sel_1","机翻辅助：
 
 还是算了
 
@@ -2629,7 +2629,7 @@
 没问题
 
 没有问题"
-"combine_cmb_sac_sel_1","还是不行","combine_cmb_sac_sel_1","机翻辅助：
+"combine_cmb_sac_sel_1","果然还是不行","combine_cmb_sac_sel_1","机翻辅助：
 
 果然还是不行
 
@@ -2639,7 +2639,7 @@
 没问题
 
 没有问题"
-"combine_cmb_cpy_sel_1","不要了","combine_cmb_cpy_sel_1","机翻辅助：
+"combine_cmb_cpy_sel_1","还是算了","combine_cmb_cpy_sel_1","机翻辅助：
 
 还是算了
 
@@ -2649,7 +2649,7 @@
 "combine_wcard_sel_0","继承","combine_wcard_sel_0","机翻辅助：
 
 继承"
-"combine_wcard_sel_1","不要了","combine_wcard_sel_1","机翻辅助：
+"combine_wcard_sel_1","还是算了","combine_wcard_sel_1","机翻辅助：
 
 还是算了
 
@@ -2659,8 +2659,8 @@
 "msg_combine_MESSAGE__048_0","我是[颜色 02][占位A 02][颜色 01]。","msg_combine_MESSAGE__048_0","机翻辅助：
 
 我是[颜色 02][占位A 02][颜色 01]。"
-"msg_combine_MESSAGE__048_1","成为恶作剧之神的力量吗？
-好吧，我会帮你证明自己的实力。","msg_combine_MESSAGE__048_1","机翻辅助：
+"msg_combine_MESSAGE__048_1","成为恶作剧之神的力量……吗？
+我知道了，我会协助你立起证明。","msg_combine_MESSAGE__048_1","机翻辅助：
 
 成为恶作剧之神的力量……吗？
 我知道了，我会协助你立起证明。
@@ -2674,8 +2674,8 @@
 我是[颜色 02][占位A 02][颜色 01]。
 
 我[颜色 02][占位A 02][颜色 01]。"
-"msg_combine_MESSAGE__049_1","从现在开始，我将成为你的特技大师，与你同在……
-","msg_combine_MESSAGE__049_1","机翻辅助：
+"msg_combine_MESSAGE__049_1","从今以后，我愿成为你的力量，
+与你同在……","msg_combine_MESSAGE__049_1","机翻辅助：
 
 从今以后，我愿成为你的力量，
 与你同在……
@@ -2689,8 +2689,8 @@
 吾是[颜色 02][占位A 02][颜色 01]……
 
 我是[颜色 02][占位A 02][颜色 01]……"
-"msg_combine_MESSAGE__050_1","从你诞生之时起，就是与你同行的存在……
-从现在开始，将成为恶作剧之神的力量。","msg_combine_MESSAGE__050_1","机翻辅助：
+"msg_combine_MESSAGE__050_1","自汝而生，自汝而行者……
+自此化为欺骗者之力。","msg_combine_MESSAGE__050_1","机翻辅助：
 
 自汝而生，自汝而行者……
 自此化为欺骗者之力。
@@ -2705,8 +2705,8 @@
 吾是[颜色 02][占位A 02][颜色 01]……
 
 我是[颜色 02][占位A 02][颜色 01]……"
-"msg_combine_MESSAGE__051_1","双眸睁开，JOKER，现在发动吧……！
-","msg_combine_MESSAGE__051_1","机翻辅助：
+"msg_combine_MESSAGE__051_1","双眸大睁，
+发招吧，发狂的魔术师……！","msg_combine_MESSAGE__051_1","机翻辅助：
 
 双眸大睁，
 发招吧，发狂的魔术师……！
@@ -2716,15 +2716,15 @@
 
 睁大双眸，
 诡计明星啊，现在就站出来吧……！"
-"msg_combine_MESSAGE__052_0","谁在召唤我…","msg_combine_MESSAGE__052_0","机翻辅助：
+"msg_combine_MESSAGE__052_0","呼唤我的是谁……","msg_combine_MESSAGE__052_0","机翻辅助：
 
 呼唤我的是谁……
 
 呼喊我的是谁……
 
 唤醒我的是谁……"
-"msg_combine_MESSAGE__052_1","数不尽的黑暗啊，作为照亮它的JOKER，你是否将虚无视为自己的力量呢……
-","msg_combine_MESSAGE__052_1","机翻辅助：
+"msg_combine_MESSAGE__052_1","照亮无数黑暗的魔术师啊，
+将虚无化为己力……","msg_combine_MESSAGE__052_1","机翻辅助：
 
 照亮无数黑暗的魔术师啊，
 将虚无化为己力……
@@ -2743,15 +2743,15 @@
 见证你的道路……
 
 我是[颜色 02][占位A 02][颜色 01]。望着你一路前行……"
-"msg_combine_MESSAGE__053_0","谁在召唤我…","msg_combine_MESSAGE__053_0","机翻辅助：
+"msg_combine_MESSAGE__053_0","呼唤我的是谁……","msg_combine_MESSAGE__053_0","机翻辅助：
 
 呼唤我的是谁……
 
 呼喊我的是谁……
 
 唤醒我的是谁……"
-"msg_combine_MESSAGE__053_1","犹如照亮黑暗的夜晚般，闪耀的心灵……
-愿你成为JOKER的力量……","msg_combine_MESSAGE__053_1","机翻辅助：
+"msg_combine_MESSAGE__053_1","有如照亮黑暗夜晚的耀眼心灵……
+汝，成为捣蛋鬼的力量吧……","msg_combine_MESSAGE__053_1","机翻辅助：
 
 有如照亮黑暗夜晚的耀眼心灵……
 汝，成为捣蛋鬼的力量吧……
@@ -2779,8 +2779,8 @@
 我们家是[颜色 02][占位A 02][颜色 01]。
 
 我们家[颜色 02][占位A 02][颜色 01]。"
-"msg_combine_MESSAGE__054_1","我将成为引领你走向胜利的女神。
-我会成为你的力量，一直陪伴着你！","msg_combine_MESSAGE__054_1","机翻辅助：
+"msg_combine_MESSAGE__054_1","我是将你导向胜利的女神。
+我会成为你的力量，跟着你走！","msg_combine_MESSAGE__054_1","机翻辅助：
 
 我是将你导向胜利的女神。
 我会成为你的力量，跟着你走！
@@ -2796,8 +2796,8 @@
 我们家是[颜色 02][占位A 02][颜色 01]。
 
 我们家[颜色 02][占位A 02][颜色 01]。"
-"msg_combine_MESSAGE__055_1","JOKER先生，加油啊！
-我会全力支持你，无论走到哪里！","msg_combine_MESSAGE__055_1","机翻辅助：
+"msg_combine_MESSAGE__055_1","捣蛋鬼小姐，加油啊！
+我会成为你的力量，永远跟随你！","msg_combine_MESSAGE__055_1","机翻辅助：
 
 捣蛋鬼小姐，加油啊！
 我会成为你的力量，永远跟随你！
@@ -2809,8 +2809,8 @@
 "msg_combine_MESSAGE__056_0","我是[颜色 02][占位A 02][颜色 01]。","msg_combine_MESSAGE__056_0","机翻辅助：
 
 我是[颜色 02][占位A 02][颜色 01]。"
-"msg_combine_MESSAGE__056_1","右手中充满疯狂，左手中充满执念……来吧……我要从哪一个开始摧毁呢！？
-","msg_combine_MESSAGE__056_1","机翻辅助：
+"msg_combine_MESSAGE__056_1","右手是疯狂，左手是执念……
+好了……要先从哪个开始破坏呢！？","msg_combine_MESSAGE__056_1","机翻辅助：
 
 右手是疯狂，左手是执念……
 好了……要先从哪个开始破坏呢！？
@@ -2823,8 +2823,8 @@
 "msg_combine_MESSAGE__057_0","我是[颜色 02][占位A 02][颜色 01]。","msg_combine_MESSAGE__057_0","机翻辅助：
 
 我是[颜色 02][占位A 02][颜色 01]。"
-"msg_combine_MESSAGE__057_1","恶作剧之神的力量……？
-无关紧要，我会随心所欲地胡闹！！","msg_combine_MESSAGE__057_1","机翻辅助：
+"msg_combine_MESSAGE__057_1","这是捣蛋鬼的力量……？
+无所谓，就让我尽情地大闹一场吧！！","msg_combine_MESSAGE__057_1","机翻辅助：
 
 这是捣蛋鬼的力量……？
 无所谓，就让我尽情地大闹一场吧！！
@@ -2845,8 +2845,8 @@
 
 啊哈哈哈哈！我的名字是
 ！[颜色 02][占位A 02][颜色 01]"
-"msg_combine_MESSAGE__058_1","成为我的力量吗？
-呵呵……如果你大意了，我会把你打垮！","msg_combine_MESSAGE__058_1","机翻辅助：
+"msg_combine_MESSAGE__058_1","要我成为助力……？
+呵呵……你要是大意的话，我就从你开始破坏！","msg_combine_MESSAGE__058_1","机翻辅助：
 
 要我成为助力……？
 呵呵……你要是大意的话，我就从你开始破坏！
@@ -2867,8 +2867,8 @@
 
 啊哈哈哈哈！我的名字是
 ！[颜色 02][占位A 02][颜色 01]"
-"msg_combine_MESSAGE__059_1","成为恶作剧之神的力量吧，
-嘿……好吧……我会把所有的敌人都干掉！","msg_combine_MESSAGE__059_1","机翻辅助：
+"msg_combine_MESSAGE__059_1","成为捣蛋鬼的力量吗……
+很好……我会把敌人全部破坏掉的！","msg_combine_MESSAGE__059_1","机翻辅助：
 
 成为捣蛋鬼的力量吗……
 很好……我会把敌人全部破坏掉的！
@@ -2878,7 +2878,7 @@
 
 化作诡计明星的力量吧……
 好啊……我要把敌人全部打垮！"
-"cmb_cmm_quest02_0","那么接下来是……","cmb_cmm_quest02_0","机翻辅助：
+"cmb_cmm_quest02_0","那么接下来……","cmb_cmm_quest02_0","机翻辅助：
 
 那么接下来……"
 "cmb_cmm_quest02_1","拥有“[颜色 02]曼哈曼玛[颜色 01]”的“[颜色 02]马塔德罗[颜色 01]”……
@@ -2891,14 +2891,14 @@
 
 
 拿着“[颜色 02]马马[颜色 01]”的“[颜色 02]又是娃娃[颜色 01]”……如果是你的话会给我看的。"
-"cmb_cmm_quest02_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest02_2","机翻辅助：
+"cmb_cmm_quest02_2","我会期待着。","cmb_cmm_quest02_2","机翻辅助：
 
 我会期待着。
 
 敬请期待，恭候您的光临。
 
 我期待着您的到来。"
-"cmb_cmm_quest03_0","那么接下来是……","cmb_cmm_quest03_0","机翻辅助：
+"cmb_cmm_quest03_0","那么接下来……","cmb_cmm_quest03_0","机翻辅助：
 
 那么接下来……"
 "cmb_cmm_quest03_1","拥有“[颜色 02]暴走[颜色 01]”的“[颜色 02]咚[颜色 01]”……
@@ -2911,14 +2911,14 @@
 
 
 拿着“[颜色 02]胡闹[颜色 01]”的“[颜色 02]咚[颜色 01]”……你会给我看的。"
-"cmb_cmm_quest03_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest03_2","机翻辅助：
+"cmb_cmm_quest03_2","我会期待着。","cmb_cmm_quest03_2","机翻辅助：
 
 我会期待着。
 
 敬请期待，恭候您的光临。
 
 我期待着您的到来。"
-"cmb_cmm_quest04_0","那么接下来是……","cmb_cmm_quest04_0","机翻辅助：
+"cmb_cmm_quest04_0","那么接下来……","cmb_cmm_quest04_0","机翻辅助：
 
 那么接下来……"
 "cmb_cmm_quest04_1","拥有“[颜色 02]噗呼拉[颜色 01]”的“[颜色 02]猫将军[颜色 01]”……
@@ -2931,14 +2931,14 @@
 
 
 拿着“[颜色 02]布胡拉[颜色 01]”的“[颜色 02]猫肖根[颜色 01]”……你会给我看的。"
-"cmb_cmm_quest04_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest04_2","机翻辅助：
+"cmb_cmm_quest04_2","我会期待着。","cmb_cmm_quest04_2","机翻辅助：
 
 我会期待着。
 
 敬请期待，恭候您的光临。
 
 我期待着您的到来。"
-"cmb_cmm_quest05_0","那么接下来是……","cmb_cmm_quest05_0","机翻辅助：
+"cmb_cmm_quest05_0","那么接下来……","cmb_cmm_quest05_0","机翻辅助：
 
 那么接下来……"
 "cmb_cmm_quest05_1","拥有“[颜色 02]速度心得[颜色 01]”的“[颜色 02]加库弗洛斯特[颜色 01]”……
@@ -2951,14 +2951,14 @@
 
 
 “[颜色 02]敏捷的心得[颜色 01]”的“[颜色 02]jaacflost[颜色 01]”……你会给我看的。"
-"cmb_cmm_quest05_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest05_2","机翻辅助：
+"cmb_cmm_quest05_2","我会期待着。","cmb_cmm_quest05_2","机翻辅助：
 
 我会期待着。
 
 敬请期待，恭候您的光临。
 
 我期待着您的到来。"
-"cmb_cmm_quest06_0","那么接下来是……","cmb_cmm_quest06_0","机翻辅助：
+"cmb_cmm_quest06_0","那么接下来……","cmb_cmm_quest06_0","机翻辅助：
 
 那么接下来……"
 "cmb_cmm_quest06_1","拥有“[颜色 02]米吉多[颜色 01]”的“[颜色 02]八咫乌[颜色 01]”……
@@ -2971,14 +2971,14 @@
 
 
 拿着“[颜色 02]眼度[颜色 01]”的“[颜色 02]八玻璃[颜色 01]”……如果是你的话会给我看的。"
-"cmb_cmm_quest06_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest06_2","机翻辅助：
+"cmb_cmm_quest06_2","我会期待着。","cmb_cmm_quest06_2","机翻辅助：
 
 我会期待着。
 
 敬请期待，恭候您的光临。
 
 我期待着您的到来。"
-"cmb_cmm_quest07_0","那么接下来是……","cmb_cmm_quest07_0","机翻辅助：
+"cmb_cmm_quest07_0","那么接下来……","cmb_cmm_quest07_0","机翻辅助：
 
 那么接下来……"
 "cmb_cmm_quest07_1","拥有“[颜色 02]梅迪拉玛[颜色 01]”的“[颜色 02]八咫霞[颜色 01]”……
@@ -2991,14 +2991,14 @@
 
 
 拿着“[颜色 02]mediarama[颜色 01]”的“[颜色 02]八哥[颜色 01]”……如果是你的话会给我看的。"
-"cmb_cmm_quest07_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest07_2","机翻辅助：
+"cmb_cmm_quest07_2","我会期待着。","cmb_cmm_quest07_2","机翻辅助：
 
 我会期待着。
 
 敬请期待，恭候您的光临。
 
 我期待着您的到来。"
-"cmb_cmm_quest08_0","那么接下来是……","cmb_cmm_quest08_0","机翻辅助：
+"cmb_cmm_quest08_0","那么接下来……","cmb_cmm_quest08_0","机翻辅助：
 
 那么接下来……"
 "cmb_cmm_quest08_1","拥有“[颜色 02]特拉康[颜色 01]”的“[颜色 02]迦尼萨[颜色 01]”……
@@ -3011,14 +3011,14 @@
 
 
 拿着“[颜色 02]铁特拉汗[颜色 01]”的“[颜色 02]金星[颜色 01]”……如果是你的话会给我看的。"
-"cmb_cmm_quest08_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest08_2","机翻辅助：
+"cmb_cmm_quest08_2","我会期待着。","cmb_cmm_quest08_2","机翻辅助：
 
 我会期待着。
 
 敬请期待，恭候您的光临。
 
 我期待着您的到来。"
-"cmb_cmm_quest09_0","那么接下来是……","cmb_cmm_quest09_0","机翻辅助：
+"cmb_cmm_quest09_0","那么接下来……","cmb_cmm_quest09_0","机翻辅助：
 
 那么接下来……"
 "cmb_cmm_quest09_1","拥有“[颜色 02]专注[颜色 01]”的“[颜色 02]川猿[颜色 01]”……
@@ -3031,15 +3031,15 @@
 
 
 拿着“[颜色 02]concentrate[颜色 01]”的“[颜色 02]小号[颜色 01]”……如果是你的话会给我看的。"
-"cmb_cmm_quest09_2","期待您的光临，我们会为您准备好。","cmb_cmm_quest09_2","机翻辅助：
+"cmb_cmm_quest09_2","我会期待着。","cmb_cmm_quest09_2","机翻辅助：
 
 我会期待着。
 
 敬请期待，恭候您的光临。
 
 我期待着您的到来。"
-"cmb_cmm_quest10_0","这样下去，不需要再让我看到你的心了。
-我已经足够了解了……","cmb_cmm_quest10_0","机翻辅助：
+"cmb_cmm_quest10_0","你不用再让我看透你的心了。
+我已经充分了解你了……","cmb_cmm_quest10_0","机翻辅助：
 
 你不用再让我看透你的心了。
 我已经充分了解你了……
@@ -3049,27 +3049,27 @@
 
 不用再让我看到你的心了。
 因为已经知道了……"
-"cmb_cmm_quest10_1","谢谢。","cmb_cmm_quest10_1","机翻辅助：
+"cmb_cmm_quest10_1","……谢谢。","cmb_cmm_quest10_1","机翻辅助：
 
 ……谢谢。
 
 谢谢"
-"cmb_cmm_quest10_2","果然你就是我所想的那样的人…","cmb_cmm_quest10_2","机翻辅助：
+"cmb_cmm_quest10_2","你果然是我所想的那种人……","cmb_cmm_quest10_2","机翻辅助：
 
 你果然是我所想的那种人……
 
 果然你是我想的那样的人……
 
 果然你是我想象中的那样的人……"
-"cmb_cmm_quest10_3","时机到了，会给我答案的人。","cmb_cmm_quest10_3","机翻辅助：
+"cmb_cmm_quest10_3","是到了时候……就会给我答案的人……","cmb_cmm_quest10_3","机翻辅助：
 
 是到了时候……就会给我答案的人……
 
 时机一到……是能给我答案的人……
 
 时间到了的话……是能给我答案的人啊……"
-"cmb_cmm_quest10_4","呵呵……那个时候真让人期待呢……
-","cmb_cmm_quest10_4","机翻辅助：
+"cmb_cmm_quest10_4","呵呵……
+真期待那个时候……","cmb_cmm_quest10_4","机翻辅助：
 
 呵呵……
 真期待那个时候……

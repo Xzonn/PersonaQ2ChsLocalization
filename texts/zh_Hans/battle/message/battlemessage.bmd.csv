@@ -16,7 +16,7 @@
 出现了一群阴影！
 
 车流群出现了！"
-"BTLMSGID_AP_E_SUP_0","暗影袭来了！","BTLMSGID_AP_E_SUP_0","机翻辅助：
+"BTLMSGID_AP_E_SUP_0","暗影来袭！","BTLMSGID_AP_E_SUP_0","机翻辅助：
 
 暗影来袭！
 
@@ -37,7 +37,7 @@
 [占位A 01]先下手为强！
 
 [占位A 01]先发制人！"
-"BTLMSGID_AP_D_SUP_0","我方先发制人攻击！","BTLMSGID_AP_D_SUP_0","机翻辅助：
+"BTLMSGID_AP_D_SUP_0","我方先发制人！","BTLMSGID_AP_D_SUP_0","机翻辅助：
 
 我方先发制人！
 
@@ -49,19 +49,19 @@
 [占位A 01]已调用！
 
 [占位A 01]被叫出来了！"
-"BTLMSGID_ADDENEMY_FOE_0","新手参战了！","BTLMSGID_ADDENEMY_FOE_0","机翻辅助：
+"BTLMSGID_ADDENEMY_FOE_0","新敌人参战！","BTLMSGID_ADDENEMY_FOE_0","机翻辅助：
 
 新敌人参战！
 
 新手参战了！"
-"BLTMSGID_ADDENEMY_FOEDEA_0","黑影袭击了影子们！","BLTMSGID_ADDENEMY_FOEDEA_0","机翻辅助：
+"BLTMSGID_ADDENEMY_FOEDEA_0","黑影袭击暗影们！","BLTMSGID_ADDENEMY_FOEDEA_0","机翻辅助：
 
 黑影袭击暗影们！
 
 黑影袭击了车道他们！
 
 黑影袭击阴影！"
-"BLTMSGID_CMD_0","你要怎么办？","BLTMSGID_CMD_0","机翻辅助：
+"BLTMSGID_CMD_0","怎么办？","BLTMSGID_CMD_0","机翻辅助：
 
 怎么办？"
 "BLTMSGID_CMD_NO_0","[占位A 01]不能动！","BLTMSGID_CMD_NO_0","机翻辅助：
@@ -218,7 +218,7 @@
 [占位A 01]的武器放出光芒！！
 
 [占位A 01]的武器放出光！！"
-"BTLMSGID_TARGET_MANY_0","暗影的群体","BTLMSGID_TARGET_MANY_0","机翻辅助：
+"BTLMSGID_TARGET_MANY_0","暗影群","BTLMSGID_TARGET_MANY_0","机翻辅助：
 
 暗影群
 
@@ -425,14 +425,14 @@
 [占位A 01]没能逃掉！
 
 [占位A 01]不能逃跑！"
-"BTLMSGID_NO_ESCAPE_0","这场战斗无法逃避！！","BTLMSGID_NO_ESCAPE_0","机翻辅助：
+"BTLMSGID_NO_ESCAPE_0","无法逃离这场战斗！！","BTLMSGID_NO_ESCAPE_0","机翻辅助：
 
 无法逃离这场战斗！！
 
 无法从这场战斗中逃脱！！
 
 这场战斗是逃不掉的！！"
-"BTLMSGID_NOTSELECTESCAPE_0","无法逃跑！！","BTLMSGID_NOTSELECTESCAPE_0","机翻辅助：
+"BTLMSGID_NOTSELECTESCAPE_0","无法逃离！！","BTLMSGID_NOTSELECTESCAPE_0","机翻辅助：
 
 无法逃离！！
 
@@ -461,14 +461,14 @@
 [占位A 02]击败！
 
 [占位A 02]击破了！"
-"BTLMSGID_PARTYDEAD_E_D_0","击溃了影子群！","BTLMSGID_PARTYDEAD_E_D_0","机翻辅助：
+"BTLMSGID_PARTYDEAD_E_D_0","击败暗影群！","BTLMSGID_PARTYDEAD_E_D_0","机翻辅助：
 
 击败暗影群！
 
 击破了阴影群！
 
 击破了车道的群！"
-"BTLMSGID_PARTYDEAD_P_0","派对全军覆没了…","BTLMSGID_PARTYDEAD_P_0","机翻辅助：
+"BTLMSGID_PARTYDEAD_P_0","队伍全灭……","BTLMSGID_PARTYDEAD_P_0","机翻辅助：
 
 队伍全灭……
 
@@ -496,7 +496,7 @@
 [占位A 02]已经筋疲力尽了……
 
 [占位A 02]筋疲力尽了……"
-"BTLMSGID_TARGET_ALL_0","整体","BTLMSGID_TARGET_ALL_0","机翻辅助：
+"BTLMSGID_TARGET_ALL_0","全体","BTLMSGID_TARGET_ALL_0","机翻辅助：
 
 全体
 
@@ -506,7 +506,7 @@
 [占位A 02]断气了……
 
 [占位A 02]气绝了……"
-"BTLMSGID_SUMMON_MISS_0","然而，伙伴们没有出现！","BTLMSGID_SUMMON_MISS_0","机翻辅助：
+"BTLMSGID_SUMMON_MISS_0","可是，同伴没有出现！","BTLMSGID_SUMMON_MISS_0","机翻辅助：
 
 可是，同伴没有出现！
 
@@ -531,7 +531,7 @@
 "BTLMSGID_MOVE_0","[占位A 01]移动了！","BTLMSGID_MOVE_0","机翻辅助：
 
 [占位A 01]移动了！"
-"BTLMSGID_RANGEOUT_0","但是，攻击没有命中！","BTLMSGID_RANGEOUT_0","机翻辅助：
+"BTLMSGID_RANGEOUT_0","可是，攻击打不到！","BTLMSGID_RANGEOUT_0","机翻辅助：
 
 可是，攻击打不到！
 
@@ -578,7 +578,7 @@
 [占位A 01]反应，火焰卷起！
 
 [占位A 01]反应了火焰卷起来！"
-"BTLMSGID_URI_MESSAGE_0","伤害被无效化了！","BTLMSGID_URI_MESSAGE_0","机翻辅助：
+"BTLMSGID_URI_MESSAGE_0","变得可以抵销伤害！","BTLMSGID_URI_MESSAGE_0","机翻辅助：
 
 变得可以抵销伤害！
 
@@ -638,12 +638,12 @@
 但是，[占位A 04]没有发动！
 
 但是，没有发动[占位A 04]！"
-"BTLMSGID_CHANGE_ACTOR_0","谁要搬家？","BTLMSGID_CHANGE_ACTOR_0","机翻辅助：
+"BTLMSGID_CHANGE_ACTOR_0","要移动谁？","BTLMSGID_CHANGE_ACTOR_0","机翻辅助：
 
 要移动谁？
 
 移动谁？"
-"BTLMSGID_CHANGE_TARGET_0","你要去哪里？","BTLMSGID_CHANGE_TARGET_0","机翻辅助：
+"BTLMSGID_CHANGE_TARGET_0","要移动到哪里？","BTLMSGID_CHANGE_TARGET_0","机翻辅助：
 
 要移动到哪里？
 
@@ -699,7 +699,7 @@
 野兽没有出现！
 
 没有出现野兽！"
-"BTLMSGID_MISS_H_0","但是，没有效果！","BTLMSGID_MISS_H_0","机翻辅助：
+"BTLMSGID_MISS_H_0","可是，没有效果！","BTLMSGID_MISS_H_0","机翻辅助：
 
 可是，没有效果！
 
@@ -724,33 +724,33 @@
 [占位A 01]合体失败！
 
 [占位A 01]合体失败了！"
-"BTLMSGID_TARGET_5BOSS_AR_0","引导者的双臂","BTLMSGID_TARGET_5BOSS_AR_0","机翻辅助：
+"BTLMSGID_TARGET_5BOSS_AR_0","引导者双手","BTLMSGID_TARGET_5BOSS_AR_0","机翻辅助：
 
 引导者双手
 
 引导者的双臂
 
 引路人的双臂"
-"BTLMSGID_ACT_GUARD_0","举起盾牌！","BTLMSGID_ACT_GUARD_0","机翻辅助：
+"BTLMSGID_ACT_GUARD_0","举盾！","BTLMSGID_ACT_GUARD_0","机翻辅助：
 
 举盾！
 
 架起盾牌了！
 
 准备好盾牌！"
-"BTLMSGID_ACT_CHARGE_0","为了下一次攻击积蓄力量！","BTLMSGID_ACT_CHARGE_0","机翻辅助：
+"BTLMSGID_ACT_CHARGE_0","为了下一波攻击而蓄积力量！","BTLMSGID_ACT_CHARGE_0","机翻辅助：
 
 为了下一波攻击而蓄积力量！
 
 为了下一次的攻击积蓄了力量！
 
 为下一次攻击积蓄力量！"
-"BTLMSGID_ACT_CHASE_0","准备好追加攻击的机会！","BTLMSGID_ACT_CHASE_0","机翻辅助：
+"BTLMSGID_ACT_CHASE_0","准备追加攻击的机会！","BTLMSGID_ACT_CHASE_0","机翻辅助：
 
 准备追加攻击的机会！
 
 准备好了追加攻击的机会！"
-"BTLMSGID_ACT_DOLL_0","准备好追加攻击的机会！","BTLMSGID_ACT_DOLL_0","机翻辅助：
+"BTLMSGID_ACT_DOLL_0","准备追加攻击的机会！","BTLMSGID_ACT_DOLL_0","机翻辅助：
 
 准备追加攻击的机会！
 
@@ -996,21 +996,21 @@
 [占位A 02]的最大HP上升了！
 
 [占位A 02]的最大生命值上升了！"
-"BTLMSGID_REF_DEV_GUARD_0","分割防护消息","BTLMSGID_REF_DEV_GUARD_0","机翻辅助：
+"BTLMSGID_REF_DEV_GUARD_0","Divide Guard Message","BTLMSGID_REF_DEV_GUARD_0","机翻辅助：
 
 Divide Guard Message
 
 分频保护信息
 
 分歧保护信息"
-"BTLMSGID_REF_OVERGUARD_0","超过防护消息","BTLMSGID_REF_OVERGUARD_0","机翻辅助：
+"BTLMSGID_REF_OVERGUARD_0","超护盾信息","BTLMSGID_REF_OVERGUARD_0","机翻辅助：
 
 超护盾信息
 
 保护消息
 
 过保护消息"
-"BTLMSGID_TRNS_WAIT_0","请稍等一下。","BTLMSGID_TRNS_WAIT_0","机翻辅助：
+"BTLMSGID_TRNS_WAIT_0","请稍候。","BTLMSGID_TRNS_WAIT_0","机翻辅助：
 
 请稍候。
 
@@ -1024,8 +1024,8 @@ Divide Guard Message
 [占位A 01]华丽地躲开了！
 
 [占位A 01]华丽的交换了！"
-"BTLMSGID_TRNS_CMNDWAIT_0","其他玩家正在输入。
-请稍等一下。","BTLMSGID_TRNS_CMNDWAIT_0","机翻辅助：
+"BTLMSGID_TRNS_CMNDWAIT_0","其他玩家正在输入指令。
+请稍候。","BTLMSGID_TRNS_CMNDWAIT_0","机翻辅助：
 
 其他玩家正在输入指令。
 请稍候。
@@ -1093,7 +1093,7 @@ Divide Guard Message
 [占位A 01]和的耐性提升！[占位A 02][占位A 03]
 
 [占位A 01][占位A 02]、[占位A 03]，的耐性上升了！"
-"BTLMSGID_ATTRUP_ALL_0","所有的抗性都提升了！","BTLMSGID_ATTRUP_ALL_0","机翻辅助：
+"BTLMSGID_ATTRUP_ALL_0","所有耐性提升！","BTLMSGID_ATTRUP_ALL_0","机翻辅助：
 
 所有耐性提升！
 
@@ -1219,8 +1219,8 @@ Divide Guard Message
 "BTLMSGID_TARGET_6BOSS_AR_0","神树的触手","BTLMSGID_TARGET_6BOSS_AR_0","机翻辅助：
 
 神树的触手"
-"BTLMSGID_TRANS_ERROR_END_0","通信发生错误！
-请稍等一下。","BTLMSGID_TRANS_ERROR_END_0","机翻辅助：
+"BTLMSGID_TRANS_ERROR_END_0","发生通讯错误！
+请稍候。","BTLMSGID_TRANS_ERROR_END_0","机翻辅助：
 
 发生通讯错误！
 请稍候。
@@ -1295,21 +1295,21 @@ Divide Guard Message
 [占位A 01]不能动！
 
 [占位A 01]不能动弹！"
-"BTLMSGID_AP_5LASTBOSS_0","乐园的引导者出现了！","BTLMSGID_AP_5LASTBOSS_0","机翻辅助：
+"BTLMSGID_AP_5LASTBOSS_0","通往乐园的指引者出现！","BTLMSGID_AP_5LASTBOSS_0","机翻辅助：
 
 通往乐园的指引者出现！
 
 乐园的引导者出现了！
 
 通往乐园的向导出现了！"
-"BTLMSGID_TARGET_5LASTBOS_0","乐园的向导","BTLMSGID_TARGET_5LASTBOS_0","机翻辅助：
+"BTLMSGID_TARGET_5LASTBOS_0","通往乐园的指引者","BTLMSGID_TARGET_5LASTBOS_0","机翻辅助：
 
 通往乐园的指引者
 
 通往乐园的引导者
 
 通往乐园的向导"
-"BTLMSGID_TARGET_6LASTBOS_0","扭曲的丰饶之神树","BTLMSGID_TARGET_6LASTBOS_0","机翻辅助：
+"BTLMSGID_TARGET_6LASTBOS_0","扭曲的丰饶神树","BTLMSGID_TARGET_6LASTBOS_0","机翻辅助：
 
 扭曲的丰饶神树
 
@@ -1415,21 +1415,21 @@ Divide Guard Message
 全体的[占位A 03]抗性上升！
 
 全体的[占位A 03]耐性上升了！"
-"BTLMSGID_KAITAISHINSHO_0","掉落率上升了！","BTLMSGID_KAITAISHINSHO_0","机翻辅助：
+"BTLMSGID_KAITAISHINSHO_0","掉宝率上升！","BTLMSGID_KAITAISHINSHO_0","机翻辅助：
 
 掉宝率上升！
 
 下降率上升了！
 
 辍学率上升了！"
-"BTLMSGID_E_SHOMO_0","下一个行动的SP消耗翻倍！","BTLMSGID_E_SHOMO_0","机翻辅助：
+"BTLMSGID_E_SHOMO_0","下一次行动的SP消耗加倍！","BTLMSGID_E_SHOMO_0","机翻辅助：
 
 下一次行动的SP消耗加倍！
 
 下一个行动的SP消费会加倍！
 
 下一个行动的SP消费翻倍！"
-"BTLMSGID_E_KYOMU_0","爆发槽减少了！","BTLMSGID_E_KYOMU_0","机翻辅助：
+"BTLMSGID_E_KYOMU_0","爆发量表减少！","BTLMSGID_E_KYOMU_0","机翻辅助：
 
 爆发量表减少！
 
@@ -1455,7 +1455,7 @@ Divide Guard Message
 [占位A 01]的眼睛闭上！
 
 [占位A 01]眼睛闭上了！"
-"BTLMSGID_LBS_MES_00_0","咬破外皮，极限生命绽放","BTLMSGID_LBS_MES_00_0","机翻辅助：
+"BTLMSGID_LBS_MES_00_0","咬破皮肤，穷极的生命绽放","BTLMSGID_LBS_MES_00_0","机翻辅助：
 
 咬破皮肤，穷极的生命绽放
 
@@ -1469,14 +1469,14 @@ Divide Guard Message
 [占位A 02]因为SP不足不能使用技能！
 
 [占位A 02]SP不足不能使用技能！"
-"BTLMSGID_FRONT_DEAD_0","前排和后排位置互换了！","BTLMSGID_FRONT_DEAD_0","机翻辅助：
+"BTLMSGID_FRONT_DEAD_0","前排与后排交换！","BTLMSGID_FRONT_DEAD_0","机翻辅助：
 
 前排与后排交换！
 
 前排和后排换了！
 
 前排和后排互换了！"
-"BTLMSGID_ES_KEKKAI_0","派对的消耗SP翻倍了！","BTLMSGID_ES_KEKKAI_0","机翻辅助：
+"BTLMSGID_ES_KEKKAI_0","队伍的SP消耗加倍！","BTLMSGID_ES_KEKKAI_0","机翻辅助：
 
 队伍的SP消耗加倍！
 
@@ -1518,12 +1518,12 @@ Divide Guard Message
 [占位A 01]被积蓄了的力量暴走！
 
 [占位A 01]中积蓄的力量暴走！"
-"BTLMSGID_ACT_LBS_CHANGE_0","难以形容的神灵苏醒了！","BTLMSGID_ACT_LBS_CHANGE_0","机翻辅助：
+"BTLMSGID_ACT_LBS_CHANGE_0","难以名状之神觉醒！","BTLMSGID_ACT_LBS_CHANGE_0","机翻辅助：
 
 难以名状之神觉醒！
 
 难以名状的神觉醒了！"
-"BTLMSGID_UROBORO_SHIELD_0","全体的盟友被一道光芒包围，挡住了敌人的攻击！","BTLMSGID_UROBORO_SHIELD_0","机翻辅助：
+"BTLMSGID_UROBORO_SHIELD_0","全体友军被阻挡敌人攻击的光芒包围！","BTLMSGID_UROBORO_SHIELD_0","机翻辅助：
 
 全体友军被阻挡敌人攻击的光芒包围！
 
@@ -1537,12 +1537,12 @@ Divide Guard Message
 [占位A 01]的拳头发出耀眼的光芒！！
 
 [占位A 01]的拳头放出耀眼的光！！"
-"BTLMSGID_PARTYDEAD_E_BR_0","击败了深王和奥兰匹亚！","BTLMSGID_PARTYDEAD_E_BR_0","机翻辅助：
+"BTLMSGID_PARTYDEAD_E_BR_0","击破深王与奥林比亚！","BTLMSGID_PARTYDEAD_E_BR_0","机翻辅助：
 
 击破深王与奥林比亚！
 
 击破了深王和奥兰皮亚！"
-"BTLMSGID_PARTYDEAD_E_GK_0","击败了守门人！","BTLMSGID_PARTYDEAD_E_GK_0","机翻辅助：
+"BTLMSGID_PARTYDEAD_E_GK_0","击破守门人！","BTLMSGID_PARTYDEAD_E_GK_0","机翻辅助：
 
 击破守门人！
 
@@ -1570,24 +1570,24 @@ Divide Guard Message
 [占位A 01]他们的队伍变了！
 
 [占位A 01]我们的队伍变了！"
-"BTLMSGID_E_MOVE_A_0","影子们的队列变了！","BTLMSGID_E_MOVE_A_0","机翻辅助：
+"BTLMSGID_E_MOVE_A_0","改变队列！","BTLMSGID_E_MOVE_A_0","机翻辅助：
 
 改变队列！
 
 阴影们的队伍变了！
 
 车道们的队伍变了！"
-"BTLMSGID_BOOT_V_0","贯通效果发动！","BTLMSGID_BOOT_V_0","机翻辅助：
+"BTLMSGID_BOOT_V_0","发动贯通效果！","BTLMSGID_BOOT_V_0","机翻辅助：
 
 发动贯通效果！
 
 贯通效果发动！"
-"BTLMSGID_BOOT_WIDE_0","扩散效果发动！","BTLMSGID_BOOT_WIDE_0","机翻辅助：
+"BTLMSGID_BOOT_WIDE_0","发动扩散效果！","BTLMSGID_BOOT_WIDE_0","机翻辅助：
 
 发动扩散效果！
 
 扩散效果发动！"
-"BTLMSGID_RARE_ENCOUNT_D_0","稀有个体出现了！","BTLMSGID_RARE_ENCOUNT_D_0","机翻辅助：
+"BTLMSGID_RARE_ENCOUNT_D_0","有稀有个体！","BTLMSGID_RARE_ENCOUNT_D_0","机翻辅助：
 
 有稀有个体！
 
@@ -1604,7 +1604,7 @@ Divide Guard Message
 [占位A 01]开始积蓄力量！
 
 [占位A 01]开始蓄力了！"
-"BTLMSGID_ST_BODYCHANGE_0","换！","BTLMSGID_ST_BODYCHANGE_0","机翻辅助：
+"BTLMSGID_ST_BODYCHANGE_0","是时候改变了！","BTLMSGID_ST_BODYCHANGE_0","机翻辅助：
 
 是时候改变了！
 
@@ -1633,7 +1633,7 @@ Divide Guard Message
 [占位A 01]咬紧牙关！
 
 [占位A 01]吃了个够！"
-"BTLMSGID_TPCUT_0","SP切断启动！","BTLMSGID_TPCUT_0","机翻辅助：
+"BTLMSGID_TPCUT_0","发动SP削减！","BTLMSGID_TPCUT_0","机翻辅助：
 
 发动SP削减！
 
@@ -1704,7 +1704,7 @@ SP切断发动！"
 [占位A 02]只是穿了！
 
 [占位A 02]白掉了！"
-"BTLMSGID_FROG_JUMP_0","爆发槽下降了！","BTLMSGID_FROG_JUMP_0","机翻辅助：
+"BTLMSGID_FROG_JUMP_0","爆发量表下降！","BTLMSGID_FROG_JUMP_0","机翻辅助：
 
 爆发量表下降！
 
@@ -1940,7 +1940,7 @@ SP切断发动！"
 [占位A 02]列的消费SP减少！
 
 [占位A 02]的队列的消耗SP被减轻！"
-"BTLMSGID_REF_LINK_0","连击技能的额外攻击次数增加了！","BTLMSGID_REF_LINK_0","机翻辅助：
+"BTLMSGID_REF_LINK_0","联合技能的追加攻击次数增加！","BTLMSGID_REF_LINK_0","机翻辅助：
 
 联合技能的追加攻击次数增加！
 
@@ -2001,14 +2001,14 @@ SP切断发动！"
 敌方的[占位A 02]效果结束！
 
 敌人的[占位A 02]的效果断了！"
-"BTLMSGID_KAIMA_0","封印解除，状态异常的耐性已恢复！","BTLMSGID_KAIMA_0","机翻辅助：
+"BTLMSGID_KAIMA_0","封印、异常状态抗性恢复原状！","BTLMSGID_KAIMA_0","机翻辅助：
 
 封印、异常状态抗性恢复原状！
 
 封，状态异常的耐性恢复了原来！
 
 封，状态异常的耐性回到了原来！"
-"BTLMSGID_HOUJIN_CANCEL_M_0","但是，没有布置魔法阵！","BTLMSGID_HOUJIN_CANCEL_M_0","机翻辅助：
+"BTLMSGID_HOUJIN_CANCEL_M_0","但是，没有张开魔法阵！","BTLMSGID_HOUJIN_CANCEL_M_0","机翻辅助：
 
 但是，没有张开魔法阵！
 
@@ -2020,12 +2020,12 @@ SP切断发动！"
 敌方的[占位A 02]效果结束！
 
 敌人的[占位A 02]的效果断了！"
-"BTLMSGID_COUNTER_0","死亡计数器发动！","BTLMSGID_COUNTER_0","机翻辅助：
+"BTLMSGID_COUNTER_0","死亡倒数发动！","BTLMSGID_COUNTER_0","机翻辅助：
 
 死亡倒数发动！
 
 死亡反击发动！"
-"BTLMSGID_CHASE_0","死亡追击者发动！","BTLMSGID_CHASE_0","机翻辅助：
+"BTLMSGID_CHASE_0","死亡追逐发动！","BTLMSGID_CHASE_0","机翻辅助：
 
 死亡追逐发动！
 
@@ -2151,7 +2151,7 @@ SP切断发动！"
 [占位A 01]显得从容
 
 [占位A 01]显得很从容"
-"BTLMSGID_ROBOT_0","警告：请勿随意发布。","BTLMSGID_ROBOT_0","机翻辅助：
+"BTLMSGID_ROBOT_0","警告：与朋友　团结　一致","BTLMSGID_ROBOT_0","机翻辅助：
 
 警告：与朋友　团结　一致
 
@@ -2198,7 +2198,7 @@ SP切断发动！"
 [占位A 01]是害怕的
 
 [占位A 01]吓了一跳"
-"BTLMSGID_TORIMAKI_0","草食恐龙跳了出来！","BTLMSGID_TORIMAKI_0","机翻辅助：
+"BTLMSGID_TORIMAKI_0","草食恐龙冲出来了！","BTLMSGID_TORIMAKI_0","机翻辅助：
 
 草食恐龙冲出来了！
 
@@ -2242,34 +2242,34 @@ SP切断发动！"
 疾病的左眼
 
 患有疾病的左眼"
-"BTLMSGID_ENLIL_RETAKE_0","恩利正在聚集力量……！","BTLMSGID_ENLIL_RETAKE_0","机翻辅助：
+"BTLMSGID_ENLIL_RETAKE_0","恩利尔正在汇聚力量……！","BTLMSGID_ENLIL_RETAKE_0","机翻辅助：
 
 恩利尔正在汇聚力量……！
 
 恩里尔正在聚集力量……！
 
 恩利尔正在聚集力量……！"
-"BTLMSGID_ENLIL_HIKARI_0","什么也没发生……","BTLMSGID_ENLIL_HIKARI_0","机翻辅助：
+"BTLMSGID_ENLIL_HIKARI_0","什么都没发生……","BTLMSGID_ENLIL_HIKARI_0","机翻辅助：
 
 什么都没发生……"
-"BTLMSGID_MUTEKI_KAMO_WAR_0","蜘蛛侠正在大声笑。","BTLMSGID_MUTEKI_KAMO_WAR_0","机翻辅助：
+"BTLMSGID_MUTEKI_KAMO_WAR_0","鸭志田超人高声大笑","BTLMSGID_MUTEKI_KAMO_WAR_0","机翻辅助：
 
 鸭志田超人高声大笑
 
 鸭志田超人高声地笑着
 
 鸭志田超人放声大笑"
-"BTLMSGID_MOTHER_COM_0","错误！错误！","BTLMSGID_MOTHER_COM_0","机翻辅助：
+"BTLMSGID_MOTHER_COM_0","ERROR！ERROR！","BTLMSGID_MOTHER_COM_0","机翻辅助：
 
 ERROR！ERROR！
 
 ERROR ！ERROR ！"
-"BTLMSGID_MOTHER_COM_CURE_0","自动修复功能 开启","BTLMSGID_MOTHER_COM_CURE_0","机翻辅助：
+"BTLMSGID_MOTHER_COM_CURE_0","自动修复功能　ON","BTLMSGID_MOTHER_COM_CURE_0","机翻辅助：
 
 自动修复功能　ON
 
 自动修复功能ON"
-"BTLMSGID_MCOM_ERROR_0","错误！功能停止中！","BTLMSGID_MCOM_ERROR_0","机翻辅助：
+"BTLMSGID_MCOM_ERROR_0","ERROR！功能停止中！","BTLMSGID_MCOM_ERROR_0","机翻辅助：
 
 ERROR！功能停止中！
 
@@ -2295,19 +2295,19 @@ ERROR ！功能停止中！"
 [占位A 01]是集中意识！
 
 [占位A 01]全神贯注！"
-"BTLMSGID_PASTOR_OATH_ATT_0","我发誓不打我。","BTLMSGID_PASTOR_OATH_ATT_0","机翻辅助：
+"BTLMSGID_PASTOR_OATH_ATT_0","发誓不打我！","BTLMSGID_PASTOR_OATH_ATT_0","机翻辅助：
 
 发誓不打我！
 
 我发誓不打我！"
-"BTLMSGID_PASTOR_OATH_SKI_0","不使用技能誓不为人！","BTLMSGID_PASTOR_OATH_SKI_0","机翻辅助：
+"BTLMSGID_PASTOR_OATH_SKI_0","发誓不使用招式！","BTLMSGID_PASTOR_OATH_SKI_0","机翻辅助：
 
 发誓不使用招式！
 
 发誓不使用技能的萨伊！
 
 发誓不使用技能！"
-"BTLMSGID_PASTOR_OATH_LEA_0","不要放弃誓言！","BTLMSGID_PASTOR_OATH_LEA_0","机翻辅助：
+"BTLMSGID_PASTOR_OATH_LEA_0","发誓不打我！","BTLMSGID_PASTOR_OATH_LEA_0","机翻辅助：
 
 发誓不打我！
 
@@ -2319,15 +2319,15 @@ ERROR ！功能停止中！"
 发誓不使用道具！
 
 发誓不使用道具的萨伊！"
-"BTLMSGID_PASTOR_OATH_TWO_0","无论如何，我发誓做各种各样的事情！","BTLMSGID_PASTOR_OATH_TWO_0","机翻辅助：
+"BTLMSGID_PASTOR_OATH_TWO_0","总之发誓不使用各种东西！","BTLMSGID_PASTOR_OATH_TWO_0","机翻辅助：
 
 总之发誓不使用各种东西！
 
 总之各种各样的誓言！
 
 总之要许下各种誓言！"
-"BTLMSGID_PASTOR_JUDGEMEN_0","我会引导你，小羔羊！
-受到天罚，死亡吧……","BTLMSGID_PASTOR_JUDGEMEN_0","机翻辅助：
+"BTLMSGID_PASTOR_JUDGEMEN_0","我会引导你·羔羊！
+天罚Dead　now…….","BTLMSGID_PASTOR_JUDGEMEN_0","机翻辅助：
 
 我会引导你·羔羊！
 天罚Dead　now…….
@@ -2348,132 +2348,132 @@ ERROR ！功能停止中！"
 [占位A 01]的魔法好像失败了…….
 
 [占位A 01]好像魔法失败了……"
-"BTLMSGID_ADD_ATK_P4HERO_0","我要刺你了！","BTLMSGID_ADD_ATK_P4HERO_0","机翻辅助：
+"BTLMSGID_ADD_ATK_P4HERO_0","要给他最后一击了！","BTLMSGID_ADD_ATK_P4HERO_0","机翻辅助：
 
 要给他最后一击了！
 
 我要杀了你！"
-"BTLMSGID_ADD_ATK_P3HERO_0","让我去！","BTLMSGID_ADD_ATK_P3HERO_0","机翻辅助：
+"BTLMSGID_ADD_ATK_P3HERO_0","让我上！","BTLMSGID_ADD_ATK_P3HERO_0","机翻辅助：
 
 让我上！
 
 让我走吧！
 
 让我去吧！"
-"BTLMSGID_ADD_ATK_YOUSUKE_0","放心交给我吧！","BTLMSGID_ADD_ATK_YOUSUKE_0","机翻辅助：
+"BTLMSGID_ADD_ATK_YOUSUKE_0","交给我吧！","BTLMSGID_ADD_ATK_YOUSUKE_0","机翻辅助：
 
 交给我吧！"
-"BTLMSGID_ADD_ATK_CHIE_0","好的，再来一次！","BTLMSGID_ADD_ATK_CHIE_0","机翻辅助：
+"BTLMSGID_ADD_ATK_CHIE_0","好，再来一发！","BTLMSGID_ADD_ATK_CHIE_0","机翻辅助：
 
 好，再来一发！
 
 好了，也来了！
 
 好，也来一趟！"
-"BTLMSGID_ADD_ATK_YUKIKO_0","让我来收尾！","BTLMSGID_ADD_ATK_YUKIKO_0","机翻辅助：
+"BTLMSGID_ADD_ATK_YUKIKO_0","最后一击交给我！","BTLMSGID_ADD_ATK_YUKIKO_0","机翻辅助：
 
 最后一击交给我！
 
 就交给我吧！
 
 留下就交给我吧！"
-"BTLMSGID_ADD_ATK_KANJI_0","还远远不够！","BTLMSGID_ADD_ATK_KANJI_0","机翻辅助：
+"BTLMSGID_ADD_ATK_KANJI_0","还没完呢！","BTLMSGID_ADD_ATK_KANJI_0","机翻辅助：
 
 还没完呢！
 
 还没呢！
 
 还差得远呢！"
-"BTLMSGID_ADD_ATK_NAOTO_0","这一击就解决了！","BTLMSGID_ADD_ATK_NAOTO_0","机翻辅助：
+"BTLMSGID_ADD_ATK_NAOTO_0","这一击就解决他！","BTLMSGID_ADD_ATK_NAOTO_0","机翻辅助：
 
 这一击就解决他！
 
 这一击就把你干掉！
 
 这一击就结束了！"
-"BTLMSGID_ADD_ATK_KUMA_0","撞得粉碎它！","BTLMSGID_ADD_ATK_KUMA_0","机翻辅助：
+"BTLMSGID_ADD_ATK_KUMA_0","打碎一切的小熊！","BTLMSGID_ADD_ATK_KUMA_0","机翻辅助：
 
 打碎一切的小熊！
 
 被打碎的小熊！
 
 碰碎小熊！"
-"BTLMSGID_ADD_ATK_YUKARI_0","停下来！","BTLMSGID_ADD_ATK_YUKARI_0","机翻辅助：
+"BTLMSGID_ADD_ATK_YUKARI_0","最后一击！","BTLMSGID_ADD_ATK_YUKARI_0","机翻辅助：
 
 最后一击！
 
 致命一击！
 
 停止！"
-"BTLMSGID_ADD_ATK_JUNPEI_0","致命一击！","BTLMSGID_ADD_ATK_JUNPEI_0","机翻辅助：
+"BTLMSGID_ADD_ATK_JUNPEI_0","最后一击！","BTLMSGID_ADD_ATK_JUNPEI_0","机翻辅助：
 
 最后一击！
 
 托德梅的阿塔克！
 
 最后的阿塔克！"
-"BTLMSGID_ADD_ATK_SANADA_0","这样就结束了！","BTLMSGID_ADD_ATK_SANADA_0","机翻辅助：
+"BTLMSGID_ADD_ATK_SANADA_0","用这一招结束！","BTLMSGID_ADD_ATK_SANADA_0","机翻辅助：
 
 用这一招结束！
 
 到此结束！"
-"BTLMSGID_ADD_ATK_MITURU_0","还有很长的路要走！","BTLMSGID_ADD_ATK_MITURU_0","机翻辅助：
+"BTLMSGID_ADD_ATK_MITURU_0","还没完呢！","BTLMSGID_ADD_ATK_MITURU_0","机翻辅助：
 
 还没完呢！
 
 还差得远呢！
 
 现在才刚刚开始！"
-"BTLMSGID_ADD_ATK_AEGIS_0","请允许追击！","BTLMSGID_ADD_ATK_AEGIS_0","机翻辅助：
+"BTLMSGID_ADD_ATK_AEGIS_0","请求追击许可！","BTLMSGID_ADD_ATK_AEGIS_0","机翻辅助：
 
 请求追击许可！
 
 追击许可！
 
 许可追击！"
-"BTLMSGID_ADD_ATK_AMADA_0","我要走了！","BTLMSGID_ADD_ATK_AMADA_0","机翻辅助：
+"BTLMSGID_ADD_ATK_AMADA_0","要上了！","BTLMSGID_ADD_ATK_AMADA_0","机翻辅助：
 
 要上了！
 
 我去！
 
 去！"
-"BTLMSGID_ADD_ATK_KOROMAR_0","汪！哦！","BTLMSGID_ADD_ATK_KOROMAR_0","机翻辅助：
+"BTLMSGID_ADD_ATK_KOROMAR_0","汪！汪呜！","BTLMSGID_ADD_ATK_KOROMAR_0","机翻辅助：
 
 汪！汪呜！
 
 汪！哇！"
-"BTLMSGID_ADD_ATK_ARAGAKI_0","哦，还没结束呢！","BTLMSGID_ADD_ATK_ARAGAKI_0","机翻辅助：
+"BTLMSGID_ADD_ATK_ARAGAKI_0","哎呀，还没完！","BTLMSGID_ADD_ATK_ARAGAKI_0","机翻辅助：
 
 哎呀，还没完！
 
 哎呀，还没有呢！
 
 哦，还没呢！"
-"BTLMSGID_ADD_ATK_P3_HERO_0","让我去！","BTLMSGID_ADD_ATK_P3_HERO_0","机翻辅助：
+"BTLMSGID_ADD_ATK_P3_HERO_0","让我上！","BTLMSGID_ADD_ATK_P3_HERO_0","机翻辅助：
 
 让我上！
 
 让我去吧！
 
 让我去！"
-"BTLMSGID_ADD_ATK_P5HERO_0","我去！","BTLMSGID_ADD_ATK_P5HERO_0","机翻辅助：
+"BTLMSGID_ADD_ATK_P5HERO_0","我上！","BTLMSGID_ADD_ATK_P5HERO_0","机翻辅助：
 
 我上！
 
 我去吧！"
-"BTLMSGID_ADD_ATK_RYUJI_0","让我来吧！","BTLMSGID_ADD_ATK_RYUJI_0","机翻辅助：
+"BTLMSGID_ADD_ATK_RYUJI_0","交给我！","BTLMSGID_ADD_ATK_RYUJI_0","机翻辅助：
 
 交给我！
 
 交给我吧！"
-"BTLMSGID_ADD_ATK_ANN_0","让我来做！","BTLMSGID_ADD_ATK_ANN_0","机翻辅助：
+"BTLMSGID_ADD_ATK_ANN_0","让我来！","BTLMSGID_ADD_ATK_ANN_0","机翻辅助：
 
 让我来！
 
 让我来做！"
-"BTLMSGID_ADD_ATK_MONA_0","这里可以让我说吗？
-","BTLMSGID_ADD_ATK_MONA_0","机翻辅助：
+"BTLMSGID_ADD_ATK_MONA_0","这里就交给吾辈
+可以吧？","BTLMSGID_ADD_ATK_MONA_0","机翻辅助：
 
 这里就交给吾辈
 可以吧？
@@ -2482,36 +2482,36 @@ ERROR ！功能停止中！"
 可以吧？
 
 这里可以说是吾辈吧？"
-"BTLMSGID_ADD_ATK_YUSUKE_0","狐狸，快出来！","BTLMSGID_ADD_ATK_YUSUKE_0","机翻辅助：
+"BTLMSGID_ADD_ATK_YUSUKE_0","FOX，上前！","BTLMSGID_ADD_ATK_YUSUKE_0","机翻辅助：
 
 FOX，上前！
 
 FOX、向前走！
 
 FOX，我要站出来！"
-"BTLMSGID_ADD_ATK_MAKOTO_0","现在可以打我吗？","BTLMSGID_ADD_ATK_MAKOTO_0","机翻辅助：
+"BTLMSGID_ADD_ATK_MAKOTO_0","现在可以揍他了！？","BTLMSGID_ADD_ATK_MAKOTO_0","机翻辅助：
 
 现在可以揍他了！？
 
 现在的话可以打！？
 
 现在还能打！？"
-"BTLMSGID_ADD_ATK_HARU_0","诺瓦尔，你能去吗？","BTLMSGID_ADD_ATK_HARU_0","机翻辅助：
+"BTLMSGID_ADD_ATK_HARU_0","NOIR，可以了哦？","BTLMSGID_ADD_ATK_HARU_0","机翻辅助：
 
 NOIR，可以了哦？
 
 NOIR、能去吗？
 
 NOIR，能去吗？"
-"BTLMSGID_ADD_ATK_AKECI_0","我随时都可以去吗？","BTLMSGID_ADD_ATK_AKECI_0","机翻辅助：
+"BTLMSGID_ADD_ATK_AKECI_0","我随时都可以上哦？","BTLMSGID_ADD_ATK_AKECI_0","机翻辅助：
 
 我随时都可以上哦？
 
 我随时都能去。
 
 我什么时候都能去？"
-"BTLMSGID_ALL_ATK_P4HERO_0","现在就是时候了！
-让我们一起加把劲！","BTLMSGID_ALL_ATK_P4HERO_0","机翻辅助：
+"BTLMSGID_ALL_ATK_P4HERO_0","就是现在！
+大家一鼓作气上吧！","BTLMSGID_ALL_ATK_P4HERO_0","机翻辅助：
 
 就是现在！
 大家一鼓作气上吧！
@@ -2521,8 +2521,8 @@ NOIR，能去吗？"
 
 就是现在！
 大家一起叠！"
-"BTLMSGID_ALL_ATK_P3HERO_0","总攻击的机会来了吧？
-","BTLMSGID_ALL_ATK_P3HERO_0","机翻辅助：
+"BTLMSGID_ALL_ATK_P3HERO_0","这不就是总攻击的
+好机会吗？","BTLMSGID_ALL_ATK_P3HERO_0","机翻辅助：
 
 这不就是总攻击的
 好机会吗？
@@ -2531,8 +2531,8 @@ NOIR，能去吗？"
 
 
 这不是总攻击的机会吗？"
-"BTLMSGID_ALL_ATK_YOUSUKE_0","好呀！
-我要把你打得稀巴烂！","BTLMSGID_ALL_ATK_YOUSUKE_0","机翻辅助：
+"BTLMSGID_ALL_ATK_YOUSUKE_0","好！
+把他们打得落花流水吧！","BTLMSGID_ALL_ATK_YOUSUKE_0","机翻辅助：
 
 好！
 把他们打得落花流水吧！
@@ -2541,8 +2541,8 @@ NOIR，能去吗？"
 别发呆了！
 
 可恶！让它变得稀巴烂吧～～！"
-"BTLMSGID_ALL_ATK_CHIE_0","现在是机会啊！
-要去吗？","BTLMSGID_ALL_ATK_CHIE_0","机翻辅助：
+"BTLMSGID_ALL_ATK_CHIE_0","现在是好机会吧！
+要上了吗？","BTLMSGID_ALL_ATK_CHIE_0","机翻辅助：
 
 现在是好机会吧！
 要上了吗？
@@ -2552,22 +2552,22 @@ NOIR，能去吗？"
 
 现在就是机会啊！
 我走了！？"
-"BTLMSGID_ALL_ATK_YUKIKO_0","可能是总攻击的机会！","BTLMSGID_ALL_ATK_YUKIKO_0","机翻辅助：
+"BTLMSGID_ALL_ATK_YUKIKO_0","或许是总攻击的好机会！","BTLMSGID_ALL_ATK_YUKIKO_0","机翻辅助：
 
 或许是总攻击的好机会！
 
 也许是总攻击的机会！
 
 也许是总攻的机会！"
-"BTLMSGID_ALL_ATK_RISE_0","现在应该可以去了！","BTLMSGID_ALL_ATK_RISE_0","机翻辅助：
+"BTLMSGID_ALL_ATK_RISE_0","现在应该打得赢！","BTLMSGID_ALL_ATK_RISE_0","机翻辅助：
 
 现在应该打得赢！
 
 现在的话好像能去！
 
 现在应该可以去了！"
-"BTLMSGID_ALL_ATK_KANJI_0","你这是在拖延时间吗！
-赶紧走啊！","BTLMSGID_ALL_ATK_KANJI_0","机翻辅助：
+"BTLMSGID_ALL_ATK_KANJI_0","你们还在发什么呆！
+只能上了吧！","BTLMSGID_ALL_ATK_KANJI_0","机翻辅助：
 
 你们还在发什么呆！
 只能上了吧！
@@ -2576,8 +2576,8 @@ NOIR，能去吗？"
 只能去了！
 
 发什么呆！只有去了！"
-"BTLMSGID_ALL_ATK_NAOTO_0","机会来了！
-一口气冲上去吧！","BTLMSGID_ALL_ATK_NAOTO_0","机翻辅助：
+"BTLMSGID_ALL_ATK_NAOTO_0","好机会！
+一口气上吧！","BTLMSGID_ALL_ATK_NAOTO_0","机翻辅助：
 
 好机会！
 一口气上吧！
@@ -2587,22 +2587,22 @@ NOIR，能去吗？"
 
 机会来了！
 一口气叠完吧！"
-"BTLMSGID_ALL_ATK_KUMA_0","揍他！机会来了！！","BTLMSGID_ALL_ATK_KUMA_0","机翻辅助：
+"BTLMSGID_ALL_ATK_KUMA_0","打他们个落花流水的机会来了！","BTLMSGID_ALL_ATK_KUMA_0","机翻辅助：
 
 打他们个落花流水的机会来了！
 
 机会小熊！！
 
 咕嘟咕嘟机会小熊！！"
-"BTLMSGID_ALL_ATK_YUKARI_0","来了！现在就是时候！","BTLMSGID_ALL_ATK_YUKARI_0","机翻辅助：
+"BTLMSGID_ALL_ATK_YUKARI_0","来了！就只有现在！","BTLMSGID_ALL_ATK_YUKARI_0","机翻辅助：
 
 来了！就只有现在！
 
 我来了！只有现在！
 
 来了！只有现在！"
-"BTLMSGID_ALL_ATK_JUNPEI_0","等了！
-总攻击的机会来了！","BTLMSGID_ALL_ATK_JUNPEI_0","机翻辅助：
+"BTLMSGID_ALL_ATK_JUNPEI_0","就等这一刻！
+总攻击的机会！","BTLMSGID_ALL_ATK_JUNPEI_0","机翻辅助：
 
 就等这一刻！
 总攻击的机会！
@@ -2612,8 +2612,8 @@ NOIR，能去吗？"
 
 一直在等你！
 总攻击时机！"
-"BTLMSGID_ALL_ATK_SANADA_0","我一直在等待这个时机……出发！
-","BTLMSGID_ALL_ATK_SANADA_0","机翻辅助：
+"BTLMSGID_ALL_ATK_SANADA_0","我等这一刻很久了……
+上吧！","BTLMSGID_ALL_ATK_SANADA_0","机翻辅助：
 
 我等这一刻很久了……
 上吧！
@@ -2623,8 +2623,8 @@ NOIR，能去吗？"
 
 等待着这个时刻……
 动手！"
-"BTLMSGID_ALL_ATK_MITURU_0","攻击的话现在是个好机会！
-出发吧！","BTLMSGID_ALL_ATK_MITURU_0","机翻辅助：
+"BTLMSGID_ALL_ATK_MITURU_0","要攻就趁现在！
+上吧！","BTLMSGID_ALL_ATK_MITURU_0","机翻辅助：
 
 要攻就趁现在！
 上吧！
@@ -2634,59 +2634,59 @@ NOIR，能去吗？"
 
 现在正是进攻的好时机！
 走吧！"
-"BTLMSGID_ALL_ATK_FUKA_0","各位，现在是时候了！","BTLMSGID_ALL_ATK_FUKA_0","机翻辅助：
+"BTLMSGID_ALL_ATK_FUKA_0","各位，就是现在！","BTLMSGID_ALL_ATK_FUKA_0","机翻辅助：
 
 各位，就是现在！
 
 大家，就是现在！"
-"BTLMSGID_ALL_ATK_AEGIS_0","总攻击的时候到了！","BTLMSGID_ALL_ATK_AEGIS_0","机翻辅助：
+"BTLMSGID_ALL_ATK_AEGIS_0","总攻击的时刻到了！","BTLMSGID_ALL_ATK_AEGIS_0","机翻辅助：
 
 总攻击的时刻到了！
 
 总攻击的时候到了！
 
 总攻的时刻到来了！"
-"BTLMSGID_ALL_ATK_AMADA_0","这里应该一口气走完！","BTLMSGID_ALL_ATK_AMADA_0","机翻辅助：
+"BTLMSGID_ALL_ATK_AMADA_0","这时候应该一口气上！","BTLMSGID_ALL_ATK_AMADA_0","机翻辅助：
 
 这时候应该一口气上！
 
 这里，应该一口气去！"
-"BTLMSGID_ALL_ATK_KOROMAR_0","汪汪，汪汪！！","BTLMSGID_ALL_ATK_KOROMAR_0","机翻辅助：
+"BTLMSGID_ALL_ATK_KOROMAR_0","汪！汪！","BTLMSGID_ALL_ATK_KOROMAR_0","机翻辅助：
 
 汪！汪！
 
 汪、汪！！
 
 哇、哇！！"
-"BTLMSGID_ALL_ATK_ARAGAKI_0","喂，现在！ 准备好了！","BTLMSGID_ALL_ATK_ARAGAKI_0","机翻辅助：
+"BTLMSGID_ALL_ATK_ARAGAKI_0","喂，趁现在！要上了！","BTLMSGID_ALL_ATK_ARAGAKI_0","机翻辅助：
 
 喂，趁现在！要上了！
 
 喂，就是现在！开始行动！
 
 喂，就是现在！我动手了！"
-"BTLMSGID_ALL_ATK_P3_HERO_0","总攻击的机会不是吗？","BTLMSGID_ALL_ATK_P3_HERO_0","机翻辅助：
+"BTLMSGID_ALL_ATK_P3_HERO_0","不就是总攻击的好机会吗？","BTLMSGID_ALL_ATK_P3_HERO_0","机翻辅助：
 
 不就是总攻击的好机会吗？
 
 这不是总攻的机会吗？
 
 这不是总攻击的机会吗？"
-"BTLMSGID_ALL_ATK_RYUJI_0","哦，这不是个机会吗？","BTLMSGID_ALL_ATK_RYUJI_0","机翻辅助：
+"BTLMSGID_ALL_ATK_RYUJI_0","哦，是好机会吗？","BTLMSGID_ALL_ATK_RYUJI_0","机翻辅助：
 
 哦，是好机会吗？
 
 喂，这不是机会吗？
 
 哦，这不是机会吗？"
-"BTLMSGID_ALL_ATK_ANN_0","机会来了！要去吗？","BTLMSGID_ALL_ATK_ANN_0","机翻辅助：
+"BTLMSGID_ALL_ATK_ANN_0","是好机会呢！要上了吗？","BTLMSGID_ALL_ATK_ANN_0","机翻辅助：
 
 是好机会呢！要上了吗？
 
 机会来了！要走了吗？
 
 机会来了！要走了？"
-"BTLMSGID_ALL_ATK_MONA_0","好！是总攻击的机会！","BTLMSGID_ALL_ATK_MONA_0","机翻辅助：
+"BTLMSGID_ALL_ATK_MONA_0","好！是总攻击的好机会！","BTLMSGID_ALL_ATK_MONA_0","机翻辅助：
 
 好！是总攻击的好机会！
 
@@ -2696,8 +2696,8 @@ NOIR，能去吗？"
 "BTLMSGID_ALL_ATK_YUSUKE_0","好机会！怎么办？","BTLMSGID_ALL_ATK_YUSUKE_0","机翻辅助：
 
 好机会！怎么办？"
-"BTLMSGID_ALL_ATK_MAKOTO_0","好的，顺利进行！
-就这样继续吧？","BTLMSGID_ALL_ATK_MAKOTO_0","机翻辅助：
+"BTLMSGID_ALL_ATK_MAKOTO_0","形势不错！
+就这样上吧？","BTLMSGID_ALL_ATK_MAKOTO_0","机翻辅助：
 
 形势不错！
 就这样上吧？
@@ -2707,14 +2707,14 @@ NOIR，能去吗？"
 
 好趋势！
 就这样走吧？"
-"BTLMSGID_ALL_ATK_FUTABA_0","机会来了！抓住它！ ","BTLMSGID_ALL_ATK_FUTABA_0","机翻辅助：
+"BTLMSGID_ALL_ATK_FUTABA_0","好机会！打垮他们！ ","BTLMSGID_ALL_ATK_FUTABA_0","机翻辅助：
 
 好机会！打垮他们！ 
 
 机会来了！踢散！ 
 
 机会来了！踢开！"
-"BTLMSGID_ALL_ATK_HARU_0","一口气就能完成！
+"BTLMSGID_ALL_ATK_HARU_0","感觉可以一口气上！
 ……对吧？","BTLMSGID_ALL_ATK_HARU_0","机翻辅助：
 
 感觉可以一口气上！
@@ -2725,19 +2725,19 @@ NOIR，能去吗？"
 
 一口气就能走！
 ……是吧？"
-"BTLMSGID_ALL_ATK_AKECI_0","敌人已经溃不成军了！","BTLMSGID_ALL_ATK_AKECI_0","机翻辅助：
+"BTLMSGID_ALL_ATK_AKECI_0","敌人全军覆没了！","BTLMSGID_ALL_ATK_AKECI_0","机翻辅助：
 
 敌人全军覆没了！
 
 敌人全部崩溃了！"
-"BTLMSGID_ALL2_ATK_P4HERO_0","现在就可以做到！","BTLMSGID_ALL2_ATK_P4HERO_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_P4HERO_0","现在打得赢！","BTLMSGID_ALL2_ATK_P4HERO_0","机翻辅助：
 
 现在打得赢！
 
 现在的话能做到！
 
 现在我能做到！"
-"BTLMSGID_ALL2_ATK_P3HERO_0","现在就是时候了！走吧！","BTLMSGID_ALL2_ATK_P3HERO_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_P3HERO_0","就只有现在！上吧！","BTLMSGID_ALL2_ATK_P3HERO_0","机翻辅助：
 
 就只有现在！上吧！
 
@@ -2753,13 +2753,13 @@ NOIR，能去吗？"
 
 张星林！
 总攻击！"
-"BTLMSGID_ALL2_ATK_CHIE_0","现在！全体突击！","BTLMSGID_ALL2_ATK_CHIE_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_CHIE_0","就是现在！所有人突击！","BTLMSGID_ALL2_ATK_CHIE_0","机翻辅助：
 
 就是现在！所有人突击！
 
 就是现在！全体人员，突击！"
-"BTLMSGID_ALL2_ATK_YUKIKO_0","现在就是时候了！
-让我们齐心协力！","BTLMSGID_ALL2_ATK_YUKIKO_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_YUKIKO_0","就是现在！
+大家同心协力！","BTLMSGID_ALL2_ATK_YUKIKO_0","机翻辅助：
 
 就是现在！
 大家同心协力！
@@ -2768,22 +2768,22 @@ NOIR，能去吗？"
 大家齐心协力吧！
 
 就是现在！齐心协力！"
-"BTLMSGID_ALL2_ATK_RISE_0","来了来了，大机会！","BTLMSGID_ALL2_ATK_RISE_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_RISE_0","来了来了，大好机会！","BTLMSGID_ALL2_ATK_RISE_0","机翻辅助：
 
 来了来了，大好机会！
 
 来了，大教堂！
 
 来来来，大魅力！"
-"BTLMSGID_ALL2_ATK_KANJI_0","现在是进攻的时机！","BTLMSGID_ALL2_ATK_KANJI_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_KANJI_0","现在就是进攻的时候！","BTLMSGID_ALL2_ATK_KANJI_0","机翻辅助：
 
 现在就是进攻的时候！
 
 现在是进攻的时候！
 
 现在正是进攻的时候！"
-"BTLMSGID_ALL2_ATK_NAOTO_0","现在可以去了！
-允许总攻击！","BTLMSGID_ALL2_ATK_NAOTO_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_NAOTO_0","现在打得赢！
+请准许总攻击！","BTLMSGID_ALL2_ATK_NAOTO_0","机翻辅助：
 
 现在打得赢！
 请准许总攻击！
@@ -2793,8 +2793,8 @@ NOIR，能去吗？"
 
 现在就能去了！
 批准总攻！"
-"BTLMSGID_ALL2_ATK_KUMA_0","打得稀里哗啦的熊！！
-","BTLMSGID_ALL2_ATK_KUMA_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_KUMA_0","被打得落花流水的
+爆打小熊——！！","BTLMSGID_ALL2_ATK_KUMA_0","机翻辅助：
 
 被打得落花流水的
 爆打小熊——！！
@@ -2803,8 +2803,8 @@ NOIR，能去吗？"
 扑通扑通的小熊！！
 
 小熊小熊！！"
-"BTLMSGID_ALL2_ATK_YUKARI_0","机会来了吧！？
-一口气冲过去！","BTLMSGID_ALL2_ATK_YUKARI_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_YUKARI_0","这是个好机会吧！？
+一口气上吧！","BTLMSGID_ALL2_ATK_YUKARI_0","机翻辅助：
 
 这是个好机会吧！？
 一口气上吧！
@@ -2814,8 +2814,8 @@ NOIR，能去吗？"
 
 机会来了！？
 一口气去！"
-"BTLMSGID_ALL2_ATK_JUNPEI_0","全员一起努力就能成功！
-","BTLMSGID_ALL2_ATK_JUNPEI_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_JUNPEI_0","只要大家一起努力
+就一定会有办法！","BTLMSGID_ALL2_ATK_JUNPEI_0","机翻辅助：
 
 只要大家一起努力
 就一定会有办法！
@@ -2824,15 +2824,15 @@ NOIR，能去吗？"
 结束了！
 
 全体人员咚的一声就结束了！"
-"BTLMSGID_ALL2_ATK_SANADA_0","胜负之时到了！全力以赴！","BTLMSGID_ALL2_ATK_SANADA_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_SANADA_0","决胜负的时候到了！乘胜追击！","BTLMSGID_ALL2_ATK_SANADA_0","机翻辅助：
 
 决胜负的时候到了！乘胜追击！
 
 是决胜的时候了！叠起来！
 
 是决胜负的时候了！叠起来！"
-"BTLMSGID_ALL2_ATK_MITURU_0","流向这边了！
-进攻！","BTLMSGID_ALL2_ATK_MITURU_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_MITURU_0","局势是站在我们这边！
+进攻吧！","BTLMSGID_ALL2_ATK_MITURU_0","机翻辅助：
 
 局势是站在我们这边！
 进攻吧！
@@ -2842,14 +2842,14 @@ NOIR，能去吗？"
 
 潮流在这里！
 进攻！"
-"BTLMSGID_ALL2_ATK_FUKA_0","现在可以去了！","BTLMSGID_ALL2_ATK_FUKA_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_FUKA_0","现在的话我办得到！","BTLMSGID_ALL2_ATK_FUKA_0","机翻辅助：
 
 现在的话我办得到！
 
 现在的话可以去！
 
 现在就能去了！"
-"BTLMSGID_ALL2_ATK_AEGIS_0","这边的准备已经完成了！","BTLMSGID_ALL2_ATK_AEGIS_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_AEGIS_0","我方已经准备就绪！","BTLMSGID_ALL2_ATK_AEGIS_0","机翻辅助：
 
 我方已经准备就绪！
 
@@ -2857,48 +2857,48 @@ NOIR，能去吗？"
 
 我们已经准备好了！"
 "BTLMSGID_ALL2_ATK_AMADA_0","机会来了！
-走吧！","BTLMSGID_ALL2_ATK_AMADA_0","机翻辅助：
+我们走吧！","BTLMSGID_ALL2_ATK_AMADA_0","机翻辅助：
 
 机会来了！
 我们走吧！
 
 机会来了！
 走吧！"
-"BTLMSGID_ALL2_ATK_KOROMA_0","汪汪，汪汪！！","BTLMSGID_ALL2_ATK_KOROMA_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_KOROMA_0","汪！汪！","BTLMSGID_ALL2_ATK_KOROMA_0","机翻辅助：
 
 汪！汪！
 
 汪、汪！！
 
 哇、哇！！"
-"BTLMSGID_ALL2_ATK_ARAGAK_0","现在是时候了……走吧！","BTLMSGID_ALL2_ATK_ARAGAK_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_ARAGAK_0","差不多了……要上咯！","BTLMSGID_ALL2_ATK_ARAGAK_0","机翻辅助：
 
 差不多了……要上咯！
 
 正合适……走吧！
 
 正好是时候……走吧！"
-"BTLMSGID_ALL2_ATK_P3_HER_0","现在就是时候了！走吧！","BTLMSGID_ALL2_ATK_P3_HER_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_P3_HER_0","就只有现在！上吧！","BTLMSGID_ALL2_ATK_P3_HER_0","机翻辅助：
 
 就只有现在！上吧！
 
 只有现在！走吧！"
-"BTLMSGID_ALL2_ATK_RYUJI_0","好了，开始吧！","BTLMSGID_ALL2_ATK_RYUJI_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_RYUJI_0","好啦，要开始咯！","BTLMSGID_ALL2_ATK_RYUJI_0","机翻辅助：
 
 好啦，要开始咯！
 
 好了，开始吧！
 
 来吧，真是太大方了！"
-"BTLMSGID_ALL2_ATK_ANN_0","要不要再来一次？","BTLMSGID_ALL2_ATK_ANN_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_ANN_0","要不要来点平常的那个？","BTLMSGID_ALL2_ATK_ANN_0","机翻辅助：
 
 要不要来点平常的那个？
 
 平常的那个，一起去吧？
 
 平常的那个，走吧？"
-"BTLMSGID_ALL2_ATK_MONA_0","这个机会，
-当然要去了吧？","BTLMSGID_ALL2_ATK_MONA_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_MONA_0","当然要
+把握机会吧？","BTLMSGID_ALL2_ATK_MONA_0","机翻辅助：
 
 当然要
 把握机会吧？
@@ -2908,8 +2908,8 @@ NOIR，能去吗？"
 
 这个机会，
 当然要去吧？"
-"BTLMSGID_ALL2_ATK_YUSUKE_0","宴会也快结束了吧。
-","BTLMSGID_ALL2_ATK_YUSUKE_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_YUSUKE_0","宴会正热闹，
+。","BTLMSGID_ALL2_ATK_YUSUKE_0","机翻辅助：
 
 宴会正热闹，
 。
@@ -2918,22 +2918,22 @@ NOIR，能去吗？"
 
 
 宴会也很热闹，是这样吗？"
-"BTLMSGID_ALL2_ATK_MAKOTO_0","让我们一口气解决它吧？","BTLMSGID_ALL2_ATK_MAKOTO_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_MAKOTO_0","一口气解决吧？","BTLMSGID_ALL2_ATK_MAKOTO_0","机翻辅助：
 
 一口气解决吧？
 
 一口气加上卡塔吧？
 
 一口气装上肩吧？"
-"BTLMSGID_ALL2_ATK_FUTABA_0","机会来了！抓住它！ ","BTLMSGID_ALL2_ATK_FUTABA_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_FUTABA_0","好机会！打垮他们！ ","BTLMSGID_ALL2_ATK_FUTABA_0","机翻辅助：
 
 好机会！打垮他们！ 
 
 机会来了！踢散！ 
 
 机会来了！踢开！"
-"BTLMSGID_ALL2_ATK_HARU_0","总攻击看起来很有可能！
-要开始吗？","BTLMSGID_ALL2_ATK_HARU_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_HARU_0","好像可以发动总攻击了！
+要吗？","BTLMSGID_ALL2_ATK_HARU_0","机翻辅助：
 
 好像可以发动总攻击了！
 要吗？
@@ -2943,39 +2943,39 @@ NOIR，能去吗？"
 
 可以总攻了！
 做了吗？"
-"BTLMSGID_ALL2_ATK_AKECI_0","我等待着这一刻！","BTLMSGID_ALL2_ATK_AKECI_0","机翻辅助：
+"BTLMSGID_ALL2_ATK_AKECI_0","我就是在等这个瞬间！","BTLMSGID_ALL2_ATK_AKECI_0","机翻辅助：
 
 我就是在等这个瞬间！
 
 等待着这一瞬间！
 
 我一直在等待这个瞬间！"
-"BTLMSGID_COMBI_ATK_P4HER_0","让我们来处理吧…","BTLMSGID_COMBI_ATK_P4HER_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_P4HER_0","就交给我们吧……","BTLMSGID_COMBI_ATK_P4HER_0","机翻辅助：
 
 就交给我们吧……
 
 交给我们吧……"
-"BTLMSGID_COMBI_ATK_P3HER_0","现在是机会吗？","BTLMSGID_COMBI_ATK_P3HER_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_P3HER_0","现在正是机会吗？","BTLMSGID_COMBI_ATK_P3HER_0","机翻辅助：
 
 现在正是机会吗？
 
 现在是机会吗？"
-"BTLMSGID_COMBI_ATK_YOUSU_0","这里当然只能前进了！
-","BTLMSGID_COMBI_ATK_YOUSU_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_YOUSU_0","这种时候当然只能
+上了吧！","BTLMSGID_COMBI_ATK_YOUSU_0","机翻辅助：
 
 这种时候当然只能
 上了吧！
 
 这里是托森，只能去了吧！"
-"BTLMSGID_COMBI_ATK_CHIE_0","好的，交给我们吧！","BTLMSGID_COMBI_ATK_CHIE_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_CHIE_0","好～～就交给我们吧！","BTLMSGID_COMBI_ATK_CHIE_0","机翻辅助：
 
 好～～就交给我们吧！
 
 喂，交给我们吧！
 
 好了，交给我们吧！"
-"BTLMSGID_COMBI_ATK_YUKIK_0","现在就是时候了！
-让我们齐心协力！","BTLMSGID_COMBI_ATK_YUKIK_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_YUKIK_0","就是现在！
+让我们同心协力！","BTLMSGID_COMBI_ATK_YUKIK_0","机翻辅助：
 
 就是现在！
 让我们同心协力！
@@ -2984,15 +2984,15 @@ NOIR，能去吗？"
 让我们齐心协力吧！
 
 就是现在！齐心协力吧！"
-"BTLMSGID_COMBI_ATK_RISE_0","现在应该可以去了！","BTLMSGID_COMBI_ATK_RISE_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_RISE_0","现在应该打得赢！","BTLMSGID_COMBI_ATK_RISE_0","机翻辅助：
 
 现在应该打得赢！
 
 现在的话好像能去！
 
 现在应该可以去了！"
-"BTLMSGID_COMBI_ATK_KANJI_0","现在就是时候了！
-走吧！","BTLMSGID_COMBI_ATK_KANJI_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_KANJI_0","只能趁现在了吧！
+上啊！","BTLMSGID_COMBI_ATK_KANJI_0","机翻辅助：
 
 只能趁现在了吧！
 上啊！
@@ -3003,7 +3003,7 @@ NOIR，能去吗？"
 只有现在了吧！
 我要去了！"
 "BTLMSGID_COMBI_ATK_NAOTO_0","机会来了！
-让我们一起加倍努力吧！","BTLMSGID_COMBI_ATK_NAOTO_0","机翻辅助：
+我们联手进攻吧！","BTLMSGID_COMBI_ATK_NAOTO_0","机翻辅助：
 
 机会来了！
 我们联手进攻吧！
@@ -3013,8 +3013,8 @@ NOIR，能去吗？"
 
 机会来了！
 我们来叠吧！"
-"BTLMSGID_COMBI_ATK_KUMA_0","熊们的表演，
-机会来了！","BTLMSGID_COMBI_ATK_KUMA_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_KUMA_0","小熊等人发动了
+痛扁机会小熊！！","BTLMSGID_COMBI_ATK_KUMA_0","机翻辅助：
 
 小熊等人发动了
 痛扁机会小熊！！
@@ -3024,8 +3024,8 @@ NOIR，能去吗？"
 
 小熊们的机会
 小熊！！"
-"BTLMSGID_COMBI_ATK_YUKAR_0","来了，大家！
-现在就是时候！","BTLMSGID_COMBI_ATK_YUKAR_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_YUKAR_0","来了哦，各位！
+就是现在！","BTLMSGID_COMBI_ATK_YUKAR_0","机翻辅助：
 
 来了哦，各位！
 就是现在！
@@ -3035,8 +3035,8 @@ NOIR，能去吗？"
 
 大家来了！
 只有现在！"
-"BTLMSGID_COMBI_ATK_JUNPE_0","好了，大家！
-跟上我啊！","BTLMSGID_COMBI_ATK_JUNPE_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_JUNPE_0","好，各位！
+跟着大爷我来——！","BTLMSGID_COMBI_ATK_JUNPE_0","机翻辅助：
 
 好，各位！
 跟着大爷我来——！
@@ -3046,15 +3046,15 @@ NOIR，能去吗？"
 
 哦，大家！
 像我一样继续！"
-"BTLMSGID_COMBI_ATK_SANAD_0","看来轮到我们上场了……","BTLMSGID_COMBI_ATK_SANAD_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_SANAD_0","看来，该轮到我们出场了呢……","BTLMSGID_COMBI_ATK_SANAD_0","机翻辅助：
 
 看来，该轮到我们出场了呢……
 
 看来是轮到我们出场了……
 
 看来是我们出场了啊……"
-"BTLMSGID_COMBI_ATK_MITUR_0","这里没有不进攻的笨蛋……对吧！？
-","BTLMSGID_COMBI_ATK_MITUR_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_MITUR_0","现在不攻进去
+哪有笨蛋会这么做……对吧！？","BTLMSGID_COMBI_ATK_MITUR_0","机翻辅助：
 
 现在不攻进去
 哪有笨蛋会这么做……对吧！？
@@ -3064,13 +3064,13 @@ NOIR，能去吗？"
 
 这里不进攻
 没有笨蛋……对吧！？"
-"BTLMSGID_COMBI_ATK_FUKA_0","各位，现在是时候了！","BTLMSGID_COMBI_ATK_FUKA_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_FUKA_0","各位，就是现在！","BTLMSGID_COMBI_ATK_FUKA_0","机翻辅助：
 
 各位，就是现在！
 
 大家，就是现在！"
-"BTLMSGID_COMBI_ATK_AEGIS_0","让我们一起发起全面攻击！
-","BTLMSGID_COMBI_ATK_AEGIS_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_AEGIS_0","我们
+一齐攻击！","BTLMSGID_COMBI_ATK_AEGIS_0","机翻辅助：
 
 我们
 一齐攻击！
@@ -3079,22 +3079,22 @@ NOIR，能去吗？"
 
 
 我们一起攻击！"
-"BTLMSGID_COMBI_ATK_AMADA_0","只要大家一起去，就能打败它！","BTLMSGID_COMBI_ATK_AMADA_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_AMADA_0","只要大家一起去就能打倒它！","BTLMSGID_COMBI_ATK_AMADA_0","机翻辅助：
 
 只要大家一起去就能打倒它！
 
 大家一起去的话就能打倒他！
 
 大家一起去的话就可以打倒了！"
-"BTLMSGID_COMBI_ATK_KOROM_0","汪汪，汪汪！！","BTLMSGID_COMBI_ATK_KOROM_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_KOROM_0","汪！汪！","BTLMSGID_COMBI_ATK_KOROM_0","机翻辅助：
 
 汪！汪！
 
 汪、汪！！
 
 哇、哇！！"
-"BTLMSGID_COMBI_ATK_ARAGA_0","我们只能一口气走完吗？
-","BTLMSGID_COMBI_ATK_ARAGA_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_ARAGA_0","我们
+只能一鼓作气了吧？","BTLMSGID_COMBI_ATK_ARAGA_0","机翻辅助：
 
 我们
 只能一鼓作气了吧？
@@ -3103,34 +3103,34 @@ NOIR，能去吗？"
 
 
 我们只能一口气走了吧？"
-"BTLMSGID_COMBI_ATK_P3_HE_0","借我力量。一鼓作气，一起前进！","BTLMSGID_COMBI_ATK_P3_HE_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_P3_HE_0","我会助你一臂之力。我们一口气上吧！","BTLMSGID_COMBI_ATK_P3_HE_0","机翻辅助：
 
 我会助你一臂之力。我们一口气上吧！
 
 我会助你一臂之力的。一口气走吧！
 
 我助你一臂之力。一口气去吧！"
-"BTLMSGID_COMBI_ATK_P5HER_0","这里！","BTLMSGID_COMBI_ATK_P5HER_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_P5HER_0","就是现在！","BTLMSGID_COMBI_ATK_P5HER_0","机翻辅助：
 
 就是现在！
 
 就是这里！"
-"BTLMSGID_COMBI_ATK_RYUJI_0","这个机会就交给我们吧！
-","BTLMSGID_COMBI_ATK_RYUJI_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_RYUJI_0","这个机会，
+就交给我们吧！","BTLMSGID_COMBI_ATK_RYUJI_0","机翻辅助：
 
 这个机会，
 就交给我们吧！
 
 这个机会，就交给我们吧！"
-"BTLMSGID_COMBI_ATK_ANN_0","现在也许我们可以做到！","BTLMSGID_COMBI_ATK_ANN_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_ANN_0","现在的话，我们说不定可以！","BTLMSGID_COMBI_ATK_ANN_0","机翻辅助：
 
 现在的话，我们说不定可以！
 
 如果是现在的话，我们也许能去！
 
 现在的话我们也许能行！"
-"BTLMSGID_COMBI_ATK_MONA_0","我们展现我们的力量的时候到了！
-","BTLMSGID_COMBI_ATK_MONA_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_MONA_0","展现
+吾辈们的力量的时候到了！","BTLMSGID_COMBI_ATK_MONA_0","机翻辅助：
 
 展现
 吾辈们的力量的时候到了！
@@ -3139,15 +3139,15 @@ NOIR，能去吗？"
 展现吾辈力量的时候到了！
 
 是时候展示吾辈们的力量了！"
-"BTLMSGID_COMBI_ATK_YUSUK_0","是展现我们力量的时候了！","BTLMSGID_COMBI_ATK_YUSUK_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_YUSUK_0","展现我们力量的时候到了！","BTLMSGID_COMBI_ATK_YUSUK_0","机翻辅助：
 
 展现我们力量的时候到了！
 
 是时候展现我们的力量了！
 
 是时候展示我们的力量了！"
-"BTLMSGID_COMBI_ATK_MAKOT_0","现在的话……我们的话可以去吧？
-","BTLMSGID_COMBI_ATK_MAKOT_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_MAKOT_0","现在的话……
+我们可以的哦？","BTLMSGID_COMBI_ATK_MAKOT_0","机翻辅助：
 
 现在的话……
 我们可以的哦？
@@ -3157,8 +3157,8 @@ NOIR，能去吗？"
 
 现在的话……
 我们能去吗？"
-"BTLMSGID_COMBI_ATK_FUTAB_0","如果要做就现在！
-给我指示！","BTLMSGID_COMBI_ATK_FUTAB_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_FUTAB_0","要干就趁现在！
+快下指示！","BTLMSGID_COMBI_ATK_FUTAB_0","机翻辅助：
 
 要干就趁现在！
 快下指示！
@@ -3168,8 +3168,8 @@ NOIR，能去吗？"
 
 要做就现在！
 给我指示！"
-"BTLMSGID_COMBI_ATK_HARU_0","现在的话……我们可以一鼓作气地前进吗？
-","BTLMSGID_COMBI_ATK_HARU_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_HARU_0","现在的话……
+我们可以用我们的力量一口气解决哦？","BTLMSGID_COMBI_ATK_HARU_0","机翻辅助：
 
 现在的话……
 我们可以用我们的力量一口气解决哦？
@@ -3179,26 +3179,26 @@ NOIR，能去吗？"
 
 现在的话……
 靠我们的力量可以一口气做到哦？"
-"BTLMSGID_COMBI_ATK_AKECI_0","看来，轮到我们上场了吗？","BTLMSGID_COMBI_ATK_AKECI_0","机翻辅助：
+"BTLMSGID_COMBI_ATK_AKECI_0","看来，该轮到我们出场了吧？","BTLMSGID_COMBI_ATK_AKECI_0","机翻辅助：
 
 看来，该轮到我们出场了吧？
 
 好歹，是我们的出场吗？
 
 看来，应该是我们出场了吧？"
-"BTLMSGID_COMBI2_ATK_P4HE_0","现在！一鼓作气！","BTLMSGID_COMBI2_ATK_P4HE_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_P4HE_0","就是现在！乘胜追击吧！","BTLMSGID_COMBI2_ATK_P4HE_0","机翻辅助：
 
 就是现在！乘胜追击吧！
 
 就是现在！折起来吧！
 
 就是现在！一起战斗吧！"
-"BTLMSGID_COMBI2_ATK_P3HE_0","让我们来处理吧！","BTLMSGID_COMBI2_ATK_P3HE_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_P3HE_0","交给我们！","BTLMSGID_COMBI2_ATK_P3HE_0","机翻辅助：
 
 交给我们！
 
 交给我们吧！"
-"BTLMSGID_COMBI2_ATK_YOUS_0","现在的话应该可以去！
+"BTLMSGID_COMBI2_ATK_YOUS_0","现在的话应该可以！
 怎么办！？","BTLMSGID_COMBI2_ATK_YOUS_0","机翻辅助：
 
 现在的话应该可以！
@@ -3209,8 +3209,8 @@ NOIR，能去吗？"
 
 现在的话应该可以了！
 怎么办？？"
-"BTLMSGID_COMBI2_ATK_CHIE_0","升级结束了！
-剩下的就交给我吧！","BTLMSGID_COMBI2_ATK_CHIE_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_CHIE_0","热身结束！
+接下来交给我！","BTLMSGID_COMBI2_ATK_CHIE_0","机翻辅助：
 
 热身结束！
 接下来交给我！
@@ -3223,27 +3223,27 @@ NOIR，能去吗？"
 "BTLMSGID_COMBI2_ATK_YUKI_0","准备好了！","BTLMSGID_COMBI2_ATK_YUKI_0","机翻辅助：
 
 准备好了！"
-"BTLMSGID_COMBI2_ATK_RISE_0","来了来了，大机会！","BTLMSGID_COMBI2_ATK_RISE_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_RISE_0","来了来了，大好机会！","BTLMSGID_COMBI2_ATK_RISE_0","机翻辅助：
 
 来了来了，大好机会！
 
 来了，大教堂！
 
 来来来，大魅力！"
-"BTLMSGID_COMBI2_ATK_KANJ_0","请让我们去吧！","BTLMSGID_COMBI2_ATK_KANJ_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_KANJ_0","请让我们上吧！","BTLMSGID_COMBI2_ATK_KANJ_0","机翻辅助：
 
 请让我们上吧！
 
 让我们去吧！"
-"BTLMSGID_COMBI2_ATK_NAOT_0","抓紧追击的时机就是现在！","BTLMSGID_COMBI2_ATK_NAOT_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_NAOT_0","要追击的话就趁现在！","BTLMSGID_COMBI2_ATK_NAOT_0","机翻辅助：
 
 要追击的话就趁现在！
 
 要追逼的话就是现在！
 
 要穷追猛打就是现在！"
-"BTLMSGID_COMBI2_ATK_KUMA_0","看到熊帅气的样子了吗？嗯？你怎么了？
-","BTLMSGID_COMBI2_ATK_KUMA_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_KUMA_0","小熊好像很帅？
+嗯？怎么样？","BTLMSGID_COMBI2_ATK_KUMA_0","机翻辅助：
 
 小熊好像很帅？
 嗯？怎么样？
@@ -3253,22 +3253,22 @@ NOIR，能去吗？"
 
 像小熊帅气的样子吗？
 嗯？怎么样？"
-"BTLMSGID_COMBI2_ATK_YUKA_0","好的，要做吗？","BTLMSGID_COMBI2_ATK_YUKA_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_YUKA_0","好，上吧？","BTLMSGID_COMBI2_ATK_YUKA_0","机翻辅助：
 
 好，上吧？
 
 好了，要做了吗？
 
 好，做了吗？"
-"BTLMSGID_COMBI2_ATK_JUNP_0","要试试看吗！","BTLMSGID_COMBI2_ATK_JUNP_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_JUNP_0","上吧！","BTLMSGID_COMBI2_ATK_JUNP_0","机翻辅助：
 
 上吧！
 
 要来一下吗！
 
 你要做吗？"
-"BTLMSGID_COMBI2_ATK_SANA_0","等得好累啊……
-现在就出击！","BTLMSGID_COMBI2_ATK_SANA_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_SANA_0","等好久了哦……
+就是现在，上吧！","BTLMSGID_COMBI2_ATK_SANA_0","机翻辅助：
 
 等好久了哦……
 就是现在，上吧！
@@ -3278,14 +3278,14 @@ NOIR，能去吗？"
 
 等得不耐烦了……
 就是现在，行动！"
-"BTLMSGID_COMBI2_ATK_MITU_0","现在是时机，让我们一鼓作气！","BTLMSGID_COMBI2_ATK_MITU_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_MITU_0","时机正好，乘胜追击吧！","BTLMSGID_COMBI2_ATK_MITU_0","机翻辅助：
 
 时机正好，乘胜追击吧！
 
 正好，叠起来吧！
 
 时机到了，继续吧！"
-"BTLMSGID_COMBI2_ATK_FUKA_0","现在可以去了！","BTLMSGID_COMBI2_ATK_FUKA_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_FUKA_0","现在的话我办得到！","BTLMSGID_COMBI2_ATK_FUKA_0","机翻辅助：
 
 现在的话我办得到！
 
@@ -3297,29 +3297,29 @@ NOIR，能去吗？"
 机会来了！
 
 是机会！"
-"BTLMSGID_COMBI2_ATK_AMAD_0","准备好了，
-可以出发了！","BTLMSGID_COMBI2_ATK_AMAD_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_AMAD_0","准备OK，
+可以了！","BTLMSGID_COMBI2_ATK_AMAD_0","机翻辅助：
 
 准备OK，
 可以了！
 
 准备好了，
 可以去哦！"
-"BTLMSGID_COMBI2_ATK_KORO_0","汪汪，汪汪！！","BTLMSGID_COMBI2_ATK_KORO_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_KORO_0","汪！汪！","BTLMSGID_COMBI2_ATK_KORO_0","机翻辅助：
 
 汪！汪！
 
 汪、汪！！
 
 哇、哇！！"
-"BTLMSGID_COMBI2_ATK_ARAG_0","机会来了……走吧","BTLMSGID_COMBI2_ATK_ARAG_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_ARAG_0","机会来了……上吧","BTLMSGID_COMBI2_ATK_ARAG_0","机翻辅助：
 
 机会来了……上吧
 
 机会来了……走吧
 
 好机会啊……走吧"
-"BTLMSGID_COMBI2_ATK_P3_H_0","现在就是时候了，准备好了吗？","BTLMSGID_COMBI2_ATK_P3_H_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_P3_H_0","就是现在，准备好了吗？","BTLMSGID_COMBI2_ATK_P3_H_0","机翻辅助：
 
 就是现在，准备好了吗？
 
@@ -3327,43 +3327,43 @@ NOIR，能去吗？"
 "BTLMSGID_COMBI2_ATK_P5HE_0","机会来了！","BTLMSGID_COMBI2_ATK_P5HE_0","机翻辅助：
 
 机会来了！"
-"BTLMSGID_COMBI2_ATK_RYUJ_0","让我一口气了结他吧！","BTLMSGID_COMBI2_ATK_RYUJ_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_RYUJ_0","一口气给他最后一击吧！","BTLMSGID_COMBI2_ATK_RYUJ_0","机翻辅助：
 
 一口气给他最后一击吧！
 
 一口气扎死他吧！
 
 一口气刺进你的刺吧！"
-"BTLMSGID_COMBI2_ATK_ANN_0","一口气收拾完！","BTLMSGID_COMBI2_ATK_ANN_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_ANN_0","一口气解决吧！","BTLMSGID_COMBI2_ATK_ANN_0","机翻辅助：
 
 一口气解决吧！
 
 一口气收拾一下吧！
 
 一口气做完吧！"
-"BTLMSGID_COMBI2_ATK_MONA_0","现在就去做吧！","BTLMSGID_COMBI2_ATK_MONA_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_MONA_0","就是现在，上吧！","BTLMSGID_COMBI2_ATK_MONA_0","机翻辅助：
 
 就是现在，上吧！
 
 就是现在，做吧！
 
 就是现在，干吧！"
-"BTLMSGID_COMBI2_ATK_YUSU_0","随时可以去！","BTLMSGID_COMBI2_ATK_YUSU_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_YUSU_0","随时可以！","BTLMSGID_COMBI2_ATK_YUSU_0","机翻辅助：
 
 随时可以！
 
 什么时候都可以去！
 
 随时都可以去！"
-"BTLMSGID_COMBI2_ATK_MAKO_0","现在，让我们开始吧！","BTLMSGID_COMBI2_ATK_MAKO_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_MAKO_0","就是现在，上吧！","BTLMSGID_COMBI2_ATK_MAKO_0","机翻辅助：
 
 就是现在，上吧！
 
 现在，开始吧！
 
 现在就开始行动吧！"
-"BTLMSGID_COMBI2_ATK_FUTA_0","如果要做就现在！
-给我指示！","BTLMSGID_COMBI2_ATK_FUTA_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_FUTA_0","要干就趁现在！
+快下指示！","BTLMSGID_COMBI2_ATK_FUTA_0","机翻辅助：
 
 要干就趁现在！
 快下指示！
@@ -3376,22 +3376,22 @@ NOIR，能去吗？"
 "BTLMSGID_COMBI2_ATK_HARU_0","差不多可以了吧？","BTLMSGID_COMBI2_ATK_HARU_0","机翻辅助：
 
 差不多可以了吧？"
-"BTLMSGID_COMBI2_ATK_AKEC_0","差不多该开始了吧。","BTLMSGID_COMBI2_ATK_AKEC_0","机翻辅助：
+"BTLMSGID_COMBI2_ATK_AKEC_0","差不多可以开始了。","BTLMSGID_COMBI2_ATK_AKEC_0","机翻辅助：
 
 差不多可以开始了。
 
 差不多该开始了吧。"
-"BTLMSGID_VELVET_THEODORE_0","集中注意力！","BTLMSGID_VELVET_THEODORE_0","机翻辅助：
+"BTLMSGID_VELVET_THEODORE_0","集中意识！","BTLMSGID_VELVET_THEODORE_0","机翻辅助：
 
 集中意识！
 
 集中了意识！"
-"BTLMSGID_VELVET_ELIZABET_0","集中注意力！","BTLMSGID_VELVET_ELIZABET_0","机翻辅助：
+"BTLMSGID_VELVET_ELIZABET_0","集中意识！","BTLMSGID_VELVET_ELIZABET_0","机翻辅助：
 
 集中意识！
 
 集中了意识！"
-"BTLMSGID_VELVET_MARGARET_0","集中注意力！","BTLMSGID_VELVET_MARGARET_0","机翻辅助：
+"BTLMSGID_VELVET_MARGARET_0","集中意识！","BTLMSGID_VELVET_MARGARET_0","机翻辅助：
 
 集中意识！
 
@@ -3427,111 +3427,111 @@ NOIR，能去吗？"
 [占位A 01]的眼睛“1”次，闪耀。
 
 [占位A 01]的眼睛“1”次发出了光芒。"
-"BTLMSGID_ESCAPE_ALL_0","派对逃跑了！","BTLMSGID_ESCAPE_ALL_0","机翻辅助：
+"BTLMSGID_ESCAPE_ALL_0","队伍逃走了！","BTLMSGID_ESCAPE_ALL_0","机翻辅助：
 
 队伍逃走了！
 
 派对逃走了！"
-"BTLMSGID_OVERWRITE_ALL_0","派对的强化效果被延长了！","BTLMSGID_OVERWRITE_ALL_0","机翻辅助：
+"BTLMSGID_OVERWRITE_ALL_0","队伍的强化效果延长了！","BTLMSGID_OVERWRITE_ALL_0","机翻辅助：
 
 队伍的强化效果延长了！
 
 派对的强化效果被延长了！
 
 派对的强化效果延长了！"
-"BTLMSGID_HPHEAL_ALL_MEMB_0","队友们的生命值已经恢复了！","BTLMSGID_HPHEAL_ALL_MEMB_0","机翻辅助：
+"BTLMSGID_HPHEAL_ALL_MEMB_0","我方全员的HP恢复了！","BTLMSGID_HPHEAL_ALL_MEMB_0","机翻辅助：
 
 我方全员的HP恢复了！
 
 我方全体人员的HP恢复了！
 
 我方全员的HP都恢复了！"
-"BTLMSGID_EXP_GIFT_0","这次战斗获得的经验值增加了！","BTLMSGID_EXP_GIFT_0","机翻辅助：
+"BTLMSGID_EXP_GIFT_0","在战斗中获得的经验值增加！","BTLMSGID_EXP_GIFT_0","机翻辅助：
 
 在战斗中获得的经验值增加！
 
 这个战斗能得到的经验值增加了！"
-"BTLMSGID_BOUHEKI_0","我方全员的防御力提升了！","BTLMSGID_BOUHEKI_0","机翻辅助：
+"BTLMSGID_BOUHEKI_0","我方全体防御力提升！","BTLMSGID_BOUHEKI_0","机翻辅助：
 
 我方全体防御力提升！
 
 我方全体人员的防御力提高了！
 
 我方全员的防御力都提高了！"
-"BTLMSGID_GOURIKI_0","我方全员的攻击力提升了！","BTLMSGID_GOURIKI_0","机翻辅助：
+"BTLMSGID_GOURIKI_0","我方全体攻击力提升！","BTLMSGID_GOURIKI_0","机翻辅助：
 
 我方全体攻击力提升！
 
 我方全员的攻击力上升了！
 
 我方全员的攻击力提高了！"
-"BTLMSGID_KAISOKU_0","我方全员的命中和回避提升了！","BTLMSGID_KAISOKU_0","机翻辅助：
+"BTLMSGID_KAISOKU_0","我方全体命中与闪避提升！","BTLMSGID_KAISOKU_0","机翻辅助：
 
 我方全体命中与闪避提升！
 
 我方全体人员的命中和回避提高了！
 
 我方全员的命中和回避提高了！"
-"BTLMSGID_COVERAL_0","抵抗敌人造成的伤害！","BTLMSGID_COVERAL_0","机翻辅助：
+"BTLMSGID_COVERAL_0","使受到的敌方伤害无效化！","BTLMSGID_COVERAL_0","机翻辅助：
 
 使受到的敌方伤害无效化！
 
 从敌人受到的伤害无效化！"
-"BTLMSGID_DENKOH_0","我方全员的行动变得最快了！","BTLMSGID_DENKOH_0","机翻辅助：
+"BTLMSGID_DENKOH_0","我方全体行动速度提升至最快！","BTLMSGID_DENKOH_0","机翻辅助：
 
 我方全体行动速度提升至最快！
 
 我方全体人员的行动最快了！
 
 我方全体人员的行动变得最快了！"
-"BTLMSGID_ORACLE_0","除了SP之外，为队友全体回复HP！","BTLMSGID_ORACLE_0","机翻辅助：
+"BTLMSGID_ORACLE_0","恢复SP以外的我方全体HP！","BTLMSGID_ORACLE_0","机翻辅助：
 
 恢复SP以外的我方全体HP！
 
 SP除外我方全部恢复！
 
 除了SP以外我方全部回复！"
-"BTLMSGID_MESSIAH_0","我方全员的HP、状态异常、封印全部恢复！","BTLMSGID_MESSIAH_0","机翻辅助：
+"BTLMSGID_MESSIAH_0","我方全体HP、异常状态、封锁全部恢复！","BTLMSGID_MESSIAH_0","机翻辅助：
 
 我方全体HP、异常状态、封锁全部恢复！
 
 我方全体人员的HP，状态异常，封印全部恢复！
 
 我方全员的HP，状态异常，封印全回复！"
-"BTLMSGID_ESHOWER_0","我方全员的异常状态和封印全部恢复了！","BTLMSGID_ESHOWER_0","机翻辅助：
+"BTLMSGID_ESHOWER_0","我方全体异常状态、封锁全部恢复！","BTLMSGID_ESHOWER_0","机翻辅助：
 
 我方全体异常状态、封锁全部恢复！
 
 我方全体人员的状态异常，封印全部恢复了！
 
 我方全员状态异常，封印全回复了！"
-"BTLMSGID_FULLGET_0","在这个回合内获得击倒的敌人的所有素材。","BTLMSGID_FULLGET_0","机翻辅助：
+"BTLMSGID_FULLGET_0","获得本回合打倒的敌方素材！","BTLMSGID_FULLGET_0","机翻辅助：
 
 获得本回合打倒的敌方素材！
 
 这个回合打倒的敌人的素材全部得到"
-"BTLMSGID_COST_CUT_0","所有队友的技能消耗变为零了！","BTLMSGID_COST_CUT_0","机翻辅助：
+"BTLMSGID_COST_CUT_0","我方全体技能成本归零！","BTLMSGID_COST_CUT_0","机翻辅助：
 
 我方全体技能成本归零！
 
 我方全员的技能成本变成了零！
 
 我方全员的技能成本为零！"
-"BTLMSGID_TIYUDAI_0","三回合内，恢复所有队友的HP！","BTLMSGID_TIYUDAI_0","机翻辅助：
+"BTLMSGID_TIYUDAI_0","在三回合内恢复我方全体HP！","BTLMSGID_TIYUDAI_0","机翻辅助：
 
 在三回合内恢复我方全体HP！
 
 3回合期间，我方全体人员的HP恢复！
 
 3回合期间，我方全员的HP回复！"
-"BTLMSGID_TIYUSOK_0","三回合内，恢复所有队友的HP！","BTLMSGID_TIYUSOK_0","机翻辅助：
+"BTLMSGID_TIYUSOK_0","在三回合内恢复我方全体HP！","BTLMSGID_TIYUSOK_0","机翻辅助：
 
 在三回合内恢复我方全体HP！
 
 3回合期间，我方全体人员的HP恢复！
 
 3回合期间，我方全员的HP回复！"
-"BTLMSGID_HOMUNCU_0","人偶成了替身！","BTLMSGID_HOMUNCU_0","机翻辅助：
+"BTLMSGID_HOMUNCU_0","人造人成为替身！","BTLMSGID_HOMUNCU_0","机翻辅助：
 
 人造人成为替身！
 
@@ -3559,7 +3559,7 @@ SP除外我方全部恢复！
 [占位A 01]神之祭品的效果发动！
 
 [占位A 01]二神的牺牲品的效果发动！"
-"BTLMSGID_DLCATK_0","回合结束时可以发动攻击了！","BTLMSGID_DLCATK_0","机翻辅助：
+"BTLMSGID_DLCATK_0","在回合结束时进行攻击！","BTLMSGID_DLCATK_0","机翻辅助：
 
 在回合结束时进行攻击！
 
@@ -3621,7 +3621,7 @@ SP除外我方全部恢复！
 [占位A 02]物理攻击无效化！
 
 [占位A 02]物理攻击变成无效化了！"
-"BTLMSGID_RISKY_GAMEOVER_0","领导者筋疲力尽了……","BTLMSGID_RISKY_GAMEOVER_0","机翻辅助：
+"BTLMSGID_RISKY_GAMEOVER_0","队长耗尽力气……","BTLMSGID_RISKY_GAMEOVER_0","机翻辅助：
 
 队长耗尽力气……
 
@@ -3633,14 +3633,14 @@ SP除外我方全部恢复！
 [占位A 01]的自爆开关启动！
 
 [占位A 01]的自爆开关打开了！"
-"BTLMSGID_EIKOHNO_0","我方全员的攻击力和防御力提升了！","BTLMSGID_EIKOHNO_0","机翻辅助：
+"BTLMSGID_EIKOHNO_0","我方全体攻击力与防御力提升！","BTLMSGID_EIKOHNO_0","机翻辅助：
 
 我方全体攻击力与防御力提升！
 
 我方全员的攻击力和防御力上升了！
 
 我方全员的攻击力和防御力都上升了！"
-"BTLMSGID_ALLBSTHEAL_0","队友的状态异常已经恢复了！","BTLMSGID_ALLBSTHEAL_0","机翻辅助：
+"BTLMSGID_ALLBSTHEAL_0","我方异常状态恢复！","BTLMSGID_ALLBSTHEAL_0","机翻辅助：
 
 我方异常状态恢复！
 
@@ -3702,7 +3702,7 @@ SP除外我方全部恢复！
 [占位A 02]变成了修罗！
 
 [占位A 02]化作了阿修罗！"
-"BTLMSGID_SUMMON_TRUMP_0","特朗普的士兵们出现了！","BTLMSGID_SUMMON_TRUMP_0","机翻辅助：
+"BTLMSGID_SUMMON_TRUMP_0","扑克牌士兵们出现了！","BTLMSGID_SUMMON_TRUMP_0","机翻辅助：
 
 扑克牌士兵们出现了！
 
@@ -3740,7 +3740,7 @@ SP除外我方全部恢复！
 [占位A 01]模棱两可
 
 [占位A 01]心神不宁"
-"BTLMSGID_TURNENDHEAL_0","队伍所有成员都恢复了！","BTLMSGID_TURNENDHEAL_0","机翻辅助：
+"BTLMSGID_TURNENDHEAL_0","具有恢复所有同伴的效果！","BTLMSGID_TURNENDHEAL_0","机翻辅助：
 
 具有恢复所有同伴的效果！
 
@@ -3771,7 +3771,7 @@ SP除外我方全部恢复！
 [占位A 02]的挑衅反击发动！
 
 [占位A 02]挑衅反击发动！"
-"BTLMSGID_REF_SKILL_LOCK_0","个性被剥夺了！","BTLMSGID_REF_SKILL_LOCK_0","机翻辅助：
+"BTLMSGID_REF_SKILL_LOCK_0","个性被夺走了！","BTLMSGID_REF_SKILL_LOCK_0","机翻辅助：
 
 个性被夺走了！
 
@@ -3783,12 +3783,12 @@ SP除外我方全部恢复！
 情绪高涨了！
 
 情绪高涨到极点了！"
-"BTLMSGID_BEAR_TENSION_L3_0","情绪高涨！","BTLMSGID_BEAR_TENSION_L3_0","机翻辅助：
+"BTLMSGID_BEAR_TENSION_L3_0","情绪激昂！","BTLMSGID_BEAR_TENSION_L3_0","机翻辅助：
 
 情绪激昂！
 
 情绪高涨！"
-"BTLMSGID_BEAR_TENSION_L3_2_0","情绪达到了最高潮！","BTLMSGID_BEAR_TENSION_L3_2_0","机翻辅助：
+"BTLMSGID_BEAR_TENSION_L3_2_0","情绪达到最高潮！","BTLMSGID_BEAR_TENSION_L3_2_0","机翻辅助：
 
 情绪达到最高潮！
 
@@ -3817,7 +3817,7 @@ SP除外我方全部恢复！
 [占位A 02]的核热耐性降低了！
 
 [占位A 02]的核热耐受性下降了！"
-"BTLMSGID_DOUBLE_ATTACK_0","连击发动！","BTLMSGID_DOUBLE_ATTACK_0","机翻辅助：
+"BTLMSGID_DOUBLE_ATTACK_0","发动连击！","BTLMSGID_DOUBLE_ATTACK_0","机翻辅助：
 
 发动连击！
 
@@ -3835,61 +3835,61 @@ SP除外我方全部恢复！
 [占位A 02]防止解析……
 
 [占位A 02]防止被解析……"
-"BTLMSGID_PQ2_SONIC_RUSH_0","准备使用连续技能！","BTLMSGID_PQ2_SONIC_RUSH_0","机翻辅助：
+"BTLMSGID_PQ2_SONIC_RUSH_0","采取连续使用技能的架势！","BTLMSGID_PQ2_SONIC_RUSH_0","机翻辅助：
 
 采取连续使用技能的架势！
 
 准备连续使用技能！
 
 采取了连续使用技能的姿势！"
-"BTLMSGID_PQ2_RUSH_STEP_0","准备使用连续技能！","BTLMSGID_PQ2_RUSH_STEP_0","机翻辅助：
+"BTLMSGID_PQ2_RUSH_STEP_0","采取连续使用技能的架势！","BTLMSGID_PQ2_RUSH_STEP_0","机翻辅助：
 
 采取连续使用技能的架势！
 
 准备连续使用技能！
 
 采取了连续使用技能的姿势！"
-"BTLMSGID_PQ2_GOWAN_0","准备扩散技能！","BTLMSGID_PQ2_GOWAN_0","机翻辅助：
+"BTLMSGID_PQ2_GOWAN_0","采取扩散技能的架势！","BTLMSGID_PQ2_GOWAN_0","机翻辅助：
 
 采取扩散技能的架势！
 
 做好了扩散技能的准备！
 
 采取了扩散技能的准备！"
-"BTLMSGID_PQ2_GAISHU_0","准备扩散技能！","BTLMSGID_PQ2_GAISHU_0","机翻辅助：
+"BTLMSGID_PQ2_GAISHU_0","采取扩散技能的架势！","BTLMSGID_PQ2_GAISHU_0","机翻辅助：
 
 采取扩散技能的架势！
 
 做好了扩散技能的准备！
 
 采取了扩散技能的准备！"
-"BTLMSGID_PQ2_UTIOTOSI_0","为了抵消物理攻击，我做好了准备！","BTLMSGID_PQ2_UTIOTOSI_0","机翻辅助：
+"BTLMSGID_PQ2_UTIOTOSI_0","为了使物理攻击无效而摆出架势！","BTLMSGID_PQ2_UTIOTOSI_0","机翻辅助：
 
 为了使物理攻击无效而摆出架势！
 
 为了使物理攻击无效化而做好了准备！
 
 为了使物理攻击无效化做好了准备！"
-"BTLMSGID_PQ2_GEIGEKI_0","为了抵消物理攻击，我做好了准备！","BTLMSGID_PQ2_GEIGEKI_0","机翻辅助：
+"BTLMSGID_PQ2_GEIGEKI_0","为了使物理攻击无效而摆出架势！","BTLMSGID_PQ2_GEIGEKI_0","机翻辅助：
 
 为了使物理攻击无效而摆出架势！
 
 为了使物理攻击无效化而做好了准备！
 
 为了使物理攻击无效化做好了准备！"
-"BTLMSGID_PQ2_ORGIA_0","解除了限速器！","BTLMSGID_PQ2_ORGIA_0","机翻辅助：
+"BTLMSGID_PQ2_ORGIA_0","解除限制器！","BTLMSGID_PQ2_ORGIA_0","机翻辅助：
 
 解除限制器！
 
 解除了限制！"
-"BTLMSGID_PQ2_COSTC_0","技能的消耗成本降低了！","BTLMSGID_PQ2_COSTC_0","机翻辅助：
+"BTLMSGID_PQ2_COSTC_0","技能的消费成本下降！","BTLMSGID_PQ2_COSTC_0","机翻辅助：
 
 技能的消费成本下降！
 
 技能的消费成本下降了！
 
 技能的消耗成本降低了！"
-"BTLMSGID_PQ2_COSTR_0","技能的消耗成本降低了！","BTLMSGID_PQ2_COSTR_0","机翻辅助：
+"BTLMSGID_PQ2_COSTR_0","技能的消费成本下降！","BTLMSGID_PQ2_COSTR_0","机翻辅助：
 
 技能的消费成本下降！
 

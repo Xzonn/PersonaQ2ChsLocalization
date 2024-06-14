@@ -158,7 +158,7 @@
 
 进入迷宫，
 可以推进故事和委托。"
-"MSG_FCL_QUEST_OPEN_0","听说售票处开业了！","MSG_FCL_QUEST_OPEN_0","机翻辅助：
+"MSG_FCL_QUEST_OPEN_0","好像有售票处了哦！","MSG_FCL_QUEST_OPEN_0","机翻辅助：
 
 好像有售票处了哦！
 
@@ -218,7 +218,7 @@
 
 委托可以通过X按钮打开的菜单
 “SYSTEM”[颜色 03]确认。[颜色 01]"
-"TOWN_TUTORIAL_CAMP_QUEST_2_0","您可以确认收到的请求。","TOWN_TUTORIAL_CAMP_QUEST_2_0","机翻辅助：
+"TOWN_TUTORIAL_CAMP_QUEST_2_0","可以确认已接受的委托。","TOWN_TUTORIAL_CAMP_QUEST_2_0","机翻辅助：
 
 可以确认已接受的委托。
 
@@ -254,8 +254,8 @@
 
 满足委托达成条件后，
 向保健室“报告”[颜色 03]去死。不报告就拿不到报酬。请注意。[颜色 01]"
-"TOWN_TO_DUNGEON_0","未装备辅助装备时的警告文。
-请准备辅助人格。","TOWN_TO_DUNGEON_0","机翻辅助：
+"TOWN_TO_DUNGEON_0","没有装备副佩时的警告文。
+请准备副人格面具。","TOWN_TO_DUNGEON_0","机翻辅助：
 
 没有装备副佩时的警告文。
 请准备副人格面具。
@@ -274,10 +274,10 @@
 问候2。
 
 打招呼。"
-"MSG_TUTORIAL_PROTO_START_0","【Proto2 ROM Start】请从“接受任务设施”
-接受“寻找英雄腰带”
-的任务，
-并开始探索迷宫。","MSG_TUTORIAL_PROTO_START_0","机翻辅助：
+"MSG_TUTORIAL_PROTO_START_0","【PROTO2ROM　START】
+请从
+”任务承接设施”接受
+”寻找英雄皮带”开始探索迷宫。","MSG_TUTORIAL_PROTO_START_0","机翻辅助：
 
 【PROTO2ROM　START】
 请从
@@ -292,8 +292,8 @@
 【Proto2ROM START】
 请从“任务接受订货设施”接受“寻找英雄腰带”的订单
 开始迷宫探索。"
-"MSG_TUTORIAL_QUEST1_0","发生的任务可以在“任务接受设施”
-接受。","MSG_TUTORIAL_QUEST1_0","机翻辅助：
+"MSG_TUTORIAL_QUEST1_0","发生任务时，
+请在”任务承接设施”接受。","MSG_TUTORIAL_QUEST1_0","机翻辅助：
 
 发生任务时，
 请在”任务承接设施”接受。
@@ -303,8 +303,8 @@
 
 发生的任务在“任务接受订货设施”
 能接受订货。"
-"MSG_TUTORIAL_QUEST2_0","已完成的任务，请在“任务接受设施”
-处进行“报告”。","MSG_TUTORIAL_QUEST2_0","机翻辅助：
+"MSG_TUTORIAL_QUEST2_0","达成任务时
+请在”任务承接设施”进行”报告”。","MSG_TUTORIAL_QUEST2_0","机翻辅助：
 
 达成任务时
 请在”任务承接设施”进行”报告”。
@@ -314,8 +314,8 @@
 
 完成的任务请在
 “任务接受设施”进行“报告”。"
-"MSG_SHOP_OPEN_0","刚才在商店那边，
-好像有什么大声的声音！","MSG_SHOP_OPEN_0","机翻辅助：
+"MSG_SHOP_OPEN_0","刚才商店那边
+好像有好大的声音！","MSG_SHOP_OPEN_0","机翻辅助：
 
 刚才商店那边
 好像有好大的声音！
@@ -324,7 +324,7 @@
 
 
 刚才商店那边传来了很大的声音！"
-"MSG_V_ROOM_ONLY_0","现在去绒毛房间吧！","MSG_V_ROOM_ONLY_0","机翻辅助：
+"MSG_V_ROOM_ONLY_0","现在就去幻影洋楼吧！","MSG_V_ROOM_ONLY_0","机翻辅助：
 
 现在就去幻影洋楼吧！
 
@@ -430,8 +430,8 @@
 
 为了有利地推进迷宫探索[颜色 03][颜色 01]试着购买“消费品”[颜色 03][颜色 01]
 “装备品”等。"
-"MSG_FCL_ITE_RETURN_ALERT_0","嘿，你没有卡车吗？没事吧？需要卡车，一定要有！
-","MSG_FCL_ITE_RETURN_ALERT_0","机翻辅助：
+"MSG_FCL_ITE_RETURN_ALERT_0","喂，没有回城术，没问题吗？
+绝对需要回城术！","MSG_FCL_ITE_RETURN_ALERT_0","机翻辅助：
 
 喂，没有回城术，没问题吗？
 绝对需要回城术！

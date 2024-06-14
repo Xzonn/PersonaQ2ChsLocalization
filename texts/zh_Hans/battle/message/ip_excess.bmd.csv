@@ -1,6 +1,6 @@
 "source","target","id","developer_comments"
-"IP_EXCESS_YESNO_0","是的。","IP_EXCESS_YESNO_0",""
-"IP_EXCESS_YESNO_1","不是","IP_EXCESS_YESNO_1",""
+"IP_EXCESS_YESNO_0","是","IP_EXCESS_YESNO_0",""
+"IP_EXCESS_YESNO_1","否","IP_EXCESS_YESNO_1",""
 "IP_EXCESS_ITEM_0","＞要舍弃选择的道具。
 　确定吗？","IP_EXCESS_ITEM_0","机翻辅助：
 
@@ -91,7 +91,7 @@
 请选择能消灭的人格面具。
 
 不能再持有人格面具。请选择消灭的人格面具。"
-"IP_EXCESS_CANT_DELETE_DL_0","无法舍弃的DLC物品。","IP_EXCESS_CANT_DELETE_DL_0","机翻辅助：
+"IP_EXCESS_CANT_DELETE_DL_0","＞无法丢弃的DLC道具。","IP_EXCESS_CANT_DELETE_DL_0","机翻辅助：
 
 ＞无法丢弃的DLC道具。
 

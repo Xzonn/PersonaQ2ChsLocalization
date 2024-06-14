@@ -1,12 +1,12 @@
 "source","target","id","developer_comments"
-"WSHOP_HELLO_NAGI_0_0","噢，你来了啊。","WSHOP_HELLO_NAGI_0_0","机翻辅助：
+"WSHOP_HELLO_NAGI_0_0","哎呀，你也在啊。","WSHOP_HELLO_NAGI_0_0","机翻辅助：
 
 哎呀，你也在啊。
 
 嘛，来了吧。
 
 嗯，来了吧。"
-"WSHOP_HELLO_NAGI_1_0","你来得很频繁啊。","WSHOP_HELLO_NAGI_1_0","机翻辅助：
+"WSHOP_HELLO_NAGI_1_0","你来得好啊。","WSHOP_HELLO_NAGI_1_0","机翻辅助：
 
 你来得好啊。
 
@@ -19,7 +19,7 @@
 "WSHOP_HELLO_THEODORE_1_0","欢迎光临。","WSHOP_HELLO_THEODORE_1_0","机翻辅助：
 
 欢迎光临。"
-"WSHOP_HELLO_THEODORE_2_0","各位，欢迎光临。","WSHOP_HELLO_THEODORE_2_0","机翻辅助：
+"WSHOP_HELLO_THEODORE_2_0","我们恭候多时了。","WSHOP_HELLO_THEODORE_2_0","机翻辅助：
 
 我们恭候多时了。
 
@@ -40,8 +40,8 @@
 
 哎呀……您好像有
 [道具 0765]。"
-"WSHOP_DISCOUNT1_P1_2","恭喜你！
-这是我亲手制作的折扣券！","WSHOP_DISCOUNT1_P1_2","机翻辅助：
+"WSHOP_DISCOUNT1_P1_2","恭喜您！
+这是由我亲手制作的折价券！","WSHOP_DISCOUNT1_P1_2","机翻辅助：
 
 恭喜您！
 这是由我亲手制作的折价券！
@@ -61,8 +61,8 @@
 可以购买。
 
 今后[颜色 03]所有商品都可以打10%的折扣来购买。[颜色 01]"
-"WSHOP_DISCOUNT1_P1_4","希望大家能够享受购物的乐趣。
-","WSHOP_DISCOUNT1_P1_4","机翻辅助：
+"WSHOP_DISCOUNT1_P1_4","
+希望您能享受购物的乐趣。谢谢。","WSHOP_DISCOUNT1_P1_4","机翻辅助：
 
 
 希望您能享受购物的乐趣。谢谢。
@@ -85,8 +85,8 @@
 
 哎呀……您好像有
 [道具 0766]。"
-"WSHOP_DISCOUNT1_P2_2","恭喜你！
-这是我亲手制作的折扣券！","WSHOP_DISCOUNT1_P2_2","机翻辅助：
+"WSHOP_DISCOUNT1_P2_2","恭喜您！
+这是由我亲手制作的折价券！","WSHOP_DISCOUNT1_P2_2","机翻辅助：
 
 恭喜您！
 这是由我亲手制作的折价券！
@@ -106,8 +106,8 @@
 可以购买。
 
 今后[颜色 03]所有商品都可以打10%的折扣来购买。[颜色 01]"
-"WSHOP_DISCOUNT1_P2_4","希望大家能够享受购物的乐趣。
-","WSHOP_DISCOUNT1_P2_4","机翻辅助：
+"WSHOP_DISCOUNT1_P2_4","
+希望您能享受购物的乐趣。谢谢。","WSHOP_DISCOUNT1_P2_4","机翻辅助：
 
 
 希望您能享受购物的乐趣。谢谢。
@@ -130,8 +130,8 @@
 
 哎呀……您好像有
 [道具 0767]。"
-"WSHOP_DISCOUNT1_P3_2","恭喜你！
-这是我亲手制作的折扣券！","WSHOP_DISCOUNT1_P3_2","机翻辅助：
+"WSHOP_DISCOUNT1_P3_2","恭喜您！
+这是由我亲手制作的折价券！","WSHOP_DISCOUNT1_P3_2","机翻辅助：
 
 恭喜您！
 这是由我亲手制作的折价券！
@@ -151,8 +151,8 @@
 可以购买。
 
 今后[颜色 03]所有商品都可以打10%的折扣来购买。[颜色 01]"
-"WSHOP_DISCOUNT1_P3_4","希望大家能够享受购物的乐趣。
-","WSHOP_DISCOUNT1_P3_4","机翻辅助：
+"WSHOP_DISCOUNT1_P3_4","
+希望您能享受购物的乐趣。谢谢。","WSHOP_DISCOUNT1_P3_4","机翻辅助：
 
 
 希望您能享受购物的乐趣。谢谢。
@@ -178,8 +178,8 @@
 
 哦哦……您好像
 [道具 0766]和[道具 0767]各有一张呢。"
-"WSHOP_DISCOUNT2_P1_2","恭喜！
-每个都有10%的折扣，所以","WSHOP_DISCOUNT2_P1_2","机翻辅助：
+"WSHOP_DISCOUNT2_P1_2","恭喜恭喜！
+分别打九折","WSHOP_DISCOUNT2_P1_2","机翻辅助：
 
 恭喜恭喜！
 分别打九折
@@ -199,8 +199,8 @@
 
 
 今后[颜色 03]所有商品都可以打20%的折扣来购买。[颜色 01]"
-"WSHOP_DISCOUNT2_P1_4","今后请多多关照，
-非常感谢您的支持。","WSHOP_DISCOUNT2_P1_4","机翻辅助：
+"WSHOP_DISCOUNT2_P1_4","
+今后也请您多多关照。谢谢。","WSHOP_DISCOUNT2_P1_4","机翻辅助：
 
 
 今后也请您多多关照。谢谢。
@@ -226,8 +226,8 @@
 
 哦哦……您好像
 [道具 0765]和[道具 0767]各有一张呢。"
-"WSHOP_DISCOUNT2_P2_2","恭喜！
-每个都有10%的折扣，所以","WSHOP_DISCOUNT2_P2_2","机翻辅助：
+"WSHOP_DISCOUNT2_P2_2","恭喜恭喜！
+分别打九折","WSHOP_DISCOUNT2_P2_2","机翻辅助：
 
 恭喜恭喜！
 分别打九折
@@ -247,8 +247,8 @@
 
 
 今后[颜色 03]所有商品都可以打20%的折扣来购买。[颜色 01]"
-"WSHOP_DISCOUNT2_P2_4","今后请多多关照，
-非常感谢您的支持。","WSHOP_DISCOUNT2_P2_4","机翻辅助：
+"WSHOP_DISCOUNT2_P2_4","
+今后也请您多多关照。谢谢。","WSHOP_DISCOUNT2_P2_4","机翻辅助：
 
 
 今后也请您多多关照。谢谢。
@@ -274,8 +274,8 @@
 
 哦哦……您好像
 [道具 0765]和[道具 0766]各有一张呢。"
-"WSHOP_DISCOUNT2_P3_2","恭喜！
-每个都有10%的折扣，所以","WSHOP_DISCOUNT2_P3_2","机翻辅助：
+"WSHOP_DISCOUNT2_P3_2","恭喜恭喜！
+分别打九折","WSHOP_DISCOUNT2_P3_2","机翻辅助：
 
 恭喜恭喜！
 分别打九折
@@ -295,8 +295,8 @@
 
 
 今后[颜色 03]所有商品都可以打20%的折扣来购买。[颜色 01]"
-"WSHOP_DISCOUNT2_P3_4","今后请多多关照，
-非常感谢您的支持。","WSHOP_DISCOUNT2_P3_4","机翻辅助：
+"WSHOP_DISCOUNT2_P3_4","
+今后也请您多多关照。谢谢。","WSHOP_DISCOUNT2_P3_4","机翻辅助：
 
 
 今后也请您多多关照。谢谢。
@@ -308,8 +308,8 @@
 "WSHOP_DISCOUNT3_P1_0","欢迎光临。","WSHOP_DISCOUNT3_P1_0","机翻辅助：
 
 欢迎光临。"
-"WSHOP_DISCOUNT3_P1_1","太棒了……看起来您已经准备好了所有的折扣券！
-","WSHOP_DISCOUNT3_P1_1","机翻辅助：
+"WSHOP_DISCOUNT3_P1_1","真是太棒了……您好像
+集齐了所有的折价券呢！","WSHOP_DISCOUNT3_P1_1","机翻辅助：
 
 真是太棒了……您好像
 集齐了所有的折价券呢！
@@ -329,8 +329,8 @@
 购买！
 
 今后[颜色 03]所有商品都能以30%的折让价格[颜色 01]来购买！"
-"WSHOP_DISCOUNT3_P1_3","从现在开始也请继续给予不变的爱护，
-谢谢。","WSHOP_DISCOUNT3_P1_3","机翻辅助：
+"WSHOP_DISCOUNT3_P1_3","
+今后也请您继续光顾本店。谢谢。","WSHOP_DISCOUNT3_P1_3","机翻辅助：
 
 
 今后也请您继续光顾本店。谢谢。
@@ -339,31 +339,31 @@
 
 
 今后也请您一如既往地惠顾。"
-"WSHOP_OUT_NAGI_0_0","再来一次吧。","WSHOP_OUT_NAGI_0_0","机翻辅助：
+"WSHOP_OUT_NAGI_0_0","欢迎再度光临。","WSHOP_OUT_NAGI_0_0","机翻辅助：
 
 欢迎再度光临。
 
 下次再来哦。
 
 欢迎再次光临。"
-"WSHOP_OUT_NAGI_1_0","注意安全，一路顺风。","WSHOP_OUT_NAGI_1_0","机翻辅助：
+"WSHOP_OUT_NAGI_1_0","路上小心。","WSHOP_OUT_NAGI_1_0","机翻辅助：
 
 路上小心。
 
 路上小心哦。"
-"WSHOP_OUT_THEODORE_0_0","非常感谢您的使用。","WSHOP_OUT_THEODORE_0_0","机翻辅助：
+"WSHOP_OUT_THEODORE_0_0","谢谢您的使用。","WSHOP_OUT_THEODORE_0_0","机翻辅助：
 
 谢谢您的使用。
 
 感谢您的使用。"
-"WSHOP_OUT_THEODORE_1_0","请小心，一路顺风。","WSHOP_OUT_THEODORE_1_0","机翻辅助：
+"WSHOP_OUT_THEODORE_1_0","请小心慢走。","WSHOP_OUT_THEODORE_1_0","机翻辅助：
 
 请小心慢走。
 
 路上小心，慢走。
 
 路上小心，路上小心。"
-"WSHOP_OUT_THEODORE_2_0","期待您的再次光临。","WSHOP_OUT_THEODORE_2_0","机翻辅助：
+"WSHOP_OUT_THEODORE_2_0","期待各位再次光临。","WSHOP_OUT_THEODORE_2_0","机翻辅助：
 
 期待各位再次光临。
 
@@ -457,9 +457,9 @@
 
 [颜色 03]素材的入手方法和场所[颜色 01]等可以确认，有想要的商品的时候
 活用也不错吧。"
-"WSHOP_THEO_SHOP_1ST_IN_M_3_1","卖出素材可以获得金钱，
-还可以增加新的商品，
-所以让我们积极地进行卖出吧。","WSHOP_THEO_SHOP_1ST_IN_M_3_1","机翻辅助：
+"WSHOP_THEO_SHOP_1ST_IN_M_3_1","如果卖掉素材钱也能得到，
+新的商品也被追加，
+积极地试着出售吧。","WSHOP_THEO_SHOP_1ST_IN_M_3_1","机翻辅助：
 
 如果卖掉素材钱也能得到，
 新的商品也被追加，
@@ -499,14 +499,14 @@
 通过对捡到的未鉴定品进行[颜色 03]鉴定，[颜色 01]
 可以得到赋予各种能力的首饰[颜色 03]。[颜色 01]
 积极地鉴定一下吧。"
-"SEL_WSHOP_QUSET_02_010_0","是的","SEL_WSHOP_QUSET_02_010_0",""
-"SEL_WSHOP_QUSET_02_010_1","不是","SEL_WSHOP_QUSET_02_010_1",""
-"SEL_WSHOP_QUSET_12_010_0","是的","SEL_WSHOP_QUSET_12_010_0",""
-"SEL_WSHOP_QUSET_12_010_1","不是","SEL_WSHOP_QUSET_12_010_1",""
-"SEL_WSHOP_QUSET_22_010_0","是的","SEL_WSHOP_QUSET_22_010_0",""
-"SEL_WSHOP_QUSET_22_010_1","不是","SEL_WSHOP_QUSET_22_010_1",""
-"WSHOP_EXP_EFFECT_T_0","选择攻击力高的武器和防御力高的防具，
-基本上不会有问题。","WSHOP_EXP_EFFECT_T_0","机翻辅助：
+"SEL_WSHOP_QUSET_02_010_0","是","SEL_WSHOP_QUSET_02_010_0",""
+"SEL_WSHOP_QUSET_02_010_1","否","SEL_WSHOP_QUSET_02_010_1",""
+"SEL_WSHOP_QUSET_12_010_0","是","SEL_WSHOP_QUSET_12_010_0",""
+"SEL_WSHOP_QUSET_12_010_1","否","SEL_WSHOP_QUSET_12_010_1",""
+"SEL_WSHOP_QUSET_22_010_0","是","SEL_WSHOP_QUSET_22_010_0",""
+"SEL_WSHOP_QUSET_22_010_1","否","SEL_WSHOP_QUSET_22_010_1",""
+"WSHOP_EXP_EFFECT_T_0","武器“攻击力”，防具“防御力”高
+选择的话，基本上没有问题。","WSHOP_EXP_EFFECT_T_0","机翻辅助：
 
 武器“攻击力”，防具“防御力”高
 选择的话，基本上没有问题。
@@ -516,8 +516,8 @@
 
 武器选择“攻击力”、防具选择“防御力”高的
 物品，基本上就没问题了。"
-"WSHOP_EXP_EFFECT_T_1","但是，除此之外还存在着具有“特殊效果”
-的装备品。","WSHOP_EXP_EFFECT_T_1","机翻辅助：
+"WSHOP_EXP_EFFECT_T_1","但是，那个以外也有
+拥有了“特殊的效果”的装备品存在。","WSHOP_EXP_EFFECT_T_1","机翻辅助：
 
 但是，那个以外也有
 拥有了“特殊的效果”的装备品存在。
@@ -526,8 +526,8 @@
 拥有“特殊效果”的装备品。】
 
 但是，除此之外还有拥有“特殊效果”的装备。"
-"WSHOP_EXP_EFFECT_T_2","例如给予“状态异常”效果，
-增加“力量”或“魔力”等等。","WSHOP_EXP_EFFECT_T_2","机翻辅助：
+"WSHOP_EXP_EFFECT_T_2","例如，给予“状态异常”的效果，
+“力”和“魔”等增加……等等。","WSHOP_EXP_EFFECT_T_2","机翻辅助：
 
 例如，给予“状态异常”的效果，
 “力”和“魔”等增加……等等。
@@ -537,8 +537,8 @@
 
 比如说，给予“异常状态”的效果、
 增加“力量”或“魔力”等等。】"
-"WSHOP_EXP_EFFECT_T_3","与暗影战斗时，
-也有一些能增加获得金钱的效果的物品。","WSHOP_EXP_EFFECT_T_3","机翻辅助：
+"WSHOP_EXP_EFFECT_T_3","在与阴影的战斗中，也有能得到的钱
+增加的效果。","WSHOP_EXP_EFFECT_T_3","机翻辅助：
 
 在与阴影的战斗中，也有能得到的钱
 增加的效果。
@@ -548,8 +548,8 @@
 
 也有在跟暗影战斗时，
 能增加获得金钱的效果。】"
-"WSHOP_EXP_EFFECT_T_4","根据情况选择重视“特殊效果”
-的装备也是一种方法。","WSHOP_EXP_EFFECT_T_4","机翻辅助：
+"WSHOP_EXP_EFFECT_T_4","根据情况，选择重视“特殊效果”的
+装备也是一种方法。","WSHOP_EXP_EFFECT_T_4","机翻辅助：
 
 根据情况，选择重视“特殊效果”的
 装备也是一种方法。
@@ -559,8 +559,8 @@
 
 视情况而定，选择重视“特殊效果”的
 装备也是一种手段。】"
-"WSHOP_EXP_DLC_ITEM_0_0","如果你不在座位上，
-有包裹送到了你的名字。","WSHOP_EXP_DLC_ITEM_0_0","机翻辅助：
+"WSHOP_EXP_DLC_ITEM_0_0","你离开座位时，有
+包裹寄给你。","WSHOP_EXP_DLC_ITEM_0_0","机翻辅助：
 
 你离开座位时，有
 包裹寄给你。
@@ -569,7 +569,7 @@
 
 
 如果你不在的话，寄给你的行李就送到了。"
-"WSHOP_EXP_DLC_ITEM_0_1","一定会对冒险有所帮助的物品。
+"WSHOP_EXP_DLC_ITEM_0_1","这一定是能在冒险中派上用场的道具。
 请务必收下。","WSHOP_EXP_DLC_ITEM_0_1","机翻辅助：
 
 这一定是能在冒险中派上用场的道具。
@@ -580,7 +580,7 @@
 
 一定是对冒险有用的项目。请务必收下。"
 "WSHOP_EXP_DLC_ITEM_1_0","哎呀，
-看起来行李好像很多呢。","WSHOP_EXP_DLC_ITEM_1_0","机翻辅助：
+看来您的道具栏已经满了呢。","WSHOP_EXP_DLC_ITEM_1_0","机翻辅助：
 
 哎呀，
 看来您的道具栏已经满了呢。
@@ -589,8 +589,8 @@
 好像行李很多呢。
 
 哎呀，行李好像满了。"
-"WSHOP_EXP_DLC_ITEM_1_1","请稍微等一下，
-然后再过来。","WSHOP_EXP_DLC_ITEM_1_1","机翻辅助：
+"WSHOP_EXP_DLC_ITEM_1_1","请先腾出一些空间再
+过来一趟吧。","WSHOP_EXP_DLC_ITEM_1_1","机翻辅助：
 
 请先腾出一些空间再
 过来一趟吧。
@@ -599,13 +599,13 @@
 
 
 请空出一点空间再来。"
-"WSHOP_EXP_DLC_ITEM_2_0","请收下。","WSHOP_EXP_DLC_ITEM_2_0","机翻辅助：
+"WSHOP_EXP_DLC_ITEM_2_0","请收下道具。　　（暂定）","WSHOP_EXP_DLC_ITEM_2_0","机翻辅助：
 
 请收下道具。　　（暂定）
 
 请收下。"
-"WSHOP_EXP_DLC_ITEM_3_0","这是一个临时实现，
-请接收。","WSHOP_EXP_DLC_ITEM_3_0","机翻辅助：
+"WSHOP_EXP_DLC_ITEM_3_0","这是暂定道具。
+请收下。","WSHOP_EXP_DLC_ITEM_3_0","机翻辅助：
 
 这是暂定道具。
 请收下。
@@ -614,13 +614,13 @@
 请收下。
 
 成为临时安装。请收下。"
-"WSHOP_EXP_DLC_ITEM_3_1","　得到了！","WSHOP_EXP_DLC_ITEM_3_1","机翻辅助：
+"WSHOP_EXP_DLC_ITEM_3_1","[占位B 01]　得到啦！","WSHOP_EXP_DLC_ITEM_3_1","机翻辅助：
 
 [占位B 01]　得到啦！
 
 [占位B 01]　得到了！"
-"WSHOP_EXP_DLC_ITEM_4_0","这是一个临时实现，
-请接收。","WSHOP_EXP_DLC_ITEM_4_0","机翻辅助：
+"WSHOP_EXP_DLC_ITEM_4_0","这是暂定道具。
+请收下。","WSHOP_EXP_DLC_ITEM_4_0","机翻辅助：
 
 这是暂定道具。
 请收下。
@@ -629,13 +629,13 @@
 请收下。
 
 成为临时安装。请收下。"
-"WSHOP_EXP_DLC_ITEM_4_1","　得到了！","WSHOP_EXP_DLC_ITEM_4_1","机翻辅助：
+"WSHOP_EXP_DLC_ITEM_4_1","[占位B 01]　得到啦！","WSHOP_EXP_DLC_ITEM_4_1","机翻辅助：
 
 [占位B 01]　得到啦！
 
 [占位B 01]　得到了！"
-"WSHOP_EXP_DLC_ITEM_5_0","这是一个临时实现，
-请接收。","WSHOP_EXP_DLC_ITEM_5_0","机翻辅助：
+"WSHOP_EXP_DLC_ITEM_5_0","这是暂定道具。
+请收下。","WSHOP_EXP_DLC_ITEM_5_0","机翻辅助：
 
 这是暂定道具。
 请收下。
@@ -644,25 +644,25 @@
 请收下。
 
 成为临时安装。请收下。"
-"WSHOP_EXP_DLC_ITEM_5_1","　得到了！","WSHOP_EXP_DLC_ITEM_5_1","机翻辅助：
+"WSHOP_EXP_DLC_ITEM_5_1","[占位B 01]　得到啦！","WSHOP_EXP_DLC_ITEM_5_1","机翻辅助：
 
 [占位B 01]　得到啦！
 
 [占位B 01]　得到了！"
-"WSHOP_EXP_HELLO_THEODORE_0","请问有什么问题吗？","WSHOP_EXP_HELLO_THEODORE_0","机翻辅助：
+"WSHOP_EXP_HELLO_THEODORE_0","您有什么问题吗？","WSHOP_EXP_HELLO_THEODORE_0","机翻辅助：
 
 您有什么问题吗？"
-"WSHOP_EXP_HELLO_NAGI_0","请问有什么问题吗？","WSHOP_EXP_HELLO_NAGI_0","机翻辅助：
+"WSHOP_EXP_HELLO_NAGI_0","您有什么问题吗？","WSHOP_EXP_HELLO_NAGI_0","机翻辅助：
 
 您有什么问题吗？"
-"WSHOP_EXP_ITEM_ADD_ABOUT_0","素材的出售","WSHOP_EXP_ITEM_ADD_ABOUT_0","机翻辅助：
+"WSHOP_EXP_ITEM_ADD_ABOUT_0","变卖素材","WSHOP_EXP_ITEM_ADD_ABOUT_0","机翻辅助：
 
 变卖素材
 
 材料的出售
 
 出售材料"
-"WSHOP_EXP_ITEM_ADD_ABOUT_1","特殊条件下获取的材料","WSHOP_EXP_ITEM_ADD_ABOUT_1","机翻辅助：
+"WSHOP_EXP_ITEM_ADD_ABOUT_1","通过特殊条件取得的素材","WSHOP_EXP_ITEM_ADD_ABOUT_1","机翻辅助：
 
 通过特殊条件取得的素材
 
@@ -674,8 +674,8 @@
 返回
 
 退席"
-"WSHOP_EXP_NEW_ITEM_T_0","如果您能够出售在迷宫中获得的“素材”，
-或许可以制作出新的商品。","WSHOP_EXP_NEW_ITEM_T_0","机翻辅助：
+"WSHOP_EXP_NEW_ITEM_T_0","若是将您在迷宫里获得的“素材”变卖给我们，
+或许就能制作出新的商品。","WSHOP_EXP_NEW_ITEM_T_0","机翻辅助：
 
 若是将您在迷宫里获得的“素材”变卖给我们，
 或许就能制作出新的商品。
@@ -684,7 +684,7 @@
 
 
 如果能把在迷宫得到的“素材”卖给我们的话，也许能做出新的商品。"
-"WSHOP_EXP_NEW_ITEM_T_1","但是，根据商品的不同，可能需要多个“材料”。
+"WSHOP_EXP_NEW_ITEM_T_1","不过，有些商品需要复数的“素材”。
 ","WSHOP_EXP_NEW_ITEM_T_1","机翻辅助：
 
 不过，有些商品需要复数的“素材”。
@@ -694,16 +694,16 @@
 必要的情况。
 
 但是，根据商品的不同，也有需要多个“素材”的情况。"
-"WSHOP_EXP_NEW_ITEM_T_2","在那种情况下，
-我们会在商品列表中通知您“WANTED”。","WSHOP_EXP_NEW_ITEM_T_2","机翻辅助：
+"WSHOP_EXP_NEW_ITEM_T_2","这种时候，我们会在“商品一览”中
+以“WANTED”标示。","WSHOP_EXP_NEW_ITEM_T_2","机翻辅助：
 
 这种时候，我们会在“商品一览”中
 以“WANTED”标示。
 
 那个情况作为“WANTED”，
 商品一览通知。"
-"WSHOP_EXP_NEW_ITEM_T_3","如果您需要确认缺少的“素材”，
-请告知我们“需要素材确认”。","WSHOP_EXP_NEW_ITEM_T_3","机翻辅助：
+"WSHOP_EXP_NEW_ITEM_T_3","若想确认不足的“素材”，
+请告诉我们“素材确认”。　　（暂定）","WSHOP_EXP_NEW_ITEM_T_3","机翻辅助：
 
 若想确认不足的“素材”，
 请告诉我们“素材确认”。　　（暂定）
@@ -712,8 +712,8 @@
 
 
 确认不足的“素材”时，请申请“确认素材”。"
-"WSHOP_EXP_NEW_ITEM_T_4","在收集不足的素材时，
-我想我可以提供有用的信息。","WSHOP_EXP_NEW_ITEM_T_4","机翻辅助：
+"WSHOP_EXP_NEW_ITEM_T_4","我想应该能
+提供您一些有用的情报，协助您收集不足的素材。","WSHOP_EXP_NEW_ITEM_T_4","机翻辅助：
 
 我想应该能
 提供您一些有用的情报，协助您收集不足的素材。
@@ -722,8 +722,8 @@
 
 
 我想在收集不足素材的时候，能告知一些有用的信息。"
-"WSHOP_EXP_RARE_MATERIAL__0","在阴影中也有掉落“稀有材料”
-的存在。","WSHOP_EXP_RARE_MATERIAL__0","机翻辅助：
+"WSHOP_EXP_RARE_MATERIAL__0","暗影之中，也存在着会掉落“稀有素材”的个体。
+","WSHOP_EXP_RARE_MATERIAL__0","机翻辅助：
 
 暗影之中，也存在着会掉落“稀有素材”的个体。
 
@@ -732,8 +732,8 @@
 
 
 阴影中也有将“稀少的素材”去掉的存在。"
-"WSHOP_EXP_RARE_MATERIAL__1","为了获得，必须以“特殊条件”
-来击败影子。","WSHOP_EXP_RARE_MATERIAL__1","机翻辅助：
+"WSHOP_EXP_RARE_MATERIAL__1","若想取得“稀有素材”，
+必须以“特殊条件”打倒暗影。　　（暂定）","WSHOP_EXP_RARE_MATERIAL__1","机翻辅助：
 
 若想取得“稀有素材”，
 必须以“特殊条件”打倒暗影。　　（暂定）
@@ -743,8 +743,8 @@
 
 为了得到，必须用
 “特殊的条件”打倒阴影。"
-"WSHOP_EXP_RARE_MATERIAL__2","例如，尝试使用全体攻击或攻击弱点属性来进行致命打击，看看效果如何？
-","WSHOP_EXP_RARE_MATERIAL__2","机翻辅助：
+"WSHOP_EXP_RARE_MATERIAL__2","比方说，发动总攻击，或是针对弱点属性攻击
+等，试着给予致命一击如何呢？","WSHOP_EXP_RARE_MATERIAL__2","机翻辅助：
 
 比方说，发动总攻击，或是针对弱点属性攻击
 等，试着给予致命一击如何呢？
@@ -753,8 +753,8 @@
 
 
 譬如，用附有总攻击和弱点属性等试着刺止住怎样？"
-"WSHOP_EXP_RARE_MATERIAL__3","如果有稀有的材料，
-也许可以制作出强力的装备。","WSHOP_EXP_RARE_MATERIAL__3","机翻辅助：
+"WSHOP_EXP_RARE_MATERIAL__3","若是有“稀有素材”，或许就能
+制作出强力的装备。　　（暂定）","WSHOP_EXP_RARE_MATERIAL__3","机翻辅助：
 
 若是有“稀有素材”，或许就能
 制作出强力的装备。　　（暂定）
@@ -763,8 +763,8 @@
 
 
 如果有“稀有的素材”的话，也许能做出强力的装备哦。"
-"WSHOP_EXP_RARE_MATERIAL__4","建议您尝试用各种方法击败影子。
-","WSHOP_EXP_RARE_MATERIAL__4","机翻辅助：
+"WSHOP_EXP_RARE_MATERIAL__4","我建议您
+试着以各种方法打倒暗影。　　（暂定）","WSHOP_EXP_RARE_MATERIAL__4","机翻辅助：
 
 我建议您
 试着以各种方法打倒暗影。　　（暂定）

@@ -1,15 +1,15 @@
 "source","target","id","developer_comments"
-"town_sel_0","是的","town_sel_0",""
-"town_sel_1","不是","town_sel_1",""
-"town_warning_quest_0","不需要特别放映吗？","town_warning_quest_0","机翻辅助：
+"town_sel_0","是","town_sel_0",""
+"town_sel_1","否","town_sel_1",""
+"town_warning_quest_0","没有特别上映，这样好吗？","town_warning_quest_0","机翻辅助：
 
 没有特别上映，这样好吗？
 
 没有接受特别放映没关系吗？
 
 没有接受特别放映可以吗？"
-"town_warning_persona_0","前辈，派对上有人没有装备“副”
-人格，请小心。","town_warning_persona_0","机翻辅助：
+"town_warning_persona_0","学姐，队伍里有人没有装备
+“附属”的人格面具哦，小心点。","town_warning_persona_0","机翻辅助：
 
 学姐，队伍里有人没有装备
 “附属”的人格面具哦，小心点。
@@ -18,8 +18,8 @@
 
 
 前辈，派对上有没有装备“辅助”人格面具的人，请注意。"
-"town_warning_both_0","前辈，派对上有人没有装备“副”
-人格，请小心。","town_warning_both_0","机翻辅助：
+"town_warning_both_0","学姐，队伍里有人没有装备
+“附属”的人格面具哦，小心点。","town_warning_both_0","机翻辅助：
 
 学姐，队伍里有人没有装备
 “附属”的人格面具哦，小心点。
@@ -39,8 +39,8 @@
 
 还有，[道具 0636]没有，
 可以吗？"
-"town_goukon_event_p3_0","领导，暂时放下这个迷宫，我们去尝试下一个迷宫吧。
-","town_goukon_event_p3_0","机翻辅助：
+"town_goukon_event_p3_0","队长，那个迷宫之后再去，
+现在先去下一个迷宫吧。","town_goukon_event_p3_0","机翻辅助：
 
 队长，那个迷宫之后再去，
 现在先去下一个迷宫吧。
@@ -50,8 +50,8 @@
 
 领导，那个迷宫以后再说，
 现在去下一个迷宫看看吧。"
-"town_goukon_event_p4_0","前辈，暂时放下那个迷宫，现在我们去尝试下一个迷宫吧。
-","town_goukon_event_p4_0","机翻辅助：
+"town_goukon_event_p4_0","学姐，那个迷宫之后再去，
+现在先去下一个迷宫吧。","town_goukon_event_p4_0","机翻辅助：
 
 学姐，那个迷宫之后再去，
 现在先去下一个迷宫吧。
@@ -60,8 +60,8 @@
 
 
 前辈，那个迷宫以后再说，现在去下一个迷宫吧。"
-"town_odekake_alone_0","在校园里并没有发生引人注目的事情。
-如果有变化的话，再来访问吧…","town_odekake_alone_0","机翻辅助：
+"town_odekake_alone_0","＞校内没有发生什么特别的事。
+　有变化的话再来吧……","town_odekake_alone_0","机翻辅助：
 
 ＞校内没有发生什么特别的事。
 　有变化的话再来吧……
@@ -71,8 +71,8 @@
 
 校内并没有发生引人注目的事情。
 如果有变化，还会再来吗……"
-"town_1st_warning_p4_0","前辈，暂时放下那个迷宫，现在我们去尝试下一个迷宫吧。
-","town_1st_warning_p4_0","机翻辅助：
+"town_1st_warning_p4_0","学姐，那个迷宫之后再去，
+现在先去下一个迷宫吧。","town_1st_warning_p4_0","机翻辅助：
 
 学姐，那个迷宫之后再去，
 现在先去下一个迷宫吧。
@@ -81,15 +81,15 @@
 
 
 前辈，那个迷宫以后再说，现在去下一个迷宫吧。"
-"town_warning_dungeon_p4_0","学长，你有带回“卡埃雷尔”吗？","town_warning_dungeon_p4_0","机翻辅助：
+"town_warning_dungeon_p4_0","学长，你有带“凯雷路”吗？","town_warning_dungeon_p4_0","机翻辅助：
 
 学长，你有带“凯雷路”吗？
 
 前辈，你有“卡耶雷”吗？
 
 中心派，你有“凯尔”吗？"
-"town_warning_dungeon_p4_1","在迷宫里使用“返回卷”，
-我想你可以回到这里来。","town_warning_dungeon_p4_1","机翻辅助：
+"town_warning_dungeon_p4_1","在迷宫里使用“凯雷路”，
+应该就能回到这里。","town_warning_dungeon_p4_1","机翻辅助：
 
 在迷宫里使用“凯雷路”，
 应该就能回到这里。
@@ -98,8 +98,8 @@
 我想你会回到这里的。
 
 如果在迷宫中使用“卡耶勒尔”的话，我想你一定能回到这里。"
-"town_warning_dungeon_p4_2","不要勉强自己，如果体力不支的话，立刻使用吧。
-","town_warning_dungeon_p4_2","机翻辅助：
+"town_warning_dungeon_p4_2","不要勉强，如果体力
+陷入危机，就马上使用哦。","town_warning_dungeon_p4_2","机翻辅助：
 
 不要勉强，如果体力
 陷入危机，就马上使用哦。
@@ -108,9 +108,9 @@
 
 
 不要勉强，如果体力有困难的话，马上用哦。"
-"town_warning_dungeon_p4_3","如果在这里的话可以恢复体力，还可以更换装备，所以不要着急，走吧！
-
-","town_warning_dungeon_p4_3","机翻辅助：
+"town_warning_dungeon_p4_3","在这里可以恢复体力，
+也能更换装备，
+别着急，慢慢来！","town_warning_dungeon_p4_3","机翻辅助：
 
 在这里可以恢复体力，
 也能更换装备，
@@ -121,8 +121,8 @@
 
 
 这边可以恢复体力，也可以改变装备，所以不要着急去！"
-"town_warning_dungeon_p3_0","领导，你拿到了提奥先生给你的“卡埃雷尔”
-吗？","town_warning_dungeon_p3_0","机翻辅助：
+"town_warning_dungeon_p3_0","队长，你有带
+泰欧给的“凯雷路”吗？","town_warning_dungeon_p3_0","机翻辅助：
 
 队长，你有带
 泰欧给的“凯雷路”吗？
@@ -132,8 +132,8 @@
 
 领头人特奥给你的
 “careerre”拿着了吗？"
-"town_warning_dungeon_p3_1","使用“返回卷轴”
-在迷宫内似乎可以回到这里来。","town_warning_dungeon_p3_1","机翻辅助：
+"town_warning_dungeon_p3_1","在迷宫里使用“凯雷路”，
+好像就能回到这里。","town_warning_dungeon_p3_1","机翻辅助：
 
 在迷宫里使用“凯雷路”，
 好像就能回到这里。
@@ -143,8 +143,8 @@
 
 在迷宫中使用“卡耶勒尔”的话，
 好像能回到这里。"
-"town_warning_dungeon_p3_2","如果你感到体力不支，不要勉强自己，尽快使用吧。
-","town_warning_dungeon_p3_2","机翻辅助：
+"town_warning_dungeon_p3_2","如果体力陷入危机，
+不要勉强，马上使用哦。","town_warning_dungeon_p3_2","机翻辅助：
 
 如果体力陷入危机，
 不要勉强，马上使用哦。
@@ -153,9 +153,9 @@
 
 
 如果体力有困难的话，请不要勉强，马上使用。"
-"town_warning_dungeon_p3_3","在这里可以恢复体力，也可以更换装备，所以不要着急，慢慢走吧。
-
-","town_warning_dungeon_p3_3","机翻辅助：
+"town_warning_dungeon_p3_3","在这里可以恢复体力，
+也能更换装备，
+别着急，慢慢来。","town_warning_dungeon_p3_3","机翻辅助：
 
 在这里可以恢复体力，
 也能更换装备，
@@ -166,8 +166,8 @@
 
 
 在这里可以恢复体力，也可以改变装备，所以不要着急，去吧。"
-"town_quest_find_0","新的特别放映活动已经出现了。
-让我们去“购票”吧。","town_quest_find_0","机翻辅助：
+"town_quest_find_0","发生新的特别上映。
+　去看看“票券”吧。","town_quest_find_0","机翻辅助：
 
 发生新的特别上映。
 　去看看“票券”吧。
@@ -177,8 +177,8 @@
 
 新的特别上映发生了。
 去“票”看看吧。"
-"town_party_ng_0","特别上映所需的角色没有参加派对。
-","town_party_ng_0","机翻辅助：
+"town_party_ng_0","特别上映需要的角色
+没有参加派对。","town_party_ng_0","机翻辅助：
 
 特别上映需要的角色
 没有参加派对。

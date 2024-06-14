@@ -1,21 +1,21 @@
 "source","target","id","developer_comments"
-"usercmm_sel_0","是的","usercmm_sel_0",""
-"usercmm_sel_1","不是","usercmm_sel_1",""
-"usercmm_conf_0","你可以改变一下消息吗？","usercmm_conf_0","机翻辅助：
+"usercmm_sel_0","是","usercmm_sel_0",""
+"usercmm_sel_1","否","usercmm_sel_1",""
+"usercmm_conf_0","要变更信息，可以吗？","usercmm_conf_0","机翻辅助：
 
 要变更信息，可以吗？
 
 可以更改留言吗？
 
 我要更改信息，可以吗？"
-"usercmm_can_conf_0","消息不变，可以吗？","usercmm_can_conf_0","机翻辅助：
+"usercmm_can_conf_0","不变更信息，可以吗？","usercmm_can_conf_0","机翻辅助：
 
 不变更信息，可以吗？
 
 信息不变更，可以吗？
 
 我不会更改信息，可以吗？"
-"usercmm_tutorial_0","那么，我来解释一下“救援请求”的事情。","usercmm_tutorial_0","机翻辅助：
+"usercmm_tutorial_0","那我来说明“救援请求”是什么咯。","usercmm_tutorial_0","机翻辅助：
 
 那我来说明“救援请求”是什么咯。
 
@@ -98,7 +98,7 @@
 可以吗？
 
 要变更信息，可以吗？"
-"usercmm_can_conf_m_0","消息不会改变，可以吗？","usercmm_can_conf_m_0","机翻辅助：
+"usercmm_can_conf_m_0","不变更信息，可以吗？","usercmm_can_conf_m_0","机翻辅助：
 
 不变更信息，可以吗？
 
@@ -172,21 +172,21 @@
 
 
 需要进一步说明的时候，请不要客气地吩咐。"
-"usercmm_conf2_0","我要改变一下消息，可以吗？","usercmm_conf2_0","机翻辅助：
+"usercmm_conf2_0","要变更信息吗……可以吧？","usercmm_conf2_0","机翻辅助：
 
 要变更信息吗……可以吧？
 
 我会更改信息……好吧。
 
 我要更改信息……好吧。"
-"usercmm_can_conf2_0","消息不变，可以吗？","usercmm_can_conf2_0","机翻辅助：
+"usercmm_can_conf2_0","不变更信息吗……可以吗？","usercmm_can_conf2_0","机翻辅助：
 
 不变更信息吗……可以吗？
 
 虽然信息不会变更……可以吗？
 
 信息不变更，可以吗？"
-"usercmm_tutorial2_0","哦……我来解释一下""救援请求""的事情。","usercmm_tutorial2_0","机翻辅助：
+"usercmm_tutorial2_0","啊……我来说明一下“救援请求”的事。","usercmm_tutorial2_0","机翻辅助：
 
 啊……我来说明一下“救援请求”的事。
 

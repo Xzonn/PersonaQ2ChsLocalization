@@ -1,12 +1,12 @@
 "source","target","id","developer_comments"
-"DG_MSG_QUEST_FIND_0","我发现了任务！！","DG_MSG_QUEST_FIND_0","机翻辅助：
+"DG_MSG_QUEST_FIND_0","＞发现了任务！！","DG_MSG_QUEST_FIND_0","机翻辅助：
 
 ＞发现了任务！！
 
 发现了>任务！！
 
 发现了任务！！"
-"DG_MSG_QUEST_FIND_QUESTI_0","由于正在进行任务，
+"DG_MSG_QUEST_FIND_QUESTI_0","＞因为正在进行任务，所以
 无法发现任务！！","DG_MSG_QUEST_FIND_QUESTI_0","机翻辅助：
 
 ＞因为正在进行任务，所以
@@ -16,19 +16,19 @@
 没有发现任务！！
 
 >因为是任务中所以没能发现任务！！"
-"DG_MSG_LOCK_DOOR_NO_OPEN_0","钥匙锁着，无法打开。","DG_MSG_LOCK_DOOR_NO_OPEN_0","机翻辅助：
+"DG_MSG_LOCK_DOOR_NO_OPEN_0","＞上了锁，打不开。","DG_MSG_LOCK_DOOR_NO_OPEN_0","机翻辅助：
 
 ＞上了锁，打不开。
 
 上了锁打不开
 
 ＞上锁无法打开"
-"DG_MSG_SEL_QUEST_CLEAR_0","返回基地","DG_MSG_SEL_QUEST_CLEAR_0","机翻辅助：
+"DG_MSG_SEL_QUEST_CLEAR_0","返回据点","DG_MSG_SEL_QUEST_CLEAR_0","机翻辅助：
 
 返回据点
 
 回到据点"
-"DG_MSG_SEL_QUEST_CLEAR_1","进行自由探索","DG_MSG_SEL_QUEST_CLEAR_1","机翻辅助：
+"DG_MSG_SEL_QUEST_CLEAR_1","自由探索","DG_MSG_SEL_QUEST_CLEAR_1","机翻辅助：
 
 自由探索"
 "DG_MSG_QST_PROGRESS_ENEM_0","[占位A 01][占位A 02]身体倒下了。","DG_MSG_QST_PROGRESS_ENEM_0","机翻辅助：

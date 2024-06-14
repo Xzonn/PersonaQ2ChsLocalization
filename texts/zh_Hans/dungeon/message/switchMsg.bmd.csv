@@ -1,62 +1,62 @@
 "source","target","id","developer_comments"
-"S00_DG_GIMMICK_SWITCH_MS_0","按下了开关。","S00_DG_GIMMICK_SWITCH_MS_0","机翻辅助：
+"S00_DG_GIMMICK_SWITCH_MS_0","按下开关。","S00_DG_GIMMICK_SWITCH_MS_0","机翻辅助：
 
 按下开关。
 
 我按下了开关。
 
 按下了开关。"
-"S01_DG_GIMMICK_SWITCH_MS_0","我用力按下了开关。","S01_DG_GIMMICK_SWITCH_MS_0","机翻辅助：
+"S01_DG_GIMMICK_SWITCH_MS_0","用力按下开关。","S01_DG_GIMMICK_SWITCH_MS_0","机翻辅助：
 
 用力按下开关。
 
 用力按了一下开关
 
 用力按下了开关"
-"S02_DG_GIMMICK_SWITCH_MS_0","开关已经被按下。","S02_DG_GIMMICK_SWITCH_MS_0","机翻辅助：
+"S02_DG_GIMMICK_SWITCH_MS_0","开关已经被按下了。","S02_DG_GIMMICK_SWITCH_MS_0","机翻辅助：
 
 开关已经被按下了。
 
 已按下开关
 
 开关已经按下了"
-"S03_DG_GIMMICK_SWITCH_MS_0","开关已经被用力按下。","S03_DG_GIMMICK_SWITCH_MS_0","机翻辅助：
+"S03_DG_GIMMICK_SWITCH_MS_0","开关已经被用力按下了。","S03_DG_GIMMICK_SWITCH_MS_0","机翻辅助：
 
 开关已经被用力按下了。
 
 开关已经被用力按下了
 
 开关已经用力按下了"
-"S04_DG_GIMMICK_CHANGE_SW_0","把开关打开。","S04_DG_GIMMICK_CHANGE_SW_0","机翻辅助：
+"S04_DG_GIMMICK_CHANGE_SW_0","将开关转到ON。","S04_DG_GIMMICK_CHANGE_SW_0","机翻辅助：
 
 将开关转到ON。
 
 把开关开了
 
 已打开开关"
-"S05_DG_GIMMICK_CHANGE_SW_0","把开关关掉。","S05_DG_GIMMICK_CHANGE_SW_0","机翻辅助：
+"S05_DG_GIMMICK_CHANGE_SW_0","将开关转到OFF。","S05_DG_GIMMICK_CHANGE_SW_0","机翻辅助：
 
 将开关转到OFF。
 
 把开关关了
 
 已关闭开关"
-"S06_DG_GIMMICK_CHANGE_SE_0","探照灯的电源断了。","S06_DG_GIMMICK_CHANGE_SE_0","机翻辅助：
+"S06_DG_GIMMICK_CHANGE_SE_0","探照灯的电源关闭了。","S06_DG_GIMMICK_CHANGE_SE_0","机翻辅助：
 
 探照灯的电源关闭了。
 
 探照灯没电了。
 
 探照灯的电源断了。"
-"S07_DG_GIMMICK_CHANGE_SE_0","搜索灯的电源已经断了。","S07_DG_GIMMICK_CHANGE_SE_0","机翻辅助：
+"S07_DG_GIMMICK_CHANGE_SE_0","探照灯的电源已经关闭了。","S07_DG_GIMMICK_CHANGE_SE_0","机翻辅助：
 
 探照灯的电源已经关闭了。
 
 探照灯已经断电了。
 
 探照灯已经没电了。"
-"S08_DG_GIMMICK_CHANGE_SE_0","搜索灯的光线切换了。
-","S08_DG_GIMMICK_CHANGE_SE_0","机翻辅助：
+"S08_DG_GIMMICK_CHANGE_SE_0","点亮的探照灯
+切换了。","S08_DG_GIMMICK_CHANGE_SE_0","机翻辅助：
 
 点亮的探照灯
 切换了。
@@ -65,49 +65,49 @@
 切换了。
 
 开着的探照灯切换了。"
-"S09_DG_GIMMICK_KAITENSAK_0","我转动了栅栏。","S09_DG_GIMMICK_KAITENSAK_0","机翻辅助：
+"S09_DG_GIMMICK_KAITENSAK_0","旋转栅栏。","S09_DG_GIMMICK_KAITENSAK_0","机翻辅助：
 
 旋转栅栏。
 
 旋转了栅栏。
 
 把栅栏旋转了。"
-"S10_DG_GIMMICK_DENKISAKU_0","电网栅的电源暂时中断了。","S10_DG_GIMMICK_DENKISAKU_0","机翻辅助：
+"S10_DG_GIMMICK_DENKISAKU_0","栅栏的电源暂时关闭了。","S10_DG_GIMMICK_DENKISAKU_0","机翻辅助：
 
 栅栏的电源暂时关闭了。
 
 电栅栏的电源暂时断了。
 
 电栅栏的电源暂时切断了。"
-"S11_DG_GIMMICK_DENKISAKU_0","电源已经打开了。","S11_DG_GIMMICK_DENKISAKU_0","机翻辅助：
+"S11_DG_GIMMICK_DENKISAKU_0","电源已经操作过了。","S11_DG_GIMMICK_DENKISAKU_0","机翻辅助：
 
 电源已经操作过了。
 
 电源已经操作好了。
 
 已操作电源。"
-"S12_DG_GIMMICK_SERI_CHAN_0","色彩齐齐地动了起来。","S12_DG_GIMMICK_SERI_CHAN_0","机翻辅助：
+"S12_DG_GIMMICK_SERI_CHAN_0","栅栏一齐动了起来。","S12_DG_GIMMICK_SERI_CHAN_0","机翻辅助：
 
 栅栏一齐动了起来。
 
 世利一齐动了起来。
 
 拍卖一齐动了起来。"
-"S13_DG_GIMMICK_BOUHU_OPE_0","附近的风向发生了变化。","S13_DG_GIMMICK_BOUHU_OPE_0","机翻辅助：
+"S13_DG_GIMMICK_BOUHU_OPE_0","附近的风向改变了。","S13_DG_GIMMICK_BOUHU_OPE_0","机翻辅助：
 
 附近的风向改变了。
 
 附近的风流变了。
 
 附近的风向变了。"
-"S14_DG_GIMMICK_SERI_FIRS_0","色彩齐齐地动了起来。","S14_DG_GIMMICK_SERI_FIRS_0","机翻辅助：
+"S14_DG_GIMMICK_SERI_FIRS_0","栅栏一齐动了起来。","S14_DG_GIMMICK_SERI_FIRS_0","机翻辅助：
 
 栅栏一齐动了起来。
 
 世利一齐动了起来。
 
 拍卖一齐动了起来。"
-"S15_DG_GIMMICK_BOUHU_FIR_0","有什么东西发出了声音…","S15_DG_GIMMICK_BOUHU_FIR_0","机翻辅助：
+"S15_DG_GIMMICK_BOUHU_FIR_0","有某种东西启动的声音……","S15_DG_GIMMICK_BOUHU_FIR_0","机翻辅助：
 
 有某种东西启动的声音……
 

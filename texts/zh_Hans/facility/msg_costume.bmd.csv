@@ -1,6 +1,6 @@
 "source","target","id","developer_comments"
-"Y_FCL_DIALOG_MSG_EITHER_0","是的。","Y_FCL_DIALOG_MSG_EITHER_0",""
-"Y_FCL_DIALOG_MSG_EITHER_1","不是","Y_FCL_DIALOG_MSG_EITHER_1",""
+"Y_FCL_DIALOG_MSG_EITHER_0","是","Y_FCL_DIALOG_MSG_EITHER_0",""
+"Y_FCL_DIALOG_MSG_EITHER_1","否","Y_FCL_DIALOG_MSG_EITHER_1",""
 "Y_FCLSHOP_BUY_MSG_0","＞是否购买[占位B 01]？","Y_FCLSHOP_BUY_MSG_0","机翻辅助：
 
 ＞是否购买[占位B 01]？
@@ -33,21 +33,21 @@
 
 至今为止装备的
 [占位B 01]有卖吗？"
-"CSHOP_ADDNEW_0","新到货消息","CSHOP_ADDNEW_0","机翻辅助：
+"CSHOP_ADDNEW_0","＞进货通知","CSHOP_ADDNEW_0","机翻辅助：
 
 ＞进货通知
 
 >新建收货消息
 
 新到货信息"
-"CSHOP_HELLO_0","入店时打招呼","CSHOP_HELLO_0","机翻辅助：
+"CSHOP_HELLO_0","＞入店时招呼","CSHOP_HELLO_0","机翻辅助：
 
 ＞入店时招呼
 
 >进店时打招呼
 
 进店时问候"
-"CSHOP_HELLO_RAIN_0","入店时打招呼","CSHOP_HELLO_RAIN_0","机翻辅助：
+"CSHOP_HELLO_RAIN_0","＞入店时招呼","CSHOP_HELLO_RAIN_0","机翻辅助：
 
 ＞入店时招呼
 

@@ -1,6 +1,6 @@
 "source","target","id","developer_comments"
-"market_sel_0","是的","market_sel_0",""
-"market_sel_1","不是","market_sel_1",""
+"market_sel_0","是","market_sel_0",""
+"market_sel_1","否","market_sel_1",""
 "MSHOP_BUY_MSG2_0","＞[占位A 02]个是[占位A 03]圆。
 　要购买吗？","MSHOP_BUY_MSG2_0","机翻辅助：
 
@@ -12,7 +12,7 @@
 
 >[占位A 02]个就是[占位A 03]圆。
 购买吗？"
-"market_conf_0","这样上市卖出可以吗？","market_conf_0","机翻辅助：
+"market_conf_0","＞这样可以开始贩售了吗？","market_conf_0","机翻辅助：
 
 ＞这样可以开始贩售了吗？
 

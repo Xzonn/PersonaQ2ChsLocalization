@@ -1,6 +1,6 @@
 "source","target","id","developer_comments"
-"BR_RISE_GETSKILL_TRDEYE_0","选择目标后，
-我能知道攻击是否有效。","BR_RISE_GETSKILL_TRDEYE_0","机翻辅助：
+"BR_RISE_GETSKILL_TRDEYE_0","＞在选择目标时
+　可以知道该攻击是否有效。","BR_RISE_GETSKILL_TRDEYE_0","机翻辅助：
 
 ＞在选择目标时
 　可以知道该攻击是否有效。
@@ -10,8 +10,8 @@
 
 >选择对象时
 可以知道那个攻击是否有效。"
-"BR_RISE_GETSKILL_ENMY_S_0","在未探索区域的楼层地图上，
-敌人的位置开始显示出来了。","BR_RISE_GETSKILL_ENMY_S_0","机翻辅助：
+"BR_RISE_GETSKILL_ENMY_S_0","＞楼层地图的未开拓领域
+　开始会显示敌人的位置。","BR_RISE_GETSKILL_ENMY_S_0","机翻辅助：
 
 ＞楼层地图的未开拓领域
 　开始会显示敌人的位置。
@@ -21,8 +21,8 @@
 
 >在地面地图的未踏破区域
 敌人的位置被表示出来了。"
-"BR_RISE_GETSKILL_TRSR_S_0","未踏破区域的宝箱位置现在会显示在楼层地图上。
-","BR_RISE_GETSKILL_TRSR_S_0","机翻辅助：
+"BR_RISE_GETSKILL_TRSR_S_0","＞楼层地图的未开拓领域
+　开始会显示宝箱的位置。","BR_RISE_GETSKILL_TRSR_S_0","机翻辅助：
 
 ＞楼层地图的未开拓领域
 　开始会显示宝箱的位置。
@@ -32,15 +32,15 @@
 
 >在楼层地图的未踏破区域
 显示宝箱的位置。"
-"BR_RISE_GETSKILL_W_SACH_0","战斗开始时，可以得知敌人的属性了。","BR_RISE_GETSKILL_W_SACH_0","机翻辅助：
+"BR_RISE_GETSKILL_W_SACH_0","＞战斗开始时，会告知敌人的属性。","BR_RISE_GETSKILL_W_SACH_0","机翻辅助：
 
 ＞战斗开始时，会告知敌人的属性。
 
 战斗开始时，会告诉我敌人的属性。
 
 >战斗开始时，敌人的属性告诉了我。"
-"BR_RISE_GETSKILL_IYA_HP_0","战斗结束时，
-所有队员的HP会稍微恢复。","BR_RISE_GETSKILL_IYA_HP_0","机翻辅助：
+"BR_RISE_GETSKILL_IYA_HP_0","＞战斗结束时，所有成员的HP将
+　恢复一点。","BR_RISE_GETSKILL_IYA_HP_0","机翻辅助：
 
 ＞战斗结束时，所有成员的HP将
 　恢复一点。
@@ -50,15 +50,15 @@
 
 战斗结束时全体成员的HP
 稍微恢复了一点。"
-"BR_RISE_GETSKILL_Z_ESCP_0","可以确保能够立即撤离战斗。","BR_RISE_GETSKILL_Z_ESCP_0","机翻辅助：
+"BR_RISE_GETSKILL_Z_ESCP_0","＞现在确实可以即时从战斗中撤退了。","BR_RISE_GETSKILL_Z_ESCP_0","机翻辅助：
 
 ＞现在确实可以即时从战斗中撤退了。
 
 >确实可以立即从战斗中撤退了。
 
 >确实能从战斗立即撤退了。"
-"BR_RISE_GETSKILL_IYA_SP_0","战斗结束时，
-所有成员的SP会稍微恢复。","BR_RISE_GETSKILL_IYA_SP_0","机翻辅助：
+"BR_RISE_GETSKILL_IYA_SP_0","＞战斗结束时，所有成员的SP将
+　恢复少许。","BR_RISE_GETSKILL_IYA_SP_0","机翻辅助：
 
 ＞战斗结束时，所有成员的SP将
 　恢复少许。
@@ -68,22 +68,22 @@
 
 战斗结束时
 稍微恢复了成员全员的SP。"
-"BR_RISE_GETSKILL_HPSONG_0","战斗结束时的HP恢复效果得到了强化。","BR_RISE_GETSKILL_HPSONG_0","机翻辅助：
+"BR_RISE_GETSKILL_HPSONG_0","＞战斗结束时的HP回复效果提升。","BR_RISE_GETSKILL_HPSONG_0","机翻辅助：
 
 ＞战斗结束时的HP回复效果提升。
 
 战斗结束时的HP回复效果提升了。
 
 战斗结束时的HP回复效果提升。"
-"BR_RISE_GETSKILL_SPSONG_0","战斗结束时的SP恢复效果得到了强化。","BR_RISE_GETSKILL_SPSONG_0","机翻辅助：
+"BR_RISE_GETSKILL_SPSONG_0","＞战斗结束时的SP回复效果提升。","BR_RISE_GETSKILL_SPSONG_0","机翻辅助：
 
 ＞战斗结束时的SP回复效果提升。
 
 战斗结束时的SP恢复效果提升了。
 
 战斗结束时SP回复效果提升。"
-"BR_RISE_GETSKILL_H_ANYZ_0","“过去攻击的属性”
-之外，“敌人拥有的技能”也可以通过分析了解了。","BR_RISE_GETSKILL_H_ANYZ_0","机翻辅助：
+"BR_RISE_GETSKILL_H_ANYZ_0","＞除了“过去攻击过的属性”之外，“敌人的持有技能”也
+　通过分析得知。","BR_RISE_GETSKILL_H_ANYZ_0","机翻辅助：
 
 ＞除了“过去攻击过的属性”之外，“敌人的持有技能”也
 　通过分析得知。
@@ -93,8 +93,8 @@
 
 >“过去攻击过的属性”加上，“敌人的持有技能”
 分析明白了。"
-"BR_RISE_GETSKILL_F_ANYZ_0","敌人拥有的技能，以及之前未受攻击的属性，现在也可以通过分析来了解。
-","BR_RISE_GETSKILL_F_ANYZ_0","机翻辅助：
+"BR_RISE_GETSKILL_F_ANYZ_0","＞除了“敌方持有的技能”之外，还有“过去没有攻击过的属性”
+　分析后可以得知。","BR_RISE_GETSKILL_F_ANYZ_0","机翻辅助：
 
 ＞除了“敌方持有的技能”之外，还有“过去没有攻击过的属性”
 　分析后可以得知。

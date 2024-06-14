@@ -1,11 +1,11 @@
 "source","target","id","developer_comments"
-"OK_SEL_0","ＯＫ","OK_SEL_0","机翻辅助：
+"OK_SEL_0","OK","OK_SEL_0","机翻辅助：
 
 OK
 
 确定"
-"YESNO_SEL_0","是的","YESNO_SEL_0",""
-"YESNO_SEL_1","不是","YESNO_SEL_1",""
+"YESNO_SEL_0","是","YESNO_SEL_0",""
+"YESNO_SEL_1","否","YESNO_SEL_1",""
 "FIRST_LEADER_NOT_EXIST_0","＞在FIRST队伍中
 没有队长。","FIRST_LEADER_NOT_EXIST_0","机翻辅助：
 

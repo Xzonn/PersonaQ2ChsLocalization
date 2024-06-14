@@ -1,19 +1,19 @@
 "source","target","id","developer_comments"
-"AEGIS_FOE_FOLLOW_START_1_0","F.O.E已确认追踪！
-","AEGIS_FOE_FOLLOW_START_1_0","机翻辅助：
+"AEGIS_FOE_FOLLOW_START_1_0","F.O.E的
+追踪确认完毕！","AEGIS_FOE_FOLLOW_START_1_0","机翻辅助：
 
 F.O.E的
 追踪确认完毕！
 
 确认了F.O.E的
 跟踪！"
-"AEGIS_FOE_FOLLOW_START_2_0","F.O.E正在追赶过来。","AEGIS_FOE_FOLLOW_START_2_0","机翻辅助：
+"AEGIS_FOE_FOLLOW_START_2_0","F.O.E追上来了呢。","AEGIS_FOE_FOLLOW_START_2_0","机翻辅助：
 
 F.O.E追上来了呢。
 
 F.O.E在追呢。"
-"AEGIS_FOE_FOLLOW_START_3_0","看来，
-F.O.E.注意到了。","AEGIS_FOE_FOLLOW_START_3_0","机翻辅助：
+"AEGIS_FOE_FOLLOW_START_3_0","看来
+被F.O.E发现了。","AEGIS_FOE_FOLLOW_START_3_0","机翻辅助：
 
 看来
 被F.O.E发现了。
@@ -25,14 +25,14 @@ F.O.E.注意到了。","AEGIS_FOE_FOLLOW_START_3_0","机翻辅助：
 "AEGIS_FOE_NEAR_1_0","F.O.E就在附近。","AEGIS_FOE_NEAR_1_0","机翻辅助：
 
 F.O.E就在附近。"
-"AEGIS_FOE_NEAR_2_0","我们有F.O.E.。","AEGIS_FOE_NEAR_2_0","机翻辅助：
+"AEGIS_FOE_NEAR_2_0","F.O.E出现了。","AEGIS_FOE_NEAR_2_0","机翻辅助：
 
 F.O.E出现了。
 
 有F.O.E。
 
 有F.O.E在。"
-"AEGIS_FOE_NEAR_3_0","F.O.E的气息被察觉到了，
+"AEGIS_FOE_NEAR_3_0","侦测到F.O.E的气息，
 就在附近。","AEGIS_FOE_NEAR_3_0","机翻辅助：
 
 侦测到F.O.E的气息，
@@ -43,22 +43,22 @@ F.O.E出现了。
 
 探测到F.O.E的迹象，
 就在附近。"
-"AEGIS_FOE_FOLLOW_END_1_0","看起来已经完全超越了F.O.E。","AEGIS_FOE_FOLLOW_END_1_0","机翻辅助：
+"AEGIS_FOE_FOLLOW_END_1_0","看来是甩掉F.O.E了。","AEGIS_FOE_FOLLOW_END_1_0","机翻辅助：
 
 看来是甩掉F.O.E了。
 
 好像甩掉了F.O.E。
 
 你好像甩掉F.O.E了。"
-"AEGIS_FOE_FOLLOW_END_2_0","看来放弃追尾了。","AEGIS_FOE_FOLLOW_END_2_0","机翻辅助：
+"AEGIS_FOE_FOLLOW_END_2_0","它似乎放弃追踪了。","AEGIS_FOE_FOLLOW_END_2_0","机翻辅助：
 
 它似乎放弃追踪了。
 
 我好像放弃了跟踪。
 
 似乎放弃了跟踪。"
-"AEGIS_FOE_FOLLOW_END_3_0","看起来成功逃脱了F.O.E。
-","AEGIS_FOE_FOLLOW_END_3_0","机翻辅助：
+"AEGIS_FOE_FOLLOW_END_3_0","看来是成功
+逃离F.O.E了。","AEGIS_FOE_FOLLOW_END_3_0","机翻辅助：
 
 看来是成功
 逃离F.O.E了。
@@ -67,7 +67,7 @@ F.O.E出现了。
 
 
 从F.O.E逃跑成功了。"
-"AEGIS_KANSI_REACTION_1_0","请注意不要被察觉到。","AEGIS_KANSI_REACTION_1_0","机翻辅助：
+"AEGIS_KANSI_REACTION_1_0","请小心别被它发现。","AEGIS_KANSI_REACTION_1_0","机翻辅助：
 
 请小心别被它发现。
 
@@ -81,15 +81,15 @@ F.O.E出现了。
 嘘……就是这样。
 
 是。"
-"AEGIS_KANSI_REACTION_3_0","悄悄地，悄悄地……","AEGIS_KANSI_REACTION_3_0","机翻辅助：
+"AEGIS_KANSI_REACTION_3_0","轻轻的，轻轻的……","AEGIS_KANSI_REACTION_3_0","机翻辅助：
 
 轻轻的，轻轻的……
 
 嗯、嗯……
 
 咻——咻——咻……"
-"AEGIS_DENKISAKU_REACTION_0","这看起来很危险，
-让人感到恐怖。","AEGIS_DENKISAKU_REACTION_0","机翻辅助：
+"AEGIS_DENKISAKU_REACTION_0","这样好像会触电呢……
+好可怕。","AEGIS_DENKISAKU_REACTION_0","机翻辅助：
 
 这样好像会触电呢……
 好可怕。
@@ -99,8 +99,8 @@ F.O.E出现了。
 
 这会触电啊……
 太可怕了。"
-"AEGIS_DENKISAKU_REACTION_2_0","无法从这个电流中充电呢。
-","AEGIS_DENKISAKU_REACTION_2_0","机翻辅助：
+"AEGIS_DENKISAKU_REACTION_2_0","从这股电流中充电……
+是办不到的。","AEGIS_DENKISAKU_REACTION_2_0","机翻辅助：
 
 从这股电流中充电……
 是办不到的。
@@ -109,8 +109,8 @@ F.O.E出现了。
 是做不到的。
 
 不能用这个电流充值。"
-"AEGIS_DENKISAKU_REACTION_3_0","建议先断电再前进。
-","AEGIS_DENKISAKU_REACTION_3_0","机翻辅助：
+"AEGIS_DENKISAKU_REACTION_3_0","我提议
+等关掉电源后再前进。","AEGIS_DENKISAKU_REACTION_3_0","机翻辅助：
 
 我提议
 等关掉电源后再前进。
@@ -119,7 +119,7 @@ F.O.E出现了。
 
 
 建议在断电后前进。"
-"AEGIS_KYOUHU_REACTION_1_0","强风！","AEGIS_KYOUHU_REACTION_1_0","机翻辅助：
+"AEGIS_KYOUHU_REACTION_1_0","有强风！","AEGIS_KYOUHU_REACTION_1_0","机翻辅助：
 
 有强风！
 
@@ -129,15 +129,15 @@ F.O.E出现了。
 "AEGIS_KYOUHU_REACTION_2_0","啊，这是……","AEGIS_KYOUHU_REACTION_2_0","机翻辅助：
 
 啊，这是……"
-"AEGIS_KYOUHU_REACTION_3_0","飞去了。","AEGIS_KYOUHU_REACTION_3_0","机翻辅助：
+"AEGIS_KYOUHU_REACTION_3_0","我飞起来了。","AEGIS_KYOUHU_REACTION_3_0","机翻辅助：
 
 我飞起来了。
 
 飞奔而去。
 
 飞过去了。"
-"AEGIS_STAIR_FIND_1_0","发现了楼梯！
-看起来可以继续前进。","AEGIS_STAIR_FIND_1_0","机翻辅助：
+"AEGIS_STAIR_FIND_1_0","发现阶梯！
+似乎可以前进。","AEGIS_STAIR_FIND_1_0","机翻辅助：
 
 发现阶梯！
 似乎可以前进。
@@ -146,8 +146,8 @@ F.O.E出现了。
 好像要往前走了。
 
 发现楼梯！好像要继续下去了。"
-"AEGIS_STAIR_FIND_2_0","寻找楼梯！
-要进入吗？","AEGIS_STAIR_FIND_2_0","机翻辅助：
+"AEGIS_STAIR_FIND_2_0","侦测到阶梯！
+要冲进去吗？","AEGIS_STAIR_FIND_2_0","机翻辅助：
 
 侦测到阶梯！
 要冲进去吗？
@@ -157,8 +157,8 @@ F.O.E出现了。
 
 楼梯探测！
 要冲进去吗？"
-"AEGIS_STAIR_FIND_3_0","我建议进入新的区域。
-","AEGIS_STAIR_FIND_3_0","机翻辅助：
+"AEGIS_STAIR_FIND_3_0","我提议
+冲进新区域。","AEGIS_STAIR_FIND_3_0","机翻辅助：
 
 我提议
 冲进新区域。
@@ -167,15 +167,15 @@ F.O.E出现了。
 建议进入新的区域。
 
 我提议进入新的区域。"
-"AEGIS_TREASURE_FIND_1_0","我在前方看到了宝箱！","AEGIS_TREASURE_FIND_1_0","机翻辅助：
+"AEGIS_TREASURE_FIND_1_0","前方确认到宝箱！","AEGIS_TREASURE_FIND_1_0","机翻辅助：
 
 前方确认到宝箱！
 
 前面确认了宝箱！
 
 前方确认了宝箱！"
-"AEGIS_TREASURE_FIND_2_0","宝箱发现，金银财宝满满的……
-是吧？","AEGIS_TREASURE_FIND_2_0","机翻辅助：
+"AEGIS_TREASURE_FIND_2_0","发现宝箱。
+金银财宝满坑满谷……吗？","AEGIS_TREASURE_FIND_2_0","机翻辅助：
 
 发现宝箱。
 金银财宝满坑满谷……吗？
@@ -185,7 +185,7 @@ F.O.E出现了。
 
 发现宝箱。
 金银财宝哗啦哗啦……是吗？"
-"AEGIS_TREASURE_FIND_3_0","宝箱……就是所谓的宝藏呢！","AEGIS_TREASURE_FIND_3_0","机翻辅助：
+"AEGIS_TREASURE_FIND_3_0","宝箱……也就是所谓的宝物呢！","AEGIS_TREASURE_FIND_3_0","机翻辅助：
 
 宝箱……也就是所谓的宝物呢！
 
@@ -199,8 +199,8 @@ F.O.E出现了。
 前方有个令人在意的东西。
 
 前面有在意的东西。"
-"AEGIS_CHECK_WALL_2_0","前方发现可疑物品！
-建议展开调查。","AEGIS_CHECK_WALL_2_0","机翻辅助：
+"AEGIS_CHECK_WALL_2_0","发现前方有可疑物体！
+提议调查。","AEGIS_CHECK_WALL_2_0","机翻辅助：
 
 发现前方有可疑物体！
 提议调查。
@@ -209,19 +209,19 @@ F.O.E出现了。
 建议调查。
 
 前方发现可疑物！建议进行调查。"
-"AEGIS_CHECK_WALL_3_0","建议调查这个地区。","AEGIS_CHECK_WALL_3_0","机翻辅助：
+"AEGIS_CHECK_WALL_3_0","我提议调查这附近。","AEGIS_CHECK_WALL_3_0","机翻辅助：
 
 我提议调查这附近。
 
 我建议调查这一带。"
-"AEGIS_SWITCH_FIND_1_0","我找到了开关！","AEGIS_SWITCH_FIND_1_0","机翻辅助：
+"AEGIS_SWITCH_FIND_1_0","发现开关！","AEGIS_SWITCH_FIND_1_0","机翻辅助：
 
 发现开关！
 
 发现了开关！
 
 我发现了一个开关！"
-"AEGIS_SWITCH_FIND_2_0","请确认开关，您要怎么做？","AEGIS_SWITCH_FIND_2_0","机翻辅助：
+"AEGIS_SWITCH_FIND_2_0","确认开关，要怎么做？","AEGIS_SWITCH_FIND_2_0","机翻辅助：
 
 确认开关，要怎么做？
 
@@ -237,21 +237,21 @@ F.O.E出现了。
 
 发现开关。
 要按吗？破坏？"
-"AEGIS_SHORTCUT_FIND_1_0","我发现了一条看起来会缩短路程的地方。","AEGIS_SHORTCUT_FIND_1_0","机翻辅助：
+"AEGIS_SHORTCUT_FIND_1_0","发现似乎能成为捷径的地点。","AEGIS_SHORTCUT_FIND_1_0","机翻辅助：
 
 发现似乎能成为捷径的地点。
 
 我发现了可以抄近道的地方。
 
 我发现了可以抄近路的地方。"
-"AEGIS_SHORTCUT_FIND_2_0","我感知到了一个可以通过的地方。","AEGIS_SHORTCUT_FIND_2_0","机翻辅助：
+"AEGIS_SHORTCUT_FIND_2_0","侦测到似乎能通过的地点。","AEGIS_SHORTCUT_FIND_2_0","机翻辅助：
 
 侦测到似乎能通过的地点。
 
 感知到了可能通过的地方。
 
 我感觉到了可以通过的地方。"
-"AEGIS_SHORTCUT_FIND_3_0","发现了看起来像是捷径的地方。","AEGIS_SHORTCUT_FIND_3_0","机翻辅助：
+"AEGIS_SHORTCUT_FIND_3_0","发现似乎能成为捷径的地点。","AEGIS_SHORTCUT_FIND_3_0","机翻辅助：
 
 发现似乎能成为捷径的地点。
 
@@ -259,7 +259,7 @@ F.O.E出现了。
 
 发现可能成为捷径的点。"
 "AEGIS_FOE_WARNING_NEAR_1_0","F.O.E的锁定，
-持续中！","AEGIS_FOE_WARNING_NEAR_1_0","机翻辅助：
+仍在持续！","AEGIS_FOE_WARNING_NEAR_1_0","机翻辅助：
 
 F.O.E的锁定，
 仍在持续！
@@ -269,8 +269,8 @@ F.O.E的锁定，
 
 F.O.E的摇滚，
 继续中！"
-"AEGIS_FOE_WARNING_NEAR_2_0","还有F.O.E在追赶着我们！
-","AEGIS_FOE_WARNING_NEAR_2_0","机翻辅助：
+"AEGIS_FOE_WARNING_NEAR_2_0","F.O.E还在
+追过来！","AEGIS_FOE_WARNING_NEAR_2_0","机翻辅助：
 
 F.O.E还在
 追过来！
@@ -279,29 +279,29 @@ F.O.E还在
 ！
 
 F.O.E还在追上来！"
-"AEGIS_FOE_WARNING_NEAR_3_0","敌方正在向这里发动进攻！","AEGIS_FOE_WARNING_NEAR_3_0","机翻辅助：
+"AEGIS_FOE_WARNING_NEAR_3_0","敌方F.O.E正在朝我方进攻！","AEGIS_FOE_WARNING_NEAR_3_0","机翻辅助：
 
 敌方F.O.E正在朝我方进攻！
 
 敌人F.O.E，正在向这边进攻！
 
 敌人F.O.E正在向这边进攻！"
-"AEGIS_1PERSON_HPTP10_1_0","可能会过热…","AEGIS_1PERSON_HPTP10_1_0","机翻辅助：
+"AEGIS_1PERSON_HPTP10_1_0","感觉脑袋快要……过热了……","AEGIS_1PERSON_HPTP10_1_0","机翻辅助：
 
 感觉脑袋快要……过热了……
 
 好像过热了……
 
 过热的思想……是……"
-"AEGIS_1PERSON_HPTP10_2_0","我建议回家。","AEGIS_1PERSON_HPTP10_2_0","机翻辅助：
+"AEGIS_1PERSON_HPTP10_2_0","我提议撤退。","AEGIS_1PERSON_HPTP10_2_0","机翻辅助：
 
 我提议撤退。
 
 我提议返航。
 
 我提议返回。"
-"AEGIS_1PERSON_HPTP10_3_0","如果继续这样下去，
-就有停止活动的危险。","AEGIS_1PERSON_HPTP10_3_0","机翻辅助：
+"AEGIS_1PERSON_HPTP10_3_0","这样下去的话，
+有活动停止的危险。","AEGIS_1PERSON_HPTP10_3_0","机翻辅助：
 
 这样下去的话，
 有活动停止的危险。
@@ -310,41 +310,41 @@ F.O.E还在追上来！"
 有停止活动的危险。
 
 这样下去的话，有停止活动的危险。"
-"AEGIS_1PERSON_HP10_1_0","我要报告身体状况下降。","AEGIS_1PERSON_HP10_1_0","机翻辅助：
+"AEGIS_1PERSON_HP10_1_0","报告体力降低。","AEGIS_1PERSON_HP10_1_0","机翻辅助：
 
 报告体力降低。
 
 报告体力的下降。
 
 报告体力下降。"
-"AEGIS_1PERSON_HP10_2_0","可能会发生功能停止的情况。","AEGIS_1PERSON_HP10_2_0","机翻辅助：
+"AEGIS_1PERSON_HP10_2_0","可能会停止机能。","AEGIS_1PERSON_HP10_2_0","机翻辅助：
 
 可能会停止机能。
 
 有功能停止的可能性。
 
 可能是功能停止。"
-"AEGIS_1PERSON_HP10_3_0","体力处于危险水平！","AEGIS_1PERSON_HP10_3_0","机翻辅助：
+"AEGIS_1PERSON_HP10_3_0","体力已经进入危险水域了！","AEGIS_1PERSON_HP10_3_0","机翻辅助：
 
 体力已经进入危险水域了！
 
 体力是危险水域！
 
 体力是危险的水域！"
-"AEGIS_1PERSON_TP10_1_0","精力下降的情况报告。","AEGIS_1PERSON_TP10_1_0","机翻辅助：
+"AEGIS_1PERSON_TP10_1_0","报告气力降低。","AEGIS_1PERSON_TP10_1_0","机翻辅助：
 
 报告气力降低。
 
 报告气力下降。"
-"AEGIS_1PERSON_TP10_2_0","精力已经到达极限值了。","AEGIS_1PERSON_TP10_2_0","机翻辅助：
+"AEGIS_1PERSON_TP10_2_0","我的气力……已经到达极限了……","AEGIS_1PERSON_TP10_2_0","机翻辅助：
 
 我的气力……已经到达极限了……
 
 气力……是极限值……
 
 气力是……极限值……"
-"AEGIS_1PERSON_TP10_3_0","精神状态下降，
-感到疲倦。","AEGIS_1PERSON_TP10_3_0","机翻辅助：
+"AEGIS_1PERSON_TP10_3_0","精力，降低。
+这就是所谓的累了。","AEGIS_1PERSON_TP10_3_0","机翻辅助：
 
 精力，降低。
 这就是所谓的累了。
@@ -354,7 +354,7 @@ F.O.E还在追上来！"
 
 精力下降。
 累了。"
-"AEGIS_1PERSON_HP80_1_0","这是一场精彩的战斗，
+"AEGIS_1PERSON_HP80_1_0","真是场精采的战斗。
 太棒了。","AEGIS_1PERSON_HP80_1_0","机翻辅助：
 
 真是场精采的战斗。
@@ -365,42 +365,42 @@ F.O.E还在追上来！"
 
 是漂亮的战斗。
 是批古。"
-"AEGIS_1PERSON_HP80_2_0","这是一个很棒的战斗结果。","AEGIS_1PERSON_HP80_2_0","机翻辅助：
+"AEGIS_1PERSON_HP80_2_0","真是漂亮的战斗结果。","AEGIS_1PERSON_HP80_2_0","机翻辅助：
 
 真是漂亮的战斗结果。
 
 真是精彩的战斗结果啊。
 
 真是了不起的战斗结果呢。"
-"AEGIS_1PERSON_HP80_3_0","这是一场三S级的战斗。","AEGIS_1PERSON_HP80_3_0","机翻辅助：
+"AEGIS_1PERSON_HP80_3_0","是三重S的战斗。","AEGIS_1PERSON_HP80_3_0","机翻辅助：
 
 是三重S的战斗。
 
 是等级triple S的战斗。
 
 是等级三S的战斗。"
-"AEGIS_DUNGEON_START_1_0","加油！","AEGIS_DUNGEON_START_1_0","机翻辅助：
+"AEGIS_DUNGEON_START_1_0","鼓起干劲上吧！","AEGIS_DUNGEON_START_1_0","机翻辅助：
 
 鼓起干劲上吧！
 
 鼓起干劲去！
 
 打起精神去！"
-"AEGIS_DUNGEON_START_2_0","让我们开始吧！","AEGIS_DUNGEON_START_2_0","机翻辅助：
+"AEGIS_DUNGEON_START_2_0","Let's go！","AEGIS_DUNGEON_START_2_0","机翻辅助：
 
 Let's go！
 
 是雷兹拉戈！
 
 这就是！"
-"AEGIS_DUNGEON_START_3_0","努力实现完全控制！","AEGIS_DUNGEON_START_3_0","机翻辅助：
+"AEGIS_DUNGEON_START_3_0","目标是完全压制……！","AEGIS_DUNGEON_START_3_0","机翻辅助：
 
 目标是完全压制……！
 
 目标，完全压制……是！
 
 目标，完全压制……就是这样！"
-"AEGIS_QUEST_START_1_0","埃癸斯，出发了！","AEGIS_QUEST_START_1_0","机翻辅助：
+"AEGIS_QUEST_START_1_0","埃癸斯，我要出招了！","AEGIS_QUEST_START_1_0","机翻辅助：
 
 埃癸斯，我要出招了！
 
@@ -414,36 +414,36 @@ Let's go！
 使命，是开始。
 
 任务，开始了。"
-"AEGIS_QUEST_START_3_0","早期解决提案！","AEGIS_QUEST_START_3_0","机翻辅助：
+"AEGIS_QUEST_START_3_0","我提议趁早解决！","AEGIS_QUEST_START_3_0","机翻辅助：
 
 我提议趁早解决！
 
 建议早日解决！
 
 建议尽早解决！"
-"AEGIS_TOUHA_25_1_0","还有很长的路要走。","AEGIS_TOUHA_25_1_0","机翻辅助：
+"AEGIS_TOUHA_25_1_0","未来还很漫长。","AEGIS_TOUHA_25_1_0","机翻辅助：
 
 未来还很漫长。
 
 路还很长。
 
 还有很长的路要走。"
-"AEGIS_TOUHA_25_2_0","建议在休息的时候前往。","AEGIS_TOUHA_25_2_0","机翻辅助：
+"AEGIS_TOUHA_25_2_0","我提议边休息边走。","AEGIS_TOUHA_25_2_0","机翻辅助：
 
 我提议边休息边走。
 
 我建议你一边休息一边去。
 
 我建议一边休息一边去。"
-"AEGIS_TOUHA_50_1_0","终于达到了一半！","AEGIS_TOUHA_50_1_0","机翻辅助：
+"AEGIS_TOUHA_50_1_0","终于抵达一半了！","AEGIS_TOUHA_50_1_0","机翻辅助：
 
 终于抵达一半了！
 
 终于到达一半了！
 
 才到一半！"
-"AEGIS_TOUHA_50_2_0","地图已经填满，
-可以期待探索效率的提升。","AEGIS_TOUHA_50_2_0","机翻辅助：
+"AEGIS_TOUHA_50_2_0","地图被填满，
+探索效率提升应该可以期待。","AEGIS_TOUHA_50_2_0","机翻辅助：
 
 地图被填满，
 探索效率提升应该可以期待。
@@ -453,22 +453,22 @@ Let's go！
 
 地图被埋了，
 可以期待搜索效率的提高。"
-"AEGIS_TOUHA_75_1_0","再稍微一点点就好了！","AEGIS_TOUHA_75_1_0","机翻辅助：
+"AEGIS_TOUHA_75_1_0","还差一点……就成功了！","AEGIS_TOUHA_75_1_0","机翻辅助：
 
 还差一点……就成功了！
 
 还有一点！
 
 还有一点……就是这样！"
-"AEGIS_TOUHA_75_2_0","剩下的部分，希望能尽快填补完整。","AEGIS_TOUHA_75_2_0","机翻辅助：
+"AEGIS_TOUHA_75_2_0","真想快点填满剩下的部分。","AEGIS_TOUHA_75_2_0","机翻辅助：
 
 真想快点填满剩下的部分。
 
 剩下的部分，我想早点埋。
 
 想快点把剩下的部分填满。"
-"AEGIS_TOUHA_100_1_0","这个楼层已经完全被控制住了！
-","AEGIS_TOUHA_100_1_0","机翻辅助：
+"AEGIS_TOUHA_100_1_0","我们完全压制了这层楼……
+！","AEGIS_TOUHA_100_1_0","机翻辅助：
 
 我们完全压制了这层楼……
 ！
@@ -483,83 +483,83 @@ Let's go！
 地图填满了，辛苦了。
 
 地图填好了，辛苦了。"
-"AEGIS_MAPPING_ICON_ALL_1_0","没有一丝差错。","AEGIS_MAPPING_ICON_ALL_1_0","机翻辅助：
+"AEGIS_MAPPING_ICON_ALL_1_0","连一毫米的误差都没有。","AEGIS_MAPPING_ICON_ALL_1_0","机翻辅助：
 
 连一毫米的误差都没有。
 
 没有1毫米的疯狂。
 
 毫厘不差。"
-"AEGIS_MAPPING_ICON_ALL_2_0","不愧是你！","AEGIS_MAPPING_ICON_ALL_2_0","机翻辅助：
+"AEGIS_MAPPING_ICON_ALL_2_0","真不愧是老师！","AEGIS_MAPPING_ICON_ALL_2_0","机翻辅助：
 
 真不愧是老师！
 
 不愧是！"
-"AEGIS_MAPPING_ICON_KAIDA_0","那里毫无疑问。","AEGIS_MAPPING_ICON_KAIDA_0","机翻辅助：
+"AEGIS_MAPPING_ICON_KAIDA_0","就是这里没错。","AEGIS_MAPPING_ICON_KAIDA_0","机翻辅助：
 
 就是这里没错。
 
 在那里没错。
 
 一定是这样。"
-"AEGIS_MAPPING_ICON_KAIDA_2_0","看起来可以毫不迷茫地移动到另一个楼层。","AEGIS_MAPPING_ICON_KAIDA_2_0","机翻辅助：
+"AEGIS_MAPPING_ICON_KAIDA_2_0","看来可以毫不犹豫地在楼层内移动。","AEGIS_MAPPING_ICON_KAIDA_2_0","机翻辅助：
 
 看来可以毫不犹豫地在楼层内移动。
 
 可以毫不犹豫地移动楼层。"
-"AEGIS_MAPPING_CHANGE_COL_0","我明白了，你能感受到特别之处。","AEGIS_MAPPING_CHANGE_COL_0","机翻辅助：
+"AEGIS_MAPPING_CHANGE_COL_0","原来如此，看得出是特别的礼物呢。","AEGIS_MAPPING_CHANGE_COL_0","机翻辅助：
 
 原来如此，看得出是特别的礼物呢。
 
 原来如此，能读懂特别。
 
 原来如此，可以看出特别之处。"
-"AEGIS_MAPPING_CHANGE_COL_2_0","你的品味简直爆炸了。","AEGIS_MAPPING_CHANGE_COL_2_0","机翻辅助：
+"AEGIS_MAPPING_CHANGE_COL_2_0","才能大爆发呢。","AEGIS_MAPPING_CHANGE_COL_2_0","机翻辅助：
 
 才能大爆发呢。
 
 品位爆发了呢。
 
 你的品味爆炸了。"
-"AEGIS_MAPPING_ICON_DEL_1_0","不要的物品应该被丢弃！","AEGIS_MAPPING_ICON_DEL_1_0","机翻辅助：
+"AEGIS_MAPPING_ICON_DEL_1_0","废物就该丢掉！","AEGIS_MAPPING_ICON_DEL_1_0","机翻辅助：
 
 废物就该丢掉！
 
 不要的东西要废弃！
 
 把不需要的东西扔掉！"
-"AEGIS_MAPPING_ICON_DEL_2_0","清爽舒适。","AEGIS_MAPPING_ICON_DEL_2_0","机翻辅助：
+"AEGIS_MAPPING_ICON_DEL_2_0","清爽又舒适。","AEGIS_MAPPING_ICON_DEL_2_0","机翻辅助：
 
 清爽又舒适。
 
 畅快舒适。
 
 清爽舒适。"
-"AEGIS_MAPPING_MEMO_1_0","记下笔记就不会忘记。","AEGIS_MAPPING_MEMO_1_0","机翻辅助：
+"AEGIS_MAPPING_MEMO_1_0","写在便条上就不会忘记。","AEGIS_MAPPING_MEMO_1_0","机翻辅助：
 
 写在便条上就不会忘记。
 
 做笔记的话就不会忘记。
 
 记笔记的话就不会忘记了。"
-"AEGIS_MAPPING_MEMO_2_0","记得要记笔记……咦？我忘了要记笔记吗？","AEGIS_MAPPING_MEMO_2_0","机翻辅助：
+"AEGIS_MAPPING_MEMO_2_0","为了不忘记便条而写便条……咦？","AEGIS_MAPPING_MEMO_2_0","机翻辅助：
 
 为了不忘记便条而写便条……咦？
 
 为了不忘记记笔记，记笔记？
 
 不要忘记记笔记记笔记……哎哟？"
-"AEGIS_DOOR_OPEN_1_0","请先走。","AEGIS_DOOR_OPEN_1_0","机翻辅助：
+"AEGIS_DOOR_OPEN_1_0","我先走一步了。","AEGIS_DOOR_OPEN_1_0","机翻辅助：
 
 我先走一步了。
 
 我先走了。"
-"AEGIS_DOOR_OPEN_2_0","这里！","AEGIS_DOOR_OPEN_2_0","机翻辅助：
+"AEGIS_DOOR_OPEN_2_0","往这边！","AEGIS_DOOR_OPEN_2_0","机翻辅助：
 
 往这边！
 
 在这里！"
-"AEGIS_DOOR_OPEN_3_0","侦察就交给我吧！","AEGIS_DOOR_OPEN_3_0","机翻辅助：
+"AEGIS_DOOR_OPEN_3_0","侦查就交给我吧！","AEGIS_DOOR_OPEN_3_0","机翻辅助：
 
 侦查就交给我吧！
 
