@@ -1,8 +1,9 @@
 import json
-from helper import CODE_BIN_PATH, DIR_EXPORT_ROOT, HARDCODED_TEXTS, get_text_bases
+import os
+from helper import CODE_BIN_PATH, ITEM_TBL_PATH, DIR_EXPORT_ROOT, DIR_ORIGINAL_ROOT, HARDCODED_TEXTS_CODE_BIN, HARDCODED_TEXTS_ITEM_TBL, get_text_bases
 
 
-def export_code_bin(code_bin_path: str, message_root: str, hardcoded_texts: list[tuple[str, str]]):
+def export_code_bin(input_path: str, sheet_name: str, message_root: str, hardcoded_texts: list[tuple[str, str]]):
 
   def find_strings(binary: bytes, texts: list, start: str | bytes, end: str | bytes, start_index: int = 0):
     if type(start) is str:
@@ -25,6 +26,8 @@ def export_code_bin(code_bin_path: str, message_root: str, hardcoded_texts: list
         break
       sub_bytes = binary[index:zero_index]
       if index != zero_index:
+        if index > start_index:
+          texts[-1]["length"] = index - texts[-1]["offset"] - 1
         texts.append({
           "id": f"offset_{index:08x}",
           "speaker": "",
@@ -38,7 +41,7 @@ def export_code_bin(code_bin_path: str, message_root: str, hardcoded_texts: list
 
     return index
 
-  with open(code_bin_path, "rb") as reader:
+  with open(input_path, "rb") as reader:
     binary = reader.read()
 
   texts = []
@@ -48,7 +51,7 @@ def export_code_bin(code_bin_path: str, message_root: str, hardcoded_texts: list
     if index == -1:
       break
 
-  with open(f"{message_root}/code.bin.json", "w", -1, "utf8") as writer:
+  with open(f"{message_root}/{sheet_name}.json", "w", -1, "utf8") as writer:
     json.dump({
       "speakers": [],
       "texts": texts,
@@ -56,4 +59,15 @@ def export_code_bin(code_bin_path: str, message_root: str, hardcoded_texts: list
 
 
 if __name__ == "__main__":
-  export_code_bin(CODE_BIN_PATH, DIR_EXPORT_ROOT, HARDCODED_TEXTS)
+  export_code_bin(
+    CODE_BIN_PATH,
+    "code.bin",
+    DIR_EXPORT_ROOT,
+    HARDCODED_TEXTS_CODE_BIN,
+  )
+  export_code_bin(
+    ITEM_TBL_PATH,
+    os.path.relpath(ITEM_TBL_PATH, DIR_ORIGINAL_ROOT),
+    DIR_EXPORT_ROOT,
+    HARDCODED_TEXTS_ITEM_TBL,
+  )

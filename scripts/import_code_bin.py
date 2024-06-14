@@ -2,14 +2,14 @@ import json
 from logging import warning
 import os
 from typing import Any
-from helper import CODE_BIN_PATH, CONTROL_PATTERN, DIR_IMPORT_ROOT, DIR_PATCH_ROOT
+from helper import CODE_BIN_PATH, CONTROL_PATTERN, DIR_IMPORT_ROOT, DIR_ORIGINAL_ROOT, DIR_PACK_ROOT, DIR_PATCH_ROOT, ITEM_TBL_PATH
 
 
-def import_code_bin(code_bin_path: str, message_root: str, output_root: str):
+def import_code_bin(code_bin_path: str, sheet_name: str, message_root: str, output_path: str):
   with open(code_bin_path, "rb") as reader:
     binary = bytearray(reader.read())
 
-  with open(f"{message_root}/code.bin.json", "r", -1, "utf8") as reader:
+  with open(f"{message_root}/{sheet_name}.json", "r", -1, "utf8") as reader:
     texts: list[dict[str, Any]] = json.load(reader)["texts"]
 
   for item in texts:
@@ -34,10 +34,22 @@ def import_code_bin(code_bin_path: str, message_root: str, output_root: str):
 
     binary[offset:offset + length] = text_bytes
 
-  os.makedirs(f"{output_root}/exefs", exist_ok=True)
-  with open(f"{output_root}/exefs/code.bin", "wb") as writer:
+  print(output_path)
+  os.makedirs(os.path.dirname(output_path), exist_ok=True)
+  with open(output_path, "wb") as writer:
     writer.write(binary)
 
 
 if __name__ == "__main__":
-  import_code_bin(CODE_BIN_PATH, DIR_IMPORT_ROOT, DIR_PATCH_ROOT)
+  import_code_bin(
+    CODE_BIN_PATH,
+    "code.bin",
+    DIR_IMPORT_ROOT,
+    f"{DIR_PATCH_ROOT}/exefs/code.bin",
+  )
+  import_code_bin(
+    ITEM_TBL_PATH,
+    os.path.relpath(ITEM_TBL_PATH, DIR_ORIGINAL_ROOT),
+    DIR_IMPORT_ROOT,
+    f"{DIR_PACK_ROOT}/{os.path.relpath(ITEM_TBL_PATH, DIR_ORIGINAL_ROOT)}",
+  )

@@ -13,6 +13,7 @@ DIR_XLSX_ROOT = "out/xlsx"
 DIR_PATCH_ROOT = "out/00040000001CBE00"
 
 CODE_BIN_PATH = "original_files/code.bin"
+ITEM_TBL_PATH = "original_files/unpacked/init/itemtbl.bin"
 ZH_HANS_2_KANJI_PATH = "files/zh_Hans_2_kanji.json"
 DUPLICATE_FILES_INFO_PATH = "files/duplicate_files.json"
 CHAR_TABLE_PATH = "out/char_table.json"
@@ -76,7 +77,7 @@ TO_NORMAL_CONTROLS = {
   r"\[道具 ([0-9A-F]{2})([0-9A-F]{2})\]": r"[F4 84 04 01 01 01 \2 \1]",
 }
 
-HARDCODED_TEXTS = [
+HARDCODED_TEXTS_CODE_BIN = [
   ("プロローグ", "？？？"),
   ("剛毅", "女帝"),
   ("Aチーム", "Ｐ３女主人公"),
@@ -92,6 +93,9 @@ HARDCODED_TEXTS = [
       "F2 05 FF FF F1 41 83 4E 83 8A 83 41 83 66 81 5B 83 5E 82 F0 95 DB 91 B6 82 B5 82 DC 82 B7 82 A9 81 48 0A"),
     bytes.fromhex("F2 05 FF FF F1 41 8F E3 8F 91 82 AB 82 B7 82 E9 0A 82 E2 82 DF 82 E9 0A"),
   ),
+]
+HARDCODED_TEXTS_ITEM_TBL = [
+  ("NULL", "鑑定・0xDFF"),
 ]
 
 char_table_reversed: dict[str, str] = {}
