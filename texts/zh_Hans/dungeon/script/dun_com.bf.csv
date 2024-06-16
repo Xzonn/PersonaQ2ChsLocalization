@@ -112,11 +112,9 @@
 从迷宫中逃脱
 
 逃出迷宫"
-"JIJIKU_SEL_2","放弃","JIJIKU_SEL_2","机翻辅助：
+"JIJIKU_SEL_2","取消","JIJIKU_SEL_2","机翻辅助：
 
-放弃
-
-停止"
+取消"
 "JIJIKU_ASK_0","＞要怎么做？","JIJIKU_ASK_0","机翻辅助：
 
 ＞要怎么做？
@@ -189,11 +187,9 @@
 "POWER_SPOT_SEL_1","专心采集","POWER_SPOT_SEL_1","机翻辅助：
 
 专心采集"
-"POWER_SPOT_SEL_2","放弃","POWER_SPOT_SEL_2","机翻辅助：
+"POWER_SPOT_SEL_2","取消","POWER_SPOT_SEL_2","机翻辅助：
 
-放弃
-
-停止"
+取消"
 "USE_AUTO_RECOVER_ASK_0","＞要使用自动治疗吗？","USE_AUTO_RECOVER_ASK_0","机翻辅助：
 
 ＞要使用自动治疗吗？

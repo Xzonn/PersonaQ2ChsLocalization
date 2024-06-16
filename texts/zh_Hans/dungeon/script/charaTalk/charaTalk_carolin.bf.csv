@@ -9,19 +9,15 @@
 "ITEM_POINT_SEL_1","专心采集","ITEM_POINT_SEL_1","机翻辅助：
 
 专心采集"
-"ITEM_POINT_SEL_2","放弃","ITEM_POINT_SEL_2","机翻辅助：
+"ITEM_POINT_SEL_2","取消","ITEM_POINT_SEL_2","机翻辅助：
 
-放弃
-
-停止"
+取消"
 "ITEM_POINT_FORCE_BTL_SEL_0","寻找","ITEM_POINT_FORCE_BTL_SEL_0","机翻辅助：
 
 寻找"
-"ITEM_POINT_FORCE_BTL_SEL_1","放弃","ITEM_POINT_FORCE_BTL_SEL_1","机翻辅助：
+"ITEM_POINT_FORCE_BTL_SEL_1","取消","ITEM_POINT_FORCE_BTL_SEL_1","机翻辅助：
 
-放弃
-
-停止"
+取消"
 "SHORTCUT_SEL_0","能通过","SHORTCUT_SEL_0","机翻辅助：
 
 能通过
@@ -36,11 +32,7 @@
 不通
 
 不通过"
-"ENTRANCE_SEL_0","回头","ENTRANCE_SEL_0","机翻辅助：
-
-回头
-
-后退
+"ENTRANCE_SEL_0","返回","ENTRANCE_SEL_0","机翻辅助：
 
 返回"
 "ENTRANCE_SEL_1","不回头","ENTRANCE_SEL_1","机翻辅助：
