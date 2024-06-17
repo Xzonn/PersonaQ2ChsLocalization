@@ -22,7 +22,7 @@ CHAR_TABLE_PATH = "out/char_table.json"
 FONT_PATHS = [
   "files/fonts/FZFWQingYinTiJWB.ttf",
   "files/fonts/FOT-HummingStd-B.otf",
-  "fonts/MiSans-Semibold.otf",
+  "files/fonts/MiSans-Semibold.otf",
   "files/fonts/SourceHanSansSC-Medium.otf",
 ]
 

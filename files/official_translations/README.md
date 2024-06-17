@@ -8,5 +8,5 @@
 | P4G | 女神异闻录4 黄金版 |
 | P3P | 女神异闻录3 携带版 |
 | SMTVV | 真·女神转生V Vengeance |
-| EO1-3HD | 世界树的迷宫 I-III HD |
 | SH2 | 灵魂骇客2 |
+| EO1-3HD | 世界树的迷宫 I-III HD |
