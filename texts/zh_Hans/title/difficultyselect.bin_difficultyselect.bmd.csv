@@ -1,94 +1,90 @@
 "source","target","id","developer_comments"
 "MSG_DIFFICULTY_SELECT_01_0","＞请
-选择游戏难易度。","MSG_DIFFICULTY_SELECT_01_0","机翻辅助：
+　选择游戏难易度。","MSG_DIFFICULTY_SELECT_01_0","机翻辅助：
 
 ＞请
-选择游戏难易度。
+　选择游戏难易度。
 
->首先请选择
-游戏的难易度。
+＞首先请选择
+　游戏的难易度。
 
->请先选择游戏的难易度。"
+＞请先选择游戏的难易度。"
 "MSG_DIFFICULTY_SELECT_01_1","＞无论选择哪个难易度，故事
-都没有变化，建议选择适合游玩方式的
-难易度。","MSG_DIFFICULTY_SELECT_01_1","机翻辅助：
+　都没有变化，建议选择适合游玩方式的
+　难易度。","MSG_DIFFICULTY_SELECT_01_1","机翻辅助：
 
 ＞无论选择哪个难易度，故事
-都没有变化，建议选择适合游玩方式的
-难易度。
+　都没有变化，建议选择适合游玩方式的
+　难易度。
 
->无论选择哪个难易度，故事都没有变化，所以推荐适合玩法的难易度。"
+＞无论选择哪个难易度，故事都没有变化，所以推荐适合玩法的难易度。"
 "MSG_DIFFICULTY_SELECT_01_2","＞游戏开始后，难易度
-也能中途变更。","MSG_DIFFICULTY_SELECT_01_2","机翻辅助：
+　也能中途变更。","MSG_DIFFICULTY_SELECT_01_2","机翻辅助：
 
 ＞游戏开始后，难易度
-也能中途变更。
+　也能中途变更。
 
->难易度，游戏开始后
-也可以中途变更。
+＞难易度，游戏开始后
+　也可以中途变更。
 
->难度在游戏开始后
-中途也可以变更。"
+＞难度在游戏开始后
+　中途也可以变更。"
 "MSG_DIFFICULTY_SELECT_01_3","＞但只有难易度“RISKY”
-不能中途变更。
-请注意。","MSG_DIFFICULTY_SELECT_01_3","机翻辅助：
+　不能中途变更。
+　请注意。","MSG_DIFFICULTY_SELECT_01_3","机翻辅助：
 
 ＞但只有难易度“RISKY”
-不能中途变更。
-请注意。
+　不能中途变更。
+　请注意。
 
-只是难易度“RISKY”不能中途变更。
-请注意。
+＞只是难易度“RISKY”不能中途变更。
+　请注意。
+　
 
-
-只是难易度“RISKY”，
-中途不能变更。请注意。"
+＞只是难易度“RISKY”，
+　中途不能变更。请注意。"
 "MSG_DIFFICULTY_CONFIRM_0","＞要以难易度“[占位A 01]”
-开始吗？","MSG_DIFFICULTY_CONFIRM_0","机翻辅助：
+　开始吗？","MSG_DIFFICULTY_CONFIRM_0","机翻辅助：
 
 ＞要以难易度“[占位A 01]”
-开始吗？
+　开始吗？
 
->难易度“[占位A 01]”
-可以开始了吗？
+＞难易度“[占位A 01]”
+　可以开始了吗？
 
-以难易度“[占位A 01]”开始
-可以吗？"
+＞以难易度“[占位A 01]”开始
+　可以吗？"
 "SEL_DIFFICULTY_CONFIRM_0","是","SEL_DIFFICULTY_CONFIRM_0",""
 "SEL_DIFFICULTY_CONFIRM_1","否","SEL_DIFFICULTY_CONFIRM_1",""
 "MSG_DIFFICULTY_CONFIRM_R_0","＞难易度“RISKY”
-不能在游戏途中变更。","MSG_DIFFICULTY_CONFIRM_R_0","机翻辅助：
+　不能在游戏途中变更。","MSG_DIFFICULTY_CONFIRM_R_0","机翻辅助：
 
 ＞难易度“RISKY”
-不能在游戏途中变更。
+　不能在游戏途中变更。
 
-难易度“RISKY”，
-游戏的中途不能变更。
+＞难易度“RISKY”，
+　游戏的中途不能变更。
 
-难易度“RISKY”在
-游戏中途不能变更。"
-"MSG_DIFFICULTY_CONFIRM_R_1","
-可以开始进行难度“RISKY”吗？","MSG_DIFFICULTY_CONFIRM_R_1","机翻辅助：
+＞难易度“RISKY”在
+　游戏中途不能变更。"
+"MSG_DIFFICULTY_CONFIRM_R_1","＞
+　可以开始进行难度“RISKY”吗？","MSG_DIFFICULTY_CONFIRM_R_1","机翻辅助：
 
+＞
+　可以开始进行难度“RISKY”吗？
 
-可以开始进行难度“RISKY”吗？
+＞难易度“RISKY”
+　可以开始了吗？
 
->难易度“RISKY”
-可以开始了吗？
-
-难易度“RISKY”
-可以开始吗？"
+＞难易度“RISKY”
+　可以开始吗？"
 "MSG_DIFFICULTY_CONFIRM_R_2_0","＞真的可以吗？","MSG_DIFFICULTY_CONFIRM_R_2_0","机翻辅助：
 
-＞真的可以吗？
-
-真的可以吗？"
+＞真的可以吗？"
 "MSG_RETURN_TITLE_0","＞要回到标题画面吗？","MSG_RETURN_TITLE_0","机翻辅助：
 
 ＞要回到标题画面吗？
 
-＞返回标题画面吗？
-
->返回标题画面吗？"
+＞返回标题画面吗？"
 "SEL_RETURN_TITLE_0","是","SEL_RETURN_TITLE_0",""
 "SEL_RETURN_TITLE_1","否","SEL_RETURN_TITLE_1",""

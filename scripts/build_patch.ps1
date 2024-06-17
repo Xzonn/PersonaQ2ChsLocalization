@@ -21,6 +21,7 @@ python scripts\export_tbl.py
 
 # Convert texts and create a character table
 python scripts\remove_duplicate_files.py
+python scripts\import_official_names.py
 python scripts\convert_msg_to_json.py
 python scripts\import_csv_to_json.py
 python scripts\generate_char_table.py
