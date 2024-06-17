@@ -7,7 +7,7 @@ from helper import DIR_EXPORT_ROOT
 def export_ctd(input_root: str, message_root: str):
   for root, dirs, files in os.walk(input_root):
     for file_name in files:
-      if not (file_name.endswith(".ctd") or file_name.endswith(".ftd")):
+      if not (file_name.endswith(".ctd") or file_name.endswith(".ftd") or file_name.endswith(".qtd")):
         continue
 
       sheet_name = os.path.relpath(f"{root}/{file_name}", input_root).replace("\\", "/")

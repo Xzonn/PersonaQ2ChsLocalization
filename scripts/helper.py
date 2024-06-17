@@ -28,7 +28,7 @@ FONT_PATHS = [
 
 CONTROL_PATTERN = re.compile(r"(\[[0-9A-F]{2}(?: [0-9A-F]{2})*\]|\n)")
 TRASH_PATTERN = re.compile(
-  r"^(?:|.*(?:0x|＿|※|（仮）|ダミーメッセージ|ダミーMSG|ダミー枠|ＲＥＳＥＲＶＥ|ｂｌａｎｋ|ＢＬＡＮＫ|リザーブ|（ダミー）|ダ\[(?:n|e|f(?: \d+)+)\]ミ\[(?:n|e|f(?: \d+)+)\]ー|★未使用|・未使用|未使用・|MSG|これが出るとバグです|バッファ).*|ダミー\d*|＜声のみ＞ダミー|会話ダミー|ダミ－|ブランク|未使用\d*|ダミー　使用禁止|%s|？+|NULL|仮・.+)$",
+  r"^(?:|.*(?:0x|＿|※|（仮）|ダミーメッセージ|ダミーMSG|ダミー枠|ＲＥＳＥＲＶＥ|ｂｌａｎｋ|ＢＬＡＮＫ|リザーブ|（ダミー）|ダ\[(?:n|e|f(?: \d+)+)\]ミ\[(?:n|e|f(?: \d+)+)\]ー|★未使用|・未使用|未使用・|MSG|これが出るとバグです|バッファ).*|ダミー\d*|＜声のみ＞ダミー|会話ダミー|ダミ－|ブランク|未使用\d*|ダミー　使用禁止|%s|？+|NULL|仮・.+|クエスト.+ダミー)$",
   re.DOTALL,
 )
 KANA_PATTERN = re.compile(r"[\u3040-\u309F\u30A0-\u30FF]+")
@@ -37,8 +37,8 @@ CHINESE_TO_JAPANESE = {
   "·": "・",
   "—": "―",
 }
-CHINESE_PUNCTUATIONS_LEFT = "，。、；：？！…”’》）"
-CHINESE_PUNCTUATIONS_RIGHT = "“‘《（"
+CHINESE_PUNCTUATIONS_LEFT = "，。、；：？！…》）"
+CHINESE_PUNCTUATIONS_RIGHT = "《（"
 CHINESE_PUNCTUATIONS_CENTER = "…·・—―"
 
 TO_SPECIAL_CONTROLS = {
@@ -80,6 +80,8 @@ TO_NORMAL_CONTROLS = {
 
 HARDCODED_TEXTS_CODE_BIN = [
   ("プロローグ", "？？？"),
+  ("戦闘ナビを%sにまかせる。", "戦闘ナビを%sにまかせる。"),
+  ("探索ナビを%sにまかせる。", "探索ナビを%sにまかせる。"),
   ("剛毅", "女帝"),
   ("Aチーム", "Ｐ３女主人公"),
   ("謎解き", "採取"),
