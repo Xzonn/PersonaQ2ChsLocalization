@@ -9,15 +9,15 @@
 "ITEM_POINT_SEL_1","专心采集","ITEM_POINT_SEL_1","机翻辅助：
 
 专心采集"
-"ITEM_POINT_SEL_2","取消","ITEM_POINT_SEL_2","机翻辅助：
+"ITEM_POINT_SEL_2","放弃","ITEM_POINT_SEL_2","机翻辅助：
 
-取消"
+放弃"
 "ITEM_POINT_FORCE_BTL_SEL_0","寻找","ITEM_POINT_FORCE_BTL_SEL_0","机翻辅助：
 
 寻找"
-"ITEM_POINT_FORCE_BTL_SEL_1","取消","ITEM_POINT_FORCE_BTL_SEL_1","机翻辅助：
+"ITEM_POINT_FORCE_BTL_SEL_1","放弃","ITEM_POINT_FORCE_BTL_SEL_1","机翻辅助：
 
-取消"
+放弃"
 "SHORTCUT_SEL_0","能通过","SHORTCUT_SEL_0","机翻辅助：
 
 能通过
@@ -235,15 +235,7 @@
 
 啊！能从这里回来呢！
 怎么办？"
-"MSG_027_0","！！啊啊！！","MSG_027_0","机翻辅助：
+"MSG_027_0","！！哇呀！！","MSG_027_0","机翻辅助：
 
-！！啊啊！！
-
-！！啊啊啊！！
-
-！！啊！！"
-"speaker_Ｐ３主人公（女）","P3主角（女）","speaker_Ｐ３主人公（女）","机翻辅助：
-
-P3主角（女）
-
-P3主人公（女）"
+！！哇呀！！"
+"speaker_Ｐ３主人公（女）","Ｐ３主人公（女）","speaker_Ｐ３主人公（女）","翻译匹配：PQ2"

@@ -100,9 +100,7 @@
 ＞……？
 
 >……？"
-"JIJIKU_SEL_0","存档","JIJIKU_SEL_0","机翻辅助：
-
-存档
+"JIJIKU_SEL_0","保存","JIJIKU_SEL_0","机翻辅助：
 
 保存"
 "JIJIKU_SEL_1","脱离迷宫","JIJIKU_SEL_1","机翻辅助：
@@ -112,9 +110,9 @@
 从迷宫中逃脱
 
 逃出迷宫"
-"JIJIKU_SEL_2","取消","JIJIKU_SEL_2","机翻辅助：
+"JIJIKU_SEL_2","放弃","JIJIKU_SEL_2","机翻辅助：
 
-取消"
+放弃"
 "JIJIKU_ASK_0","＞要怎么做？","JIJIKU_ASK_0","机翻辅助：
 
 ＞要怎么做？
@@ -187,9 +185,9 @@
 "POWER_SPOT_SEL_1","专心采集","POWER_SPOT_SEL_1","机翻辅助：
 
 专心采集"
-"POWER_SPOT_SEL_2","取消","POWER_SPOT_SEL_2","机翻辅助：
+"POWER_SPOT_SEL_2","放弃","POWER_SPOT_SEL_2","机翻辅助：
 
-取消"
+放弃"
 "USE_AUTO_RECOVER_ASK_0","＞要使用自动治疗吗？","USE_AUTO_RECOVER_ASK_0","机翻辅助：
 
 ＞要使用自动治疗吗？
@@ -847,12 +845,6 @@ F.O.E不在了再通过吧！"
 
 地图上显示了隐藏在这部电影里的“宝物的所在”。
 [颜色 03][颜色 01]"
-"speaker_佐倉 双葉","佐仓双叶","speaker_佐倉 双葉","机翻辅助：
-
-佐仓双叶"
-"speaker_久慈川 りせ","久慈川理世","speaker_久慈川 りせ","机翻辅助：
-
-久慈川理世"
-"speaker_山岸 風花","山岸风花","speaker_山岸 風花","机翻辅助：
-
-山岸风花"
+"speaker_佐倉 双葉","佐仓 双叶","speaker_佐倉 双葉","翻译匹配：PQ2"
+"speaker_久慈川 りせ","久慈川 理世","speaker_久慈川 りせ","翻译匹配：PQ2"
+"speaker_山岸 風花","山岸 风花","speaker_山岸 風花","翻译匹配：PQ2"

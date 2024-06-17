@@ -9,15 +9,15 @@
 "ITEM_POINT_SEL_1","专心采集","ITEM_POINT_SEL_1","机翻辅助：
 
 专心采集"
-"ITEM_POINT_SEL_2","取消","ITEM_POINT_SEL_2","机翻辅助：
+"ITEM_POINT_SEL_2","放弃","ITEM_POINT_SEL_2","机翻辅助：
 
-取消"
+放弃"
 "ITEM_POINT_FORCE_BTL_SEL_0","寻找","ITEM_POINT_FORCE_BTL_SEL_0","机翻辅助：
 
 寻找"
-"ITEM_POINT_FORCE_BTL_SEL_1","取消","ITEM_POINT_FORCE_BTL_SEL_1","机翻辅助：
+"ITEM_POINT_FORCE_BTL_SEL_1","放弃","ITEM_POINT_FORCE_BTL_SEL_1","机翻辅助：
 
-取消"
+放弃"
 "SHORTCUT_SEL_0","能通过","SHORTCUT_SEL_0","机翻辅助：
 
 能通过
@@ -101,27 +101,13 @@
 "THEO_MSG_011_0","是稀有物！","THEO_MSG_011_0","机翻辅助：
 
 是稀有物！"
-"MSG_027_0","！！啊啊！！","MSG_027_0","机翻辅助：
+"MSG_027_0","！！哇呀！！","MSG_027_0","机翻辅助：
 
-！！啊啊！！
+！！哇呀！！"
+"ZABE_MSG_027_0","！！哇呀！！","ZABE_MSG_027_0","机翻辅助：
 
-！！啊啊啊！！
+！！哇呀！！"
+"THEO_MSG_027_0","！！哇呀！！","THEO_MSG_027_0","机翻辅助：
 
-！！啊！！"
-"ZABE_MSG_027_0","！！啊啊！！","ZABE_MSG_027_0","机翻辅助：
-
-！！啊啊！！
-
-！！啊啊啊！！
-
-！！啊！！"
-"THEO_MSG_027_0","！！啊啊！！","THEO_MSG_027_0","机翻辅助：
-
-！！啊啊！！
-
-！！啊啊啊！！
-
-！！啊！！"
-"speaker_エリザベス","伊莉莎白","speaker_エリザベス","机翻辅助：
-
-伊莉莎白"
+！！哇呀！！"
+"speaker_エリザベス","伊莉莎白","speaker_エリザベス","翻译匹配：PQ2"

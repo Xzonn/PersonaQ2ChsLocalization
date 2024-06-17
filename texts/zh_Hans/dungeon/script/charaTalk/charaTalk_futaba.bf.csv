@@ -9,15 +9,15 @@
 "ITEM_POINT_SEL_1","专心采集","ITEM_POINT_SEL_1","机翻辅助：
 
 专心采集"
-"ITEM_POINT_SEL_2","取消","ITEM_POINT_SEL_2","机翻辅助：
+"ITEM_POINT_SEL_2","放弃","ITEM_POINT_SEL_2","机翻辅助：
 
-取消"
+放弃"
 "ITEM_POINT_FORCE_BTL_SEL_0","寻找","ITEM_POINT_FORCE_BTL_SEL_0","机翻辅助：
 
 寻找"
-"ITEM_POINT_FORCE_BTL_SEL_1","取消","ITEM_POINT_FORCE_BTL_SEL_1","机翻辅助：
+"ITEM_POINT_FORCE_BTL_SEL_1","放弃","ITEM_POINT_FORCE_BTL_SEL_1","机翻辅助：
 
-取消"
+放弃"
 "SHORTCUT_SEL_0","能通过","SHORTCUT_SEL_0","机翻辅助：
 
 能通过
@@ -392,13 +392,7 @@ OK。
 
 然后就可以回电影院了！
 要回去吗？"
-"MSG_027_0","！！啊啊！！","MSG_027_0","机翻辅助：
+"MSG_027_0","！！哇呀！！","MSG_027_0","机翻辅助：
 
-！！啊啊！！
-
-！！啊啊啊！！
-
-！！啊！！"
-"speaker_佐倉 双葉","佐仓双叶","speaker_佐倉 双葉","机翻辅助：
-
-佐仓双叶"
+！！哇呀！！"
+"speaker_佐倉 双葉","佐仓 双叶","speaker_佐倉 双葉","翻译匹配：PQ2"

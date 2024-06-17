@@ -2,13 +2,9 @@
 "BTLMSGID_AP_SINGLE_0","[占位A 01]出现了！","BTLMSGID_AP_SINGLE_0","机翻辅助：
 
 [占位A 01]出现了！"
-"BTLMSGID_AP_S_MANY_0","[占位A 01]出现了！","BTLMSGID_AP_S_MANY_0","机翻辅助：
+"BTLMSGID_AP_S_MANY_0","[占位A 01]们出现了！","BTLMSGID_AP_S_MANY_0","机翻辅助：
 
-[占位A 01]出现了！
-
-[占位A 01]他们出现了！
-
-[占位A 01]达出现了！"
+[占位A 01]们出现了！"
 "BTLMSGID_AP_D_MANY_0","暗影群出现了！","BTLMSGID_AP_D_MANY_0","机翻辅助：
 
 暗影群出现了！
@@ -32,11 +28,7 @@
 但是，[占位A 02]预想到了意外的袭击。"
 "BTLMSGID_AP_S_SUP_0","[占位A 01]抢占了先机！","BTLMSGID_AP_S_SUP_0","机翻辅助：
 
-[占位A 01]抢占了先机！
-
-[占位A 01]先下手为强！
-
-[占位A 01]先发制人！"
+[占位A 01]抢占了先机！"
 "BTLMSGID_AP_D_SUP_0","我方先发制人！","BTLMSGID_AP_D_SUP_0","机翻辅助：
 
 我方先发制人！
@@ -61,9 +53,9 @@
 黑影袭击了暗影他们！
 
 黑影袭击暗影！"
-"BLTMSGID_CMD_0","怎么办？","BLTMSGID_CMD_0","机翻辅助：
+"BLTMSGID_CMD_0","要怎么做？","BLTMSGID_CMD_0","机翻辅助：
 
-怎么办？"
+要怎么做？"
 "BLTMSGID_CMD_NO_0","[占位A 01]不能动！","BLTMSGID_CMD_NO_0","机翻辅助：
 
 [占位A 01]不能动！
@@ -74,11 +66,7 @@
 伙伴们动不了！
 
 伙伴们不能动！"
-"BLTMSGID_STONE_0","[占位A 01]是石化的！","BLTMSGID_STONE_0","机翻辅助：
-
-[占位A 01]是石化的！
-
-[占位A 01]已经石化了！
+"BLTMSGID_STONE_0","[占位A 01]石化了！","BLTMSGID_STONE_0","机翻辅助：
 
 [占位A 01]石化了！"
 "BLTMSGID_SLEEP_0","[占位A 01]在睡觉","BLTMSGID_SLEEP_0","机翻辅助：
@@ -86,13 +74,9 @@
 [占位A 01]在睡觉
 
 [占位A 01]睡着了！"
-"BLTMSGID_CONFUSE_0","[占位A 01]是混乱的！","BLTMSGID_CONFUSE_0","机翻辅助：
+"BLTMSGID_CONFUSE_0","[占位A 01]处于混乱状态！","BLTMSGID_CONFUSE_0","机翻辅助：
 
-[占位A 01]是混乱的！
-
-[占位A 01]混乱了！
-
-[占位A 01]陷入混乱！"
+[占位A 01]处于混乱状态！"
 "BLTMSGID_PARA_0","[占位A 01]麻痹不能动！","BLTMSGID_PARA_0","机翻辅助：
 
 [占位A 01]麻痹不能动！
@@ -135,23 +119,15 @@
 [占位A 01]由于速封效果不能逃跑！
 
 [占位A 01]由于速封效果无法逃跑！"
-"BTLMSGID_CRITICALHIT_P_0","[占位A 02]已断气！","BTLMSGID_CRITICALHIT_P_0","机翻辅助：
-
-[占位A 02]已断气！
-
-[占位A 02]气绝了！
+"BTLMSGID_CRITICALHIT_P_0","[占位A 02]断气了！","BTLMSGID_CRITICALHIT_P_0","机翻辅助：
 
 [占位A 02]断气了！"
-"BTLMSGID_CRITICALHIT_E_0","[占位A 02]已杀死！","BTLMSGID_CRITICALHIT_E_0","机翻辅助：
+"BTLMSGID_CRITICALHIT_E_0","[占位A 02]消灭了！","BTLMSGID_CRITICALHIT_E_0","机翻辅助：
 
-[占位A 02]已杀死！
+[占位A 02]消灭了！"
+"BTLMSGID_ATTACK_0","[占位A 01]发动攻击！","BTLMSGID_ATTACK_0","机翻辅助：
 
-[占位A 02]停止了呼吸！
-
-[占位A 02]的死根！"
-"BTLMSGID_ATTACK_0","[占位A 01]的攻击！","BTLMSGID_ATTACK_0","机翻辅助：
-
-[占位A 01]的攻击！"
+[占位A 01]发动攻击！"
 "BTLMSGID_DAMAGE_P_E_0","[占位A 02]对造成[占位A 03]伤害！","BTLMSGID_DAMAGE_P_E_0","机翻辅助：
 
 [占位A 02]对造成[占位A 03]伤害！
@@ -159,13 +135,9 @@
 [占位A 02]给予了[占位A 03]的伤害！
 
 [占位A 02]给予了二[占位A 03]的伤害！"
-"BTLMSGID_DAMAGE_P_E_C_0","[占位A 03]对造成伤害！","BTLMSGID_DAMAGE_P_E_C_0","机翻辅助：
+"BTLMSGID_DAMAGE_P_E_C_0","[占位A 03]造成了伤害！","BTLMSGID_DAMAGE_P_E_C_0","机翻辅助：
 
-[占位A 03]对造成伤害！
-
-[占位A 03]的伤害！
-
-[占位A 03]给了的伤害！"
+[占位A 03]造成了伤害！"
 "BTLMSGID_DAMAGE_E_P_HP_0","[占位A 02]受到[占位A 03]伤害！","BTLMSGID_DAMAGE_E_P_HP_0","机翻辅助：
 
 [占位A 02]受到[占位A 03]伤害！
@@ -228,34 +200,18 @@
 [占位A 01]使用了哈[占位A 04]！
 
 [占位A 01]使用了！[占位A 04]"
-"BTLMSGID_DEFENCE_0","[占位A 01]保护自己！","BTLMSGID_DEFENCE_0","机翻辅助：
+"BTLMSGID_DEFENCE_0","[占位A 01]正在防守。","BTLMSGID_DEFENCE_0","机翻辅助：
 
-[占位A 01]保护自己！
+[占位A 01]正在防守。"
+"BTLMSGID_SUMMON_0","[占位A 01]呼唤了同伴！","BTLMSGID_SUMMON_0","机翻辅助：
 
-[占位A 01]守护着自己。
+[占位A 01]呼唤了同伴！"
+"BLTMSGID_BST_DEAD_0","[占位A 02]被瞬杀了！","BLTMSGID_BST_DEAD_0","机翻辅助：
 
-[占位A 01]是在保护自己。"
-"BTLMSGID_SUMMON_0","[占位A 01]呼叫同伴！","BTLMSGID_SUMMON_0","机翻辅助：
+[占位A 02]被瞬杀了！"
+"BLTMSGID_BST_STONE_0","[占位A 02]石化了！","BLTMSGID_BST_STONE_0","机翻辅助：
 
-[占位A 01]呼叫同伴！
-
-[占位A 01]呼唤同伴！
-
-[占位A 01]叫同伴来了！"
-"BLTMSGID_BST_DEAD_0","[占位A 02]立即死亡！","BLTMSGID_BST_DEAD_0","机翻辅助：
-
-[占位A 02]立即死亡！
-
-[占位A 02]当场死亡！
-
-[占位A 02]马上就死了！"
-"BLTMSGID_BST_STONE_0","[占位A 02]石化！","BLTMSGID_BST_STONE_0","机翻辅助：
-
-[占位A 02]石化！
-
-[占位A 02]石化了！
-
-[占位A 02]哈石化了！"
+[占位A 02]石化了！"
 "BLTMSGID_BST_SLEEP_0","[占位A 02]陷入沉睡！","BLTMSGID_BST_SLEEP_0","机翻辅助：
 
 [占位A 02]陷入沉睡！
@@ -263,9 +219,7 @@
 [占位A 02]睡起来了！
 
 [占位A 02]我睡着了！"
-"BLTMSGID_BST_CONFUSE_0","[占位A 02]陷入混乱！","BLTMSGID_BST_CONFUSE_0","机翻辅助：
-
-[占位A 02]陷入混乱！
+"BLTMSGID_BST_CONFUSE_0","[占位A 02]混乱了！","BLTMSGID_BST_CONFUSE_0","机翻辅助：
 
 [占位A 02]混乱了！"
 "BLTMSGID_BST_POINSON_EX_0","[占位A 02]中毒！","BLTMSGID_BST_POINSON_EX_0","机翻辅助：
@@ -275,30 +229,16 @@
 [占位A 02]毒感染了！
 
 [占位A 02]中了毒！"
-"BLTMSGID_BST_POISON_0","[占位A 02]中毒！","BLTMSGID_BST_POISON_0","机翻辅助：
+"BLTMSGID_BST_POISON_0","[占位A 02]让中毒了！","BLTMSGID_BST_POISON_0","机翻辅助：
 
-[占位A 02]中毒！
+[占位A 02]让中毒了！"
+"BLTMSGID_BST_BLIND_0","[占位A 02]失明了！","BLTMSGID_BST_BLIND_0","机翻辅助：
 
-[占位A 02]毒害！
-
-[占位A 02]中了毒！"
-"BLTMSGID_BST_BLIND_0","[占位A 02]盲目！","BLTMSGID_BST_BLIND_0","机翻辅助：
-
-[占位A 02]盲目！
-
-[占位A 02]我瞎了！
-
-[占位A 02]瞎了！"
-"BLTMSGID_BST_CURSE_0","[占位A 02]被诅咒！","BLTMSGID_BST_CURSE_0","机翻辅助：
-
-[占位A 02]被诅咒！
+[占位A 02]失明了！"
+"BLTMSGID_BST_CURSE_0","[占位A 02]被诅咒了！","BLTMSGID_BST_CURSE_0","机翻辅助：
 
 [占位A 02]被诅咒了！"
-"BLTMSGID_BST_PARA_0","[占位A 02]麻痹！","BLTMSGID_BST_PARA_0","机翻辅助：
-
-[占位A 02]麻痹！
-
-[占位A 02]麻木了！
+"BLTMSGID_BST_PARA_0","[占位A 02]麻痹了！","BLTMSGID_BST_PARA_0","机翻辅助：
 
 [占位A 02]麻痹了！"
 "BLTMSGID_BST_STUN_0","[占位A 02]昏厥！","BLTMSGID_BST_STUN_0","机翻辅助：
@@ -341,20 +281,12 @@
 [占位A 02]的石化解开了！
 
 [占位A 02]的石化融化了！"
-"BTLMSGID_BSTH_SLEEP_0","[占位A 02]清醒！","BTLMSGID_BSTH_SLEEP_0","机翻辅助：
+"BTLMSGID_BSTH_SLEEP_0","[占位A 02]苏醒了！","BTLMSGID_BSTH_SLEEP_0","机翻辅助：
 
-[占位A 02]清醒！
+[占位A 02]苏醒了！"
+"BTLMSGID_BSTH_CONFUSION_0","[占位A 02]清醒了！","BTLMSGID_BSTH_CONFUSION_0","机翻辅助：
 
-[占位A 02]我醒了！
-
-[占位A 02]醒了！"
-"BTLMSGID_BSTH_CONFUSION_0","[占位A 02]恢复正常！","BTLMSGID_BSTH_CONFUSION_0","机翻辅助：
-
-[占位A 02]恢复正常！
-
-[占位A 02]回到正气！
-
-[占位A 02]恢复正常了！"
+[占位A 02]清醒了！"
 "BTLMSGID_BSTH_STINK_0","[占位A 02]重新振作！","BTLMSGID_BSTH_STINK_0","机翻辅助：
 
 [占位A 02]重新振作！
@@ -407,13 +339,9 @@
 [占位A 02]的速封状态解开了！
 
 [占位A 02]的速封状态解除了！"
-"BTLMSGID_ESCAPE_0","[占位A 01]逃走！","BTLMSGID_ESCAPE_0","机翻辅助：
+"BTLMSGID_ESCAPE_0","[占位A 01]准备逃跑！","BTLMSGID_ESCAPE_0","机翻辅助：
 
-[占位A 01]逃走！
-
-[占位A 01]逃跑了！
-
-[占位A 01]逃走了！"
+[占位A 01]准备逃跑！"
 "BTLMSGID_NOT_ESCAPE_0","[占位A 01]无法逃走！","BTLMSGID_NOT_ESCAPE_0","机翻辅助：
 
 [占位A 01]无法逃走！
@@ -421,18 +349,12 @@
 [占位A 01]没能逃掉！
 
 [占位A 01]不能逃跑！"
-"BTLMSGID_NO_ESCAPE_0","无法逃离这场战斗！！","BTLMSGID_NO_ESCAPE_0","机翻辅助：
+"BTLMSGID_NO_ESCAPE_0","这场战斗无法逃跑！！","BTLMSGID_NO_ESCAPE_0","机翻辅助：
 
-无法逃离这场战斗！！
+这场战斗无法逃跑！！"
+"BTLMSGID_NOTSELECTESCAPE_0","无法逃跑！！","BTLMSGID_NOTSELECTESCAPE_0","机翻辅助：
 
-无法从这场战斗中逃脱！！
-
-这场战斗是逃不掉的！！"
-"BTLMSGID_NOTSELECTESCAPE_0","无法逃离！！","BTLMSGID_NOTSELECTESCAPE_0","机翻辅助：
-
-无法逃离！！
-
-逃不掉！！"
+无法逃跑！！"
 "BTLMSGID_NOT_ESCAPE_LEG_0","[占位A 01]无法逃走！","BTLMSGID_NOT_ESCAPE_LEG_0","机翻辅助：
 
 [占位A 01]无法逃走！
@@ -440,23 +362,15 @@
 [占位A 01]没能逃掉！
 
 [占位A 01]不能逃跑！"
-"BTLMSGID_UNITDEAD_E_0","[占位A 02]打倒！","BTLMSGID_UNITDEAD_E_0","机翻辅助：
-
-[占位A 02]打倒！
+"BTLMSGID_UNITDEAD_E_0","[占位A 02]打倒了！","BTLMSGID_UNITDEAD_E_0","机翻辅助：
 
 [占位A 02]打倒了！"
-"BTLMSGID_UNITDEAD_P_0","[占位A 02]力竭身亡！","BTLMSGID_UNITDEAD_P_0","机翻辅助：
+"BTLMSGID_UNITDEAD_P_0","[占位A 02]耗尽了体力！","BTLMSGID_UNITDEAD_P_0","机翻辅助：
 
-[占位A 02]力竭身亡！
+[占位A 02]耗尽了体力！"
+"BTLMSGID_PARTYDEAD_E_S_0","[占位A 02]击败了！","BTLMSGID_PARTYDEAD_E_S_0","机翻辅助：
 
-[占位A 02]已经筋疲力尽了！
-
-[占位A 02]筋疲力尽了！"
-"BTLMSGID_PARTYDEAD_E_S_0","[占位A 02]击败！","BTLMSGID_PARTYDEAD_E_S_0","机翻辅助：
-
-[占位A 02]击败！
-
-[占位A 02]击破了！"
+[占位A 02]击败了！"
 "BTLMSGID_PARTYDEAD_E_D_0","击败暗影群！","BTLMSGID_PARTYDEAD_E_D_0","机翻辅助：
 
 击败暗影群！
@@ -485,28 +399,16 @@
 [占位A 01]合作召唤了同伴！
 
 [占位A 01]帮忙叫伙伴了！"
-"BTLMSGID_MEGAN_0","[占位A 02]力竭身亡……","BTLMSGID_MEGAN_0","机翻辅助：
+"BTLMSGID_MEGAN_0","[占位A 02]耗尽了体力……","BTLMSGID_MEGAN_0","机翻辅助：
 
-[占位A 02]力竭身亡……
-
-[占位A 02]已经筋疲力尽了……
-
-[占位A 02]筋疲力尽了……"
-"BTLMSGID_TARGET_ALL_0","全体","BTLMSGID_TARGET_ALL_0","机翻辅助：
-
-全体
-
-总体"
+[占位A 02]耗尽了体力……"
+"BTLMSGID_TARGET_ALL_0","全体","BTLMSGID_TARGET_ALL_0",""
 "BTLMSGID_SUMMON_SACRIFIC_0","[占位A 02]断气了……","BTLMSGID_SUMMON_SACRIFIC_0","机翻辅助：
 
-[占位A 02]断气了……
+[占位A 02]断气了……"
+"BTLMSGID_SUMMON_MISS_0","但是同伴没有出现！","BTLMSGID_SUMMON_MISS_0","机翻辅助：
 
-[占位A 02]气绝了……"
-"BTLMSGID_SUMMON_MISS_0","可是，同伴没有出现！","BTLMSGID_SUMMON_MISS_0","机翻辅助：
-
-可是，同伴没有出现！
-
-但是，同伴没有出现！"
+但是同伴没有出现！"
 "BTLMSGID_POISONDAMAGE_0","[占位A 02]受到毒系伤害！","BTLMSGID_POISONDAMAGE_0","机翻辅助：
 
 [占位A 02]受到毒系伤害！
@@ -654,13 +556,9 @@
 [占位A 02]伤害无效化！
 
 [占位A 02]伤害无效化了！"
-"BTLMSGID_DEAD_P_0","[占位A 02]被打飞了！","BTLMSGID_DEAD_P_0","机翻辅助：
+"BTLMSGID_DEAD_P_0","[占位A 02]被击飞了！","BTLMSGID_DEAD_P_0","机翻辅助：
 
-[占位A 02]被打飞了！
-
-[占位A 02]吹跑了！
-
-[占位A 02]吹飞了！"
+[占位A 02]被击飞了！"
 "BTLMSGID_ONESTOP_0","[占位A 01]被阻止行动，动弹不得！","BTLMSGID_ONESTOP_0","机翻辅助：
 
 [占位A 01]被阻止行动，动弹不得！
@@ -695,11 +593,9 @@
 野兽没有出现！
 
 没有出现野兽！"
-"BTLMSGID_MISS_H_0","可是，没有效果！","BTLMSGID_MISS_H_0","机翻辅助：
+"BTLMSGID_MISS_H_0","但是没有效果！","BTLMSGID_MISS_H_0","机翻辅助：
 
-可是，没有效果！
-
-但是，没有效果！"
+但是没有效果！"
 "BTLMSGID_MISSCOUNTER_0","[占位A 02]化为伏兵，袭击敌人！","BTLMSGID_MISSCOUNTER_0","机翻辅助：
 
 [占位A 02]化为伏兵，袭击敌人！
@@ -992,20 +888,12 @@
 [占位A 02]的最大HP上升了！
 
 [占位A 02]的最大生命值上升了！"
-"BTLMSGID_REF_DEV_GUARD_0","Divide Guard Message","BTLMSGID_REF_DEV_GUARD_0","机翻辅助：
+"BTLMSGID_REF_DEV_GUARD_0","分担守护提示","BTLMSGID_REF_DEV_GUARD_0","机翻辅助：
 
-Divide Guard Message
+分担守护提示"
+"BTLMSGID_REF_OVERGUARD_0","超限守护提示","BTLMSGID_REF_OVERGUARD_0","机翻辅助：
 
-分频保护信息
-
-分歧保护信息"
-"BTLMSGID_REF_OVERGUARD_0","超护盾信息","BTLMSGID_REF_OVERGUARD_0","机翻辅助：
-
-超护盾信息
-
-保护消息
-
-过保护消息"
+超限守护提示"
 "BTLMSGID_TRNS_WAIT_0","请稍候。","BTLMSGID_TRNS_WAIT_0","机翻辅助：
 
 请稍候。
@@ -1089,11 +977,9 @@ Divide Guard Message
 [占位A 01]和的耐性提升！[占位A 02][占位A 03]
 
 [占位A 01][占位A 02]、[占位A 03]，的耐性上升了！"
-"BTLMSGID_ATTRUP_ALL_0","所有耐性提升！","BTLMSGID_ATTRUP_ALL_0","机翻辅助：
+"BTLMSGID_ATTRUP_ALL_0","所有抗性都上升了！","BTLMSGID_ATTRUP_ALL_0","机翻辅助：
 
-所有耐性提升！
-
-所有的耐性都提高了！"
+所有抗性都上升了！"
 "BTLMSGID_ES_CHANGE_0","[占位A 01]的触手抓住[占位A 02]和[占位A 03]！","BTLMSGID_ES_CHANGE_0","机翻辅助：
 
 [占位A 01]的触手抓住[占位A 02]和[占位A 03]！
@@ -1225,13 +1111,9 @@ Divide Guard Message
 请稍等。
 
 发生了通信错误！请稍等。"
-"BTLMSGID_DEADSTONE_0","[占位A 02]石化！","BTLMSGID_DEADSTONE_0","机翻辅助：
+"BTLMSGID_DEADSTONE_0","[占位A 02]石化了！","BTLMSGID_DEADSTONE_0","机翻辅助：
 
-[占位A 02]石化！
-
-[占位A 02]石化了！
-
-[占位A 02]哈石化了！"
+[占位A 02]石化了！"
 "BTLMSGID_STOPBST_0","[占位A 02]的异常状态攻击无效化！","BTLMSGID_STOPBST_0","机翻辅助：
 
 [占位A 02]的异常状态攻击无效化！
@@ -1406,18 +1288,12 @@ Divide Guard Message
 [占位A 01]在积蓄力量！
 
 [占位A 01]正在积攒力量！"
-"BTLMSGID_REF_ATTR_UP_ALL_0","全体的[占位A 03]抗性上升！","BTLMSGID_REF_ATTR_UP_ALL_0","机翻辅助：
+"BTLMSGID_REF_ATTR_UP_ALL_0","全体的[占位A 03]抗性上升了！","BTLMSGID_REF_ATTR_UP_ALL_0","机翻辅助：
 
-全体的[占位A 03]抗性上升！
+全体的[占位A 03]抗性上升了！"
+"BTLMSGID_KAITAISHINSHO_0","掉落率上升了！","BTLMSGID_KAITAISHINSHO_0","机翻辅助：
 
-全体的[占位A 03]耐性上升了！"
-"BTLMSGID_KAITAISHINSHO_0","掉宝率上升！","BTLMSGID_KAITAISHINSHO_0","机翻辅助：
-
-掉宝率上升！
-
-下降率上升了！
-
-辍学率上升了！"
+掉落率上升了！"
 "BTLMSGID_E_SHOMO_0","下一次行动的SP消耗加倍！","BTLMSGID_E_SHOMO_0","机翻辅助：
 
 下一次行动的SP消耗加倍！
@@ -1465,13 +1341,9 @@ Divide Guard Message
 [占位A 02]因为SP不足不能使用技能！
 
 [占位A 02]SP不足不能使用技能！"
-"BTLMSGID_FRONT_DEAD_0","前排与后排交换！","BTLMSGID_FRONT_DEAD_0","机翻辅助：
+"BTLMSGID_FRONT_DEAD_0","前排和后排调换了位置！","BTLMSGID_FRONT_DEAD_0","机翻辅助：
 
-前排与后排交换！
-
-前排和后排换了！
-
-前排和后排互换了！"
+前排和后排调换了位置！"
 "BTLMSGID_ES_KEKKAI_0","队伍的SP消耗加倍！","BTLMSGID_ES_KEKKAI_0","机翻辅助：
 
 队伍的SP消耗加倍！
@@ -1514,11 +1386,9 @@ Divide Guard Message
 [占位A 01]被积蓄了的力量暴走！
 
 [占位A 01]中积蓄的力量暴走！"
-"BTLMSGID_ACT_LBS_CHANGE_0","难以名状之神觉醒！","BTLMSGID_ACT_LBS_CHANGE_0","机翻辅助：
+"BTLMSGID_ACT_LBS_CHANGE_0","无以名状之神苏醒了！","BTLMSGID_ACT_LBS_CHANGE_0","机翻辅助：
 
-难以名状之神觉醒！
-
-难以名状的神觉醒了！"
+无以名状之神苏醒了！"
 "BTLMSGID_UROBORO_SHIELD_0","全体友军被阻挡敌人攻击的光芒包围！","BTLMSGID_UROBORO_SHIELD_0","机翻辅助：
 
 全体友军被阻挡敌人攻击的光芒包围！
@@ -1533,18 +1403,12 @@ Divide Guard Message
 [占位A 01]的拳头发出耀眼的光芒！！
 
 [占位A 01]的拳头放出耀眼的光！！"
-"BTLMSGID_PARTYDEAD_E_BR_0","击破深王与奥林比亚！","BTLMSGID_PARTYDEAD_E_BR_0","机翻辅助：
+"BTLMSGID_PARTYDEAD_E_BR_0","击败了深王和奥林匹亚！","BTLMSGID_PARTYDEAD_E_BR_0","机翻辅助：
 
-击破深王与奥林比亚！
+击败了深王和奥林匹亚！"
+"BTLMSGID_PARTYDEAD_E_GK_0","击败了守门者！","BTLMSGID_PARTYDEAD_E_GK_0","机翻辅助：
 
-击破了深王和奥兰皮亚！"
-"BTLMSGID_PARTYDEAD_E_GK_0","击破守门人！","BTLMSGID_PARTYDEAD_E_GK_0","机翻辅助：
-
-击破守门人！
-
-击破了gate keeper ！
-
-击破了守门员！"
+击败了守门者！"
 "BTLMSGID_ES_CHANGE_MISS_0","[占位A 01]解开缠绕的触手！","BTLMSGID_ES_CHANGE_MISS_0","机翻辅助：
 
 [占位A 01]解开缠绕的触手！
