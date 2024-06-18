@@ -2,7 +2,7 @@
 "RISE_FOE_FOLLOW_START_1_0","F.O.E好像注意到了！ ","RISE_FOE_FOLLOW_START_1_0","机翻辅助：
 
 F.O.E好像注意到了！"
-"RISE_FOE_FOLLOW_START_2_0","那个F.O.E，注意到了哦！ ","RISE_FOE_FOLLOW_START_2_0","机翻辅助：
+"RISE_FOE_FOLLOW_START_2_0","那个F.O.E，注意到我们了！","RISE_FOE_FOLLOW_START_2_0","机翻辅助：
 
 那个F.O.E，注意到了哦！ 
 
@@ -11,84 +11,78 @@ F.O.E好像注意到了！"
 那个F.O.E，我注意到了！"
 "RISE_FOE_FOLLOW_START_3_0","注意F.O.E！ ","RISE_FOE_FOLLOW_START_3_0","机翻辅助：
 
-注意F.O.E！ 
-
-注意F.O.E ！"
+注意F.O.E！"
 "RISE_FOE_NEAR_1_0","小心F.O.E！ ","RISE_FOE_NEAR_1_0","机翻辅助：
 
-小心F.O.E！ 
-
-小心F.O.E ！"
-"RISE_FOE_NEAR_2_0","发现敌人F.O.E！注意！ ","RISE_FOE_NEAR_2_0","机翻辅助：
+小心F.O.E！"
+"RISE_FOE_NEAR_2_0","注意！发现敌方F.O.E！","RISE_FOE_NEAR_2_0","机翻辅助：
 
 发现敌人F.O.E！注意！ 
 
-发现敌人F.O.E！请注意！ 
-
-发现敌人F.O.E ！注意！"
-"RISE_FOE_NEAR_3_0","F.O.E正在接近！ ","RISE_FOE_NEAR_3_0","机翻辅助：
+发现敌人F.O.E！请注意！"
+"RISE_FOE_NEAR_3_0","F.O.E正在接近！","RISE_FOE_NEAR_3_0","机翻辅助：
 
 F.O.E正在接近！ 
 
 F.O.E，接近中哟！ 
 
 F.O.E，正在接近中！"
-"RISE_FOE_FOLLOW_END_1_0","甩掉F.O.E了哦！ ","RISE_FOE_FOLLOW_END_1_0","机翻辅助：
+"RISE_FOE_FOLLOW_END_1_0","已经摆脱F.O.E了！","RISE_FOE_FOLLOW_END_1_0","机翻辅助：
 
 甩掉F.O.E了哦！ 
 
 甩掉了F.O.E哟！ 
 
 我甩掉F.O.E了！"
-"RISE_FOE_FOLLOW_END_2_0","好像成功甩掉F.O.E了！ ","RISE_FOE_FOLLOW_END_2_0","机翻辅助：
+"RISE_FOE_FOLLOW_END_2_0","看来成功逃脱了！","RISE_FOE_FOLLOW_END_2_0","机翻辅助：
 
 好像成功甩掉F.O.E了！ 
 
 好像从F.O.E逃出来了！ 
 
 好像从F.O.E逃完了！"
-"RISE_FOE_FOLLOW_END_3_0","太好了，它不会再追来了呢。 ","RISE_FOE_FOLLOW_END_3_0","机翻辅助：
+"RISE_FOE_FOLLOW_END_3_0","太好了，他不追了。","RISE_FOE_FOLLOW_END_3_0","机翻辅助：
 
 太好了，它不会再追来了呢。 
 
 太好了，不会再追上来了。 
 
 太好了，我不会再追你了。"
-"RISE_KANSI_REACTION_1_0","小心地前进吧！ ","RISE_KANSI_REACTION_1_0","机翻辅助：
+"RISE_KANSI_REACTION_1_0","小心前进！","RISE_KANSI_REACTION_1_0","机翻辅助：
 
 小心地前进吧！ 
 
 小心前进！ 
 
 小心前进哦！"
-"RISE_KANSI_REACTION_2_0","要小心别被发现，悄悄地哦。 ","RISE_KANSI_REACTION_2_0","机翻辅助：
+"RISE_KANSI_REACTION_2_0","小心行动，不要被发现。","RISE_KANSI_REACTION_2_0","机翻辅助：
 
 要小心别被发现，悄悄地哦。 
 
 为了找不到，就这样。 
 
 不要被发现，轻轻地。"
-"RISE_KANSI_REACTION_3_0","不要慌张，慎重地走吧。 ","RISE_KANSI_REACTION_3_0","机翻辅助：
+"RISE_KANSI_REACTION_3_0","不要着急，谨慎行事吧。","RISE_KANSI_REACTION_3_0","机翻辅助：
 
 不要慌张，慎重地走吧。 
 
 不要慌张，慎重地去吧？ 
 
 不要慌张，慎重地走吧？"
-"RISE_DENKISAKU_REACTION__0","那边不关掉电就不能通过哦！ ","RISE_DENKISAKU_REACTION__0","机翻辅助：
+"RISE_DENKISAKU_REACTION__0","如果不切断那里的电力就过不去！","RISE_DENKISAKU_REACTION__0","机翻辅助：
 
 那边不关掉电就不能通过哦！ 
 
 那里不关灯是过不去的！ 
 
 不把那里的电关掉就不能通过哦！"
-"RISE_DENKISAKU_REACTION__2_0","要小心有电的栅栏！ ","RISE_DENKISAKU_REACTION__2_0","机翻辅助：
+"RISE_DENKISAKU_REACTION__2_0","小心电网！","RISE_DENKISAKU_REACTION__2_0","机翻辅助：
 
 要小心有电的栅栏！ 
 
 注意电栅栏！"
-"RISE_DENKISAKU_REACTION__3_0","应该有开关可以关掉！
-找找看！ ","RISE_DENKISAKU_REACTION__3_0","机翻辅助：
+"RISE_DENKISAKU_REACTION__3_0","应该有停止开关！
+快去找找看！","RISE_DENKISAKU_REACTION__3_0","机翻辅助：
 
 应该有开关可以关掉！
 找找看！ 
@@ -98,122 +92,126 @@ F.O.E，正在接近中！"
 
 应该有关闭的开关！
 找找看！"
-"RISE_KYOUHU_REACTION_1_0","啊，风好强！ ","RISE_KYOUHU_REACTION_1_0","机翻辅助：
+"RISE_KYOUHU_REACTION_1_0","啊，好大的风！","RISE_KYOUHU_REACTION_1_0","机翻辅助：
 
 啊，风好强！ 
 
 啊，好大的风！"
-"RISE_KYOUHU_REACTION_2_0","啊啊，大家！ ","RISE_KYOUHU_REACTION_2_0","机翻辅助：
+"RISE_KYOUHU_REACTION_2_0","啊啊，大家！","RISE_KYOUHU_REACTION_2_0","机翻辅助：
 
 啊啊，大家！ 
 
 啊，大家！"
-"RISE_KYOUHU_REACTION_3_0","不会吧，被吹走了！？ ","RISE_KYOUHU_REACTION_3_0","机翻辅助：
+"RISE_KYOUHU_REACTION_3_0","骗人的吧，被吹走了？","RISE_KYOUHU_REACTION_3_0","机翻辅助：
 
 不会吧，被吹走了！？ 
 
 嗯，被冲走了！？ 
 
-不，被冲走了！？"
-"RISE_STAIR_FIND_1_0","好像可以前进！ ","RISE_STAIR_FIND_1_0","机翻辅助：
+不，被冲走了！？
+
+评论：
+
+不确定"
+"RISE_STAIR_FIND_1_0","看来可以继续前进了！","RISE_STAIR_FIND_1_0","机翻辅助：
 
 好像可以前进！ 
 
 好像要先前进了！ 
 
 好像要继续前进哦！"
-"RISE_STAIR_FIND_2_0","好像可以到下一个区域，怎么办？ ","RISE_STAIR_FIND_2_0","机翻辅助：
+"RISE_STAIR_FIND_2_0","看起来可以去下一区域了，要怎么办？","RISE_STAIR_FIND_2_0","机翻辅助：
 
 好像可以到下一个区域，怎么办？ 
 
 好像可以去下一个区域了，怎么办？ 
 
 要去下一个区域了，怎么办？"
-"RISE_STAIR_FIND_3_0","发现阶梯！要去看看吗？ ","RISE_STAIR_FIND_3_0","机翻辅助：
+"RISE_STAIR_FIND_3_0","发现楼梯！要用吗？","RISE_STAIR_FIND_3_0","机翻辅助：
 
 发现阶梯！要去看看吗？ 
 
 发现楼梯！去看看？ 
 
 楼梯，发现！要不要去看看？"
-"RISE_TREASURE_FIND_1_0","发现宝箱！ ","RISE_TREASURE_FIND_1_0","机翻辅助：
+"RISE_TREASURE_FIND_1_0","发现宝箱！","RISE_TREASURE_FIND_1_0","机翻辅助：
 
 发现宝箱！ 
 
 宝箱来了！ 
 
 宝箱破解！"
-"RISE_TREASURE_FIND_2_0","真幸运，找到宝箱了！ ","RISE_TREASURE_FIND_2_0","机翻辅助：
+"RISE_TREASURE_FIND_2_0","真走运。发现宝箱了！","RISE_TREASURE_FIND_2_0","机翻辅助：
 
 真幸运，找到宝箱了！ 
 
 真幸运。宝箱，你看！ 
 
 幸运。宝箱，来看看吧！"
-"RISE_TREASURE_FIND_3_0","啊，是宝箱！要打开看看吗？ ","RISE_TREASURE_FIND_3_0","机翻辅助：
+"RISE_TREASURE_FIND_3_0","啊，是宝箱！要打看看看吗？","RISE_TREASURE_FIND_3_0","机翻辅助：
 
 啊，是宝箱！要打开看看吗？ 
 
 啊，是宝箱啊！打开看看？ 
 
 啊，宝箱！打开看看？"
-"RISE_CHECK_WALL_1_0","前面好像有什么东西。 ","RISE_CHECK_WALL_1_0","机翻辅助：
+"RISE_CHECK_WALL_1_0","前面好像有什么东西。","RISE_CHECK_WALL_1_0","机翻辅助：
 
 前面好像有什么东西。 
 
 前面好像有什么。"
-"RISE_CHECK_WALL_2_0","这边好像有点令人在意…… ","RISE_CHECK_WALL_2_0","机翻辅助：
+"RISE_CHECK_WALL_2_0","那附近有点让人在意啊……","RISE_CHECK_WALL_2_0","机翻辅助：
 
 这边好像有点令人在意…… 
 
 在那附近，可能有点在意…… 
 
 这方面，可能有点在意……"
-"RISE_CHECK_WALL_3_0","要不要调查一下前方？ ","RISE_CHECK_WALL_3_0","机翻辅助：
+"RISE_CHECK_WALL_3_0","要不要去调查一下前面呢？","RISE_CHECK_WALL_3_0","机翻辅助：
 
 要不要调查一下前方？ 
 
 前方，要不要调查一下？ 
 
 不查一下前方吗？"
-"RISE_SWITCH_FIND_1_0","附近好像有开关。 ","RISE_SWITCH_FIND_1_0","机翻辅助：
+"RISE_SWITCH_FIND_1_0","附近应该有开关。","RISE_SWITCH_FIND_1_0","机翻辅助：
 
 附近好像有开关。"
-"RISE_SWITCH_FIND_2_0","这边好像有开关。 ","RISE_SWITCH_FIND_2_0","机翻辅助：
+"RISE_SWITCH_FIND_2_0","这附近可能有开关。","RISE_SWITCH_FIND_2_0","机翻辅助：
 
 这边好像有开关。 
 
 这附近好像有开关。"
-"RISE_SWITCH_FIND_3_0","好像有开关的气息！ ","RISE_SWITCH_FIND_3_0","机翻辅助：
+"RISE_SWITCH_FIND_3_0","感觉有开关啊！","RISE_SWITCH_FIND_3_0","机翻辅助：
 
 好像有开关的气息！ 
 
 好像有开关！ 
 
 好像有开关的样子！"
-"RISE_SHORTCUT_FIND_1_0","那边好像可以抄捷径！ ","RISE_SHORTCUT_FIND_1_0","机翻辅助：
+"RISE_SHORTCUT_FIND_1_0","那里好像是捷径！","RISE_SHORTCUT_FIND_1_0","机翻辅助：
 
 那边好像可以抄捷径！ 
 
 那里，快捷方式快要能了哟！ 
 
 那里，好像可以剪短发哦！"
-"RISE_SHORTCUT_FIND_2_0","发现好像可以走捷径的地方！ ","RISE_SHORTCUT_FIND_2_0","机翻辅助：
+"RISE_SHORTCUT_FIND_2_0","发现捷径！","RISE_SHORTCUT_FIND_2_0","机翻辅助：
 
 发现好像可以走捷径的地方！ 
 
 快要成为近道的地方，发现！ 
 
 发现可能成为捷径的地方！"
-"RISE_SHORTCUT_FIND_3_0","看！好像可以走那边！ ","RISE_SHORTCUT_FIND_3_0","机翻辅助：
+"RISE_SHORTCUT_FIND_3_0","快看！好像能从那里通过！","RISE_SHORTCUT_FIND_3_0","机翻辅助：
 
 看！好像可以走那边！ 
 
 看！那里好像可以通过！ 
 
 你看！那里好像可以通过！"
-"RISE_PARTY_DEAD_1_0","有很多人受伤了！
-回去可能比较好！ ","RISE_PARTY_DEAD_1_0","机翻辅助：
+"RISE_PARTY_DEAD_1_0","受伤者很多！
+或许返回一趟比较好！","RISE_PARTY_DEAD_1_0","机翻辅助：
 
 有很多人受伤了！
 回去可能比较好！ 
@@ -223,193 +221,197 @@ F.O.E，正在接近中！"
 
 很多人受伤了！
 还是回去比较好！"
-"RISE_PARTY_DEAD_2_0","大危机！重整态势！ ","RISE_PARTY_DEAD_2_0","机翻辅助：
+"RISE_PARTY_DEAD_2_0","大危机！快重整旗鼓！","RISE_PARTY_DEAD_2_0","机翻辅助：
 
 大危机！重整态势！ 
 
 大pinch！重整态势！ 
 
 大扁豆！重整旗鼓！"
-"RISE_PARTY_DEAD_3_0","唔哇哇！这样继续前进超危险的！ ","RISE_PARTY_DEAD_3_0","机翻辅助：
+"RISE_PARTY_DEAD_3_0","哇哇！这个样子继续前进超危险的！","RISE_PARTY_DEAD_3_0","机翻辅助：
 
 唔哇哇！这样继续前进超危险的！ 
 
 哇！就这样前进是超危险的！ 
 
 哇！这样下去超危险的！"
-"RISE_FOE_WARNING_NEAR_1_0","F.O.E还在追过来！ ","RISE_FOE_WARNING_NEAR_1_0","机翻辅助：
+"RISE_FOE_WARNING_NEAR_1_0","F.O.E还在追！","RISE_FOE_WARNING_NEAR_1_0","机翻辅助：
 
 F.O.E还在追过来！ 
 
 F.O.E，我还在追你呢！ 
 
 F.O.E，你还在追我呢！"
-"RISE_FOE_WARNING_NEAR_2_0","被F.O.E追着，小心！ ","RISE_FOE_WARNING_NEAR_2_0","机翻辅助：
+"RISE_FOE_WARNING_NEAR_2_0","注意！F.O.E在追我们！","RISE_FOE_WARNING_NEAR_2_0","机翻辅助：
 
 被F.O.E追着，小心！ 
 
 被F.O.E追赶着，注意！"
-"RISE_FOE_WARNING_NEAR_3_0","还在追哦，不要大意！ ","RISE_FOE_WARNING_NEAR_3_0","机翻辅助：
+"RISE_FOE_WARNING_NEAR_3_0","还在被追着呢，不要掉以轻心！","RISE_FOE_WARNING_NEAR_3_0","机翻辅助：
 
 还在追哦，不要大意！ 
 
 你还在被追呢，不要大意！ 
 
 还被追赶着，不要疏忽大意！"
-"RISE_PARTY_HPTP10_1_0","不妙！先回来！ ","RISE_PARTY_HPTP10_1_0","机翻辅助：
+"RISE_PARTY_HPTP10_1_0","不妙！先回去吧！","RISE_PARTY_HPTP10_1_0","机翻辅助：
 
 不妙！先回来！ 
 
 真糟糕！暂时回来！ 
 
 不好意思！先回来吧！"
-"RISE_PARTY_HPTP10_2_0","危机，危机！不可以勉强！ ","RISE_PARTY_HPTP10_2_0","机翻辅助：
+"RISE_PARTY_HPTP10_2_0","危险，危险！别勉强了！","RISE_PARTY_HPTP10_2_0","机翻辅助：
 
 危机，危机！不可以勉强！ 
 
 危机，危机！不能勉强！ 
 
 危机，危机！不要勉强！"
-"RISE_PARTY_HPTP10_3_0","会全灭！能重整态势吗？ ","RISE_PARTY_HPTP10_3_0","机翻辅助：
+"RISE_PARTY_HPTP10_3_0","要全灭了！还能重整旗鼓吗？","RISE_PARTY_HPTP10_3_0","机翻辅助：
 
 会全灭！能重整态势吗？ 
 
 全军覆没！能重整姿势吗？ 
 
 全军覆没！能恢复姿势吗？"
-"RISE_PARTY_HP10_1_0","大家的体力陷入危机！ ","RISE_PARTY_HP10_1_0","机翻辅助：
+"RISE_PARTY_HP10_1_0","大家的体力都到极限了！","RISE_PARTY_HP10_1_0","机翻辅助：
 
 大家的体力陷入危机！ 
 
 大家的体力危机！ 
 
 大家的体力面临危机！"
-"RISE_PARTY_HP10_2_0","大家的体力都减少了！ ","RISE_PARTY_HP10_2_0","机翻辅助：
+"RISE_PARTY_HP10_2_0","大家的体力都很少了！","RISE_PARTY_HP10_2_0","机翻辅助：
 
 大家的体力都减少了！ 
 
 大家的体力都在减少哦！"
-"RISE_PARTY_HP10_3_0","大家，恢复体力！ ","RISE_PARTY_HP10_3_0","机翻辅助：
+"RISE_PARTY_HP10_3_0","大家快恢复体力！","RISE_PARTY_HP10_3_0","机翻辅助：
 
 大家，恢复体力！"
-"RISE_1PERSON_HPTP10_1_0","状况很危险！ ","RISE_1PERSON_HPTP10_1_0","机翻辅助：
+"RISE_1PERSON_HPTP10_1_0","这样子很危险！","RISE_1PERSON_HPTP10_1_0","机翻辅助：
 
 状况很危险！ 
 
 危险的状态！ 
 
 情况很危险！"
-"RISE_1PERSON_HPTP10_2_0","这样下去会倒下的，快回复！ ","RISE_1PERSON_HPTP10_2_0","机翻辅助：
+"RISE_1PERSON_HPTP10_2_0","这样下去会倒下的，快回复！","RISE_1PERSON_HPTP10_2_0","机翻辅助：
 
 这样下去会倒下的，快回复！ 
 
 这样下去会倒下的，快恢复！ 
 
 就这样倒下了，恢复吧！"
-"RISE_1PERSON_HPTP10_3_0","体力和气力都陷入危机了！ ","RISE_1PERSON_HPTP10_3_0","机翻辅助：
+"RISE_1PERSON_HPTP10_3_0","体力和精力都要不行了！","RISE_1PERSON_HPTP10_3_0","机翻辅助：
 
 体力和气力都陷入危机了！ 
 
 体力·精力危机哟！ 
 
 体力·气力危机哟！"
-"RISE_PARTY_TP10_1_0","大家要注意气力！ ","RISE_PARTY_TP10_1_0","机翻辅助：
+"RISE_PARTY_TP10_1_0","注意大家的精力！","RISE_PARTY_TP10_1_0","机翻辅助：
 
 大家要注意气力！ 
 
 注意大家的毅力！ 
 
 注意大家的精力！"
-"RISE_PARTY_TP10_2_0","大家都很累了！没事吧？ ","RISE_PARTY_TP10_2_0","机翻辅助：
+"RISE_PARTY_TP10_2_0","大家都很累了！没问题吗？","RISE_PARTY_TP10_2_0","机翻辅助：
 
 大家都很累了！没事吧？ 
 
 大家都累了！没事吧？"
-"RISE_PARTY_TP10_3_0","大家要注意气力！ ","RISE_PARTY_TP10_3_0","机翻辅助：
+"RISE_PARTY_TP10_3_0","大家要注意精力哦！","RISE_PARTY_TP10_3_0","机翻辅助：
 
 大家要注意气力！ 
 
 注意气力，大家！ 
 
 注意精力，大家！"
-"RISE_1PERSON_HP10_1_0","能回复体力吗？ ","RISE_1PERSON_HP10_1_0","机翻辅助：
+"RISE_1PERSON_HP10_1_0","能恢复体力吗？","RISE_1PERSON_HP10_1_0","机翻辅助：
 
 能回复体力吗？ 
 
 能恢复体力吗？"
-"RISE_1PERSON_HP10_2_0","谁来回复一下！ ","RISE_1PERSON_HP10_2_0","机翻辅助：
+"RISE_1PERSON_HP10_2_0","谁来帮他恢复！","RISE_1PERSON_HP10_2_0","机翻辅助：
 
 谁来回复一下！ 
 
 谁来帮我恢复一下吧！ 
 
 谁来帮我恢复！"
-"RISE_1PERSON_HP10_3_0","要注意体力！ ","RISE_1PERSON_HP10_3_0","机翻辅助：
+"RISE_1PERSON_HP10_3_0","注意保重身体！","RISE_1PERSON_HP10_3_0","机翻辅助：
 
 要注意体力！ 
 
 注意体力！"
-"RISE_1PERSON_TP10_1_0","会累吗？没事吧？ ","RISE_1PERSON_TP10_1_0","机翻辅助：
+"RISE_1PERSON_TP10_1_0","你不累吗？没事吧？","RISE_1PERSON_TP10_1_0","机翻辅助：
 
 会累吗？没事吧？ 
 
 不累吗？没事吧？"
-"RISE_1PERSON_TP10_2_0","气力快不行了！ ","RISE_1PERSON_TP10_2_0","机翻辅助：
+"RISE_1PERSON_TP10_2_0","精力告急！","RISE_1PERSON_TP10_2_0","机翻辅助：
 
 气力快不行了！ 
 
 精力太糟糕了！ 
 
 力气太大了！"
-"RISE_1PERSON_TP10_3_0","燃料快用完了？（注：日语中“气力”和“燃料”同音） ","RISE_1PERSON_TP10_3_0","机翻辅助：
+"RISE_1PERSON_TP10_3_0","还能行吗？","RISE_1PERSON_TP10_3_0","机翻辅助：
 
 燃料快用完了？（注：日语中“气力”和“燃料”同音） 
 
 没有缺煤气吗？ 
 
 是不是没煤气了？"
-"RISE_ITEM_90_BATTLE_1_0","整理行李也很重要哦！ ","RISE_ITEM_90_BATTLE_1_0","机翻辅助：
+"RISE_ITEM_90_BATTLE_1_0","整理物品也很重要哦。","RISE_ITEM_90_BATTLE_1_0","机翻辅助：
 
 整理行李也很重要哦！ 
 
 整理整理行李也很重要？ 
 
 行李的整理整顿也很重要哦。"
-"RISE_ITEM_90_BATTLE_2_0","要勤快整理行李哦！ ","RISE_ITEM_90_BATTLE_2_0","机翻辅助：
+"RISE_ITEM_90_BATTLE_2_0","要经常整理物品哦！","RISE_ITEM_90_BATTLE_2_0","机翻辅助：
 
 要勤快整理行李哦！ 
 
 要好好整理随身携带的物品哦！ 
 
 请把随身物品整理成豆子哦！"
-"RISE_ITEM_90_BATTLE_3_0","不整理的话，行李会满出来的！ ","RISE_ITEM_90_BATTLE_3_0","机翻辅助：
+"RISE_ITEM_90_BATTLE_3_0","不整理的话，背包会溢出来的。","RISE_ITEM_90_BATTLE_3_0","机翻辅助：
 
 不整理的话，行李会满出来的！ 
 
 不整理的话，行李会溢出来的。 
 
 不整理的话，行李都快溢出来了。"
-"RISE_1PERSON_HP80_1_0","好厉害，好像还有余裕！ ","RISE_1PERSON_HP80_1_0","机翻辅助：
+"RISE_1PERSON_HP80_1_0","太棒了，看起来还能继续呢！","RISE_1PERSON_HP80_1_0","机翻辅助：
 
 好厉害，好像还有余裕！ 
 
-好厉害，好像还有富余呢！"
-"RISE_1PERSON_HP80_2_0","照这个步调继续前进吧！ ","RISE_1PERSON_HP80_2_0","机翻辅助：
+好厉害，好像还有富余呢！
+
+评论：
+
+不确定"
+"RISE_1PERSON_HP80_2_0","保持这个状态继续往前走吧！","RISE_1PERSON_HP80_2_0","机翻辅助：
 
 照这个步调继续前进吧！ 
 
 就这样不断前进！ 
 
 就这样不断地前进！"
-"RISE_1PERSON_HP80_3_0","看起来还很有精神呢！ ","RISE_1PERSON_HP80_3_0","机翻辅助：
+"RISE_1PERSON_HP80_3_0","你看起来还很精神呢！","RISE_1PERSON_HP80_3_0","机翻辅助：
 
 看起来还很有精神呢！ 
 
 还很有精神呢！ 
 
 你看起来还很精神呢！"
-"FUKA_RISE_MAKASETA_1_0","理世，
-之后请多关照！","FUKA_RISE_MAKASETA_1_0","机翻辅助：
+"FUKA_RISE_MAKASETA_1_0","小理世，
+之后就交给你了！","FUKA_RISE_MAKASETA_1_0","机翻辅助：
 
 理世，
 之后请多关照！
@@ -418,22 +420,22 @@ F.O.E，你还在追我呢！"
 之后就拜托了！
 
 理世，之后就拜托你了！"
-"FUKA_RISE_MAKASETA_2_0","好期待理世的导航哦！","FUKA_RISE_MAKASETA_2_0","机翻辅助：
+"FUKA_RISE_MAKASETA_2_0","我很期待小理世的导航！","FUKA_RISE_MAKASETA_2_0","机翻辅助：
 
 好期待理世的导航哦！
 
 我很期待理世的导航！
 
 期待理世的导航！"
-"FUKA_RISE_MAKASETA_3_0","接下来换理世上场喽！","FUKA_RISE_MAKASETA_3_0","机翻辅助：
+"FUKA_RISE_MAKASETA_3_0","接下来就交给小理世了！","FUKA_RISE_MAKASETA_3_0","机翻辅助：
 
 接下来换理世上场喽！
 
 从这里开始我会代替理世酱的！
 
 从这里开始就换成理世了！"
-"FUKA_RISE_ANSWER_1_0","接下来换我，
-理世要出发喽！ ","FUKA_RISE_ANSWER_1_0","机翻辅助：
+"FUKA_RISE_ANSWER_1_0","就由我来代替小风花，
+理世，出击！","FUKA_RISE_ANSWER_1_0","机翻辅助：
 
 接下来换我，
 理世要出发喽！ 
@@ -443,8 +445,8 @@ F.O.E，你还在追我呢！"
 
 代替风花，
 理世，加油！"
-"FUKA_RISE_ANSWER_2_0","辛苦了，风花！
-接下来交给我！ ","FUKA_RISE_ANSWER_2_0","机翻辅助：
+"FUKA_RISE_ANSWER_2_0","辛苦了，小风花！
+接下来就交给我吧！","FUKA_RISE_ANSWER_2_0","机翻辅助：
 
 辛苦了，风花！
 接下来交给我！ 
@@ -454,8 +456,8 @@ F.O.E，你还在追我呢！"
 
 辛苦了，风花！
 下次就交给我吧！"
-"FUKA_RISE_ANSWER_3_0","风花之后，
-换理世导航喽！ ","FUKA_RISE_ANSWER_3_0","机翻辅助：
+"FUKA_RISE_ANSWER_3_0","在小风花之后
+由理世亲为大家导航！","FUKA_RISE_ANSWER_3_0","机翻辅助：
 
 风花之后，
 换理世导航喽！ 
@@ -464,8 +466,8 @@ F.O.E，你还在追我呢！"
  
 
 在风花之后，理世会做导航哦！"
-"FUTABA_RISE_MAKASETA_1_0","导航换理世了！
-拜托你了！","FUTABA_RISE_MAKASETA_1_0","机翻辅助：
+"FUTABA_RISE_MAKASETA_1_0","导航就交给理世吧！
+交给你了！","FUTABA_RISE_MAKASETA_1_0","机翻辅助：
 
 导航换理世了！
 拜托你了！
@@ -475,8 +477,8 @@ F.O.E，你还在追我呢！"
 
 导航，我要跟理世换班了！
 拜托了！"
-"FUTABA_RISE_MAKASETA_2_0","理世，导航交给你喽！
-我很期待哦！","FUTABA_RISE_MAKASETA_2_0","机翻辅助：
+"FUTABA_RISE_MAKASETA_2_0","理世，换班吧！
+我期待你的表现！","FUTABA_RISE_MAKASETA_2_0","机翻辅助：
 
 理世，导航交给你喽！
 我很期待哦！
@@ -487,7 +489,7 @@ F.O.E，你还在追我呢！"
 理世，换班导航就拜托了！
 我很期待！"
 "FUTABA_RISE_MAKASETA_3_0","好！
-接下来换理世上场喽！","FUTABA_RISE_MAKASETA_3_0","机翻辅助：
+就让理世接力吧！","FUTABA_RISE_MAKASETA_3_0","机翻辅助：
 
 好！
 接下来换理世上场喽！
@@ -497,15 +499,15 @@ F.O.E，你还在追我呢！"
 
 好！
 从这里开始，我要向理世交接！"
-"FUTABA_RISE_ANSWER_1_0","OK！交给我吧，导航！ ","FUTABA_RISE_ANSWER_1_0","机翻辅助：
+"FUTABA_RISE_ANSWER_1_0","OK！导航就交给我吧！","FUTABA_RISE_ANSWER_1_0","机翻辅助：
 
 OK！交给我吧，导航！ 
 
 好！交给我，导航！ 
 
 OK ！交给我，导航！"
-"FUTABA_RISE_ANSWER_2_0","接下来换我，
-来支援喽！ ","FUTABA_RISE_ANSWER_2_0","机翻辅助：
+"FUTABA_RISE_ANSWER_2_0","我会接替导航，
+接下来就由我来支援！","FUTABA_RISE_ANSWER_2_0","机翻辅助：
 
 接下来换我，
 来支援喽！ 
@@ -515,8 +517,8 @@ OK ！交给我，导航！"
 
 代替导航，
 从这里开始我来支援哦！"
-"FUTABA_RISE_ANSWER_3_0","导航，辛苦了！
-我也会加油的！ ","FUTABA_RISE_ANSWER_3_0","机翻辅助：
+"FUTABA_RISE_ANSWER_3_0","导航辛苦了！
+我也会加油的！","FUTABA_RISE_ANSWER_3_0","机翻辅助：
 
 导航，辛苦了！
 我也会加油的！ 
@@ -525,35 +527,35 @@ OK ！交给我，导航！"
 我也会努力的！ 
 
 导航，辛苦了！我也会努力的！"
-"RISE_ITEM_90_DUNGEON_1_0","整理行李也很重要哦！ ","RISE_ITEM_90_DUNGEON_1_0","机翻辅助：
+"RISE_ITEM_90_DUNGEON_1_0","整理物品也很重要哦。","RISE_ITEM_90_DUNGEON_1_0","机翻辅助：
 
 整理行李也很重要哦！ 
 
 整理整理行李也很重要？ 
 
 行李的整理整顿也很重要哦。"
-"RISE_ITEM_90_DUNGEON_2_0","要勤快整理行李哦！ ","RISE_ITEM_90_DUNGEON_2_0","机翻辅助：
+"RISE_ITEM_90_DUNGEON_2_0","要经常整理物品哦！","RISE_ITEM_90_DUNGEON_2_0","机翻辅助：
 
 要勤快整理行李哦！ 
 
 要好好整理随身携带的物品哦！ 
 
 请把随身物品整理成豆子哦！"
-"RISE_ITEM_90_DUNGEON_3_0","不整理的话，行李会满出来的！ ","RISE_ITEM_90_DUNGEON_3_0","机翻辅助：
+"RISE_ITEM_90_DUNGEON_3_0","不整理的话，背包会溢出来的。","RISE_ITEM_90_DUNGEON_3_0","机翻辅助：
 
 不整理的话，行李会满出来的！ 
 
 不整理的话，行李会溢出来的。 
 
 不整理的话，行李都快溢出来了。"
-"RISE_DUNGEON_START_1_0","我会努力支援的！ ","RISE_DUNGEON_START_1_0","机翻辅助：
+"RISE_DUNGEON_START_1_0","我会努力支援你的！","RISE_DUNGEON_START_1_0","机翻辅助：
 
 我会努力支援的！ 
 
 加油支持！ 
 
 加油支持哦！"
-"RISE_DUNGEON_START_2_0","遇到危险的时候，要马上撤退哦！ ","RISE_DUNGEON_START_2_0","机翻辅助：
+"RISE_DUNGEON_START_2_0","如果情况危险，要立即撤离。","RISE_DUNGEON_START_2_0","机翻辅助：
 
 遇到危险的时候，要马上撤退哦！ 
 
@@ -561,7 +563,7 @@ OK ！交给我，导航！"
 
 危险的话，马上躲避吧？"
 "RISE_DUNGEON_START_3_0","大家准备好了吗？
-鼓起干劲上吧！ ","RISE_DUNGEON_START_3_0","机翻辅助：
+全力上吧！","RISE_DUNGEON_START_3_0","机翻辅助：
 
 大家准备好了吗？
 鼓起干劲上吧！ 
@@ -571,34 +573,34 @@ OK ！交给我，导航！"
 
 大家准备好了吗？
 干劲十足！"
-"RISE_QUEST_START_1_0","为了能顺利达成目标，一起加油吧！ ","RISE_QUEST_START_1_0","机翻辅助：
+"RISE_QUEST_START_1_0","为了顺利完成目标，加油吧！","RISE_QUEST_START_1_0","机翻辅助：
 
 为了能顺利达成目标，一起加油吧！ 
 
 为了能平安达成，加油！ 
 
 为了能顺利达成，加油！"
-"RISE_QUEST_START_2_0","那么，特别放映要开始咯！ ","RISE_QUEST_START_2_0","机翻辅助：
+"RISE_QUEST_START_2_0","那么，特别上映开始了哦！","RISE_QUEST_START_2_0","机翻辅助：
 
 那么，特别放映要开始咯！ 
 
 那么，特别放映开始哟！ 
 
 那么，特别放映开始啦～！"
-"RISE_QUEST_START_3_0","特别放映，开始！ ","RISE_QUEST_START_3_0","机翻辅助：
+"RISE_QUEST_START_3_0","特别上映，开始！","RISE_QUEST_START_3_0","机翻辅助：
 
 特别放映，开始！ 
 
 特别放映开始！"
-"RISE_TOUHA_25_1_0","前面好像还很长，要小心哦！ ","RISE_TOUHA_25_1_0","机翻辅助：
+"RISE_TOUHA_25_1_0","前方的路看起来很长，小心！","RISE_TOUHA_25_1_0","机翻辅助：
 
 前面好像还很长，要小心哦！ 
 
 前面好像很长，小心！ 
 
 前面的路还很长，小心点！"
-"RISE_TOUHA_25_2_0","路途好像还很遥远！
-不要大意！ ","RISE_TOUHA_25_2_0","机翻辅助：
+"RISE_TOUHA_25_2_0","还有很长的路要走呢！
+不要掉以轻心哦！","RISE_TOUHA_25_2_0","机翻辅助：
 
 路途好像还很遥远！
 不要大意！ 
@@ -607,34 +609,38 @@ OK ！交给我，导航！"
 不要大意哦！ 
 
 路还很长呢！不要大意哦！"
-"RISE_TOUHA_50_1_0","大概走了一半了吧，加油！ ","RISE_TOUHA_50_1_0","机翻辅助：
+"RISE_TOUHA_50_1_0","大概过了一半了吧。加油！","RISE_TOUHA_50_1_0","机翻辅助：
 
 大概走了一半了吧，加油！ 
 
 大概来了一半吧。加油！"
-"RISE_TOUHA_50_2_0","很顺利呢！就照这个样子继续下去吧！ ","RISE_TOUHA_50_2_0","机翻辅助：
+"RISE_TOUHA_50_2_0","很顺利呢！就这样继续吧！","RISE_TOUHA_50_2_0","机翻辅助：
 
 很顺利呢！就照这个样子继续下去吧！ 
 
 很顺利啊！就这样走吧！ 
 
 很顺利啊！这样下去可不行啊！"
-"RISE_TOUHA_75_1_0","这个楼层也快走完了，加油！ ","RISE_TOUHA_75_1_0","机翻辅助：
+"RISE_TOUHA_75_1_0","这一层也只剩一点了，加油！","RISE_TOUHA_75_1_0","机翻辅助：
 
 这个楼层也快走完了，加油！ 
 
 这个楼层还有一点哦，加油！ 
 
 这个楼层也只差一点点了，加油！"
-"RISE_TOUHA_75_2_0","走了不少路呢，大家状态都很好！ ","RISE_TOUHA_75_2_0","机翻辅助：
+"RISE_TOUHA_75_2_0","走得相当远了呢。大家都很棒！","RISE_TOUHA_75_2_0","机翻辅助：
 
 走了不少路呢，大家状态都很好！ 
 
 走了不少路呢。大家的状态都很好！ 
 
-你走了不少路啊。大家好！"
-"RISE_TOUHA_100_1_0","能去的地方都绕过了呢！
-恭喜！ ","RISE_TOUHA_100_1_0","机翻辅助：
+你走了不少路啊。大家好！
+
+评论：
+
+不确定"
+"RISE_TOUHA_100_1_0","能去的地方都去了呢！
+恭喜！","RISE_TOUHA_100_1_0","机翻辅助：
 
 能去的地方都绕过了呢！
 恭喜！ 
@@ -644,8 +650,8 @@ OK ！交给我，导航！"
 
 能去的地方都转过去了呢！
 恭喜！"
-"RISE_TOUHA_100_2_0","好像没有没绕过的地方呢！
-太好了！ ","RISE_TOUHA_100_2_0","机翻辅助：
+"RISE_TOUHA_100_2_0","好像已经没有地方探索了呢！
+太好了！","RISE_TOUHA_100_2_0","机翻辅助：
 
 好像没有没绕过的地方呢！
 太好了！ 
@@ -655,74 +661,74 @@ OK ！交给我，导航！"
 
 好像没有不转的地方！
 太棒了！"
-"RISE_MAPPING_ICON_ALL_1_0","画得不错呢！ ","RISE_MAPPING_ICON_ALL_1_0","机翻辅助：
+"RISE_MAPPING_ICON_ALL_1_0","画得不错呢！","RISE_MAPPING_ICON_ALL_1_0","机翻辅助：
 
 画得不错呢！ 
 
 画得真好啊！ 
 
 画得很好呢！"
-"RISE_MAPPING_ICON_ALL_2_0","记号画得很完美呢！ ","RISE_MAPPING_ICON_ALL_2_0","机翻辅助：
+"RISE_MAPPING_ICON_ALL_2_0","标记得非常完美！","RISE_MAPPING_ICON_ALL_2_0","机翻辅助：
 
 记号画得很完美呢！ 
 
 标志，很漂亮啊！ 
 
 标志，很准确啊！"
-"RISE_MAPPING_ICON_KAIDAN_0","能移动到其他楼层的地方很重要呢！ ","RISE_MAPPING_ICON_KAIDAN_0","机翻辅助：
+"RISE_MAPPING_ICON_KAIDAN_0","可以移动到不同楼层的地方是很重要的！","RISE_MAPPING_ICON_KAIDAN_0","机翻辅助：
 
 能移动到其他楼层的地方很重要呢！ 
 
 楼层能移动的地方是很重要的！ 
 
 能移动楼层的地方很重要呢！"
-"RISE_MAPPING_ICON_KAIDAN_2_0","只要有这张地图就不会迷路了呢！ ","RISE_MAPPING_ICON_KAIDAN_2_0","机翻辅助：
+"RISE_MAPPING_ICON_KAIDAN_2_0","有了这张地图就不会迷路了呢！","RISE_MAPPING_ICON_KAIDAN_2_0","机翻辅助：
 
 只要有这张地图就不会迷路了呢！ 
 
 有了这张地图就不会迷路了！"
-"RISE_MAPPING_CHANGE_COLO_0","还换了颜色，真时髦呢！ ","RISE_MAPPING_CHANGE_COLO_0","机翻辅助：
+"RISE_MAPPING_CHANGE_COLO_0","换颜色了，好时尚啊！","RISE_MAPPING_CHANGE_COLO_0","机翻辅助：
 
 还换了颜色，真时髦呢！ 
 
 改变颜色，好时尚啊！ 
 
 改变颜色，很时尚呢！"
-"RISE_MAPPING_CHANGE_COLO_2_0","好期待会是什么样的地图！ ","RISE_MAPPING_CHANGE_COLO_2_0","机翻辅助：
+"RISE_MAPPING_CHANGE_COLO_2_0","会是怎样的地图呢，好期待啊！","RISE_MAPPING_CHANGE_COLO_2_0","机翻辅助：
 
 好期待会是什么样的地图！ 
 
 会变成什么样的地图呢，很期待！ 
 
 会是怎样的地图呢？很期待！"
-"RISE_MAPPING_ICON_DEL_1_0","嗯，变得很好辨认了呢！ ","RISE_MAPPING_ICON_DEL_1_0","机翻辅助：
+"RISE_MAPPING_ICON_DEL_1_0","嗯，变得更容易阅读了！","RISE_MAPPING_ICON_DEL_1_0","机翻辅助：
 
 嗯，变得很好辨认了呢！ 
 
 嗯，变得容易看！ 
 
 嗯，变得容易看了！"
-"RISE_MAPPING_ICON_DEL_2_0","为了不迷路，要好好整理呢！ ","RISE_MAPPING_ICON_DEL_2_0","机翻辅助：
+"RISE_MAPPING_ICON_DEL_2_0","为了不迷失方向，要好好整理！","RISE_MAPPING_ICON_DEL_2_0","机翻辅助：
 
 为了不迷路，要好好整理呢！ 
 
 为了不迷路，好好整顿一下吧！"
-"RISE_MAPPING_MEMO_1_0","真认真，不愧是！ ","RISE_MAPPING_MEMO_1_0","机翻辅助：
+"RISE_MAPPING_MEMO_1_0","真勤快啊，不愧是你！","RISE_MAPPING_MEMO_1_0","机翻辅助：
 
 真认真，不愧是！ 
 
 真是豆子啊！ 
 
 你真勤快，萨克斯！"
-"RISE_MAPPING_MEMO_2_0","重要的事要记下来呢！ ","RISE_MAPPING_MEMO_2_0","机翻辅助：
+"RISE_MAPPING_MEMO_2_0","重要的事情要记下来哦！","RISE_MAPPING_MEMO_2_0","机翻辅助：
 
 重要的事要记下来呢！ 
 
 重要的事情要记笔记，对吧！ 
 
 重要的是记笔记，对吧！"
-"RISE_KARITORU_ENCOUNT_1_0","糟糕，有“收割者”的气息！
-小心！ ","RISE_KARITORU_ENCOUNT_1_0","机翻辅助：
+"RISE_KARITORU_ENCOUNT_1_0","不好，有“猎杀者”的气息！
+大家小心！","RISE_KARITORU_ENCOUNT_1_0","机翻辅助：
 
 糟糕，有“收割者”的气息！
 小心！ 
@@ -732,8 +738,8 @@ yaba，“收割的东西”的气息！
 
 糟糕，“收割的东西”的气息！
 小心！"
-"RISE_KARITORU_ENCOUNT_2_0","察觉到“收割者”的气息！
-注意！ ","RISE_KARITORU_ENCOUNT_2_0","机翻辅助：
+"RISE_KARITORU_ENCOUNT_2_0","感知到了“猎杀者”的气息！
+小心！","RISE_KARITORU_ENCOUNT_2_0","机翻辅助：
 
 察觉到“收割者”的气息！
 注意！ 
@@ -743,8 +749,8 @@ yaba，“收割的东西”的气息！
 
 察觉“收割的东西”的气息！
 注意！"
-"RISE_KARITORU_ENCOUNT_3_0","“收割者”的反应！
-要来了！ ","RISE_KARITORU_ENCOUNT_3_0","机翻辅助：
+"RISE_KARITORU_ENCOUNT_3_0","是“猎杀者”的反应！
+要来了！","RISE_KARITORU_ENCOUNT_3_0","机翻辅助：
 
 “收割者”的反应！
 要来了！ 

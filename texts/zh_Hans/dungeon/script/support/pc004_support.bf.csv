@@ -1,64 +1,64 @@
 "source","target","id","developer_comments"
-"CHIE_FOE_FOLLOW_START_1_0","糟糕，被F.O.E发现了！","CHIE_FOE_FOLLOW_START_1_0","机翻辅助：
+"CHIE_FOE_FOLLOW_START_1_0","不妙，被F.O.E发现了！","CHIE_FOE_FOLLOW_START_1_0","机翻辅助：
 
 糟糕，被F.O.E发现了！
 
 果然，被F.O.E发现了！"
-"CHIE_FOE_FOLLOW_START_2_0","呃呃！这不是F.O.E吗！","CHIE_FOE_FOLLOW_START_2_0","机翻辅助：
+"CHIE_FOE_FOLLOW_START_2_0","啊啊！这不是F.O.E吗！","CHIE_FOE_FOLLOW_START_2_0","机翻辅助：
 
 呃呃！这不是F.O.E吗！
 
 哈哈！不是F.O.E吗！
 
 哈哈！不是F.O.E嘛！"
-"CHIE_FOE_FOLLOW_START_3_0","F.O.E朝这边过来了！","CHIE_FOE_FOLLOW_START_3_0","机翻辅助：
+"CHIE_FOE_FOLLOW_START_3_0","F.O.E正在靠近这里！","CHIE_FOE_FOLLOW_START_3_0","机翻辅助：
 
 F.O.E朝这边过来了！
 
 F.O.E来了！"
-"CHIE_FOE_NEAR_1_0","F.O.E好近！","CHIE_FOE_NEAR_1_0","机翻辅助：
+"CHIE_FOE_NEAR_1_0","是F.O.E，好近！","CHIE_FOE_NEAR_1_0","机翻辅助：
 
 F.O.E好近！
 
 F.O.E，靠近！
 
 F.O.E，约定！"
-"CHIE_FOE_NEAR_2_0","呃！是F.O.E啊！","CHIE_FOE_NEAR_2_0","机翻辅助：
+"CHIE_FOE_NEAR_2_0","啊！是F.O.E！","CHIE_FOE_NEAR_2_0","机翻辅助：
 
 呃！是F.O.E啊！
 
 哈哈！F.O.E！
 
 哈！是F.O.E哟！"
-"CHIE_FOE_NEAR_3_0","F.O.E在这里！","CHIE_FOE_NEAR_3_0","机翻辅助：
+"CHIE_FOE_NEAR_3_0","有F.O.E！","CHIE_FOE_NEAR_3_0","机翻辅助：
 
 F.O.E在这里！
 
 F.O.E在哦！
 
 有F.O.E哦！"
-"CHIE_FOE_FOLLOW_END_1_0","哦，甩掉F.O.E了！","CHIE_FOE_FOLLOW_END_1_0","机翻辅助：
+"CHIE_FOE_FOLLOW_END_1_0","甩掉F.O.E了！","CHIE_FOE_FOLLOW_END_1_0","机翻辅助：
 
 哦，甩掉F.O.E了！
 
 啊，F.O.E撒了呢！
 
 哦，F.O.E撒了！"
-"CHIE_FOE_FOLLOW_END_2_0","呼，它没有再追过来了。","CHIE_FOE_FOLLOW_END_2_0","机翻辅助：
+"CHIE_FOE_FOLLOW_END_2_0","呼，他已经不再追了。","CHIE_FOE_FOLLOW_END_2_0","机翻辅助：
 
 呼，它没有再追过来了。
 
 嗯，已经不追了。
 
 呼，已经追不上来了。"
-"CHIE_FOE_FOLLOW_END_3_0","好像已经甩掉F.O.E了呢！","CHIE_FOE_FOLLOW_END_3_0","机翻辅助：
+"CHIE_FOE_FOLLOW_END_3_0","看来已经甩掉F.O.E了呢！","CHIE_FOE_FOLLOW_END_3_0","机翻辅助：
 
 好像已经甩掉F.O.E了呢！
 
 好像甩开了F.O.E哟！
 
 好像甩掉了F.O.E！"
-"CHIE_KANSI_REACTION_1_0","呜呜，对心脏很不好……","CHIE_KANSI_REACTION_1_0","机翻辅助：
+"CHIE_KANSI_REACTION_1_0","唔，对心脏不好啊……","CHIE_KANSI_REACTION_1_0","机翻辅助：
 
 呜呜，对心脏很不好……
 
@@ -70,28 +70,28 @@ F.O.E在哦！
 蹑手蹑脚……
 
 跷脚、跷脚……"
-"CHIE_KANSI_REACTION_3_0","小心不要被发现。","CHIE_KANSI_REACTION_3_0","机翻辅助：
+"CHIE_KANSI_REACTION_3_0","不要被发现哦。","CHIE_KANSI_REACTION_3_0","机翻辅助：
 
 小心不要被发现。
 
 希望你找不到。
 
 不要被发现。"
-"CHIE_DENKISAKU_REACTION__0","小心不要碰到它。","CHIE_DENKISAKU_REACTION__0","机翻辅助：
+"CHIE_DENKISAKU_REACTION__0","小心，别碰到它。","CHIE_DENKISAKU_REACTION__0","机翻辅助：
 
 小心不要碰到它。
 
 小心别碰我。
 
 小心别碰。"
-"CHIE_DENKISAKU_REACTION__2_0","这个栅栏也太危险了吧。","CHIE_DENKISAKU_REACTION__2_0","机翻辅助：
+"CHIE_DENKISAKU_REACTION__2_0","这个栅栏，太不妙了吧。","CHIE_DENKISAKU_REACTION__2_0","机翻辅助：
 
 这个栅栏也太危险了吧。
 
 这个栅栏太麻烦了吧。
 
 这个栅栏太糟糕了吧。"
-"CHIE_DENKISAKU_REACTION__3_0","得阻止它才行～！","CHIE_DENKISAKU_REACTION__3_0","机翻辅助：
+"CHIE_DENKISAKU_REACTION__3_0","必须得停下这个～！","CHIE_DENKISAKU_REACTION__3_0","机翻辅助：
 
 得阻止它才行～！
 
@@ -101,73 +101,73 @@ F.O.E在哦！
 "CHIE_KYOUHU_REACTION_1_0","哇！","CHIE_KYOUHU_REACTION_1_0","机翻辅助：
 
 哇！"
-"CHIE_KYOUHU_REACTION_2_0","呀！","CHIE_KYOUHU_REACTION_2_0","机翻辅助：
+"CHIE_KYOUHU_REACTION_2_0","嗬！","CHIE_KYOUHU_REACTION_2_0","机翻辅助：
 
 呀！
 
 哎呀！
 
 哇！"
-"CHIE_KYOUHU_REACTION_3_0","哦哦！？","CHIE_KYOUHU_REACTION_3_0","机翻辅助：
+"CHIE_KYOUHU_REACTION_3_0","哦！？","CHIE_KYOUHU_REACTION_3_0","机翻辅助：
 
 哦哦！？
 
 哦！？
 
 哇！？"
-"CHIE_STAIR_FIND_1_0","欸，好像可以继续前进了？","CHIE_STAIR_FIND_1_0","机翻辅助：
+"CHIE_STAIR_FIND_1_0","喂，好像能继续前进了？","CHIE_STAIR_FIND_1_0","机翻辅助：
 
 欸，好像可以继续前进了？
 
 喂，不是要往前走吗？
 
 喂，好像可以继续前进吧？"
-"CHIE_STAIR_FIND_2_0","下一个区域！走吧走吧！","CHIE_STAIR_FIND_2_0","机翻辅助：
+"CHIE_STAIR_FIND_2_0","是下一区域！前进吧！","CHIE_STAIR_FIND_2_0","机翻辅助：
 
 下一个区域！走吧走吧！
 
 下一个区域！走吧！"
-"CHIE_STAIR_FIND_3_0","可以继续前进了！好，GO！","CHIE_STAIR_FIND_3_0","机翻辅助：
+"CHIE_STAIR_FIND_3_0","能继续前进了呢！GO！","CHIE_STAIR_FIND_3_0","机翻辅助：
 
 可以继续前进了！好，GO！
 
 好先进啊！好了，果！
 
 继续前进吧！好，开始！"
-"CHIE_TREASURE_FIND_1_0","太好了，发现宝物了～！","CHIE_TREASURE_FIND_1_0","机翻辅助：
+"CHIE_TREASURE_FIND_1_0","太好了，找到宝物了！","CHIE_TREASURE_FIND_1_0","机翻辅助：
 
 太好了，发现宝物了～！
 
 太好了，宝贝来了！
 
 太好了，宝贝八啦～！"
-"CHIE_TREASURE_FIND_2_0","宝箱，找到了！","CHIE_TREASURE_FIND_2_0","机翻辅助：
+"CHIE_TREASURE_FIND_2_0","找到宝箱了！","CHIE_TREASURE_FIND_2_0","机翻辅助：
 
 宝箱，找到了！
 
 宝箱，来吧！
 
 宝箱，咪呀！"
-"CHIE_TREASURE_FIND_3_0","太好了，是宝箱呢！","CHIE_TREASURE_FIND_3_0","机翻辅助：
+"CHIE_TREASURE_FIND_3_0","太好了，是宝箱！","CHIE_TREASURE_FIND_3_0","机翻辅助：
 
 太好了，是宝箱呢！
 
 太好了，不是宝箱吗！
 
 太棒了，是宝箱！"
-"CHIE_CHECK_WALL_1_0","那边有什么东西吗？","CHIE_CHECK_WALL_1_0","机翻辅助：
+"CHIE_CHECK_WALL_1_0","那边有什么吗？","CHIE_CHECK_WALL_1_0","机翻辅助：
 
 那边有什么东西吗？
 
 那里有什么吗？"
-"CHIE_CHECK_WALL_2_0","要不要调查一下这边？","CHIE_CHECK_WALL_2_0","机翻辅助：
+"CHIE_CHECK_WALL_2_0","要不要，调查一下附近？","CHIE_CHECK_WALL_2_0","机翻辅助：
 
 要不要调查一下这边？
 
 这附近要不要查一下？
 
 要不要调查一下这附近？"
-"CHIE_CHECK_WALL_3_0","有看到什么吗？","CHIE_CHECK_WALL_3_0","机翻辅助：
+"CHIE_CHECK_WALL_3_0","有点看不清？","CHIE_CHECK_WALL_3_0","机翻辅助：
 
 有看到什么吗？
 
@@ -179,7 +179,7 @@ F.O.E在哦！
 找到开关了！
 
 我找到开关了！"
-"CHIE_SWITCH_FIND_2_0","有开关呢！","CHIE_SWITCH_FIND_2_0","机翻辅助：
+"CHIE_SWITCH_FIND_2_0","有开关哦！","CHIE_SWITCH_FIND_2_0","机翻辅助：
 
 有开关呢！
 
@@ -189,218 +189,226 @@ F.O.E在哦！
 哦？是开关吗？
 
 您？是开关吗？"
-"CHIE_SHORTCUT_FIND_1_0","欸，好像可以抄近路。","CHIE_SHORTCUT_FIND_1_0","机翻辅助：
+"CHIE_SHORTCUT_FIND_1_0","呀，看起来好像可以走捷径吧？","CHIE_SHORTCUT_FIND_1_0","机翻辅助：
 
 欸，好像可以抄近路。
 
 喂，能抄近路吗？
 
 对了，好像可以抄近道吧？"
-"CHIE_SHORTCUT_FIND_2_0","那边好像可以过去！","CHIE_SHORTCUT_FIND_2_0","机翻辅助：
+"CHIE_SHORTCUT_FIND_2_0","那边看起来可以通过！","CHIE_SHORTCUT_FIND_2_0","机翻辅助：
 
 那边好像可以过去！
 
 那里好像可以通过哦！
 
 那里好像可以通过！"
-"CHIE_SHORTCUT_FIND_3_0","可以抄近路的地方，找到了！","CHIE_SHORTCUT_FIND_3_0","机翻辅助：
+"CHIE_SHORTCUT_FIND_3_0","好像找到了捷径！","CHIE_SHORTCUT_FIND_3_0","机翻辅助：
 
 可以抄近路的地方，找到了！
 
-能抄近路的地方，美—来吧！
+能抄近路的地方，美——来吧！
 
 有可能抄近道的地方，咪咕！"
-"CHIE_FOE_WARNING_NEAR_1_0","糟糕，它还在追过来！","CHIE_FOE_WARNING_NEAR_1_0","机翻辅助：
+"CHIE_FOE_WARNING_NEAR_1_0","糟糕，他还在追！","CHIE_FOE_WARNING_NEAR_1_0","机翻辅助：
 
 糟糕，它还在追过来！
 
 哎呀，还在追！
 
 哎呀，还在追我呢！"
-"CHIE_FOE_WARNING_NEAR_2_0","欸，F.O.E过来了啦！","CHIE_FOE_WARNING_NEAR_2_0","机翻辅助：
+"CHIE_FOE_WARNING_NEAR_2_0","等等，F.O.E来了！","CHIE_FOE_WARNING_NEAR_2_0","机翻辅助：
 
 欸，F.O.E过来了啦！
 
 喂，F.O.E来了！
 
 喂，F.O.E来啦！"
-"CHIE_FOE_WARNING_NEAR_3_0","还没有被追上！？","CHIE_FOE_WARNING_NEAR_3_0","机翻辅助：
+"CHIE_FOE_WARNING_NEAR_3_0","还没有被追上吗！？","CHIE_FOE_WARNING_NEAR_3_0","机翻辅助：
 
 还没有被追上！？
 
 还没被追赶！？
 
 还没被追！？"
-"CHIE_1PERSON_HPTP10_1_0","拜托，让我补充肉吧……","CHIE_1PERSON_HPTP10_1_0","机翻辅助：
+"CHIE_1PERSON_HPTP10_1_0","拜托了，让我补充点肉……","CHIE_1PERSON_HPTP10_1_0","机翻辅助：
 
 拜托，让我补充肉吧……
 
 拜托，让我充值肉……
 
 求你了，让我充肉……"
-"CHIE_1PERSON_HPTP10_2_0","呜呜……累死了……","CHIE_1PERSON_HPTP10_2_0","机翻辅助：
+"CHIE_1PERSON_HPTP10_2_0","好累啊。","CHIE_1PERSON_HPTP10_2_0","机翻辅助：
 
 呜呜……累死了……
 
 呜呜……筋疲力尽。
 
 嗯……好厉害啊。"
-"CHIE_1PERSON_HPTP10_3_0","呼、呼……好像不行了……","CHIE_1PERSON_HPTP10_3_0","机翻辅助：
+"CHIE_1PERSON_HPTP10_3_0","哈啊，哈啊……快不行了……","CHIE_1PERSON_HPTP10_3_0","机翻辅助：
 
 呼、呼……好像不行了……
 
 啊、啊……可能已经不行了……
 
 哈、哈……可能已经不行了……"
-"CHIE_1PERSON_HP10_1_0","体力好糟，快点恢复～！","CHIE_1PERSON_HP10_1_0","机翻辅助：
+"CHIE_1PERSON_HP10_1_0","要撑不住了，快恢复！","CHIE_1PERSON_HP10_1_0","机翻辅助：
 
 体力好糟，快点恢复～！
 
 体力糟糕，恢复了～！
 
 体力不行了，快恢复吧～！"
-"CHIE_1PERSON_HP10_2_0","体力好累……","CHIE_1PERSON_HP10_2_0","机翻辅助：
+"CHIE_1PERSON_HP10_2_0","体力、快不行了……","CHIE_1PERSON_HP10_2_0","机翻辅助：
 
 体力好累……
 
 体力，绝对……
 
 体力、体力……"
-"CHIE_1PERSON_HP10_3_0","快……快累死了……","CHIE_1PERSON_HP10_3_0","机翻辅助：
+"CHIE_1PERSON_HP10_3_0","快要倒下了……","CHIE_1PERSON_HP10_3_0","机翻辅助：
 
 快……快累死了……
 
 嗯，快要倒下了……
 
 噗，快要倒下了……"
-"CHIE_1PERSON_TP10_1_0","呜呜……肉不够……","CHIE_1PERSON_TP10_1_0","机翻辅助：
+"CHIE_1PERSON_TP10_1_0","哎呀……肉不够……","CHIE_1PERSON_TP10_1_0","机翻辅助：
 
 呜呜……肉不够……
 
 嗯……肉不够……"
-"CHIE_1PERSON_TP10_2_0","好累……稍……稍微休息一下……","CHIE_1PERSON_TP10_2_0","机翻辅助：
+"CHIE_1PERSON_TP10_2_0","好累……让、让我喘口气……","CHIE_1PERSON_TP10_2_0","机翻辅助：
 
 好累……稍……稍微休息一下……
 
 喂，稍微喘口气……
 
 切……等、等一下……"
-"CHIE_1PERSON_TP10_3_0","好像有点吃力……","CHIE_1PERSON_TP10_3_0","机翻辅助：
+"CHIE_1PERSON_TP10_3_0","有点难受……","CHIE_1PERSON_TP10_3_0","机翻辅助：
 
 好像有点吃力……
 
 可能有点辛苦……
 
 也有点苦……"
-"CHIE_1PERSON_HP80_1_0","还早得很，现在才开始！","CHIE_1PERSON_HP80_1_0","机翻辅助：
+"CHIE_1PERSON_HP80_1_0","现在才刚刚开始！","CHIE_1PERSON_HP80_1_0","机翻辅助：
 
 还早得很，现在才开始！
 
 还差得远呢！
 
 现在才刚刚开始！"
-"CHIE_1PERSON_HP80_2_0","赶快去下一个地方吧！","CHIE_1PERSON_HP80_2_0","机翻辅助：
+"CHIE_1PERSON_HP80_2_0","赶快走吧！","CHIE_1PERSON_HP80_2_0","机翻辅助：
 
 赶快去下一个地方吧！
 
-赶紧下一个！"
-"CHIE_1PERSON_HP80_3_0","嗯，保持这样！","CHIE_1PERSON_HP80_3_0","机翻辅助：
+赶紧下一个！
+
+评论：
+
+不确定"
+"CHIE_1PERSON_HP80_3_0","嗯，保持这个状态！","CHIE_1PERSON_HP80_3_0","机翻辅助：
 
 嗯，保持这样！
 
 嗯，这个状态！
 
 嗯，就是这个样子！"
-"CHIE_DUNGEON_START_1_0","上吧～！","CHIE_DUNGEON_START_1_0","机翻辅助：
+"CHIE_DUNGEON_START_1_0","走吧！","CHIE_DUNGEON_START_1_0","机翻辅助：
 
 上吧～！
 
 走吧！
 
 我走啦～！"
-"CHIE_DUNGEON_START_2_0","鼓起干劲上吧～！","CHIE_DUNGEON_START_2_0","机翻辅助：
+"CHIE_DUNGEON_START_2_0","加油上吧！","CHIE_DUNGEON_START_2_0","机翻辅助：
 
 鼓起干劲上吧～！
 
 鼓起干劲来！
 
 打起精神来！"
-"CHIE_DUNGEON_START_3_0","好～加油吧！","CHIE_DUNGEON_START_3_0","机翻辅助：
+"CHIE_DUNGEON_START_3_0","好，加油！","CHIE_DUNGEON_START_3_0","机翻辅助：
 
 好～加油吧！
 
 好，加油吧！"
-"CHIE_QUEST_START_1_0","去特别上映看看吧～！","CHIE_QUEST_START_1_0","机翻辅助：
+"CHIE_QUEST_START_1_0","有专题片，去看看吧！","CHIE_QUEST_START_1_0","机翻辅助：
 
 去特别上映看看吧～！
 
 特别上映，去看看吧！
 
 特别上映，去看吧！"
-"CHIE_QUEST_START_2_0","绝对要达成！","CHIE_QUEST_START_2_0","机翻辅助：
+"CHIE_QUEST_START_2_0","我绝对要达成！","CHIE_QUEST_START_2_0","机翻辅助：
 
 绝对要达成！
 
 一定要达成！
 
-我一定要达成！"
-"CHIE_QUEST_START_3_0","总觉得热血沸腾了！","CHIE_QUEST_START_3_0","机翻辅助：
+我一定要达成！
+
+评论：
+
+不确定"
+"CHIE_QUEST_START_3_0","有什么烧起来了！","CHIE_QUEST_START_3_0","机翻辅助：
 
 总觉得热血沸腾了！
 
 好像燃起来了！
 
 好像燃烧起来了！"
-"CHIE_TOUHA_25_1_0","前面好像还很长。","CHIE_TOUHA_25_1_0","机翻辅助：
+"CHIE_TOUHA_25_1_0","前面看起来还很长呢。","CHIE_TOUHA_25_1_0","机翻辅助：
 
 前面好像还很长。
 
 看来前面还挺长的。
 
 路还很长呢。"
-"CHIE_TOUHA_25_2_0","地图慢慢填起来了呢！","CHIE_TOUHA_25_2_0","机翻辅助：
+"CHIE_TOUHA_25_2_0","地图，慢慢地填满了呢！","CHIE_TOUHA_25_2_0","机翻辅助：
 
 地图慢慢填起来了呢！
 
 地图，一点一点地被填满了呢！
 
 地图一点一点地填满了呢！"
-"CHIE_TOUHA_50_1_0","终于来到一半了吗？","CHIE_TOUHA_50_1_0","机翻辅助：
+"CHIE_TOUHA_50_1_0","终于走到一半左右了吗？","CHIE_TOUHA_50_1_0","机翻辅助：
 
 终于来到一半了吗？
 
 终于来了一半吧？
 
 终于到一半了吧？"
-"CHIE_TOUHA_50_2_0","进展得不错吧？","CHIE_TOUHA_50_2_0","机翻辅助：
+"CHIE_TOUHA_50_2_0","看起来进展很好啊？","CHIE_TOUHA_50_2_0","机翻辅助：
 
 进展得不错吧？
 
 是不是感觉很好？
 
 不是很好地前进着吗？"
-"CHIE_TOUHA_75_1_0","这个楼层应该快了吧？","CHIE_TOUHA_75_1_0","机翻辅助：
+"CHIE_TOUHA_75_1_0","这一层，是不是只剩下一点了？","CHIE_TOUHA_75_1_0","机翻辅助：
 
 这个楼层应该快了吧？
 
 这个楼层，已经有点了吧？
 
 这个楼层还差一点吧？"
-"CHIE_TOUHA_75_2_0","只差一点点了，加油吧！","CHIE_TOUHA_75_2_0","机翻辅助：
+"CHIE_TOUHA_75_2_0","只剩一点儿了，加油！","CHIE_TOUHA_75_2_0","机翻辅助：
 
 只差一点点了，加油吧！
 
 还有一点哦，加油！
 
 就差一点点了，加油！"
-"CHIE_TOUHA_100_1_0","哦，全部绕完了吗？辛苦了！","CHIE_TOUHA_100_1_0","机翻辅助：
+"CHIE_TOUHA_100_1_0","哦、已经转完这一层了吗？辛苦你了！","CHIE_TOUHA_100_1_0","机翻辅助：
 
 哦，全部绕完了吗？辛苦了！
 
 啊，全部都转完了吗？辛苦了！
 
 哦，全部转完了？辛苦了！"
-"CHIE_TOUHA_100_2_0","太好了，这个楼层称霸了！","CHIE_TOUHA_100_2_0","机翻辅助：
+"CHIE_TOUHA_100_2_0","太好了，已经征服这一层了！","CHIE_TOUHA_100_2_0","机翻辅助：
 
 太好了，这个楼层称霸了！
 
@@ -412,82 +420,86 @@ F.O.E在哦！
 哦，感觉不错呢！
 
 哦，感觉真好啊！"
-"CHIE_MAPPING_ICON_ALL_2_0","嗯嗯，很正确呢！","CHIE_MAPPING_ICON_ALL_2_0","机翻辅助：
+"CHIE_MAPPING_ICON_ALL_2_0","嗯嗯，是对的啊！","CHIE_MAPPING_ICON_ALL_2_0","机翻辅助：
 
 嗯嗯，很正确呢！
 
 嗯嗯，真正确！
 
-嗯嗯，很准确啊！"
-"CHIE_MAPPING_ICON_KAIDAN_0","这样移动起来也很方便。","CHIE_MAPPING_ICON_KAIDAN_0","机翻辅助：
+嗯嗯，很准确啊！
+
+评论：
+
+不确定"
+"CHIE_MAPPING_ICON_KAIDAN_0","这样的话移动也很顺利呢。","CHIE_MAPPING_ICON_KAIDAN_0","机翻辅助：
 
 这样移动起来也很方便。
 
 这样的话移动也很好呢。
 
 这样一来，移动也很方便。"
-"CHIE_MAPPING_ICON_KAIDAN_2_0","对对，这很重要！","CHIE_MAPPING_ICON_KAIDAN_2_0","机翻辅助：
+"CHIE_MAPPING_ICON_KAIDAN_2_0","没错没错，那很重要！","CHIE_MAPPING_ICON_KAIDAN_2_0","机翻辅助：
 
 对对，这很重要！
 
 对了对了，那个很重要！"
-"CHIE_MAPPING_CHANGE_COLO_0","哦～要分颜色啊！","CHIE_MAPPING_CHANGE_COLO_0","机翻辅助：
+"CHIE_MAPPING_CHANGE_COLO_0","欸，要区分颜色啊！","CHIE_MAPPING_CHANGE_COLO_0","机翻辅助：
 
 哦～要分颜色啊！
 
 啊，要分色！
 
 啊，用颜色来区分！"
-"CHIE_MAPPING_CHANGE_COLO_2_0","换颜色也很有趣呢。","CHIE_MAPPING_CHANGE_COLO_2_0","机翻辅助：
+"CHIE_MAPPING_CHANGE_COLO_2_0","换颜色也很有趣。","CHIE_MAPPING_CHANGE_COLO_2_0","机翻辅助：
 
 换颜色也很有趣呢。
 
 改变颜色也很开心呢。
 
 改变颜色也很有趣呢。"
-"CHIE_MAPPING_ICON_DEL_1_0","方便阅读很重要呢～","CHIE_MAPPING_ICON_DEL_1_0","机翻辅助：
+"CHIE_MAPPING_ICON_DEL_1_0","易于阅读很重要呢～","CHIE_MAPPING_ICON_DEL_1_0","机翻辅助：
 
 方便阅读很重要呢～
 
 容易看很重要呢～
 
 简单易懂很重要哦～"
-"CHIE_MAPPING_ICON_DEL_2_0","把不需要的记号删掉吧！","CHIE_MAPPING_ICON_DEL_2_0","机翻辅助：
+"CHIE_MAPPING_ICON_DEL_2_0","不需要的标记就擦掉吧！","CHIE_MAPPING_ICON_DEL_2_0","机翻辅助：
 
 把不需要的记号删掉吧！
 
 把不需要的标志擦掉！
 
 把不需要的标记擦掉！"
-"CHIE_MAPPING_MEMO_1_0","不记下来会忘记呢。","CHIE_MAPPING_MEMO_1_0","机翻辅助：
+"CHIE_MAPPING_MEMO_1_0","不记下来的话会忘记呢。","CHIE_MAPPING_MEMO_1_0","机翻辅助：
 
 不记下来会忘记呢。
 
 不记下来的话就会忘记的。
 
 不记笔记的话会忘记的。"
-"CHIE_MAPPING_MEMO_2_0","对对，不要忘记哦！","CHIE_MAPPING_MEMO_2_0","机翻辅助：
+"CHIE_MAPPING_MEMO_2_0","嗯嗯，记得不要忘了哦！","CHIE_MAPPING_MEMO_2_0","机翻辅助：
 
 对对，不要忘记哦！
 
 喂，别忘了哦！
 
 so so，别忘了哦！"
-"CHIE_DOOR_OPEN_1_0","冲冲冲～！","CHIE_DOOR_OPEN_1_0","机翻辅助：
+"CHIE_DOOR_OPEN_1_0","冲——！","CHIE_DOOR_OPEN_1_0","机翻辅助：
 
 冲冲冲～！
 
 好厉害！
 
 summy ！"
-"CHIE_DOOR_OPEN_2_0","向前冲吧。","CHIE_DOOR_OPEN_2_0","机翻辅助：
+"CHIE_DOOR_OPEN_2_0","冲锋吧。","CHIE_DOOR_OPEN_2_0","机翻辅助：
 
 向前冲吧。
 
 我会勇往直前的。
 
 冲啊。"
-"CHIE_DOOR_OPEN_3_0","快点快点，这边！","CHIE_DOOR_OPEN_3_0","机翻辅助：
+"CHIE_DOOR_OPEN_3_0","快看，这边！","CHIE_DOOR_OPEN_3_0","机翻辅助：
 
 快点快点，这边！
 

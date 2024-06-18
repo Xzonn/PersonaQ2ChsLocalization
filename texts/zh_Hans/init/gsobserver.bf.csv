@@ -3,13 +3,21 @@
 
 TEST NONE
 
-test none"
+test none
+
+评论：
+
+感觉应该保留原文"
 "MSG_NEWGAME_0","TEST NEWGAME","MSG_NEWGAME_0","机翻辅助：
 
 TEST NEWGAME
 
-test newgame"
-"MSG_CONTINUE_0","＞已读取存档。","MSG_CONTINUE_0","机翻辅助：
+test newgame
+
+评论：
+
+感觉应该保留原文"
+"MSG_CONTINUE_0","＞已读取存档记录。","MSG_CONTINUE_0","机翻辅助：
 
 ＞已读取存档。
 
@@ -22,4 +30,8 @@ TEST GAME OVER
 
 TEST GAMEOVER
 
-test撞击"
+test撞击
+
+评论：
+
+感觉应该保留原文"

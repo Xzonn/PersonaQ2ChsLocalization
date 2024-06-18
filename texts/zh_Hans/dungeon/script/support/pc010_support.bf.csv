@@ -1,6 +1,6 @@
 "source","target","id","developer_comments"
 "AMADA_FOE_FOLLOW_START_1_0","哇哇，
-那个F.O.E追上来了！","AMADA_FOE_FOLLOW_START_1_0","机翻辅助：
+那个F.O.E正在追过来！","AMADA_FOE_FOLLOW_START_1_0","机翻辅助：
 
 哇哇，
 那个F.O.E追上来了！
@@ -9,8 +9,8 @@
 那个F.O.E追来啦！
 
 哇，那个F.O.E在追你呢！"
-"AMADA_FOE_FOLLOW_START_2_0","F.O.E往这边来了！
-要逃跑吗？","AMADA_FOE_FOLLOW_START_2_0","机翻辅助：
+"AMADA_FOE_FOLLOW_START_2_0","F.O.E在往这边追过来！
+要逃走吗？","AMADA_FOE_FOLLOW_START_2_0","机翻辅助：
 
 F.O.E往这边来了！
 要逃跑吗？
@@ -20,7 +20,7 @@ F.O.E正在向这边走来！
 
 F.O.E来了！
 逃跑吗？"
-"AMADA_FOE_FOLLOW_START_3_0","F.O.E追上来了！","AMADA_FOE_FOLLOW_START_3_0","机翻辅助：
+"AMADA_FOE_FOLLOW_START_3_0","F.O.E正在追赶过来！","AMADA_FOE_FOLLOW_START_3_0","机翻辅助：
 
 F.O.E追上来了！"
 "AMADA_FOE_NEAR_1_0","F.O.E就在附近呢……","AMADA_FOE_NEAR_1_0","机翻辅助：
@@ -28,20 +28,20 @@ F.O.E追上来了！"
 F.O.E就在附近呢……
 
 F.O.E在附近呢……"
-"AMADA_FOE_NEAR_2_0","咦，那不是F.O.E吗？","AMADA_FOE_NEAR_2_0","机翻辅助：
+"AMADA_FOE_NEAR_2_0","那个，不是F.O.E吗？","AMADA_FOE_NEAR_2_0","机翻辅助：
 
 咦，那不是F.O.E吗？
 
 咦，不是F.O.E吗？"
-"AMADA_FOE_NEAR_3_0","F.O.E就在那里！","AMADA_FOE_NEAR_3_0","机翻辅助：
+"AMADA_FOE_NEAR_3_0","那里有F.O.E！","AMADA_FOE_NEAR_3_0","机翻辅助：
 
 F.O.E就在那里！
 
 那里有F.O.E哦！
 
 F.O.E就在那里哦！"
-"AMADA_FOE_FOLLOW_END_1_0","咦？
-F.O.E没有追过来呢……","AMADA_FOE_FOLLOW_END_1_0","机翻辅助：
+"AMADA_FOE_FOLLOW_END_1_0","嗯？
+F.O.E好像没有追过来的样子……","AMADA_FOE_FOLLOW_END_1_0","机翻辅助：
 
 咦？
 F.O.E没有追过来呢……
@@ -51,24 +51,24 @@ F.O.E没有追来呢……
 
 咦？
 F.O.E没有追来啊……"
-"AMADA_FOE_FOLLOW_END_2_0","看来是成功逃掉了。","AMADA_FOE_FOLLOW_END_2_0","机翻辅助：
+"AMADA_FOE_FOLLOW_END_2_0","看起来好像成功逃脱了呢。","AMADA_FOE_FOLLOW_END_2_0","机翻辅助：
 
 看来是成功逃掉了。
 
 看来是逃过一劫了。
 
 好像逃完了。"
-"AMADA_FOE_FOLLOW_END_3_0","那个F.O.E好像放弃了。","AMADA_FOE_FOLLOW_END_3_0","机翻辅助：
+"AMADA_FOE_FOLLOW_END_3_0","那个F.O.E似乎放弃了。","AMADA_FOE_FOLLOW_END_3_0","机翻辅助：
 
 那个F.O.E好像放弃了。"
-"AMADA_KANSI_REACTION_1_0","被发现的话就麻烦了。","AMADA_KANSI_REACTION_1_0","机翻辅助：
+"AMADA_KANSI_REACTION_1_0","找到了就麻烦了呢。","AMADA_KANSI_REACTION_1_0","机翻辅助：
 
 被发现的话就麻烦了。
 
 找到的话会很麻烦呢。
 
 如果被发现就麻烦了。"
-"AMADA_KANSI_REACTION_2_0","这里要小心一点！","AMADA_KANSI_REACTION_2_0","机翻辅助：
+"AMADA_KANSI_REACTION_2_0","这里要小心！","AMADA_KANSI_REACTION_2_0","机翻辅助：
 
 这里要小心一点！
 
@@ -76,22 +76,21 @@ F.O.E没有追来啊……"
 "AMADA_KANSI_REACTION_3_0","有点紧张呢……","AMADA_KANSI_REACTION_3_0","机翻辅助：
 
 有点紧张呢……"
-"AMADA_DENKISAKU_REACTION_0","是电栅栏吗……好像过不去呢。","AMADA_DENKISAKU_REACTION_0","机翻辅助：
+"AMADA_DENKISAKU_REACTION_0","电网栅栏吗……看起来过不去呢。","AMADA_DENKISAKU_REACTION_0","机翻辅助：
 
 是电栅栏吗……好像过不去呢。
 
 电栅栏吗……好像不能通过啊。
 
 电栅栏吗？看来是过不去了。"
-"AMADA_DENKISAKU_REACTION_2_0","找别条路似乎比较好。","AMADA_DENKISAKU_REACTION_2_0","机翻辅助：
+"AMADA_DENKISAKU_REACTION_2_0","最好是去找另一条路。","AMADA_DENKISAKU_REACTION_2_0","机翻辅助：
 
 找别条路似乎比较好。
 
 看来还是找别的路比较好呢。
 
 看来你最好另找一条路。"
-"AMADA_DENKISAKU_REACTION_3_0","先关掉电流
-比较好。","AMADA_DENKISAKU_REACTION_3_0","机翻辅助：
+"AMADA_DENKISAKU_REACTION_3_0","我认为最好先停掉电流。","AMADA_DENKISAKU_REACTION_3_0","机翻辅助：
 
 先关掉电流
 比较好。
@@ -100,87 +99,87 @@ F.O.E没有追来啊……"
 
 
 我觉得先把电流关掉比较好。"
-"AMADA_KYOUHU_REACTION_1_0","呜哇——！","AMADA_KYOUHU_REACTION_1_0","机翻辅助：
+"AMADA_KYOUHU_REACTION_1_0","哇啊！","AMADA_KYOUHU_REACTION_1_0","机翻辅助：
 
 呜哇——！
 
 哇哇！
 
 哇！"
-"AMADA_KYOUHU_REACTION_2_0","有风……呜哇！？","AMADA_KYOUHU_REACTION_2_0","机翻辅助：
+"AMADA_KYOUHU_REACTION_2_0","风……哇！？","AMADA_KYOUHU_REACTION_2_0","机翻辅助：
 
 有风……呜哇！？
 
 风……哇！？"
-"AMADA_KYOUHU_REACTION_3_0","哎哎！？","AMADA_KYOUHU_REACTION_3_0","机翻辅助：
+"AMADA_KYOUHU_REACTION_3_0","哎呀！？","AMADA_KYOUHU_REACTION_3_0","机翻辅助：
 
 哎哎！？
 
 诶！？"
-"AMADA_STAIR_FIND_1_0","有楼梯耶！要怎么办？","AMADA_STAIR_FIND_1_0","机翻辅助：
+"AMADA_STAIR_FIND_1_0","这里有楼梯耶！我们要往前探索吗？","AMADA_STAIR_FIND_1_0","机翻辅助：
 
 有楼梯耶！要怎么办？
 
 有楼梯哦！怎么办？"
-"AMADA_STAIR_FIND_2_0","好像能前往下一个区域呢。","AMADA_STAIR_FIND_2_0","机翻辅助：
+"AMADA_STAIR_FIND_2_0","看起来可以去下一个区域了。","AMADA_STAIR_FIND_2_0","机翻辅助：
 
 好像能前往下一个区域呢。
 
 好像可以去下一个区域啊。
 
 好像可以去下一个区域呢。"
-"AMADA_STAIR_FIND_3_0","好像能继续前进，要怎么办？","AMADA_STAIR_FIND_3_0","机翻辅助：
+"AMADA_STAIR_FIND_3_0","看起来可以继续前进，你想怎么做？","AMADA_STAIR_FIND_3_0","机翻辅助：
 
 好像能继续前进，要怎么办？
 
 好像要继续下去了，怎么办？
 
 好像要往前走了，怎么办？"
-"AMADA_TREASURE_FIND_1_0","有宝箱呢。真好奇里面是什么……","AMADA_TREASURE_FIND_1_0","机翻辅助：
+"AMADA_TREASURE_FIND_1_0","宝箱啊。里面的东西，真让人好奇啊……","AMADA_TREASURE_FIND_1_0","机翻辅助：
 
 有宝箱呢。真好奇里面是什么……
 
 宝箱啊。内容，好在意啊……
 
 是宝箱吧。很在意里面的内容呢……"
-"AMADA_TREASURE_FIND_2_0","打开宝箱看看吧！","AMADA_TREASURE_FIND_2_0","机翻辅助：
+"AMADA_TREASURE_FIND_2_0","宝箱，让我们打开看看吧！","AMADA_TREASURE_FIND_2_0","机翻辅助：
 
 打开宝箱看看吧！
 
 宝箱，打开看看吧！
 
 打开宝箱吧！"
-"AMADA_TREASURE_FIND_3_0","啊，有宝箱耶！","AMADA_TREASURE_FIND_3_0","机翻辅助：
+"AMADA_TREASURE_FIND_3_0","哇，那里有宝箱！","AMADA_TREASURE_FIND_3_0","机翻辅助：
 
 啊，有宝箱耶！
 
 啊，有宝箱哦！"
-"AMADA_CHECK_WALL_1_0","咦，不觉得有点奇怪吗？","AMADA_CHECK_WALL_1_0","机翻辅助：
+"AMADA_CHECK_WALL_1_0","那个，你不觉得有点奇怪吗？","AMADA_CHECK_WALL_1_0","机翻辅助：
 
 咦，不觉得有点奇怪吗？
 
 咦，不觉得很在意吗？
 
 咦，你不介意吗？"
-"AMADA_CHECK_WALL_2_0","好像有什么东西，调查一下吧！","AMADA_CHECK_WALL_2_0","机翻辅助：
+"AMADA_CHECK_WALL_2_0","有什么事情吗？让我们来调查一下吧！","AMADA_CHECK_WALL_2_0","机翻辅助：
 
 好像有什么东西，调查一下吧！
 
 有什么事，去查一下吧！
 
 有什么事，调查一下吧！"
-"AMADA_CHECK_WALL_3_0","那是……？要不要靠近看看？","AMADA_CHECK_WALL_3_0","机翻辅助：
+"AMADA_CHECK_WALL_3_0","那个是……？要靠近一点看看吗？","AMADA_CHECK_WALL_3_0","机翻辅助：
 
 那是……？要不要靠近看看？
 
 那个……？不在附近看看吗？
 
 那个……？要不要近距离看看？"
-"AMADA_SWITCH_FIND_1_0","有开关哦！","AMADA_SWITCH_FIND_1_0","机翻辅助：
+"AMADA_SWITCH_FIND_1_0","有开关！","AMADA_SWITCH_FIND_1_0","机翻辅助：
 
 有开关哦！"
 "AMADA_SWITCH_FIND_2_0","这是开关吧。
-要按下去看看吗？","AMADA_SWITCH_FIND_2_0","机翻辅助：
+要按一下试试吗？","AMADA_SWITCH_FIND_2_0","机翻辅助：
 
 这是开关吧。
 要按下去看看吗？
@@ -190,33 +189,33 @@ F.O.E没有追来啊……"
 
 这是开关吧。
 试着按一下吗？"
-"AMADA_SWITCH_FIND_3_0","啊，是开关呢！","AMADA_SWITCH_FIND_3_0","机翻辅助：
+"AMADA_SWITCH_FIND_3_0","啊，这是开关！","AMADA_SWITCH_FIND_3_0","机翻辅助：
 
 啊，是开关呢！
 
 啊，是开关吧！
 
 啊，是开关啊！"
-"AMADA_SHORTCUT_FIND_1_0","请看，那里好像可以过去哦！","AMADA_SHORTCUT_FIND_1_0","机翻辅助：
+"AMADA_SHORTCUT_FIND_1_0","请看，那边看起来可以通过！","AMADA_SHORTCUT_FIND_1_0","机翻辅助：
 
 请看，那里好像可以过去哦！
 
 请看，那边好像可以通过哦！
 
 你看，那里好像可以通过！"
-"AMADA_SHORTCUT_FIND_2_0","那里好像可以抄近路耶？","AMADA_SHORTCUT_FIND_2_0","机翻辅助：
+"AMADA_SHORTCUT_FIND_2_0","那里看起来好像是条近路？","AMADA_SHORTCUT_FIND_2_0","机翻辅助：
 
 那里好像可以抄近路耶？
 
 那里不是可以走捷径吗？
 
 那里好像是近路吧？"
-"AMADA_SHORTCUT_FIND_3_0","有可以抄近路的地方哦！","AMADA_SHORTCUT_FIND_3_0","机翻辅助：
+"AMADA_SHORTCUT_FIND_3_0","有一个看起来可以走近路的地方！","AMADA_SHORTCUT_FIND_3_0","机翻辅助：
 
 有可以抄近路的地方哦！
 
 有可以抄近道的地方哦！"
-"AMADA_FOE_WARNING_NEAR_1_0","哇，还有F.O.E！","AMADA_FOE_WARNING_NEAR_1_0","机翻辅助：
+"AMADA_FOE_WARNING_NEAR_1_0","哇，F.O.E还在！","AMADA_FOE_WARNING_NEAR_1_0","机翻辅助：
 
 哇，还有F.O.E！
 
@@ -228,13 +227,13 @@ F.O.E没有追来啊……"
 F.O.E也来了！
 
 F.O.E也来了哟！"
-"AMADA_FOE_WARNING_NEAR_3_0","F.O.E好像也还在！","AMADA_FOE_WARNING_NEAR_3_0","机翻辅助：
+"AMADA_FOE_WARNING_NEAR_3_0","看来还有F.O.E！","AMADA_FOE_WARNING_NEAR_3_0","机翻辅助：
 
 F.O.E好像也还在！
 
 好像还有F.O.E！"
-"AMADA_1PERSON_HPTP10_1_0","呼……呼……对不起。
-可以休息一下吗……","AMADA_1PERSON_HPTP10_1_0","机翻辅助：
+"AMADA_1PERSON_HPTP10_1_0","哈啊，对不起。
+可以稍微休息一下吗？","AMADA_1PERSON_HPTP10_1_0","机翻辅助：
 
 呼……呼……对不起。
 可以休息一下吗……
@@ -243,8 +242,8 @@ F.O.E好像也还在！
 可以稍微休息一下吗……
 
 哈、哈……对不起。能稍微休息一下吗？"
-"AMADA_1PERSON_HPTP10_2_0","呼……呼……我没事。
-我不会说丧气话的。","AMADA_1PERSON_HPTP10_2_0","机翻辅助：
+"AMADA_1PERSON_HPTP10_2_0","哈啊，哈啊……没事的。
+我才不会发牢骚的。","AMADA_1PERSON_HPTP10_2_0","机翻辅助：
 
 呼……呼……我没事。
 我不会说丧气话的。
@@ -253,72 +252,72 @@ F.O.E好像也还在！
 我不会说什么哭诉。
 
 哈、哈……没关系。我不会哭诉。"
-"AMADA_1PERSON_HPTP10_3_0","我……我没事……这点程度……","AMADA_1PERSON_HPTP10_3_0","机翻辅助：
+"AMADA_1PERSON_HPTP10_3_0","没事，这点小事……","AMADA_1PERSON_HPTP10_3_0","机翻辅助：
 
 我……我没事……这点程度……
 
 没关系的……这点程度……
 
 啊，没关系……这个程度……"
-"AMADA_1PERSON_HP10_1_0","我已经累坏了……","AMADA_1PERSON_HP10_1_0","机翻辅助：
+"AMADA_1PERSON_HP10_1_0","我已经筋疲力尽了……","AMADA_1PERSON_HP10_1_0","机翻辅助：
 
 我已经累坏了……
 
 已经筋疲力尽了……"
-"AMADA_1PERSON_HP10_2_0","体力……可以请你帮我恢复吗？","AMADA_1PERSON_HP10_2_0","机翻辅助：
+"AMADA_1PERSON_HP10_2_0","可以请你帮我恢复体力吗？","AMADA_1PERSON_HP10_2_0","机翻辅助：
 
 体力……可以请你帮我恢复吗？
 
 体力……能请您恢复吗？
 
 体力……能帮我恢复吗？"
-"AMADA_1PERSON_HP10_3_0","对不起……体力好像到极限了……","AMADA_1PERSON_HP10_3_0","机翻辅助：
+"AMADA_1PERSON_HP10_3_0","对不起……看来我的体力已经到达极限了……","AMADA_1PERSON_HP10_3_0","机翻辅助：
 
 对不起……体力好像到极限了……
 
 对不起……体力好像是极限了……
 
 对不起……体力好像已经到了极限……"
-"AMADA_1PERSON_TP10_1_0","呜呜……虽然不甘心，但我已经累瘫了……","AMADA_1PERSON_TP10_1_0","机翻辅助：
+"AMADA_1PERSON_TP10_1_0","哎呀……虽然很气馁，但是太累了……","AMADA_1PERSON_TP10_1_0","机翻辅助：
 
 呜呜……虽然不甘心，但我已经累瘫了……
 
 呜呜……虽然很不甘心但是很辛苦……
 
 嗯……虽然很懊悔但是很累……"
-"AMADA_1PERSON_TP10_2_0","对不起……我用尽力气了……","AMADA_1PERSON_TP10_2_0","机翻辅助：
+"AMADA_1PERSON_TP10_2_0","对不起……我已经没有力气了……","AMADA_1PERSON_TP10_2_0","机翻辅助：
 
 对不起……我用尽力气了……
 
 对不起……筋疲力尽……
 
 对不起……精疲力尽……"
-"AMADA_1PERSON_TP10_3_0","对不起……我差不多没力气了……","AMADA_1PERSON_TP10_3_0","机翻辅助：
+"AMADA_1PERSON_TP10_3_0","对不起……我快要没精神了……","AMADA_1PERSON_TP10_3_0","机翻辅助：
 
 对不起……我差不多没力气了……
 
 对不起……差不多有力气了……
 
 对不起……差不多该有力气了……"
-"AMADA_1PERSON_HP80_1_0","感觉不错呢！","AMADA_1PERSON_HP80_1_0","机翻辅助：
+"AMADA_1PERSON_HP80_1_0","感觉不错！","AMADA_1PERSON_HP80_1_0","机翻辅助：
 
 感觉不错呢！
 
 感觉很好呢！"
-"AMADA_1PERSON_HP80_2_0","就照这个步调前进吧！","AMADA_1PERSON_HP80_2_0","机翻辅助：
+"AMADA_1PERSON_HP80_2_0","让我们继续保持这种状态吧！","AMADA_1PERSON_HP80_2_0","机翻辅助：
 
 就照这个步调前进吧！
 
 照这个样子走吧！
 
 就这样走吧！"
-"AMADA_1PERSON_HP80_3_0","下一次也会加油的！","AMADA_1PERSON_HP80_3_0","机翻辅助：
+"AMADA_1PERSON_HP80_3_0","下次也要加油哦！","AMADA_1PERSON_HP80_3_0","机翻辅助：
 
 下一次也会加油的！
 
 下次也要加油哦！"
-"AMADA_DUNGEON_START_1_0","我也是可以的，
-请看着吧！","AMADA_DUNGEON_START_1_0","机翻辅助：
+"AMADA_DUNGEON_START_1_0","我也能做到，
+拭目以待吧！","AMADA_DUNGEON_START_1_0","机翻辅助：
 
 我也是可以的，
 请看着吧！
@@ -328,72 +327,71 @@ F.O.E好像也还在！
 
 我也能做到，
 请看！"
-"AMADA_DUNGEON_START_2_0","不可以逞强哦。","AMADA_DUNGEON_START_2_0","机翻辅助：
+"AMADA_DUNGEON_START_2_0","不要勉强自己。","AMADA_DUNGEON_START_2_0","机翻辅助：
 
 不可以逞强哦。
 
 切忌勉强自己。
 
 不要勉强哦。"
-"AMADA_DUNGEON_START_3_0","我不会成为累赘的！","AMADA_DUNGEON_START_3_0","机翻辅助：
+"AMADA_DUNGEON_START_3_0","不会成为累赘的！","AMADA_DUNGEON_START_3_0","机翻辅助：
 
 我不会成为累赘的！
 
 不会成为累赘的！"
-"AMADA_QUEST_START_1_0","有点令人兴奋呢。","AMADA_QUEST_START_1_0","机翻辅助：
+"AMADA_QUEST_START_1_0","有点兴奋呢。","AMADA_QUEST_START_1_0","机翻辅助：
 
 有点令人兴奋呢。
 
 有点兴奋呢。
 
 有点让人兴奋呢。"
-"AMADA_QUEST_START_2_0","只要同心协力，就没问题了哦。","AMADA_QUEST_START_2_0","机翻辅助：
+"AMADA_QUEST_START_2_0","只要我们齐心协力，一切都会没问题的。","AMADA_QUEST_START_2_0","机翻辅助：
 
 只要同心协力，就没问题了哦。
 
 齐心协力的话，没问题的。
 
 只要齐心协力，就没问题啦。"
-"AMADA_QUEST_START_3_0","大家一起加油吧！","AMADA_QUEST_START_3_0","机翻辅助：
+"AMADA_QUEST_START_3_0","让我们大家一起加油！","AMADA_QUEST_START_3_0","机翻辅助：
 
 大家一起加油吧！"
-"AMADA_TOUHA_25_1_0","前方似乎还很漫长呢。","AMADA_TOUHA_25_1_0","机翻辅助：
+"AMADA_TOUHA_25_1_0","还有很长的路要走呢。","AMADA_TOUHA_25_1_0","机翻辅助：
 
 前方似乎还很漫长呢。
 
 看来路还很长呢。
 
 前面好像还很长啊。"
-"AMADA_TOUHA_25_2_0","这个楼层好像也很宽广呢。","AMADA_TOUHA_25_2_0","机翻辅助：
+"AMADA_TOUHA_25_2_0","这个楼层也好像很宽敞呢。","AMADA_TOUHA_25_2_0","机翻辅助：
 
 这个楼层好像也很宽广呢。
 
 这个楼层好像也很大呢。
 
 这个楼层好像也很宽敞。"
-"AMADA_TOUHA_50_1_0","终于过一半了呢！","AMADA_TOUHA_50_1_0","机翻辅助：
+"AMADA_TOUHA_50_1_0","终于到一半了呢！","AMADA_TOUHA_50_1_0","机翻辅助：
 
 终于过一半了呢！
 
 终于是一半了！
 
 才一半呢！"
-"AMADA_TOUHA_50_2_0","接下来才是重点哦！","AMADA_TOUHA_50_2_0","机翻辅助：
+"AMADA_TOUHA_50_2_0","还有很长的路要走呢！","AMADA_TOUHA_50_2_0","机翻辅助：
 
 接下来才是重点哦！
 
 还差得远呢！
 
 现在才刚刚开始！"
-"AMADA_TOUHA_75_1_0","还差一点呢。","AMADA_TOUHA_75_1_0","机翻辅助：
+"AMADA_TOUHA_75_1_0","还差一点点就好了。","AMADA_TOUHA_75_1_0","机翻辅助：
 
 还差一点呢。
 
 还有一点呢。
 
 再过一会儿吧。"
-"AMADA_TOUHA_75_2_0","填补空白，
-感觉真舒服呢。","AMADA_TOUHA_75_2_0","机翻辅助：
+"AMADA_TOUHA_75_2_0","填补空缺感觉真好。","AMADA_TOUHA_75_2_0","机翻辅助：
 
 填补空白，
 感觉真舒服呢。
@@ -402,97 +400,97 @@ F.O.E好像也还在！
 很舒服呢。
 
 填补空白，真舒服啊。"
-"AMADA_TOUHA_100_1_0","地图绘制完毕，辛苦了！","AMADA_TOUHA_100_1_0","机翻辅助：
+"AMADA_TOUHA_100_1_0","地图制作工作辛苦了！","AMADA_TOUHA_100_1_0","机翻辅助：
 
 地图绘制完毕，辛苦了！
 
 映射，辛苦了！
 
 绘图，辛苦了！"
-"AMADA_TOUHA_100_2_0","哇啊……太好了！","AMADA_TOUHA_100_2_0","机翻辅助：
+"AMADA_TOUHA_100_2_0","哇……做到了！","AMADA_TOUHA_100_2_0","机翻辅助：
 
 哇啊……太好了！
 
 哇……太好了！"
-"AMADA_MAPPING_ICON_ALL_1_0","说起来，那里确实有呢。","AMADA_MAPPING_ICON_ALL_1_0","机翻辅助：
+"AMADA_MAPPING_ICON_ALL_1_0","顺便说一下，那里有。","AMADA_MAPPING_ICON_ALL_1_0","机翻辅助：
 
 说起来，那里确实有呢。
 
 这么说来就在那里了呢。
 
 对了，那里有。"
-"AMADA_MAPPING_ICON_ALL_2_0","记忆力真好呢！","AMADA_MAPPING_ICON_ALL_2_0","机翻辅助：
+"AMADA_MAPPING_ICON_ALL_2_0","记忆力真好！","AMADA_MAPPING_ICON_ALL_2_0","机翻辅助：
 
 记忆力真好呢！
 
 记忆力真好啊！
 
 记忆力很好啊！"
-"AMADA_MAPPING_ICON_KAIDA_0","这样就不会迷路了呢！","AMADA_MAPPING_ICON_KAIDA_0","机翻辅助：
+"AMADA_MAPPING_ICON_KAIDA_0","这样就不会迷路了！","AMADA_MAPPING_ICON_KAIDA_0","机翻辅助：
 
 这样就不会迷路了呢！
 
 这样就不会迷路了！
 
 这样就不会迷路了吧！"
-"AMADA_MAPPING_ICON_KAIDA_2_0","和我的记忆完全一致。","AMADA_MAPPING_ICON_KAIDA_2_0","机翻辅助：
+"AMADA_MAPPING_ICON_KAIDA_2_0","我的记忆也完全符合。","AMADA_MAPPING_ICON_KAIDA_2_0","机翻辅助：
 
 和我的记忆完全一致。
 
 和我的记忆正好吻合。
 
 和我的记忆也很吻合。"
-"AMADA_MAPPING_CHANGE_COL_0","啊！这个颜色真不错。","AMADA_MAPPING_CHANGE_COL_0","机翻辅助：
+"AMADA_MAPPING_CHANGE_COL_0","啊！那个颜色真好。","AMADA_MAPPING_CHANGE_COL_0","机翻辅助：
 
 啊！这个颜色真不错。
 
 啊！那个颜色不错。
 
 啊！那个颜色很好呢。"
-"AMADA_MAPPING_CHANGE_COL_2_0","哇啊……画得真好。","AMADA_MAPPING_CHANGE_COL_2_0","机翻辅助：
+"AMADA_MAPPING_CHANGE_COL_2_0","哇……真厉害呢。","AMADA_MAPPING_CHANGE_COL_2_0","机翻辅助：
 
 哇啊……画得真好。
 
 哇……很棒啊。
 
 哇……很厉害呢。"
-"AMADA_MAPPING_ICON_DEL_1_0","地图变得好看了呢。","AMADA_MAPPING_ICON_DEL_1_0","机翻辅助：
+"AMADA_MAPPING_ICON_DEL_1_0","地图变得更容易阅读了。","AMADA_MAPPING_ICON_DEL_1_0","机翻辅助：
 
 地图变得好看了呢。
 
 地图变得容易看了呢。"
-"AMADA_MAPPING_ICON_DEL_2_0","嗯……学到了不少……","AMADA_MAPPING_ICON_DEL_2_0","机翻辅助：
+"AMADA_MAPPING_ICON_DEL_2_0","嗯，这很有学习价值……","AMADA_MAPPING_ICON_DEL_2_0","机翻辅助：
 
 嗯……学到了不少……
 
 嗯，能学到很多……
 
 嗯，我要学习了……"
-"AMADA_MAPPING_MEMO_1_0","写下来就不会忘记了呢。","AMADA_MAPPING_MEMO_1_0","机翻辅助：
+"AMADA_MAPPING_MEMO_1_0","写下来就不会忘记了对吧。","AMADA_MAPPING_MEMO_1_0","机翻辅助：
 
 写下来就不会忘记了呢。
 
 写下来的话就不会忘记了吧。
 
 写下来就不会忘记了吧。"
-"AMADA_MAPPING_MEMO_2_0","啊，笔记很重要呢。","AMADA_MAPPING_MEMO_2_0","机翻辅助：
+"AMADA_MAPPING_MEMO_2_0","啊，备忘录很重要呢。","AMADA_MAPPING_MEMO_2_0","机翻辅助：
 
 啊，笔记很重要呢。
 
 啊，笔记很重要啊。"
-"AMADA_DOOR_OPEN_1_0","好了，走吧！","AMADA_DOOR_OPEN_1_0","机翻辅助：
+"AMADA_DOOR_OPEN_1_0","走吧，我们走吧！","AMADA_DOOR_OPEN_1_0","机翻辅助：
 
 好了，走吧！
 
 走、走吧！
 
 那么，走吧！"
-"AMADA_DOOR_OPEN_2_0","这边哦！","AMADA_DOOR_OPEN_2_0","机翻辅助：
+"AMADA_DOOR_OPEN_2_0","这边！","AMADA_DOOR_OPEN_2_0","机翻辅助：
 
 这边哦！
 
 是这边哦！"
-"AMADA_DOOR_OPEN_3_0","嘿嘿，我先走一步了！","AMADA_DOOR_OPEN_3_0","机翻辅助：
+"AMADA_DOOR_OPEN_3_0","嘿嘿，我先走了哦！","AMADA_DOOR_OPEN_3_0","机翻辅助：
 
 嘿嘿，我先走一步了！
 

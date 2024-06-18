@@ -6,56 +6,56 @@
 ＞获得了[占位B 01]。
 
 ＞得到了[占位B 01]。"
-"GET_MONEY_MES_0","＞[占位A 01]获得了圆。","GET_MONEY_MES_0","机翻辅助：
+"GET_MONEY_MES_0","＞获得了[占位A 01]元。","GET_MONEY_MES_0","机翻辅助：
 
 ＞[占位A 01]获得了圆。
 
 ＞得到了日元。[占位A 01]"
-"TBOX_ENEMY_APPEAR_0","＞啊啊！！","TBOX_ENEMY_APPEAR_0","机翻辅助：
+"TBOX_ENEMY_APPEAR_0","＞哇呀！！","TBOX_ENEMY_APPEAR_0","机翻辅助：
 
 ＞啊啊！！
 
 ＞啊！！"
-"NOT_OPEN_SHORTCUT_0","＞看来我无法从这里通过……","NOT_OPEN_SHORTCUT_0","机翻辅助：
+"NOT_OPEN_SHORTCUT_0","＞从这边似乎无法通过……","NOT_OPEN_SHORTCUT_0","机翻辅助：
 
 ＞看来我无法从这里通过……
 
 ＞从这边好像不能通过……
 
 ＞从这里好像不能通过……"
-"OPENED_BOX_0","里面好像已经什么都没有了……","OPENED_BOX_0","机翻辅助：
+"OPENED_BOX_0","应该是没有什么可拿取的物品了……","OPENED_BOX_0","机翻辅助：
 
 里面好像已经什么都没有了……
 
 好像已经什么都没有了……"
-"EXIT_DUNGEON_SEL_0","＞从这部电影中逃脱吧……","EXIT_DUNGEON_SEL_0","机翻辅助：
+"EXIT_DUNGEON_SEL_0","＞从这部电影里离开吧……","EXIT_DUNGEON_SEL_0","机翻辅助：
 
 ＞从这部电影中逃脱吧……
 
 ＞逃离这部电影吧……
 
 ＞想逃离这部电影吗……"
-"SHORTCUT_ASK_0","＞有捷径……","SHORTCUT_ASK_0","机翻辅助：
+"SHORTCUT_ASK_0","＞有近路……","SHORTCUT_ASK_0","机翻辅助：
 
 ＞有捷径……
 
 ＞有近道……"
-"SEL_SHORTCUT_ASK_0","能通过","SEL_SHORTCUT_ASK_0","机翻辅助：
+"SEL_SHORTCUT_ASK_0","通过","SEL_SHORTCUT_ASK_0","机翻辅助：
 
 能通过
 
 通过
 
 经过"
-"SEL_SHORTCUT_ASK_1","不能通过","SEL_SHORTCUT_ASK_1","机翻辅助：
+"SEL_SHORTCUT_ASK_1","不通过","SEL_SHORTCUT_ASK_1","机翻辅助：
 
 不能通过
 
 不通
 
 不通过"
-"ONEWAY_ASK_0","＞有捷径。
-　[颜色 03]从另一边好像无法回来……","ONEWAY_ASK_0","机翻辅助：
+"ONEWAY_ASK_0","＞是一条近路。
+　[颜色 03]但好像是不能从对面回来的单行道……","ONEWAY_ASK_0","机翻辅助：
 
 ＞有捷径。
 　[颜色 03]从另一边好像无法回来……
@@ -65,21 +65,21 @@
 
 ＞有一条近道。
 　听说不能从对面回来……[颜色 03]"
-"SEL_ONEWAY_ASK_0","能通过","SEL_ONEWAY_ASK_0","机翻辅助：
+"SEL_ONEWAY_ASK_0","通过","SEL_ONEWAY_ASK_0","机翻辅助：
 
 能通过
 
 通过
 
 经过"
-"SEL_ONEWAY_ASK_1","不能通过","SEL_ONEWAY_ASK_1","机翻辅助：
+"SEL_ONEWAY_ASK_1","不通过","SEL_ONEWAY_ASK_1","机翻辅助：
 
 不能通过
 
 不通
 
 不通过"
-"BAG_FULL_0","里面好像有很多东西……","BAG_FULL_0","机翻辅助：
+"BAG_FULL_0","所持物品已经满满当当……","BAG_FULL_0","机翻辅助：
 
 里面好像有很多东西……
 
@@ -102,16 +102,16 @@
 从迷宫中逃脱
 
 逃出迷宫"
-"JIJIKU_SEL_2","放弃","JIJIKU_SEL_2","机翻辅助：
+"JIJIKU_SEL_2","取消","JIJIKU_SEL_2","机翻辅助：
 
 放弃"
-"JIJIKU_ASK_0","＞要怎么做？","JIJIKU_ASK_0","机翻辅助：
+"JIJIKU_ASK_0","＞要怎么做呢？","JIJIKU_ASK_0","机翻辅助：
 
 ＞要怎么做？
 
 ＞怎么办？"
-"FIND_QUEST_TEST_0","＞先回据点
-　确认任务内容比较好。要怎么做？","FIND_QUEST_TEST_0","机翻辅助：
+"FIND_QUEST_TEST_0","＞最好先回据点确认下具体任务。
+　你觉得呢？","FIND_QUEST_TEST_0","机翻辅助：
 
 ＞先回据点
 　确认任务内容比较好。要怎么做？
@@ -125,27 +125,27 @@
 返回据点
 
 回到据点"
-"SEL_QUEST_ESCAPE_TEST_1","就这样继续前进","SEL_QUEST_ESCAPE_TEST_1","机翻辅助：
+"SEL_QUEST_ESCAPE_TEST_1","就这样继续前进吧","SEL_QUEST_ESCAPE_TEST_1","机翻辅助：
 
 就这样继续前进
 
 就这样前进"
-"ALERT_MSG_0","＞接下来的区域不在特别上映的范围
-　内。要怎么做？","ALERT_MSG_0","机翻辅助：
+"ALERT_MSG_0","＞再往前走就离开特别上映的区域了。
+　要怎么办呢？","ALERT_MSG_0","机翻辅助：
 
 ＞接下来的区域不在特别上映的范围
 　内。要怎么做？
 
 ＞从这里开始不在特别上映的范围内。
 　怎么办？"
-"SEL_ALERT_MSG_0","回到电影院","SEL_ALERT_MSG_0","机翻辅助：
+"SEL_ALERT_MSG_0","返回电影院","SEL_ALERT_MSG_0","机翻辅助：
 
 回到电影院"
 "SEL_ALERT_MSG_1","继续探索","SEL_ALERT_MSG_1","机翻辅助：
 
 继续探索"
-"MAPPING_FAILED_MSG_0","＞宝箱的地图开始发光
-　地图上浮现神秘的图案。","MAPPING_FAILED_MSG_0","机翻辅助：
+"MAPPING_FAILED_MSG_0","＞宝箱地图发出了光芒，
+　地图上浮现出了神秘的标记。","MAPPING_FAILED_MSG_0","机翻辅助：
 
 ＞宝箱的地图开始发光
 　地图上浮现神秘的图案。
@@ -154,8 +154,8 @@
 　地图上浮现出谜一样的图案。
 
 ＞宝箱的地图闪耀着光芒，地图上浮现出神秘的图案。"
-"MAPPING_FAILED_MSG_1","＞似乎对
-　尚未去过的地方有反应……","MAPPING_FAILED_MSG_1","机翻辅助：
+"MAPPING_FAILED_MSG_1","＞一些还没有去过的区域，
+　好像有所反应……","MAPPING_FAILED_MSG_1","机翻辅助：
 
 ＞似乎对
 　尚未去过的地方有反应……
@@ -165,7 +165,7 @@
 
 ＞还没去过的地方
 　好像有了反应……"
-"POWER_SPOT_SEL_0","提高警觉寻找","POWER_SPOT_SEL_0","机翻辅助：
+"POWER_SPOT_SEL_0","谨慎探索","POWER_SPOT_SEL_0","机翻辅助：
 
 提高警觉寻找
 
@@ -178,7 +178,7 @@
 "POWER_SPOT_SEL_2","放弃","POWER_SPOT_SEL_2","机翻辅助：
 
 放弃"
-"USE_AUTO_RECOVER_ASK_0","＞要使用自动治疗吗？","USE_AUTO_RECOVER_ASK_0","机翻辅助：
+"USE_AUTO_RECOVER_ASK_0","＞要使用自动回复吗？","USE_AUTO_RECOVER_ASK_0","机翻辅助：
 
 ＞要使用自动治疗吗？
 
@@ -193,15 +193,14 @@
 "AUTO_RECOVER_SEL_1","不使用","AUTO_RECOVER_SEL_1","机翻辅助：
 
 不使用"
-"AUTO_RECOVER_NOT_USE_MSG_0","＞没有进行回复。","AUTO_RECOVER_NOT_USE_MSG_0","机翻辅助：
+"AUTO_RECOVER_NOT_USE_MSG_0","＞自动回复未执行。","AUTO_RECOVER_NOT_USE_MSG_0","机翻辅助：
 
 ＞没有进行回复。
 
 ＞没有恢复
 
 ＞未恢复"
-"AUTO_RECOVER_NOT_USE_MSG_2_0","＞现在体力正在减少
-　角色不存在。","AUTO_RECOVER_NOT_USE_MSG_2_0","机翻辅助：
+"AUTO_RECOVER_NOT_USE_MSG_2_0","＞目前不存在体力不足的角色。","AUTO_RECOVER_NOT_USE_MSG_2_0","机翻辅助：
 
 ＞现在体力正在减少
 　角色不存在。
@@ -211,8 +210,8 @@
 
 ＞现在，体力正在减少
 　没有角色。"
-"AUTO_RECOVER_NOT_USE_MSG_3_0","＞SP不足
-　无法回复。","AUTO_RECOVER_NOT_USE_MSG_3_0","机翻辅助：
+"AUTO_RECOVER_NOT_USE_MSG_3_0","＞所余SP不足，
+　无法使用回复技能。","AUTO_RECOVER_NOT_USE_MSG_3_0","机翻辅助：
 
 ＞SP不足
 　无法回复。
@@ -222,8 +221,8 @@
 
 ＞存储处理器不足
 　无法恢复。"
-"AUTO_RECOVER_NOT_USE_MSG_4_0","＞队伍中没有
-　能够使用回复技能的成员。","AUTO_RECOVER_NOT_USE_MSG_4_0","机翻辅助：
+"AUTO_RECOVER_NOT_USE_MSG_4_0","＞能使用回复技能的角色
+　不在队伍中。","AUTO_RECOVER_NOT_USE_MSG_4_0","机翻辅助：
 
 ＞队伍中没有
 　能够使用回复技能的成员。
@@ -233,9 +232,9 @@
 
 ＞
 　聚会上没有使用恢复技能的成员。"
-"MSG_TUTORIAL_OTAKARA_GET_0","“
-果然只要调查这里就能得到宝物。”
-“不过，也有敌人的气息……”这样的事件。","MSG_TUTORIAL_OTAKARA_GET_0","机翻辅助：
+"MSG_TUTORIAL_OTAKARA_GET_0","“果然，如果在这里调查的话
+就能找到宝物。”
+“但是，这里也存在敌人气息的说……”","MSG_TUTORIAL_OTAKARA_GET_0","机翻辅助：
 
 “
 果然只要调查这里就能得到宝物。”
@@ -247,8 +246,8 @@
 
 “果然，只要调查这里就能得到宝藏。”
 “但是也感觉到敌人的气息……”的活动"
-"MSG_TUTORIAL_POWERSPOT_1_0","在“宝物地点”[颜色 03]可以[颜色 01]获得各种各样的
-道具。","MSG_TUTORIAL_POWERSPOT_1_0","机翻辅助：
+"MSG_TUTORIAL_POWERSPOT_1_0","在“藏宝地点”里有可能获取[颜色 03]
+各式各样的道具[颜色 01]。","MSG_TUTORIAL_POWERSPOT_1_0","机翻辅助：
 
 在“宝物地点”[颜色 03]可以[颜色 01]获得各种各样的
 道具。
@@ -257,8 +256,8 @@
 。
 
 在“宝藏地点”[颜色 03]可以得到各种各样的物品[颜色 01]。"
-"MSG_TUTORIAL_POWERSPOT_2_0","在最初的选项
-[颜色 03]选择“专心采集”[颜色 01]的话，","MSG_TUTORIAL_POWERSPOT_2_0","机翻辅助：
+"MSG_TUTORIAL_POWERSPOT_2_0","在第一个选项中选择
+[颜色 03]“专心采集”[颜色 01]的话，","MSG_TUTORIAL_POWERSPOT_2_0","机翻辅助：
 
 在最初的选项
 [颜色 03]选择“专心采集”[颜色 01]的话，
@@ -268,8 +267,8 @@
 
 第一个选项选择
 [颜色 03]“专注于采集”[颜色 01]"
-"MSG_TUTORIAL_POWERSPOT_2_1","[颜色 03]最多可以得到5个[颜色 01]道具
-稀有道具出现的概率也变高。","MSG_TUTORIAL_POWERSPOT_2_1","机翻辅助：
+"MSG_TUTORIAL_POWERSPOT_2_1","能够获得[颜色 03]最多5个[颜色 01]道具，
+同时会提高出现稀有道具的几率。","MSG_TUTORIAL_POWERSPOT_2_1","机翻辅助：
 
 [颜色 03]最多可以得到5个[颜色 01]道具
 稀有道具出现的概率也变高。
@@ -279,15 +278,15 @@
 
 [颜色 03]最多可以得到5个[颜色 01]
 稀有物品出现的概率也会变高"
-"MSG_TUTORIAL_POWERSPOT_2_2","战斗发生的危险度也会提高。","MSG_TUTORIAL_POWERSPOT_2_2","机翻辅助：
+"MSG_TUTORIAL_POWERSPOT_2_2","当然，发生战斗的危险性也会增加。","MSG_TUTORIAL_POWERSPOT_2_2","机翻辅助：
 
 战斗发生的危险度也会提高。
 
 发生战斗的危险度也会变高。
 
 发生战斗的危险度也变高。"
-"MSG_TUTORIAL_POWERSPOT_3_0","在最初的选项
-[颜色 03]选择“提高警觉寻找”[颜色 01]的话，","MSG_TUTORIAL_POWERSPOT_3_0","机翻辅助：
+"MSG_TUTORIAL_POWERSPOT_3_0","在第一个选项中选择
+[颜色 03]“谨慎探索”[颜色 01]的话，","MSG_TUTORIAL_POWERSPOT_3_0","机翻辅助：
 
 在最初的选项
 [颜色 03]选择“提高警觉寻找”[颜色 01]的话，
@@ -297,8 +296,8 @@
 
 在第一个选项中选择
 [颜色 03]“警惕地寻找”[颜色 01]的话，"
-"MSG_TUTORIAL_POWERSPOT_3_1","[颜色 03][颜色 01]虽然只能
-获得最多3个道具，但发生战斗的危险度较低。","MSG_TUTORIAL_POWERSPOT_3_1","机翻辅助：
+"MSG_TUTORIAL_POWERSPOT_3_1","能够获得[颜色 03]最多3个[颜色 01]道具，
+此时发生战斗的危险性较低。","MSG_TUTORIAL_POWERSPOT_3_1","机翻辅助：
 
 [颜色 03][颜色 01]虽然只能
 获得最多3个道具，但发生战斗的危险度较低。
@@ -308,13 +307,11 @@
 
 [颜色 03]最多只能得到3个[颜色 01]
 战斗发生的危险度变低。"
-"MSG_TUTORIAL_POWERSPOT_4_0","分别得到次数有限制
-[颜色 03]一次从迷宫出来[颜色 01]和
-一部分的“宝物地点”
-[颜色 03]再次，成为能得到道具[颜色 01]。
-
-有效利用“宝藏地点”
-不断得到道具吧。","MSG_TUTORIAL_POWERSPOT_4_0","机翻辅助：
+"MSG_TUTORIAL_POWERSPOT_4_0","在这里获取道具的次数是有限的，
+[颜色 03]但只要离开迷宫[颜色 01]，一部分“藏宝地点”会刷新，
+[颜色 03]可以再次从中获取道具[颜色 01]。
+　
+灵活利用“藏宝地点”的特点，不断地获得道具吧。","MSG_TUTORIAL_POWERSPOT_4_0","机翻辅助：
 
 分别得到次数有限制
 [颜色 03]一次从迷宫出来[颜色 01]和
@@ -339,8 +336,8 @@
 可以再次得到道具
 。
 有效利用“宝物景点”不断地得到物品吧。"
-"MSG_TUTORIAL_OTAKARA_GET_2_0","“取得不少道具呢！
-这个真好吃，今后也来调查看看吧。","MSG_TUTORIAL_OTAKARA_GET_2_0","机翻辅助：
+"MSG_TUTORIAL_OTAKARA_GET_2_0","“成果相当不错嘛！
+真是令人愉悦。今后看到也调查一下吧。","MSG_TUTORIAL_OTAKARA_GET_2_0","机翻辅助：
 
 “取得不少道具呢！
 这个真好吃，今后也来调查看看吧。
@@ -350,9 +347,8 @@
 
 “捕获了不少啊！
 这个很好吃。今后也调查看看吧。"
-"MSG_TUTORIAL_OTAKARA_GET_2_1","不过
-有可能会遭遇敌人，要小心哦。”
-这样的事件。","MSG_TUTORIAL_OTAKARA_GET_2_1","机翻辅助：
+"MSG_TUTORIAL_OTAKARA_GET_2_1","当然，也要考虑到会
+遭遇敌人的可能性。","MSG_TUTORIAL_OTAKARA_GET_2_1","机翻辅助：
 
 不过
 有可能会遭遇敌人，要小心哦。”
@@ -365,9 +361,8 @@
 但是，和敌人有遭遇的可能性，所以要小心。
 
 的活动"
-"MSG_TUTORIAL_OTAKARA_BAG_0","“
-好像有很多道具，我之后再来。”
-这样的事件。","MSG_TUTORIAL_OTAKARA_BAG_0","机翻辅助：
+"MSG_TUTORIAL_OTAKARA_BAG_0","“携带道具已达上限，
+看来要先回去一趟再过来这边了”","MSG_TUTORIAL_OTAKARA_BAG_0","机翻辅助：
 
 “
 好像有很多道具，我之后再来。”
@@ -380,8 +375,8 @@
 “项目
 好像很多，重新开始吧”
 这样的活动"
-"MSG_TUTORIAL_QUEST_MAP_0_0","以及作为任务进入迷宫后
-[颜色 03]只有该任务无法通行的通道[颜色 01]等等。","MSG_TUTORIAL_QUEST_MAP_0_0","机翻辅助：
+"MSG_TUTORIAL_QUEST_MAP_0_0","为执行任务而进入迷宫的话，
+[颜色 03]此时迷宫中会存在一些无法通行的区域[颜色 01]，","MSG_TUTORIAL_QUEST_MAP_0_0","机翻辅助：
 
 以及作为任务进入迷宫后
 [颜色 03]只有该任务无法通行的通道[颜色 01]等等。
@@ -391,8 +386,7 @@
 
 作为任务进入迷宫的话
 [颜色 03]只有那个任务不能进行的通道[颜色 01]等等"
-"MSG_TUTORIAL_QUEST_MAP_0_1","[颜色 03]MAP有时会发生变化[颜色 01]。
-新出现无法通行的路线","MSG_TUTORIAL_QUEST_MAP_0_1","机翻辅助：
+"MSG_TUTORIAL_QUEST_MAP_0_1","其中新增的无法通行的区域，会通过[颜色 03]地图变化[颜色 01]来注明。","MSG_TUTORIAL_QUEST_MAP_0_1","机翻辅助：
 
 [颜色 03]MAP有时会发生变化[颜色 01]。
 新出现无法通行的路线
@@ -401,8 +395,8 @@
 新的无法进行的路线是
 
 [颜色 03]MAP可能会发生变化。[颜色 01]新无法进行的路线"
-"MSG_TUTORIAL_QUEST_MAP_1_0","在下画面会以[颜色 03]红色涂黑[颜色 01]以及
-[颜色 03]专用图标[颜色 01]来显示。","MSG_TUTORIAL_QUEST_MAP_1_0","机翻辅助：
+"MSG_TUTORIAL_QUEST_MAP_1_0","也就是在下屏幕中以[颜色 03]红色图块[颜色 01]和
+[颜色 03]专用图标[颜色 01]来进行表示。","MSG_TUTORIAL_QUEST_MAP_1_0","机翻辅助：
 
 在下画面会以[颜色 03]红色涂黑[颜色 01]以及
 [颜色 03]专用图标[颜色 01]来显示。
@@ -412,8 +406,8 @@
 
 在下面的屏幕上显示[颜色 03][颜色 01]
 红色填充[颜色 03][颜色 01]专用图标。"
-"MSG_TUTORIAL_QUEST_MAP_1_1","以任务探索迷宫时
-请仔细确认下画面，小心前进。","MSG_TUTORIAL_QUEST_MAP_1_1","机翻辅助：
+"MSG_TUTORIAL_QUEST_MAP_1_1","在为执行任务而探索迷宫的时候，
+请仔细观察下屏幕，谨慎地前进吧。","MSG_TUTORIAL_QUEST_MAP_1_1","机翻辅助：
 
 以任务探索迷宫时
 请仔细确认下画面，小心前进。
@@ -422,8 +416,8 @@
 好好确认下画面，注意前进吧。
 
 作为任务探索迷宫的时候仔细确认下画面，注意前进吧。"
-"MSG_TUTORIAL_QUEST_MAP_2_0","另外在任务中
-[颜色 03]下画面会显示“Quest”面板[颜色 01]。","MSG_TUTORIAL_QUEST_MAP_2_0","机翻辅助：
+"MSG_TUTORIAL_QUEST_MAP_2_0","此外，在任务中，下屏幕会出现
+[颜色 03]“Quest”工具栏[颜色 01]。","MSG_TUTORIAL_QUEST_MAP_2_0","机翻辅助：
 
 另外在任务中
 [颜色 03]下画面会显示“Quest”面板[颜色 01]。
@@ -433,8 +427,8 @@
 
 另外，任务中在下画面显示
 [颜色 03]“Quest”调色板[颜色 01]。"
-"MSG_TUTORIAL_QUEST_MAP_2_1","收纳在这面板中的图标
-[颜色 03]只有在任务中才能配置[颜色 01]。","MSG_TUTORIAL_QUEST_MAP_2_1","机翻辅助：
+"MSG_TUTORIAL_QUEST_MAP_2_1","在这个工具栏中可对图标进行配置，
+[颜色 03]但仅限于在此任务中使用[颜色 01]。","MSG_TUTORIAL_QUEST_MAP_2_1","机翻辅助：
 
 收纳在这面板中的图标
 [颜色 03]只有在任务中才能配置[颜色 01]。
@@ -444,8 +438,8 @@
 
 保存在这个调色板上的图标
 [颜色 03]只有在任务中才能配置[颜色 01]"
-"MSG_TUTORIAL_QUEST_MAP_2_2","[颜色 03]对于只有在库斯克尔发生的事件[颜色 01]等等，
-可以用来做记号。       ","MSG_TUTORIAL_QUEST_MAP_2_2","机翻辅助：
+"MSG_TUTORIAL_QUEST_MAP_2_2","把[颜色 03]任务中的限定事件等[颜色 01]
+做上标记，能有效推进任务进度。","MSG_TUTORIAL_QUEST_MAP_2_2","机翻辅助：
 
 [颜色 03]对于只有在库斯克尔发生的事件[颜色 01]等等，
 可以用来做记号。       
@@ -454,8 +448,8 @@
 标记是有效的。       
 
 [颜色 03]只在XERT中发生的事件等[颜色 01]做记号是有效的。"
-"MSG_TUTORIAL_QUEST_MAP_2_3","请活用“Quest”面板
-以完成任务为目标吧。","MSG_TUTORIAL_QUEST_MAP_2_3","机翻辅助：
+"MSG_TUTORIAL_QUEST_MAP_2_3","利用好“Quest”工具栏，
+以完美执行任务为目标而前进吧。","MSG_TUTORIAL_QUEST_MAP_2_3","机翻辅助：
 
 请活用“Quest”面板
 以完成任务为目标吧。
@@ -465,16 +459,16 @@
 
 熟练使用“Quest”调色板
 以完成任务为目标。"
-"MSG_TUTORIAL_QUEST_TREAS_0","迷宫内有[颜色 03]只在特定任务期间
-出现的宝箱[颜色 01]。","MSG_TUTORIAL_QUEST_TREAS_0","机翻辅助：
+"MSG_TUTORIAL_QUEST_TREAS_0","迷宫内存在[颜色 03]仅在特定任务中才会出现的宝箱[颜色 01]。","MSG_TUTORIAL_QUEST_TREAS_0","机翻辅助：
 
 迷宫内有[颜色 03]只在特定任务期间
 出现的宝箱[颜色 01]。
 
 迷宫内有只在特定任务之间出现的宝箱[颜色 03]。
 [颜色 01]"
-"MSG_TUTORIAL_QUEST_TREAS_1","里面有[颜色 03]对探索有用的物品[颜色 01]
-，不要错过，入手吧。","MSG_TUTORIAL_QUEST_TREAS_1","机翻辅助：
+"MSG_TUTORIAL_QUEST_TREAS_1","宝箱里有[颜色 03]有助于探索迷宫的道具[颜色 01]，
+既然如此，不要错过他们，努力去
+获取这些道具吧。","MSG_TUTORIAL_QUEST_TREAS_1","机翻辅助：
 
 里面有[颜色 03]对探索有用的物品[颜色 01]
 ，不要错过，入手吧。
@@ -483,8 +477,8 @@
 ，所以不要错过。
 
 里面装有[颜色 03]对探索有帮助的道具[颜色 01]，不要错过，快去拿吧。"
-"MSG_FUTABA_IP_BTL_MSG_1_0","是“割草者”……
-不妙的家伙要来了……！！","MSG_FUTABA_IP_BTL_MSG_1_0","机翻辅助：
+"MSG_FUTABA_IP_BTL_MSG_1_0","是“猎杀者”啊……
+糟糕的家伙要过来了……！！","MSG_FUTABA_IP_BTL_MSG_1_0","机翻辅助：
 
 是“割草者”……
 不妙的家伙要来了……！！
@@ -494,22 +488,22 @@
 
 是“收割的东西”……
 危险的东西要来了……！！"
-"MSG_FUTABA_IP_BTL_MSG_2_0","这股气息……是“割草者”！！","MSG_FUTABA_IP_BTL_MSG_2_0","机翻辅助：
+"MSG_FUTABA_IP_BTL_MSG_2_0","这股气息……是“猎杀者”！！","MSG_FUTABA_IP_BTL_MSG_2_0","机翻辅助：
 
 这股气息……是“割草者”！！
 
 这个样子……是“收割的东西”！！
 
 这气息……是“收割的东西”！！"
-"MSG_FUTABA_IP_BTL_MSG_3_0","不妙的家伙要来了！快做准备！","MSG_FUTABA_IP_BTL_MSG_3_0","机翻辅助：
+"MSG_FUTABA_IP_BTL_MSG_3_0","危险要降临了！快考虑对策！","MSG_FUTABA_IP_BTL_MSG_3_0","机翻辅助：
 
 不妙的家伙要来了！快做准备！
 
 危险的来了！赶紧处理！
 
 危险的东西来了！赶紧应对！"
-"MSG_FUKA_IP_BTL_MSG_1_0","“割草者”的反应！
-请小心！","MSG_FUKA_IP_BTL_MSG_1_0","机翻辅助：
+"MSG_FUKA_IP_BTL_MSG_1_0","是“猎杀者”的反应！
+请万分小心！","MSG_FUKA_IP_BTL_MSG_1_0","机翻辅助：
 
 “割草者”的反应！
 请小心！
@@ -518,8 +512,8 @@
 请注意！
 
 “收割者”的反应！请注意安全！"
-"MSG_FUKA_IP_BTL_MSG_2_0","“割草者”正在接近！
-小心！","MSG_FUKA_IP_BTL_MSG_2_0","机翻辅助：
+"MSG_FUKA_IP_BTL_MSG_2_0","“猎杀者”正在靠近我们！
+请注意！","MSG_FUKA_IP_BTL_MSG_2_0","机翻辅助：
 
 “割草者”正在接近！
 小心！
@@ -529,7 +523,7 @@
 
 “收割的东西”接近！
 注意！"
-"MSG_FUKA_IP_BTL_MSG_3_0","这反应是……“割草者”！
+"MSG_FUKA_IP_BTL_MSG_3_0","这个反应是……“猎杀者”！
 小心！","MSG_FUKA_IP_BTL_MSG_3_0","机翻辅助：
 
 这反应是……“割草者”！
@@ -540,8 +534,8 @@
 
 这个反应……是“收割的东西”！
 小心！"
-"MSG_RISE_IP_BTL_MSG_1_0","糟糕，是“割草者”的气息！
-小心！","MSG_RISE_IP_BTL_MSG_1_0","机翻辅助：
+"MSG_RISE_IP_BTL_MSG_1_0","不好，是“猎杀者”的气息！
+大家小心！","MSG_RISE_IP_BTL_MSG_1_0","机翻辅助：
 
 糟糕，是“割草者”的气息！
 小心！
@@ -551,8 +545,8 @@ yaba，“收割的东西”的气息！
 
 糟糕，“收割的东西”的气息！
 小心！"
-"MSG_RISE_IP_BTL_MSG_2_0","察觉到“割草者”的气息！
-小心！","MSG_RISE_IP_BTL_MSG_2_0","机翻辅助：
+"MSG_RISE_IP_BTL_MSG_2_0","探察到了“猎杀者”的气息！
+请注意！","MSG_RISE_IP_BTL_MSG_2_0","机翻辅助：
 
 察觉到“割草者”的气息！
 小心！
@@ -562,8 +556,8 @@ yaba，“收割的东西”的气息！
 
 察觉“收割的东西”的气息！
 注意！"
-"MSG_RISE_IP_BTL_MSG_3_0","“割草者”的反应！
-要来了！","MSG_RISE_IP_BTL_MSG_3_0","机翻辅助：
+"MSG_RISE_IP_BTL_MSG_3_0","是“猎杀者”的反应！
+它要过来了！","MSG_RISE_IP_BTL_MSG_3_0","机翻辅助：
 
 “割草者”的反应！
 要来了！
@@ -573,8 +567,8 @@ yaba，“收割的东西”的气息！
 
 “收割者”的反应！
 会来的！"
-"MSG_JUSTINE_IP_BTL_MSG_1_0","“割草者”要来了。
-请小心。","MSG_JUSTINE_IP_BTL_MSG_1_0","机翻辅助：
+"MSG_JUSTINE_IP_BTL_MSG_1_0","“猎杀者”过来了。
+请注意。","MSG_JUSTINE_IP_BTL_MSG_1_0","机翻辅助：
 
 “割草者”要来了。
 请小心。
@@ -583,8 +577,8 @@ yaba，“收割的东西”的气息！
 请注意。
 
 “要收割的东西”来了。请注意。"
-"MSG_JUSTINE_IP_BTL_MSG_2_0","请小心，
-是“割草者”。","MSG_JUSTINE_IP_BTL_MSG_2_0","机翻辅助：
+"MSG_JUSTINE_IP_BTL_MSG_2_0","请注意，
+是“猎杀者”。","MSG_JUSTINE_IP_BTL_MSG_2_0","机翻辅助：
 
 请小心，
 是“割草者”。
@@ -594,8 +588,8 @@ yaba，“收割的东西”的气息！
 
 请注意，
 是“收割的东西”。"
-"MSG_JUSTINE_IP_BTL_MSG_3_0","“割草者”……
-请小心。","MSG_JUSTINE_IP_BTL_MSG_3_0","机翻辅助：
+"MSG_JUSTINE_IP_BTL_MSG_3_0","“猎杀者”……
+要小心啊。","MSG_JUSTINE_IP_BTL_MSG_3_0","机翻辅助：
 
 “割草者”……
 请小心。
@@ -604,7 +598,7 @@ yaba，“收割的东西”的气息！
 要注意。
 
 “收割的东西”……是要注意的事情。"
-"MSG_CAROLIN_IP_BTL_MSG_1_0","“割草者”近了！","MSG_CAROLIN_IP_BTL_MSG_1_0","机翻辅助：
+"MSG_CAROLIN_IP_BTL_MSG_1_0","“猎杀者”就在附近！","MSG_CAROLIN_IP_BTL_MSG_1_0","机翻辅助：
 
 “割草者”近了！
 
@@ -612,7 +606,7 @@ yaba，“收割的东西”的气息！
 
 “收割的东西”快到了！"
 "MSG_CAROLIN_IP_BTL_MSG_2_0","小心！
-是“割草者”啊！","MSG_CAROLIN_IP_BTL_MSG_2_0","机翻辅助：
+这是“猎杀者”！","MSG_CAROLIN_IP_BTL_MSG_2_0","机翻辅助：
 
 小心！
 是“割草者”啊！
@@ -622,8 +616,8 @@ yaba，“收割的东西”的气息！
 
 小心点！
 是“收割的东西”哦！"
-"MSG_CAROLIN_IP_BTL_MSG_3_0","这声音……
-是“割草者”啊！","MSG_CAROLIN_IP_BTL_MSG_3_0","机翻辅助：
+"MSG_CAROLIN_IP_BTL_MSG_3_0","这个声音……
+是“猎杀者”！","MSG_CAROLIN_IP_BTL_MSG_3_0","机翻辅助：
 
 这声音……
 是“割草者”啊！
@@ -633,16 +627,16 @@ yaba，“收割的东西”的气息！
 
 这个声音……
 是“收割的东西”哦！"
-"MSG_ELIZABETH_IP_BTL_MSG_0","“割草者”
-登场～","MSG_ELIZABETH_IP_BTL_MSG_0","机翻辅助：
+"MSG_ELIZABETH_IP_BTL_MSG_0","“猎杀者”，
+闪亮登场了哦。","MSG_ELIZABETH_IP_BTL_MSG_0","机翻辅助：
 
 “割草者”
 登场～
 
 “收割的东西”，
 登场～"
-"MSG_ELIZABETH_IP_BTL_MSG_2_0","被呼唤出来的是
-“割草者”。","MSG_ELIZABETH_IP_BTL_MSG_2_0","机翻辅助：
+"MSG_ELIZABETH_IP_BTL_MSG_2_0","一旦被提及就会立刻闪现到眼前的，
+正是“猎杀者”呢。","MSG_ELIZABETH_IP_BTL_MSG_2_0","机翻辅助：
 
 被呼唤出来的是
 “割草者”。
@@ -652,8 +646,8 @@ yaba，“收割的东西”的气息！
 
 被叫出去，
 “收割的东西”。"
-"MSG_ELIZABETH_IP_BTL_MSG_3_0","这声音……
-看来是“割草者”。","MSG_ELIZABETH_IP_BTL_MSG_3_0","机翻辅助：
+"MSG_ELIZABETH_IP_BTL_MSG_3_0","是这个声音没错……
+看来是“猎杀者”呢。","MSG_ELIZABETH_IP_BTL_MSG_3_0","机翻辅助：
 
 这声音……
 看来是“割草者”。
@@ -662,8 +656,8 @@ yaba，“收割的东西”的气息！
 可以看到“收割的东西”。
 
 正是这个声音……被看作是“收割的东西”。"
-"MSG_THEODOR_IP_BTL_MSG_1_0","请小心，
-是“割草者”！","MSG_THEODOR_IP_BTL_MSG_1_0","机翻辅助：
+"MSG_THEODOR_IP_BTL_MSG_1_0","请万分小心，
+是“猎杀者”！","MSG_THEODOR_IP_BTL_MSG_1_0","机翻辅助：
 
 请小心，
 是“割草者”！
@@ -673,8 +667,8 @@ yaba，“收割的东西”的气息！
 
 请注意，
 “收割的东西”！"
-"MSG_THEODOR_IP_BTL_MSG_2_0","“割草者”要来了。
-请小心！","MSG_THEODOR_IP_BTL_MSG_2_0","机翻辅助：
+"MSG_THEODOR_IP_BTL_MSG_2_0","“猎杀者”要过来了。
+请务必注意！","MSG_THEODOR_IP_BTL_MSG_2_0","机翻辅助：
 
 “割草者”要来了。
 请小心！
@@ -685,7 +679,7 @@ yaba，“收割的东西”的气息！
 “收割的东西”来了。
 请注意！"
 "MSG_THEODOR_IP_BTL_MSG_3_0","这股气息……
-是“割草者”！","MSG_THEODOR_IP_BTL_MSG_3_0","机翻辅助：
+是“猎杀者”！","MSG_THEODOR_IP_BTL_MSG_3_0","机翻辅助：
 
 这股气息……
 是“割草者”！
@@ -695,8 +689,8 @@ yaba，“收割的东西”的气息！
 
 这气息……
 是“收割的东西”！"
-"MSG_MARGARET_IP_BTL_MSG__0","有“收割者”的气息！
-小心！","MSG_MARGARET_IP_BTL_MSG__0","机翻辅助：
+"MSG_MARGARET_IP_BTL_MSG__0","是“猎杀者”的气息！
+快警戒周围！","MSG_MARGARET_IP_BTL_MSG__0","机翻辅助：
 
 有“收割者”的气息！
 小心！
@@ -706,8 +700,8 @@ yaba，“收割的东西”的气息！
 
 “收割之物”的气息啊！
 提高警惕！"
-"MSG_MARGARET_IP_BTL_MSG__2_0","强力的敌人正在接近。
-请注意。","MSG_MARGARET_IP_BTL_MSG__2_0","机翻辅助：
+"MSG_MARGARET_IP_BTL_MSG__2_0","似乎有强大的敌人正在接近我们。
+请务必注意。","MSG_MARGARET_IP_BTL_MSG__2_0","机翻辅助：
 
 强力的敌人正在接近。
 请注意。
@@ -716,22 +710,22 @@ yaba，“收割的东西”的气息！
 请注意。
 
 强大的敌人正在靠近呢。请注意。"
-"MSG_MARGARET_IP_BTL_MSG__3_0","“收割者”好像很接近，小心一点。","MSG_MARGARET_IP_BTL_MSG__3_0","机翻辅助：
+"MSG_MARGARET_IP_BTL_MSG__3_0","“猎杀者”似乎就在附近，要谨慎行事。","MSG_MARGARET_IP_BTL_MSG__3_0","机翻辅助：
 
 “收割者”好像很接近，小心一点。
 
 “收割的东西”好像很近，请警戒。
 
 “要收割的东西”快到了，警惕一下。"
-"MSG_NANAKO_IP_BTL_MSG_1_0","是“收割者”耶！","MSG_NANAKO_IP_BTL_MSG_1_0","机翻辅助：
+"MSG_NANAKO_IP_BTL_MSG_1_0","那不是“猎杀者”吗！","MSG_NANAKO_IP_BTL_MSG_1_0","机翻辅助：
 
 是“收割者”耶！
 
 “收割的东西”，因为！
 
 说是“收割的东西”！"
-"MSG_NANAKO_IP_BTL_MSG_2_0","是“收割者”！
-好像要来了！","MSG_NANAKO_IP_BTL_MSG_2_0","机翻辅助：
+"MSG_NANAKO_IP_BTL_MSG_2_0","是“猎杀者”啊！
+它好像过来了呀！","MSG_NANAKO_IP_BTL_MSG_2_0","机翻辅助：
 
 是“收割者”！
 好像要来了！
@@ -741,8 +735,8 @@ yaba，“收割的东西”的气息！
 
 是“收割的东西”！
 是核桃型的哟！"
-"MSG_NANAKO_IP_BTL_MSG_3_0","糟糕了。
-“收割者”要来了！","MSG_NANAKO_IP_BTL_MSG_3_0","机翻辅助：
+"MSG_NANAKO_IP_BTL_MSG_3_0","很危险呀。
+“猎杀者”，要过来了！","MSG_NANAKO_IP_BTL_MSG_3_0","机翻辅助：
 
 糟糕了。
 “收割者”要来了！
@@ -753,7 +747,7 @@ yaba，“收割的东西”的气息！
 糟了。
 “收割的东西”，来了！"
 "MSG_foe_exist_move_short_0","喂、喂！
-捷径前面有F.O.E耶！","MSG_foe_exist_move_short_0","机翻辅助：
+这个捷径的后面有F.O.E！","MSG_foe_exist_move_short_0","机翻辅助：
 
 喂、喂！
 捷径前面有F.O.E耶！
@@ -763,7 +757,7 @@ yaba，“收割的东西”的气息！
 
 喂、喂！
 短发的前头有F.O.E哟！"
-"MSG_foe_exist_move_short_1","现在不要过去！","MSG_foe_exist_move_short_1","机翻辅助：
+"MSG_foe_exist_move_short_1","暂时不要从这里通过，快停下！","MSG_foe_exist_move_short_1","机翻辅助：
 
 现在不要过去！
 
@@ -771,7 +765,7 @@ yaba，“收割的东西”的气息！
 
 现在停下来吧！"
 "MSG_foe_exist_move_short_2_0","喂、喂！
-捷径前面有F.O.E耶！","MSG_foe_exist_move_short_2_0","机翻辅助：
+这条近路的前方有F.O.E！","MSG_foe_exist_move_short_2_0","机翻辅助：
 
 喂、喂！
 捷径前面有F.O.E耶！
@@ -781,7 +775,7 @@ yaba，“收割的东西”的气息！
 
 喂、喂！
 短发的前头有F.O.E哟！"
-"MSG_foe_exist_move_short_2_1","现在不要过去！","MSG_foe_exist_move_short_2_1","机翻辅助：
+"MSG_foe_exist_move_short_2_1","现在不要从这里经过，快停下！","MSG_foe_exist_move_short_2_1","机翻辅助：
 
 现在不要过去！
 
@@ -789,7 +783,7 @@ yaba，“收割的东西”的气息！
 
 现在停下来吧！"
 "MSG_foe_exist_move_short_3_0","等一下！
-前面有F.O.E！","MSG_foe_exist_move_short_3_0","机翻辅助：
+在前方有F.O.E！","MSG_foe_exist_move_short_3_0","机翻辅助：
 
 等一下！
 前面有F.O.E！
@@ -807,15 +801,15 @@ yaba，“收割的东西”的气息！
 
 我觉得现在还是不要通过比较好！"
 "MSG_foe_exist_move_short_4_0","请等一下！
-前面有F.O.E！","MSG_foe_exist_move_short_4_0","机翻辅助：
+那边有F.O.E！","MSG_foe_exist_move_short_4_0","机翻辅助：
 
 请等一下！
 前面有F.O.E！
 
 请等一下！
-那前面有F.O.E ！"
-"MSG_foe_exist_move_short_4_1","等F.O.E走了
-再过去吧！","MSG_foe_exist_move_short_4_1","机翻辅助：
+那前面有F.O.E！"
+"MSG_foe_exist_move_short_4_1","等F.O.E不在那边了，
+我们再一起过去吧！","MSG_foe_exist_move_short_4_1","机翻辅助：
 
 等F.O.E走了
 再过去吧！
@@ -824,8 +818,8 @@ yaba，“收割的东西”的气息！
 
 
 F.O.E不在了再通过吧！"
-"MSG_GET_TRESURE_MAP_0","＞地图显示出隐藏在这部电影
-　[颜色 03]“宝物所在处”[颜色 01]。","MSG_GET_TRESURE_MAP_0","机翻辅助：
+"MSG_GET_TRESURE_MAP_0","＞地图上被隐藏的这部电影的
+　[颜色 03]“秘宝所在地”[颜色 01]显现出来了。","MSG_GET_TRESURE_MAP_0","机翻辅助：
 
 ＞地图显示出隐藏在这部电影
 　[颜色 03]“宝物所在处”[颜色 01]。

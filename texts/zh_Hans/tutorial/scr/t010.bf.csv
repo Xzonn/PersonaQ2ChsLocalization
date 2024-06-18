@@ -1,6 +1,5 @@
 "source","target","id","developer_comments"
-"MSG_TUTORIAL_QUEST_TREAS_0","迷宫内有[颜色 03]只有在特定的特别上映期间
-才会出现的宝箱[颜色 01]。","MSG_TUTORIAL_QUEST_TREAS_0","机翻辅助：
+"MSG_TUTORIAL_QUEST_TREAS_0","在迷宫内[颜色 03]有仅在特定的特别上映期间出现的宝箱[颜色 01]。","MSG_TUTORIAL_QUEST_TREAS_0","机翻辅助：
 
 迷宫内有[颜色 03]只有在特定的特别上映期间
 才会出现的宝箱[颜色 01]。
@@ -9,9 +8,13 @@
 在特定的特别放映期间[颜色 01]，迷宫内会出现宝箱。
 
 迷宫内有只在特定的特别放映期间出现的宝箱[颜色 03]。
-[颜色 01]"
-"MSG_TUTORIAL_QUEST_TREAS_1","里面有[颜色 03]有助于探索的物品[颜色 01]等
-所以不要错过，要得到。","MSG_TUTORIAL_QUEST_TREAS_1","机翻辅助：
+[颜色 01]
+
+评论：
+
+需调整控制符"
+"MSG_TUTORIAL_QUEST_TREAS_1","其中有[颜色 03]有用于探索的物品[颜色 01]等，
+因此不要错过，多多收集吧。","MSG_TUTORIAL_QUEST_TREAS_1","机翻辅助：
 
 里面有[颜色 03]有助于探索的物品[颜色 01]等
 所以不要错过，要得到。
@@ -21,8 +24,7 @@
 
 [颜色 03][颜色 01]里面装有
 有助于探索的道具，请不要错过，将其纳入手中吧。"
-"MSG_TUTORIAL_QUEST_TREAS_2","另外，特别上映[颜色 03]在达成目的后
-将无法再度挑战。[颜色 01]","MSG_TUTORIAL_QUEST_TREAS_2","机翻辅助：
+"MSG_TUTORIAL_QUEST_TREAS_2","另外，特别上映[颜色 03]在达成目标后无法再次挑战。[颜色 01]","MSG_TUTORIAL_QUEST_TREAS_2","机翻辅助：
 
 另外，特别上映[颜色 03]在达成目的后
 将无法再度挑战。[颜色 01]
@@ -32,8 +34,8 @@
 
 另外，特别放映是在达到目的后[颜色 03]不能再次挑战。
 [颜色 01]"
-"MSG_TUTORIAL_QUEST_TREAS_3","在达成目的之前
-试着探索迷宫的每个角落吧。","MSG_TUTORIAL_QUEST_TREAS_3","机翻辅助：
+"MSG_TUTORIAL_QUEST_TREAS_3","在实现目标之前，
+彻底地探索迷宫的每一个角落吧。","MSG_TUTORIAL_QUEST_TREAS_3","机翻辅助：
 
 在达成目的之前
 试着探索迷宫的每个角落吧。

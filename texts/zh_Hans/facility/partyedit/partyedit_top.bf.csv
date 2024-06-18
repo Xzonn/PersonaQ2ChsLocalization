@@ -6,8 +6,8 @@ OK
 确定"
 "YESNO_SEL_0","是","YESNO_SEL_0",""
 "YESNO_SEL_1","否","YESNO_SEL_1",""
-"FIRST_LEADER_NOT_EXIST_0","＞在FIRST队伍中
-　没有队长。","FIRST_LEADER_NOT_EXIST_0","机翻辅助：
+"FIRST_LEADER_NOT_EXIST_0","＞FIRST队伍里
+　不存在队长。","FIRST_LEADER_NOT_EXIST_0","机翻辅助：
 
 ＞在FIRST队伍中
 　没有队长。
@@ -16,8 +16,8 @@ OK
 　领导不存在
 
 ＞第一团队中没有领导者。"
-"SECOND_LEADER_NOT_EXIST_0","＞在SECOND队伍中
-　没有队长。","SECOND_LEADER_NOT_EXIST_0","机翻辅助：
+"SECOND_LEADER_NOT_EXIST_0","＞SECOND队伍里
+　不存在队长。","SECOND_LEADER_NOT_EXIST_0","机翻辅助：
 
 ＞在SECOND队伍中
 　没有队长。
@@ -26,8 +26,8 @@ OK
 　不存在领导
 
 ＞SECOND团队中不存在领导"
-"FIRST_NAVI_NOT_EXIST_0","＞在FIRST队伍中
-　没有导航。","FIRST_NAVI_NOT_EXIST_0","机翻辅助：
+"FIRST_NAVI_NOT_EXIST_0","＞FIRST队伍里
+　不存在导航。","FIRST_NAVI_NOT_EXIST_0","机翻辅助：
 
 ＞在FIRST队伍中
 　没有导航。
@@ -36,8 +36,8 @@ OK
 　导航不存在
 
 ＞第一组没有导航系统。"
-"SECOND_NAVI_NOT_EXIST_0","＞在SECOND队伍中
-　没有导航。","SECOND_NAVI_NOT_EXIST_0","机翻辅助：
+"SECOND_NAVI_NOT_EXIST_0","＞SECOND队伍里
+　不存在导航。","SECOND_NAVI_NOT_EXIST_0","机翻辅助：
 
 ＞在SECOND队伍中
 　没有导航。

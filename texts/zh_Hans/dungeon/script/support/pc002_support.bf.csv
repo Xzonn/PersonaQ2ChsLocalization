@@ -2,7 +2,7 @@
 "P3_HERO_FOE_FOLLOW_START_0","被F.O.E发现了！","P3_HERO_FOE_FOLLOW_START_0","机翻辅助：
 
 被F.O.E发现了！"
-"P3_HERO_FOE_FOLLOW_START_2_0","F.O.E追上来了！","P3_HERO_FOE_FOLLOW_START_2_0","机翻辅助：
+"P3_HERO_FOE_FOLLOW_START_2_0","F.O.E追过来了！","P3_HERO_FOE_FOLLOW_START_2_0","机翻辅助：
 
 F.O.E追上来了！
 
@@ -14,24 +14,24 @@ F.O.E在追！"
 糟了……好像被注意到了。
 
 糟了……好像被发现了。"
-"P3_HERO_FOE_NEAR_1_0","F.O.E好像就在附近！","P3_HERO_FOE_NEAR_1_0","机翻辅助：
+"P3_HERO_FOE_NEAR_1_0","附近似乎有F.O.E！","P3_HERO_FOE_NEAR_1_0","机翻辅助：
 
 F.O.E好像就在附近！
 
 F.O.E好像在附近！"
-"P3_HERO_FOE_NEAR_2_0","小心，F.O.E就在旁边！","P3_HERO_FOE_NEAR_2_0","机翻辅助：
+"P3_HERO_FOE_NEAR_2_0","小心，旁边有F.O.E！","P3_HERO_FOE_NEAR_2_0","机翻辅助：
 
 小心，F.O.E就在旁边！
 
 小心，旁边有F.O.E！
 
 小心，F.O.E就在身边！"
-"P3_HERO_FOE_NEAR_3_0","F.O.E就在附近……怎么办？","P3_HERO_FOE_NEAR_3_0","机翻辅助：
+"P3_HERO_FOE_NEAR_3_0","附近有F.O.E……要怎么办？","P3_HERO_FOE_NEAR_3_0","机翻辅助：
 
 F.O.E就在附近……怎么办？
 
 附近有F.O.E……怎么办？"
-"P3_HERO_FOE_FOLLOW_END_1_0","看来是甩掉它了。","P3_HERO_FOE_FOLLOW_END_1_0","机翻辅助：
+"P3_HERO_FOE_FOLLOW_END_1_0","敌人好像撤退了呢。","P3_HERO_FOE_FOLLOW_END_1_0","机翻辅助：
 
 看来是甩掉它了。
 
@@ -39,7 +39,7 @@ F.O.E就在附近……怎么办？
 
 好像撒了。"
 "P3_HERO_FOE_FOLLOW_END_2_0","那个F.O.E，
-好像跑到别的地方去了……","P3_HERO_FOE_FOLLOW_END_2_0","机翻辅助：
+好像去别的地方了……","P3_HERO_FOE_FOLLOW_END_2_0","机翻辅助：
 
 那个F.O.E，
 好像跑到别的地方去了……
@@ -48,45 +48,45 @@ F.O.E就在附近……怎么办？
 好像去了哪里……
 
 那个F.O.E，好像去哪里了……"
-"P3_HERO_FOE_FOLLOW_END_3_0","那个F.O.E，好像放弃了。","P3_HERO_FOE_FOLLOW_END_3_0","机翻辅助：
+"P3_HERO_FOE_FOLLOW_END_3_0","那个F.O.E，似乎放弃了呢。","P3_HERO_FOE_FOLLOW_END_3_0","机翻辅助：
 
 那个F.O.E，好像放弃了。
 
 那个F.O.E，你好像放弃了。"
-"P3_HERO_KANSI_REACTION_1_0","……小心前进，不要被发现。","P3_HERO_KANSI_REACTION_1_0","机翻辅助：
+"P3_HERO_KANSI_REACTION_1_0","……不要被发现了，前进吧。","P3_HERO_KANSI_REACTION_1_0","机翻辅助：
 
 ……小心前进，不要被发现。
 
 ……按照找不到的方向前进吧。
 
 ……为了不被发现而前进吧。"
-"P3_HERO_KANSI_REACTION_2_0","有光啊。小心。","P3_HERO_KANSI_REACTION_2_0","机翻辅助：
+"P3_HERO_KANSI_REACTION_2_0","这里有探照灯。小心一点。","P3_HERO_KANSI_REACTION_2_0","机翻辅助：
 
 有光啊。小心。
 
 有灯哦。小心点。"
-"P3_HERO_KANSI_REACTION_3_0","小心谨慎地前进，不要被发现……","P3_HERO_KANSI_REACTION_3_0","机翻辅助：
+"P3_HERO_KANSI_REACTION_3_0","小心一点不要被发现……","P3_HERO_KANSI_REACTION_3_0","机翻辅助：
 
 小心谨慎地前进，不要被发现……
 
 为了不被发现要慎重……
 
 为了不被发现而慎重……"
-"P3_HERO_DENKISAKU_REACTI_0","得把这电流给关掉……","P3_HERO_DENKISAKU_REACTI_0","机翻辅助：
+"P3_HERO_DENKISAKU_REACTI_0","如果不关闭这个电流的话……","P3_HERO_DENKISAKU_REACTI_0","机翻辅助：
 
 得把这电流给关掉……
 
 不把这个电流关掉的话……
 
 如果不停止这个电流的话……"
-"P3_HERO_DENKISAKU_REACTI_2_0","好危险。先想办法关掉电流吧。","P3_HERO_DENKISAKU_REACTI_2_0","机翻辅助：
+"P3_HERO_DENKISAKU_REACTI_2_0","很危险。先关闭电流吧。","P3_HERO_DENKISAKU_REACTI_2_0","机翻辅助：
 
 好危险。先想办法关掉电流吧。
 
 很危险。首先停止电流吧。
 
 太危险了。首先要切断电流。"
-"P3_HERO_DENKISAKU_REACTI_3_0","先找找看有没有什么方法能关掉电流。","P3_HERO_DENKISAKU_REACTI_3_0","机翻辅助：
+"P3_HERO_DENKISAKU_REACTI_3_0","先找找关闭电流的方法吧。","P3_HERO_DENKISAKU_REACTI_3_0","机翻辅助：
 
 先找找看有没有什么方法能关掉电流。
 
@@ -98,28 +98,28 @@ F.O.E就在附近……怎么办？
 呜哇！？
 
 哇！？"
-"P3_HERO_KYOUHU_REACTION__2_0","哦，哇！？","P3_HERO_KYOUHU_REACTION__2_0","机翻辅助：
+"P3_HERO_KYOUHU_REACTION__2_0","哎呀！？","P3_HERO_KYOUHU_REACTION__2_0","机翻辅助：
 
 哦，哇！？
 
 哦，和！？
 
 啊！？"
-"P3_HERO_KYOUHU_REACTION__3_0","呜──哇──","P3_HERO_KYOUHU_REACTION__3_0","机翻辅助：
+"P3_HERO_KYOUHU_REACTION__3_0","呜——哇——","P3_HERO_KYOUHU_REACTION__3_0","机翻辅助：
 
 呜──哇──
 
 哇——
 
 哇哇"
-"P3_HERO_STAIR_FIND_1_0","从那里好像能去下一个区域。","P3_HERO_STAIR_FIND_1_0","机翻辅助：
+"P3_HERO_STAIR_FIND_1_0","似乎可以从那里前往下一个区域呢。","P3_HERO_STAIR_FIND_1_0","机翻辅助：
 
 从那里好像能去下一个区域。
 
 好像从那里进入下一个区域。
 
 从那里好像可以进入下一个区域。"
-"P3_HERO_STAIR_FIND_2_0","能继续前进了……要去看看吗？","P3_HERO_STAIR_FIND_2_0","机翻辅助：
+"P3_HERO_STAIR_FIND_2_0","看起来可以继续前进了……要去试试吗？","P3_HERO_STAIR_FIND_2_0","机翻辅助：
 
 能继续前进了……要去看看吗？
 
@@ -131,159 +131,159 @@ F.O.E就在附近……怎么办？
 下一个区域吗……做好万全的准备吧。
 
 下一个区域吗……准备万无一失吧。"
-"P3_HERO_TREASURE_FIND_1_0","宝箱啊，打开看看吧。","P3_HERO_TREASURE_FIND_1_0","机翻辅助：
+"P3_HERO_TREASURE_FIND_1_0","是宝箱呢，要打开看看吗。","P3_HERO_TREASURE_FIND_1_0","机翻辅助：
 
 宝箱啊，打开看看吧。
 
 宝箱，打开看看吧。
 
 是百宝箱，打开看看吧。"
-"P3_HERO_TREASURE_FIND_2_0","宝箱啊。真想知道里面是什么……","P3_HERO_TREASURE_FIND_2_0","机翻辅助：
+"P3_HERO_TREASURE_FIND_2_0","宝箱吗。里面会有什么呢……","P3_HERO_TREASURE_FIND_2_0","机翻辅助：
 
 宝箱啊。真想知道里面是什么……
 
 宝箱吗。很在意里面的东西呢……
 
 宝箱啊。很在意里面的内容呢……"
-"P3_HERO_TREASURE_FIND_3_0","有宝箱啊。","P3_HERO_TREASURE_FIND_3_0","机翻辅助：
+"P3_HERO_TREASURE_FIND_3_0","有宝箱呢。","P3_HERO_TREASURE_FIND_3_0","机翻辅助：
 
 有宝箱啊。
 
 有个宝箱呢。"
-"P3_HERO_CHECK_WALL_1_0","感觉有点在意……","P3_HERO_CHECK_WALL_1_0","机翻辅助：
+"P3_HERO_CHECK_WALL_1_0","感觉有点在意呢……","P3_HERO_CHECK_WALL_1_0","机翻辅助：
 
 感觉有点在意……
 
 不要在意……
 
 好像很在意啊……"
-"P3_HERO_CHECK_WALL_2_0","要不要在这附近调查一下？","P3_HERO_CHECK_WALL_2_0","机翻辅助：
+"P3_HERO_CHECK_WALL_2_0","要不要稍微调查一下这附近呢？","P3_HERO_CHECK_WALL_2_0","机翻辅助：
 
 要不要在这附近调查一下？
 
 要不要调查一下这附近？
 
 这附近要不要查一下？"
-"P3_HERO_CHECK_WALL_3_0","不觉得……好像有什么吗？","P3_HERO_CHECK_WALL_3_0","机翻辅助：
+"P3_HERO_CHECK_WALL_3_0","好像有什么东西……你觉得呢？","P3_HERO_CHECK_WALL_3_0","机翻辅助：
 
 不觉得……好像有什么吗？
 
 好像有什么……你不这么认为吗？
 
 你不觉得有什么事吗？"
-"P3_HERO_SWITCH_FIND_1_0","啊，开关……怎么办？","P3_HERO_SWITCH_FIND_1_0","机翻辅助：
+"P3_HERO_SWITCH_FIND_1_0","啊，开关……要按吗？","P3_HERO_SWITCH_FIND_1_0","机翻辅助：
 
 啊，开关……怎么办？"
-"P3_HERO_SWITCH_FIND_2_0","要按下去吗？时机交给你决定。","P3_HERO_SWITCH_FIND_2_0","机翻辅助：
+"P3_HERO_SWITCH_FIND_2_0","要按下去吗？时机就交给你把握了。","P3_HERO_SWITCH_FIND_2_0","机翻辅助：
 
 要按下去吗？时机交给你决定。
 
 试着推？时机就交给你了。
 
 要不要按一下？时机就交给你了。"
-"P3_HERO_SWITCH_FIND_3_0","找到开关了。","P3_HERO_SWITCH_FIND_3_0","机翻辅助：
+"P3_HERO_SWITCH_FIND_3_0","发现开关了哦。","P3_HERO_SWITCH_FIND_3_0","机翻辅助：
 
 找到开关了。
 
 我找到开关了。"
-"P3_HERO_SHORTCUT_FIND_1_0","那里好像可以过去。","P3_HERO_SHORTCUT_FIND_1_0","机翻辅助：
+"P3_HERO_SHORTCUT_FIND_1_0","那里看起来可以通过呢。","P3_HERO_SHORTCUT_FIND_1_0","机翻辅助：
 
 那里好像可以过去。
 
 那里好像可以通过。"
-"P3_HERO_SHORTCUT_FIND_2_0","从那里好像可以抄捷径。","P3_HERO_SHORTCUT_FIND_2_0","机翻辅助：
+"P3_HERO_SHORTCUT_FIND_2_0","从那里走似乎是近路呢。","P3_HERO_SHORTCUT_FIND_2_0","机翻辅助：
 
 从那里好像可以抄捷径。
 
 从那里好像可以抄近路呢。
 
 好像可以从那里抄近道。"
-"P3_HERO_SHORTCUT_FIND_3_0","应该可以抄捷径吧？","P3_HERO_SHORTCUT_FIND_3_0","机翻辅助：
+"P3_HERO_SHORTCUT_FIND_3_0","这里是不是可以当作捷径呢？","P3_HERO_SHORTCUT_FIND_3_0","机翻辅助：
 
 应该可以抄捷径吧？
 
 不是可以快捷键吗？
 
 不是可以剪短发吗？"
-"P3_HERO_FOE_WARNING_NEAR_0","被F.O.E盯上了……怎么办？","P3_HERO_FOE_WARNING_NEAR_0","机翻辅助：
+"P3_HERO_FOE_WARNING_NEAR_0","被F.O.E盯上了……要怎么做？","P3_HERO_FOE_WARNING_NEAR_0","机翻辅助：
 
 被F.O.E盯上了……怎么办？"
-"P3_HERO_FOE_WARNING_NEAR_2_0","强敌追上来了……体力没问题吗？","P3_HERO_FOE_WARNING_NEAR_2_0","机翻辅助：
+"P3_HERO_FOE_WARNING_NEAR_2_0","强敌正在追赶我们……大家的体力还好吗？","P3_HERO_FOE_WARNING_NEAR_2_0","机翻辅助：
 
 强敌追上来了……体力没问题吗？
 
 强敌追过来了……体力还好吗？
 
 强敌正在追赶……体力没问题吧？"
-"P3_HERO_FOE_WARNING_NEAR_3_0","F.O.E来了哦。小心点。","P3_HERO_FOE_WARNING_NEAR_3_0","机翻辅助：
+"P3_HERO_FOE_WARNING_NEAR_3_0","F.O.E来了。小心一点。","P3_HERO_FOE_WARNING_NEAR_3_0","机翻辅助：
 
 F.O.E来了哦。小心点。
 
 F.O.E来了。小心点。"
-"P3_HERO_1PERSON_HPTP10_1_0","好难啊……要不要先回据点一趟？","P3_HERO_1PERSON_HPTP10_1_0","机翻辅助：
+"P3_HERO_1PERSON_HPTP10_1_0","有点难受啊……要不要先回基地？","P3_HERO_1PERSON_HPTP10_1_0","机翻辅助：
 
 好难啊……要不要先回据点一趟？
 
 好严厉啊……要不要回据点一次？
 
 好严厉啊……回不回据点一次？"
-"P3_HERO_1PERSON_HPTP10_2_0","呼……呼……体力和精神都到极限了……","P3_HERO_1PERSON_HPTP10_2_0","机翻辅助：
+"P3_HERO_1PERSON_HPTP10_2_0","哈啊，哈啊……体力和精力都到极限了……","P3_HERO_1PERSON_HPTP10_2_0","机翻辅助：
 
 呼……呼……体力和精神都到极限了……
 
 啊、啊……体力和精力都到了极限……
 
 哈、哈……体力和精力都到了极限……"
-"P3_HERO_1PERSON_HPTP10_3_0","再这样下去……已经……","P3_HERO_1PERSON_HPTP10_3_0","机翻辅助：
+"P3_HERO_1PERSON_HPTP10_3_0","有点……撑不住了……","P3_HERO_1PERSON_HPTP10_3_0","机翻辅助：
 
 再这样下去……已经……
 
 不能再……已经……
 
 再也……已经……"
-"P3_HERO_1PERSON_HP10_1_0","体力可能到极限了……","P3_HERO_1PERSON_HP10_1_0","机翻辅助：
+"P3_HERO_1PERSON_HP10_1_0","体力可能已经到极限了……","P3_HERO_1PERSON_HP10_1_0","机翻辅助：
 
 体力可能到极限了……
 
 体力可能是极限了……
 
 体力可能已经到了极限……"
-"P3_HERO_1PERSON_HP10_2_0","希望可以恢复体力……","P3_HERO_1PERSON_HP10_2_0","机翻辅助：
+"P3_HERO_1PERSON_HP10_2_0","能让我回复一下就好了……","P3_HERO_1PERSON_HP10_2_0","机翻辅助：
 
 希望可以恢复体力……
 
 如果能恢复的话就太高兴了……
 
 如果能恢复就好了……"
-"P3_HERO_1PERSON_HP10_3_0","呼……呼……体力……","P3_HERO_1PERSON_HP10_3_0","机翻辅助：
+"P3_HERO_1PERSON_HP10_3_0","哈啊，哈啊……体力……","P3_HERO_1PERSON_HP10_3_0","机翻辅助：
 
 呼……呼……体力……
 
 啊、啊……体力……
 
 哈、哈……体力……"
-"P3_HERO_1PERSON_TP10_1_0","希望……可以恢复精神……","P3_HERO_1PERSON_TP10_1_0","机翻辅助：
+"P3_HERO_1PERSON_TP10_1_0","我想……恢复一下精力……","P3_HERO_1PERSON_TP10_1_0","机翻辅助：
 
 希望……可以恢复精神……
 
 希望你能恢复精神……
 
 气力……希望你能恢复啊……"
-"P3_HERO_1PERSON_TP10_2_0","精神好像快耗尽了……抱歉。","P3_HERO_1PERSON_TP10_2_0","机翻辅助：
+"P3_HERO_1PERSON_TP10_2_0","精力可能撑不住了……抱歉。","P3_HERO_1PERSON_TP10_2_0","机翻辅助：
 
 精神好像快耗尽了……抱歉。
 
 可能没力气了……对不起。
 
 可能筋疲力尽了……对不起。"
-"P3_HERO_1PERSON_TP10_3_0","精神好像快耗尽了……","P3_HERO_1PERSON_TP10_3_0","机翻辅助：
+"P3_HERO_1PERSON_TP10_3_0","精力差不多快要耗尽了……","P3_HERO_1PERSON_TP10_3_0","机翻辅助：
 
 精神好像快耗尽了……
 
 快没力气了……
 
 差不多要筋疲力尽了……"
-"P3_HERO_1PERSON_HP80_1_0","照这个步调继续前进吧。","P3_HERO_1PERSON_HP80_1_0","机翻辅助：
+"P3_HERO_1PERSON_HP80_1_0","保持这个节奏继续吧。","P3_HERO_1PERSON_HP80_1_0","机翻辅助：
 
 照这个步调继续前进吧。
 
@@ -297,22 +297,22 @@ F.O.E来了。小心点。"
 现在的战斗感觉不错。
 
 刚才的战斗感觉很好呢。"
-"P3_HERO_1PERSON_HP80_3_0","游刃有余呢。好，继续前进吧。","P3_HERO_1PERSON_HP80_3_0","机翻辅助：
+"P3_HERO_1PERSON_HP80_3_0","真是轻松呢。好了，继续前进吧。","P3_HERO_1PERSON_HP80_3_0","机翻辅助：
 
 游刃有余呢。好，继续前进吧。
 
 真是游刃有余啊。好了，继续前进吧。
 
 很从容呢。好了，我们先走吧。"
-"P3_HERO_DUNGEON_START_1_0","那我们走吧。","P3_HERO_DUNGEON_START_1_0","机翻辅助：
+"P3_HERO_DUNGEON_START_1_0","那就出发吧。","P3_HERO_DUNGEON_START_1_0","机翻辅助：
 
 那我们走吧。
 
 那么，走吧。"
-"P3_HERO_DUNGEON_START_2_0","小心前进吧。","P3_HERO_DUNGEON_START_2_0","机翻辅助：
+"P3_HERO_DUNGEON_START_2_0","小心一点前进吧。","P3_HERO_DUNGEON_START_2_0","机翻辅助：
 
 小心前进吧。"
-"P3_HERO_DUNGEON_START_3_0","准备好了吗？要走喽。","P3_HERO_DUNGEON_START_3_0","机翻辅助：
+"P3_HERO_DUNGEON_START_3_0","准备好了吗？出发了。","P3_HERO_DUNGEON_START_3_0","机翻辅助：
 
 准备好了吗？要走喽。
 
@@ -324,7 +324,7 @@ F.O.E来了。小心点。"
 没问题，一定会顺利的。
 
 没关系，一定会顺利的。"
-"P3_HERO_QUEST_START_2_0","好，开始吧。","P3_HERO_QUEST_START_2_0","机翻辅助：
+"P3_HERO_QUEST_START_2_0","开始吧。","P3_HERO_QUEST_START_2_0","机翻辅助：
 
 好，开始吧。
 
@@ -332,15 +332,15 @@ F.O.E来了。小心点。"
 "P3_HERO_QUEST_START_3_0","一起加油吧。","P3_HERO_QUEST_START_3_0","机翻辅助：
 
 一起加油吧。"
-"P3_HERO_TOUHA_25_1_0","前方好像还很漫长……加油吧。","P3_HERO_TOUHA_25_1_0","机翻辅助：
+"P3_HERO_TOUHA_25_1_0","还有很长的路要走……加油吧。","P3_HERO_TOUHA_25_1_0","机翻辅助：
 
 前方好像还很漫长……加油吧。
 
 看来路还很长……加油吧。
 
 前面好像还很长……加油吧。"
-"P3_HERO_TOUHA_25_2_0","不知道会有什么。
-小心点。","P3_HERO_TOUHA_25_2_0","机翻辅助：
+"P3_HERO_TOUHA_25_2_0","不知道会发生什么事情，
+小心一点吧。","P3_HERO_TOUHA_25_2_0","机翻辅助：
 
 不知道会有什么。
 小心点。
@@ -349,33 +349,33 @@ F.O.E来了。小心点。"
 要小心。
 
 不知道会有什么。小心点。"
-"P3_HERO_TOUHA_50_1_0","这样应该前进了一半左右吧……","P3_HERO_TOUHA_50_1_0","机翻辅助：
+"P3_HERO_TOUHA_50_1_0","这样大概完成了一半吧……","P3_HERO_TOUHA_50_1_0","机翻辅助：
 
 这样应该前进了一半左右吧……
 
 这样大概前进了一半吧……
 
 这样大概进行了一半了吧……"
-"P3_HERO_TOUHA_50_2_0","正好一半左右吗……加油吧。","P3_HERO_TOUHA_50_2_0","机翻辅助：
+"P3_HERO_TOUHA_50_2_0","大概刚好一半吧……加油吧。","P3_HERO_TOUHA_50_2_0","机翻辅助：
 
 正好一半左右吗……加油吧。
 
 正好一半左右……加油吧。
 
 正好一半左右吧……加油吧。"
-"P3_HERO_TOUHA_75_1_0","地图还有没探索到的部分呢。","P3_HERO_TOUHA_75_1_0","机翻辅助：
+"P3_HERO_TOUHA_75_1_0","地图上还有一些没有填满的部分呢。","P3_HERO_TOUHA_75_1_0","机翻辅助：
 
 地图还有没探索到的部分呢。
 
 还有地图没有填满的部分呢。
 
 还有地图没填满的部分呢。"
-"P3_HERO_TOUHA_75_2_0","嗯。探索了不少呢。","P3_HERO_TOUHA_75_2_0","机翻辅助：
+"P3_HERO_TOUHA_75_2_0","嗯。探索了不少地方呢。","P3_HERO_TOUHA_75_2_0","机翻辅助：
 
 嗯。探索了不少呢。
 
 嗯。探索了很多呢。"
-"P3_HERO_TOUHA_100_1_0","地图全部填满了呢。
+"P3_HERO_TOUHA_100_1_0","地图全都填满了呢。
 恭喜。","P3_HERO_TOUHA_100_1_0","机翻辅助：
 
 地图全部填满了呢。
@@ -386,7 +386,7 @@ F.O.E来了。小心点。"
 
 地图都填满了。
 恭喜。"
-"P3_HERO_TOUHA_100_2_0","这个楼层好像都走遍了呢。","P3_HERO_TOUHA_100_2_0","机翻辅助：
+"P3_HERO_TOUHA_100_2_0","这个楼层好像都走过一遍了呢。","P3_HERO_TOUHA_100_2_0","机翻辅助：
 
 这个楼层好像都走遍了呢。
 
@@ -400,45 +400,45 @@ F.O.E来了。小心点。"
 嗯。感觉不错。
 
 嗯。感觉不错呢。"
-"P3_HERO_MAPPING_ICON_ALL_2_0","你真是个认真的人呢，帮大忙了。","P3_HERO_MAPPING_ICON_ALL_2_0","机翻辅助：
+"P3_HERO_MAPPING_ICON_ALL_2_0","你真是细心呢。帮大忙了。","P3_HERO_MAPPING_ICON_ALL_2_0","机翻辅助：
 
 你真是个认真的人呢，帮大忙了。
 
 你是豆子啊。得救了。
 
 你真勤快。帮大忙了。"
-"P3_HERO_MAPPING_ICON_KAI_0","嗯，楼梯的位置很清楚呢。","P3_HERO_MAPPING_ICON_KAI_0","机翻辅助：
+"P3_HERO_MAPPING_ICON_KAI_0","嗯。楼梯的位置刚刚好。","P3_HERO_MAPPING_ICON_KAI_0","机翻辅助：
 
 嗯，楼梯的位置很清楚呢。
 
 嗯。楼梯的地方很棒呢。
 
 嗯。楼梯的位置很好。"
-"P3_HERO_MAPPING_ICON_KAI_2_0","没错没错，这里就是楼梯呢。","P3_HERO_MAPPING_ICON_KAI_2_0","机翻辅助：
+"P3_HERO_MAPPING_ICON_KAI_2_0","对对，这里有楼梯吧。","P3_HERO_MAPPING_ICON_KAI_2_0","机翻辅助：
 
 没错没错，这里就是楼梯呢。
 
 对了对了，这里有楼梯吧。"
-"P3_HERO_MAPPING_CHANGE_C_0","改变颜色以后就很好认了呢。","P3_HERO_MAPPING_CHANGE_C_0","机翻辅助：
+"P3_HERO_MAPPING_CHANGE_C_0","换个颜色就很容易理解了呢。","P3_HERO_MAPPING_CHANGE_C_0","机翻辅助：
 
 改变颜色以后就很好认了呢。
 
 换个颜色就好理解了。
 
 换个颜色就容易理解了。"
-"P3_HERO_MAPPING_CHANGE_C_2_0","啊，心情也变好了呢。","P3_HERO_MAPPING_CHANGE_C_2_0","机翻辅助：
+"P3_HERO_MAPPING_CHANGE_C_2_0","啊，转换一下心情也不错呢。","P3_HERO_MAPPING_CHANGE_C_2_0","机翻辅助：
 
 啊，心情也变好了呢。
 
 啊，心情变了真好啊。
 
 啊，心情变了，真好啊。"
-"P3_HERO_MAPPING_ICON_DEL_0","地图变得很好看了呢。","P3_HERO_MAPPING_ICON_DEL_0","机翻辅助：
+"P3_HERO_MAPPING_ICON_DEL_0","地图变得更清晰明了了。","P3_HERO_MAPPING_ICON_DEL_0","机翻辅助：
 
 地图变得很好看了呢。
 
 地图变得容易看了呢。"
-"P3_HERO_MAPPING_ICON_DEL_2_0","确实不需要那个呢。","P3_HERO_MAPPING_ICON_DEL_2_0","机翻辅助：
+"P3_HERO_MAPPING_ICON_DEL_2_0","那个图标确实可以不用了呢。","P3_HERO_MAPPING_ICON_DEL_2_0","机翻辅助：
 
 确实不需要那个呢。
 
@@ -448,19 +448,19 @@ F.O.E来了。小心点。"
 嗯，这样就不会忘记了呢。
 
 嗯。这样的话就不会忘记了。"
-"P3_HERO_MAPPING_MEMO_2_0","回头再看的时候很好认呢。","P3_HERO_MAPPING_MEMO_2_0","机翻辅助：
+"P3_HERO_MAPPING_MEMO_2_0","回头再看的时候也会更方便理解呢。","P3_HERO_MAPPING_MEMO_2_0","机翻辅助：
 
 回头再看的时候很好认呢。
 
 回看的时候很容易理解。
 
 回头看的时候很容易理解呢。"
-"P3_HERO_DOOR_OPEN_1_0","在这里哦。","P3_HERO_DOOR_OPEN_1_0","机翻辅助：
+"P3_HERO_DOOR_OPEN_1_0","这边。","P3_HERO_DOOR_OPEN_1_0","机翻辅助：
 
 在这里哦。
 
 是这边。"
-"P3_HERO_DOOR_OPEN_2_0","小心点。","P3_HERO_DOOR_OPEN_2_0","机翻辅助：
+"P3_HERO_DOOR_OPEN_2_0","小心一点。","P3_HERO_DOOR_OPEN_2_0","机翻辅助：
 
 小心点。"
 "P3_HERO_DOOR_OPEN_3_0","好了，走吧。","P3_HERO_DOOR_OPEN_3_0","机翻辅助：

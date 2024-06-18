@@ -12,7 +12,7 @@ OK
 "YESNO_SEL_NAVI_EDIT_CANC_1","否","YESNO_SEL_NAVI_EDIT_CANC_1",""
 "YESNO_SEL_REGISTRATION_C_0","是","YESNO_SEL_REGISTRATION_C_0",""
 "YESNO_SEL_REGISTRATION_C_1","否","YESNO_SEL_REGISTRATION_C_1",""
-"EDIT_CANCEL_0","＞不变更队伍编组直接返回。
+"EDIT_CANCEL_0","＞不更改队伍编辑就返回。
 　可以吗？","EDIT_CANCEL_0","机翻辅助：
 
 ＞不变更队伍编组直接返回。
@@ -23,7 +23,7 @@ OK
 
 ＞在不更改交易方组织的情况下返回。
 　可以吗？"
-"NAVI_EDIT_CANCEL_0","＞不变更导航设定，返回上一层。
+"NAVI_EDIT_CANCEL_0","＞不更改向导设定就返回。
 　可以吗？","NAVI_EDIT_CANCEL_0","机翻辅助：
 
 ＞不变更导航设定，返回上一层。
@@ -34,8 +34,8 @@ OK
 
 ＞不更改导航设置返回。
 　可以吗？"
-"REGISTRATION_CANCEL_0","＞不登录这支队伍
-　结束吗？","REGISTRATION_CANCEL_0","机翻辅助：
+"REGISTRATION_CANCEL_0","＞不登录这个队伍
+　就这样结束，可以吗？","REGISTRATION_CANCEL_0","机翻辅助：
 
 ＞不登录这支队伍
 　结束吗？

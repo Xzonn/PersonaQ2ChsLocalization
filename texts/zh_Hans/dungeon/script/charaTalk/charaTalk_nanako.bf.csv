@@ -1,5 +1,5 @@
 "source","target","id","developer_comments"
-"ITEM_POINT_SEL_0","提高警觉寻找","ITEM_POINT_SEL_0","机翻辅助：
+"ITEM_POINT_SEL_0","谨慎探索","ITEM_POINT_SEL_0","机翻辅助：
 
 提高警觉寻找
 
@@ -12,20 +12,20 @@
 "ITEM_POINT_SEL_2","放弃","ITEM_POINT_SEL_2","机翻辅助：
 
 放弃"
-"ITEM_POINT_FORCE_BTL_SEL_0","寻找","ITEM_POINT_FORCE_BTL_SEL_0","机翻辅助：
+"ITEM_POINT_FORCE_BTL_SEL_0","探索","ITEM_POINT_FORCE_BTL_SEL_0","机翻辅助：
 
 寻找"
 "ITEM_POINT_FORCE_BTL_SEL_1","放弃","ITEM_POINT_FORCE_BTL_SEL_1","机翻辅助：
 
 放弃"
-"SHORTCUT_SEL_0","能通过","SHORTCUT_SEL_0","机翻辅助：
+"SHORTCUT_SEL_0","通过","SHORTCUT_SEL_0","机翻辅助：
 
 能通过
 
 通过
 
 经过"
-"SHORTCUT_SEL_1","不能通过","SHORTCUT_SEL_1","机翻辅助：
+"SHORTCUT_SEL_1","不通过","SHORTCUT_SEL_1","机翻辅助：
 
 不能通过
 
@@ -35,14 +35,14 @@
 "ENTRANCE_SEL_0","返回","ENTRANCE_SEL_0","机翻辅助：
 
 返回"
-"ENTRANCE_SEL_1","不回头","ENTRANCE_SEL_1","机翻辅助：
+"ENTRANCE_SEL_1","不返回","ENTRANCE_SEL_1","机翻辅助：
 
 不回头
 
 不回去
 
 不回来"
-"MARGA_MSG_005_0","就是这样。","MARGA_MSG_005_0","机翻辅助：
+"MARGA_MSG_005_0","继续加油。","MARGA_MSG_005_0","机翻辅助：
 
 就是这样。
 
@@ -54,36 +54,36 @@
 嘿嘿，太棒了！
 
 嘿嘿，太好了！"
-"MARGA_MSG_006_0","还不错呢。","MARGA_MSG_006_0","机翻辅助：
+"MARGA_MSG_006_0","不错呢。","MARGA_MSG_006_0","机翻辅助：
 
 还不错呢。
 
 还过得去呢。
 
 还算过得去。"
-"NANAKO_MSG_006_0","拿到了！","NANAKO_MSG_006_0","机翻辅助：
+"NANAKO_MSG_006_0","拿到啦！","NANAKO_MSG_006_0","机翻辅助：
 
 拿到了！
 
 托雷特！"
-"MARGA_MSG_007_0","还不坏呢。","MARGA_MSG_007_0","机翻辅助：
+"MARGA_MSG_007_0","还不错呢。","MARGA_MSG_007_0","机翻辅助：
 
 还不坏呢。
 
 还不错啊。
 
 还不错呢。"
-"NANAKO_MSG_007_0","宝物！","NANAKO_MSG_007_0","机翻辅助：
+"NANAKO_MSG_007_0","宝藏！","NANAKO_MSG_007_0","机翻辅助：
 
 宝物！
 
 宝贝！"
-"MARGA_MSG_009_0","值得称赞呢。","MARGA_MSG_009_0","机翻辅助：
+"MARGA_MSG_009_0","值得夸奖呢。","MARGA_MSG_009_0","机翻辅助：
 
 值得称赞呢。
 
 值得称赞。"
-"NANAKO_MSG_009_0","拿到了好东西！","NANAKO_MSG_009_0","机翻辅助：
+"NANAKO_MSG_009_0","拿到好东西了！","NANAKO_MSG_009_0","机翻辅助：
 
 拿到了好东西！
 
@@ -97,29 +97,25 @@
 真是好东西啊。
 
 真是个好东西。"
-"NANAKO_MSG_010_0","太好了太好了！","NANAKO_MSG_010_0","机翻辅助：
+"NANAKO_MSG_010_0","太好啦太好啦——！","NANAKO_MSG_010_0","机翻辅助：
 
 太好了太好了！
 
 太好了！"
-"MARGA_MSG_011_0","结果很棒呢。","MARGA_MSG_011_0","机翻辅助：
+"MARGA_MSG_011_0","很棒的结果呢。","MARGA_MSG_011_0","机翻辅助：
 
 结果很棒呢。
 
 很棒的结果。
 
 好漂亮的结果啊。"
-"NANAKO_MSG_011_0","太好了！好厉害！","NANAKO_MSG_011_0","机翻辅助：
+"NANAKO_MSG_011_0","太棒了！好厉害呀！","NANAKO_MSG_011_0","机翻辅助：
 
 太好了！好厉害！
 
 太好了！好厉害啊！
 
 太棒了！好厉害啊！"
-"MARGA_MSG_027_0","！！哇呀！！","MARGA_MSG_027_0","机翻辅助：
-
-！！哇呀！！"
-"NANAKO_MSG_027_0","！！哇呀！！","NANAKO_MSG_027_0","机翻辅助：
-
-！！哇呀！！"
+"MARGA_MSG_027_0","！！哇呀！！","MARGA_MSG_027_0","翻译匹配：EO1-3HD"
+"NANAKO_MSG_027_0","！！哇呀！！","NANAKO_MSG_027_0","翻译匹配：EO1-3HD"
 "speaker_菜々子","菜菜子","speaker_菜々子","翻译匹配：PQ2"

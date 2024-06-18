@@ -56,13 +56,17 @@ def convert_csv_to_xlsx(csv_root_without_language: str, language: str, xlsx_root
       ))
 
       for i, (original_line, translated_line) in enumerate(zip(original, translated)):
+        mt_translations = translated_line["developer_comments"]
+        comments = ""
+        if "\n\n评论：\n\n" in mt_translations:
+          mt_translations, comments = mt_translations.split("\n\n评论：\n\n", 1)
         sheet.append((
           original_line["id"],
           original_line["target"],
           translated_line["target"],
           original_line["developer_comments"],
-          translated_line["developer_comments"],
-          "",
+          mt_translations,
+          comments,
           "",
           f'=OR(LEN(B{i + 2})-LEN(SUBSTITUTE(SUBSTITUTE(B{i + 2},"[",""),"]",""))<>LEN(C{i + 2})-LEN(SUBSTITUTE(SUBSTITUTE(C{i + 2},"[",""),"]","")),LEN(C{i + 2})-LEN(SUBSTITUTE(C{i + 2},"[",""))<>LEN(C{i + 2})-LEN(SUBSTITUTE(C{i + 2},"]","")))',
         ))
@@ -87,8 +91,11 @@ def convert_csv_to_xlsx(csv_root_without_language: str, language: str, xlsx_root
         if col in "AD":
           column.width = 15
           column.alignment = center_wrap
-        elif col in "BCEF":
-          column.width = 35
+        elif col in "BCE":
+          column.width = 32
+          column.alignment = top_left_wrap
+        elif col in "F":
+          column.width = 48
           column.alignment = top_left_wrap
         elif col in "GH":
           column.hidden = True

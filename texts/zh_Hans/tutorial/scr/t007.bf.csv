@@ -1,10 +1,10 @@
 "source","target","id","developer_comments"
-"MSG_TUTORIAL_BASE_RECOVE_0","从迷宫回到电影院后
-[颜色 03]“HP·SP会完全恢复”[颜色 01]。
+"MSG_TUTORIAL_BASE_RECOVE_0","从迷宫返回电影院后
+[颜色 03]“HP·SP会全部回复”[颜色 01]。
 　
-如果觉得HP减少、SP用尽
-很危险的话，就回到电影院
-恢复吧。","MSG_TUTORIAL_BASE_RECOVE_0","机翻辅助：
+在HP减少、或者SP耗尽等
+感到危险的时候，
+就回到电影院回复吧。","MSG_TUTORIAL_BASE_RECOVE_0","机翻辅助：
 
 从迷宫回到电影院后
 [颜色 03]“HP·SP会完全恢复”[颜色 01]。

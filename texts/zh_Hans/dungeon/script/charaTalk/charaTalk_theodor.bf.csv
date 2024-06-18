@@ -1,5 +1,5 @@
 "source","target","id","developer_comments"
-"ITEM_POINT_SEL_0","提高警觉寻找 ","ITEM_POINT_SEL_0","机翻辅助：
+"ITEM_POINT_SEL_0","谨慎探索","ITEM_POINT_SEL_0","机翻辅助：
 
 提高警觉寻找 
 
@@ -12,20 +12,20 @@
 "ITEM_POINT_SEL_2","放弃 ","ITEM_POINT_SEL_2","机翻辅助：
 
 放弃"
-"ITEM_POINT_FORCE_BTL_SEL_0","寻找 ","ITEM_POINT_FORCE_BTL_SEL_0","机翻辅助：
+"ITEM_POINT_FORCE_BTL_SEL_0","探索","ITEM_POINT_FORCE_BTL_SEL_0","机翻辅助：
 
 寻找"
 "ITEM_POINT_FORCE_BTL_SEL_1","放弃 ","ITEM_POINT_FORCE_BTL_SEL_1","机翻辅助：
 
 放弃"
-"SHORTCUT_SEL_0","能通过 ","SHORTCUT_SEL_0","机翻辅助：
+"SHORTCUT_SEL_0","通过","SHORTCUT_SEL_0","机翻辅助：
 
 能通过 
 
 通过 
 
 经过"
-"SHORTCUT_SEL_1","不能通过 ","SHORTCUT_SEL_1","机翻辅助：
+"SHORTCUT_SEL_1","不通过","SHORTCUT_SEL_1","机翻辅助：
 
 不能通过 
 
@@ -35,14 +35,12 @@
 "ENTRANCE_SEL_0","返回 ","ENTRANCE_SEL_0","机翻辅助：
 
 返回"
-"ENTRANCE_SEL_1","不回头 ","ENTRANCE_SEL_1","机翻辅助：
+"ENTRANCE_SEL_1","不返回","ENTRANCE_SEL_1","机翻辅助：
 
 不回头 
 
 不回去 
 
 不回来"
-"MSG_027_0","！！哇呀！！","MSG_027_0","机翻辅助：
-
-！！哇呀！！"
+"MSG_027_0","！！哇呀！！","MSG_027_0","翻译匹配：EO1-3HD"
 "speaker_テオドア","西奥多","speaker_テオドア","翻译匹配：PQ2"
