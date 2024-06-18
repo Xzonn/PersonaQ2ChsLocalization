@@ -30,16 +30,16 @@ F.O.E似乎发现了。
 哈！？
 好象被F.O.E注意到了。"
 "ELIZABETH_FOE_FOLLOW_STA_3_0","哎呀，F.O.E在追踪……　　
-泰欧，交给你了。 ","ELIZABETH_FOE_FOLLOW_STA_3_0","机翻辅助：
+西奥，交给你了。 ","ELIZABETH_FOE_FOLLOW_STA_3_0","机翻辅助：
 
 哎呀，F.O.E在追踪……　　
-泰欧，交给你了。 
+西奥，交给你了。 
 
 哎呀F.O.E处于跟踪状态……
-泰奥，交给你了。 
+西奥，交给你了。 
 
 F.O.E跟踪状态……
-特奥，交给你了。"
+西奥，交给你了。"
 "THEODOR_FOE_FOLLOW_START_3_0","咦？啊！请、请小心！ ","THEODOR_FOE_FOLLOW_START_3_0","机翻辅助：
 
 咦？啊！请、请小心！ 
@@ -500,13 +500,9 @@ F.O.E好像放弃跟踪了。
 前面的墙壁好像有什么。 
 
 前方的墙上好像有什么东西。"
-"ELIZABETH_PARTY_DEAD_1_0","这是……祈祷吧……泰欧…… ","ELIZABETH_PARTY_DEAD_1_0","机翻辅助：
+"ELIZABETH_PARTY_DEAD_1_0","这是……祈祷吧……西奥…… ","ELIZABETH_PARTY_DEAD_1_0","机翻辅助：
 
-这是……祈祷吧……泰欧…… 
-
-这是……祈祷吧……泰奥…… 
-
-这是……祈祷吧……特奥……"
+这是……祈祷吧……西奥……"
 "THEODOR_PARTY_DEAD_1_0","各、各位！？没事吧！？ ","THEODOR_PARTY_DEAD_1_0","机翻辅助：
 
 各、各位！？没事吧！？ 
@@ -604,13 +600,13 @@ F.O.E持续跟踪的样子……"
 首先调整好状态吧。 
 
 姐姐，冷静下来，先做好准备吧。"
-"ELIZABETH_PARTY_HPTP10_2_0","泰欧，准备迎接他们。 ","ELIZABETH_PARTY_HPTP10_2_0","机翻辅助：
+"ELIZABETH_PARTY_HPTP10_2_0","西奥，准备迎接他们。 ","ELIZABETH_PARTY_HPTP10_2_0","机翻辅助：
 
-泰欧，准备迎接他们。 
+西奥，准备迎接他们。 
 
-特奥，准备迎接您。 
+西奥，准备迎接您。 
 
-泰奥，准备迎接你。"
+西奥，准备迎接你。"
 "THEODOR_PARTY_HPTP10_2_0","我很担心各位的体力消耗
 ，要不要先回去一趟？","THEODOR_PARTY_HPTP10_2_0","机翻辅助：
 
@@ -718,16 +714,16 @@ F.O.E持续跟踪的样子……"
 哪怕只是体力
 恢复一下怎么样？"
 "ELIZABETH_1PERSON_HPTP10_3_0","您回去时，我会支援您。
-……泰欧会。） ","ELIZABETH_1PERSON_HPTP10_3_0","机翻辅助：
+……西奥会。） ","ELIZABETH_1PERSON_HPTP10_3_0","机翻辅助：
 
 您回去时，我会支援您。
-……泰欧会。） 
+……西奥会。） 
 
 返回时，支持。
-……泰奥。 
+……西奥。 
 
 我们会在您回国的时候提供帮助。
-……特奥加。"
+……西奥加。"
 "THEODOR_1PERSON_HPTP10_3_0","您看起来已经连站着都很勉强了……
 要不要重整态势呢？ ","THEODOR_1PERSON_HPTP10_3_0","机翻辅助：
 
@@ -859,16 +855,16 @@ F.O.E持续跟踪的样子……"
 改变战术应该会比较好吧。 
 
 改变战术比较好吧。"
-"ELIZABETH_1PERSON_TP10_2_0","泰欧。
+"ELIZABETH_1PERSON_TP10_2_0","西奥。
 这里就交给各位判断吧。 ","ELIZABETH_1PERSON_TP10_2_0","机翻辅助：
 
-泰欧。
+西奥。
 这里就交给各位判断吧。 
 
-泰奥。
+西奥。
 这里就交给大家来判断吧。 
 
-特奥。这里就交给大家来判断吧。"
+西奥。这里就交给大家来判断吧。"
 "THEODOR_1PERSON_TP10_2_0","啊，气力还撑得住吗？） ","THEODOR_1PERSON_TP10_2_0","机翻辅助：
 
 啊，气力还撑得住吗？） 
@@ -1313,13 +1309,13 @@ poi poi poi。"
 您准确地把握了楼梯。 
 
 楼梯掌握得很准确呢。"
-"ELIZABETH_MAPPING_ICON_K_2_0","正确答案！泰欧，给正确答案的奖励…… ","ELIZABETH_MAPPING_ICON_K_2_0","机翻辅助：
+"ELIZABETH_MAPPING_ICON_K_2_0","正确答案！西奥，给正确答案的奖励…… ","ELIZABETH_MAPPING_ICON_K_2_0","机翻辅助：
 
-正确答案！泰欧，给正确答案的奖励…… 
+正确答案！西奥，给正确答案的奖励…… 
 
-正解——！特奥，奖励你正确答案…… 
+正解——！西奥，奖励你正确答案…… 
 
-正确答案！泰奥，奖励正确答案……"
+正确答案！西奥，奖励正确答案……"
 "THEODOR_MAPPING_ICON_KAI_2_0","咦！皇姐！？我没有准备那种东西！ ","THEODOR_MAPPING_ICON_KAI_2_0","机翻辅助：
 
 咦！皇姐！？我没有准备那种东西！ 
@@ -1366,31 +1362,31 @@ poi poi poi。"
 
 我很期待能做出什么样的地图。"
 "ELIZABETH_MAPPING_ICON_D_0","碍事的东西就丢掉。
-……就像丢掉泰欧一样。 ","ELIZABETH_MAPPING_ICON_D_0","机翻辅助：
+……就像丢掉西奥一样。 ","ELIZABETH_MAPPING_ICON_D_0","机翻辅助：
 
 碍事的东西就丢掉。
-……就像丢掉泰欧一样。 
+……就像丢掉西奥一样。 
 
 碍事的东西是poy。
-……就像特奥一样。 
+……就像西奥一样。 
 
 麻烦的东西是Poi。
-就像泰奥一样。"
+就像西奥一样。"
 "THEODOR_MAPPING_ICON_DEL_0","姐姐！？你想抛弃我吗！？ ","THEODOR_MAPPING_ICON_DEL_0","机翻辅助：
 
 姐姐！？你想抛弃我吗！？ 
 
 姐姐！？你打算抛弃我吗？？"
-"ELIZABETH_MAPPING_ICON_D_2_0","那么，我偷吃泰欧的点心
+"ELIZABETH_MAPPING_ICON_D_2_0","那么，我偷吃西奥的点心
 也…… ","ELIZABETH_MAPPING_ICON_D_2_0","机翻辅助：
 
-那么，我偷吃泰欧的点心
+那么，我偷吃西奥的点心
 也…… 
 
-那么，我偷teo的点心的事也……
+那么，我偷西奥的点心的事也……
  
 
-那么，我偷了泰奥的零食……"
+那么，我偷了西奥的零食……"
 "THEODOR_MAPPING_ICON_DEL_2_0","只要改正错误就行了。 ","THEODOR_MAPPING_ICON_DEL_2_0","机翻辅助：
 
 只要改正错误就行了。 
