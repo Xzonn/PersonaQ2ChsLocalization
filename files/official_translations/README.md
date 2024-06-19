@@ -10,3 +10,6 @@
 | SMTVV | 真·女神转生V Vengeance |
 | SH2 | 灵魂骇客2 |
 | EO1-3HD | 世界树的迷宫 I-III HD |
+| SMT3HD | 真·女神转生III NOCTURNE HD REMASTER |
+
+注：《真·女神转生III NOCTURNE HD REMASTER》的翻译为繁体中文转简体中文，其他游戏的翻译为简体中文。
