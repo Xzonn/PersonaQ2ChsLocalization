@@ -5,6 +5,7 @@ from typing import Any, Generator
 
 DIR_ORIGINAL_ROOT = "original_files/unpacked"
 DIR_OFFICIAL_TRANSLATIONS_ROOT = "files/official_translations"
+DIR_IMAGE_ROOT = "files/images"
 DIR_EXPORT_ROOT = "temp/export"
 DIR_IMPORT_ROOT = "temp/import"
 DIR_JSON_ROOT = "temp/json"

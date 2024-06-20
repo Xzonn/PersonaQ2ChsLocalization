@@ -1,5 +1,5 @@
 $cpkmakec = "bin\CRI_File_System_Tools_v2.40.13.0\cpkmakec.exe"
-$pq2helper = "bin\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper\bin\Release\net8.0\publish\PersonaQ2ChsLocalizationHelper.exe"
+$pq2helper = "bin\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper\bin\Release\net8.0-windows\publish\PersonaQ2ChsLocalizationHelper.exe"
 
 # Clean output folder
 if (Test-Path -Path "out\" -PathType "Container") {
@@ -10,7 +10,7 @@ if (Test-Path -Path "temp\" -PathType "Container") {
 }
 
 # Prepare for tools
-dotnet publish -c Release --framework net8.0 "bin\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper.csproj"
+dotnet publish -c Release --framework "net8.0-windows" "bin\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper.csproj"
 
 # Unpack/extract original files
 & $cpkmakec "original_files\patch102.cpk" -extract="temp\patch102"
@@ -27,6 +27,7 @@ python scripts\import_csv_to_json.py
 python scripts\generate_char_table.py
 python scripts\convert_json_to_msg.py
 python scripts\copy_duplicate_files.py
+python scripts\copy_images.py
 
 # Import texts
 python scripts\import_tbl.py
