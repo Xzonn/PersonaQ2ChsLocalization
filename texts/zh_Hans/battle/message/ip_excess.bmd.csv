@@ -1,7 +1,7 @@
 "source","target","id","developer_comments"
 "IP_EXCESS_YESNO_0","是","IP_EXCESS_YESNO_0",""
 "IP_EXCESS_YESNO_1","否","IP_EXCESS_YESNO_1",""
-"IP_EXCESS_ITEM_0","＞要舍弃选择的道具。
+"IP_EXCESS_ITEM_0","＞丢弃选中的道具。
 　确定吗？","IP_EXCESS_ITEM_0","机翻辅助：
 
 ＞要舍弃选择的道具。
@@ -12,7 +12,7 @@
 
 ＞丢弃被选中的项目。
 　可以吗？"
-"IP_EXCESS_PERSONA_0","＞要消灭“[颜色 02][占位A 01][颜色 01]”。
+"IP_EXCESS_PERSONA_0","＞将会消灭“[颜色 02][占位A 01][颜色 01]”。
 　确定吗？","IP_EXCESS_PERSONA_0","机翻辅助：
 
 ＞要消灭“[颜色 02][占位A 01][颜色 01]”。
@@ -20,8 +20,8 @@
 
 ＞消灭“[颜色 02][占位A 01][颜色 01]”。
 　可以吗？"
-"IP_EXCESS_PERSONA_BUSY_0","＞[颜色 02][占位A 01][颜色 01]要消灭装备中的人格面具“
-　”。
+"IP_EXCESS_PERSONA_BUSY_0","＞将会消灭正在装备中的
+　人格面具“[颜色 02][占位A 01][颜色 01]”。
 　确定吗？","IP_EXCESS_PERSONA_BUSY_0","机翻辅助：
 
 ＞[颜色 02][占位A 01][颜色 01]要消灭装备中的人格面具“
@@ -31,14 +31,14 @@
 ＞消灭“[颜色 02][占位A 01][颜色 01]”。
 　装备中的人格面具，
 　可以吗？"
-"IP_EXCESS_PERSONA_END_0","＞人格面具“[颜色 02][占位A 01][颜色 01]”从
-　的意识中消失了。","IP_EXCESS_PERSONA_END_0","机翻辅助：
+"IP_EXCESS_PERSONA_END_0","＞人格面具“[颜色 02][占位A 01][颜色 01]”
+　从意识中消失了。","IP_EXCESS_PERSONA_END_0","机翻辅助：
 
 ＞人格面具“[颜色 02][占位A 01][颜色 01]”从
 　的意识中消失了。
 
 ＞人格面具“[颜色 02][占位A 01][颜色 01]”从意识中消失了。"
-"IP_EXCESS_PERSONA_MULTI_0","＞要消灭选择的人格面具。
+"IP_EXCESS_PERSONA_MULTI_0","＞将会消灭选中的人格面具。
 　确定吗？","IP_EXCESS_PERSONA_MULTI_0","机翻辅助：
 
 ＞要消灭选择的人格面具。
@@ -49,9 +49,9 @@
 
 ＞将选择的人格面具消灭。
 　可以吗？"
-"IP_EXCESS_PERSONA_BUSY_M_0","＞选择的人格面具将会被消灭。
-　装备中的人格面具也包含在内
-　确定要这么做吗？","IP_EXCESS_PERSONA_BUSY_M_0","机翻辅助：
+"IP_EXCESS_PERSONA_BUSY_M_0","＞将会消灭选中的人格面具，
+　其中包含了正在装备中的人格面具。
+　确定吗？","IP_EXCESS_PERSONA_BUSY_M_0","机翻辅助：
 
 ＞选择的人格面具将会被消灭。
 　装备中的人格面具也包含在内
@@ -64,7 +64,7 @@
 ＞将选择的人格面具消灭。
 　包括装备中的人格面具
 　可以吗？"
-"IP_EXCESS_PERSONA_END_MU_0","＞选择的人格面具
+"IP_EXCESS_PERSONA_END_MU_0","＞选中的人格面具
 　从意识中消失了。","IP_EXCESS_PERSONA_END_MU_0","机翻辅助：
 
 ＞选择的人格面具
@@ -84,7 +84,7 @@
 请选择能消灭的人格面具。
 
 不能再持有人格面具。请选择消灭的人格面具。"
-"IP_EXCESS_CANT_DELETE_DL_0","＞无法丢弃的DLC道具。","IP_EXCESS_CANT_DELETE_DL_0","机翻辅助：
+"IP_EXCESS_CANT_DELETE_DL_0","＞DLC道具无法丢弃。","IP_EXCESS_CANT_DELETE_DL_0","机翻辅助：
 
 ＞无法丢弃的DLC道具。
 

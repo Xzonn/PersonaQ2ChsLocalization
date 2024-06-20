@@ -1,9 +1,9 @@
 "source","target","id","developer_comments"
-"KUMA_FOE_FOLLOW_START_1_0","F.O.E来了小熊！","KUMA_FOE_FOLLOW_START_1_0","机翻辅助：
+"KUMA_FOE_FOLLOW_START_1_0","F.O.E来了熊熊！","KUMA_FOE_FOLLOW_START_1_0","机翻辅助：
 
 F.O.E来了小熊！"
-"KUMA_FOE_FOLLOW_START_2_0","呀～～！
-F.O.E往这边来了小熊～～！","KUMA_FOE_FOLLOW_START_2_0","机翻辅助：
+"KUMA_FOE_FOLLOW_START_2_0","呀——！
+F.O.E往这边来了熊熊——！","KUMA_FOE_FOLLOW_START_2_0","机翻辅助：
 
 呀～～！
 F.O.E往这边来了小熊～～！
@@ -13,15 +13,15 @@ F.O.E来到这里的小熊！
 
 哇！
 F.O.E来到这里的小熊！"
-"KUMA_FOE_FOLLOW_START_3_0","F.O.E来～～了～～！","KUMA_FOE_FOLLOW_START_3_0","机翻辅助：
+"KUMA_FOE_FOLLOW_START_3_0","F.O.E来了——！","KUMA_FOE_FOLLOW_START_3_0","机翻辅助：
 
 F.O.E来～～了～～！
 
 F.O.E来了！
 
 F.O.E是关键！"
-"KUMA_FOE_NEAR_1_0","F.O.E飓风！
-小心小熊！","KUMA_FOE_NEAR_1_0","机翻辅助：
+"KUMA_FOE_NEAR_1_0","发现F.O.E！
+小心熊熊！","KUMA_FOE_NEAR_1_0","机翻辅助：
 
 F.O.E飓风！
 小心小熊！
@@ -30,7 +30,7 @@ F.O.E哈凯恩！
 要注意的小熊！
 
 F.O.E发现！注意的小熊！"
-"KUMA_FOE_NEAR_2_0","小心F.O.E～～！","KUMA_FOE_NEAR_2_0","机翻辅助：
+"KUMA_FOE_NEAR_2_0","小心F.O.E～！","KUMA_FOE_NEAR_2_0","机翻辅助：
 
 小心F.O.E～～！
 
@@ -38,7 +38,7 @@ F.O.E发现！注意的小熊！"
 
 注意F.O.E～！"
 "KUMA_FOE_NEAR_3_0","嗅嗅，这个味道……
-F.O.E小熊！","KUMA_FOE_NEAR_3_0","机翻辅助：
+是F.O.E熊熊！","KUMA_FOE_NEAR_3_0","机翻辅助：
 
 嗅嗅，这个味道……
 F.O.E小熊！
@@ -48,12 +48,12 @@ F.O.E小熊！
 
 君君，这个味道……
 F.O.E小熊！"
-"KUMA_FOE_FOLLOW_END_1_0","可惜，不会被F.O.E抓到小熊！","KUMA_FOE_FOLLOW_END_1_0","机翻辅助：
+"KUMA_FOE_FOLLOW_END_1_0","真遗憾，我们可不会被F.O.E抓到熊熊！","KUMA_FOE_FOLLOW_END_1_0","机翻辅助：
 
 可惜，不会被F.O.E抓到小熊！
 
 可惜，F.O.E抓不到小熊！"
-"KUMA_FOE_FOLLOW_END_2_0","呼～小熊终于摆脱F.O.E了。","KUMA_FOE_FOLLOW_END_2_0","机翻辅助：
+"KUMA_FOE_FOLLOW_END_2_0","呼～终于摆脱F.O.E了熊熊。","KUMA_FOE_FOLLOW_END_2_0","机翻辅助：
 
 呼～小熊终于摆脱F.O.E了。
 
@@ -61,7 +61,7 @@ F.O.E小熊！"
 
 从F.O.E逃出来的小熊。"
 "KUMA_FOE_FOLLOW_END_3_0","哎呀？
-小熊好像放弃F.O.E了！","KUMA_FOE_FOLLOW_END_3_0","机翻辅助：
+F.O.E好像放弃了熊熊！","KUMA_FOE_FOLLOW_END_3_0","机翻辅助：
 
 哎呀？
 小熊好像放弃F.O.E了！
@@ -70,50 +70,50 @@ F.O.E小熊！"
 F.O.E好像放弃了小熊！
 
 哟？F.O.E，像放弃了的小熊！"
-"KUMA_KANSI_REACTION_1_0","蹑手蹑脚，偷偷摸摸，忍者小熊！","KUMA_KANSI_REACTION_1_0","机翻辅助：
+"KUMA_KANSI_REACTION_1_0","蹑手蹑脚，偷偷摸摸，忍者熊熊！","KUMA_KANSI_REACTION_1_0","机翻辅助：
 
 蹑手蹑脚，偷偷摸摸，忍者小熊！
 
 蹑手蹑脚的小熊！
 
 蹑手蹑脚，蹑手蹑脚，小熊！"
-"KUMA_KANSI_REACTION_2_0","好像在玩捉迷藏的小熊～","KUMA_KANSI_REACTION_2_0","机翻辅助：
+"KUMA_KANSI_REACTION_2_0","好像在玩捉迷藏一样啊熊熊～","KUMA_KANSI_REACTION_2_0","机翻辅助：
 
 好像在玩捉迷藏的小熊～
 
 像捉迷藏一样的小熊啊～"
-"KUMA_KANSI_REACTION_3_0","有点紧张的小熊……","KUMA_KANSI_REACTION_3_0","机翻辅助：
+"KUMA_KANSI_REACTION_3_0","有点紧张熊熊……","KUMA_KANSI_REACTION_3_0","机翻辅助：
 
 有点紧张的小熊……
 
 小熊有点紧张……"
-"KUMA_DENKISAKU_REACTION__0","摸了会触电的小熊！？","KUMA_DENKISAKU_REACTION__0","机翻辅助：
+"KUMA_DENKISAKU_REACTION__0","摸了会触电熊熊！？","KUMA_DENKISAKU_REACTION__0","机翻辅助：
 
 摸了会触电的小熊！？
 
 摸了一下就会吓一跳的小熊！？
 
 摸了就会哆嗦的小熊！？"
-"KUMA_DENKISAKU_REACTION__2_0","不会中这种陷阱的小熊！","KUMA_DENKISAKU_REACTION__2_0","机翻辅助：
+"KUMA_DENKISAKU_REACTION__2_0","我们不会中这种陷阱熊熊！","KUMA_DENKISAKU_REACTION__2_0","机翻辅助：
 
 不会中这种陷阱的小熊！
 
 这样的陷阱里没有的小熊！
 
 小熊不会中这样的圈套！"
-"KUMA_DENKISAKU_REACTION__3_0","在烧焦之前停住的小熊！","KUMA_DENKISAKU_REACTION__3_0","机翻辅助：
+"KUMA_DENKISAKU_REACTION__3_0","在全都烧焦之前停掉它熊熊！","KUMA_DENKISAKU_REACTION__3_0","机翻辅助：
 
 在烧焦之前停住的小熊！
 
 在烧焦之前停止的小熊！"
-"KUMA_KYOUHU_REACTION_1_0","咻～小熊～！","KUMA_KYOUHU_REACTION_1_0","机翻辅助：
+"KUMA_KYOUHU_REACTION_1_0","咻～熊熊～！","KUMA_KYOUHU_REACTION_1_0","机翻辅助：
 
 咻～小熊～！
 
 哔～小熊～！
 
 小熊！"
-"KUMA_KYOUHU_REACTION_2_0","小熊啊——！","KUMA_KYOUHU_REACTION_2_0","机翻辅助：
+"KUMA_KYOUHU_REACTION_2_0","熊熊啊——！","KUMA_KYOUHU_REACTION_2_0","机翻辅助：
 
 小熊啊——！
 
@@ -126,22 +126,26 @@ F.O.E好像放弃了小熊！
 
 哎呀！
 
-喂！"
-"KUMA_STAIR_FIND_1_0","有路可以走的地方！","KUMA_STAIR_FIND_1_0","机翻辅助：
+喂！
+
+评论：
+
+不确定"
+"KUMA_STAIR_FIND_1_0","发现可以前进的地方了！","KUMA_STAIR_FIND_1_0","机翻辅助：
 
 有路可以走的地方！
 
 快要前进的地方哈凯恩！
 
 发现可以前进的地方！"
-"KUMA_STAIR_FIND_2_0","唔唔，有下一区的气息小熊！","KUMA_STAIR_FIND_2_0","机翻辅助：
+"KUMA_STAIR_FIND_2_0","唔唔，有下一区域的气息熊熊！","KUMA_STAIR_FIND_2_0","机翻辅助：
 
 唔唔，有下一区的气息小熊！
 
 下一个区域的气息小熊！
 
 嗯，下一个区域的气息小熊！"
-"KUMA_STAIR_FIND_3_0","有路可以走的小熊！","KUMA_STAIR_FIND_3_0","机翻辅助：
+"KUMA_STAIR_FIND_3_0","好像可以走从那里继续前进熊熊！","KUMA_STAIR_FIND_3_0","机翻辅助：
 
 有路可以走的小熊！
 
@@ -155,7 +159,7 @@ F.O.E好像放弃了小熊！
 宝箱里的东西一定是……
 
 宝箱的内容，一定是……呵呵……"
-"KUMA_TREASURE_FIND_2_0","宝箱小熊！快点拿走吧！
+"KUMA_TREASURE_FIND_2_0","是宝箱熊熊！快点拿走吧！
 开玩笑的……唔呵呵","KUMA_TREASURE_FIND_2_0","机翻辅助：
 
 宝箱小熊！快点拿走吧！
@@ -173,33 +177,33 @@ F.O.E好像放弃了小熊！
 宝箱里是什么！？
 
 宝箱里是什么啊！？"
-"KUMA_CHECK_WALL_1_0","嗅嗅……这边好像有味道小熊。","KUMA_CHECK_WALL_1_0","机翻辅助：
+"KUMA_CHECK_WALL_1_0","嗅嗅……这边好像有味道熊熊。","KUMA_CHECK_WALL_1_0","机翻辅助：
 
 嗅嗅……这边好像有味道小熊。
 
 这一带有点臭的小熊。
 
 君君……这附近是一只臭气熏天的小熊。"
-"KUMA_CHECK_WALL_2_0","嗅嗅……好像有东西小熊……","KUMA_CHECK_WALL_2_0","机翻辅助：
+"KUMA_CHECK_WALL_2_0","嗅嗅……好像有东西熊熊……","KUMA_CHECK_WALL_2_0","机翻辅助：
 
 嗅嗅……好像有东西小熊……
 
 昆昆……好像有什么事的小熊啊……
 
 君君……小熊好像有什么事呢……"
-"KUMA_CHECK_WALL_3_0","这边好像有可疑的气息小熊。","KUMA_CHECK_WALL_3_0","机翻辅助：
+"KUMA_CHECK_WALL_3_0","这边好像有可疑的气息熊熊。","KUMA_CHECK_WALL_3_0","机翻辅助：
 
 这边好像有可疑的气息小熊。
 
 小熊觉得这附近有可疑的迹象。
 
 这一带，感觉很奇怪的小熊。"
-"KUMA_SWITCH_FIND_1_0","找到开关小熊！","KUMA_SWITCH_FIND_1_0","机翻辅助：
+"KUMA_SWITCH_FIND_1_0","找到开关了熊熊！","KUMA_SWITCH_FIND_1_0","机翻辅助：
 
 找到开关小熊！
 
 找到开关的小熊！"
-"KUMA_SWITCH_FIND_2_0","开关，按下去开关？
+"KUMA_SWITCH_FIND_2_0","开关，打开关？
 开玩笑的……唔呵呵！","KUMA_SWITCH_FIND_2_0","机翻辅助：
 
 开关，按下去开关？
@@ -210,8 +214,8 @@ F.O.E好像放弃了小熊！
 
 开关，按开关？
 怎么会……呜呜呜！"
-"KUMA_SWITCH_FIND_3_0","开关小熊！
-可以按下去吗？","KUMA_SWITCH_FIND_3_0","机翻辅助：
+"KUMA_SWITCH_FIND_3_0","是开关熊熊！
+要按吗？","KUMA_SWITCH_FIND_3_0","机翻辅助：
 
 开关小熊！
 可以按下去吗？
@@ -221,20 +225,20 @@ F.O.E好像放弃了小熊！
 
 开关小熊！
 微微一笑好吗？"
-"KUMA_SHORTCUT_FIND_1_0","那边那边！好像可以走过去小熊！","KUMA_SHORTCUT_FIND_1_0","机翻辅助：
+"KUMA_SHORTCUT_FIND_1_0","那边那边！好像可以通过熊熊！","KUMA_SHORTCUT_FIND_1_0","机翻辅助：
 
 那边那边！好像可以走过去小熊！
 
 马马虎虎！好像能通过的小熊！
 
 马马虎虎！能通过的小熊！"
-"KUMA_SHORTCUT_FIND_2_0","从那边抄捷径小熊～！","KUMA_SHORTCUT_FIND_2_0","机翻辅助：
+"KUMA_SHORTCUT_FIND_2_0","从那边抄捷径熊熊～！","KUMA_SHORTCUT_FIND_2_0","机翻辅助：
 
 从那边抄捷径小熊～！
 
 从那里抄近路的小熊～！"
 "KUMA_SHORTCUT_FIND_3_0","发现捷径！
-别想骗过小熊的鼻子小熊！","KUMA_SHORTCUT_FIND_3_0","机翻辅助：
+别想骗过小熊的鼻子熊熊！","KUMA_SHORTCUT_FIND_3_0","机翻辅助：
 
 发现捷径！
 别想骗过小熊的鼻子小熊！
@@ -243,35 +247,35 @@ F.O.E好像放弃了小熊！
 小熊的鼻子是不会被欺骗的小熊！
 
 发现捷径！小熊的鼻子是不会蒙混过关的小熊！"
-"KUMA_FOE_WARNING_NEAR_1_0","一波未平，又来F.O.E小熊！","KUMA_FOE_WARNING_NEAR_1_0","机翻辅助：
+"KUMA_FOE_WARNING_NEAR_1_0","一波又起，是F.O.E熊熊！","KUMA_FOE_WARNING_NEAR_1_0","机翻辅助：
 
 一波未平，又来F.O.E小熊！
 
 一波未平，又是F.O.E小熊！
 
 一劫而去，又是F.O.E小熊！"
-"KUMA_FOE_WARNING_NEAR_2_0","F.O.E又来了小熊！","KUMA_FOE_WARNING_NEAR_2_0","机翻辅助：
+"KUMA_FOE_WARNING_NEAR_2_0","F.O.E又来了熊熊！","KUMA_FOE_WARNING_NEAR_2_0","机翻辅助：
 
 F.O.E又来了小熊！
 
 F.O.E又来了小熊啊！
 
 F.O.E又来了小熊呢！"
-"KUMA_FOE_WARNING_NEAR_3_0","F.O.E，太烦人了小熊……","KUMA_FOE_WARNING_NEAR_3_0","机翻辅助：
+"KUMA_FOE_WARNING_NEAR_3_0","F.O.E太烦人了熊熊……","KUMA_FOE_WARNING_NEAR_3_0","机翻辅助：
 
 F.O.E，太烦人了小熊……
 
 F.O.E，太执着的小熊……
 
 F.O.E，太烦人的小熊……"
-"KUMA_1PERSON_HPTP10_1_0","太辛苦了小熊～……","KUMA_1PERSON_HPTP10_1_0","机翻辅助：
+"KUMA_1PERSON_HPTP10_1_0","太辛苦了熊熊～……","KUMA_1PERSON_HPTP10_1_0","机翻辅助：
 
 太辛苦了小熊～……
 
 太过辛德的小熊……
 
 太深沉的小熊～……"
-"KUMA_1PERSON_HPTP10_2_0","哎呀呀，看到花田了小熊……","KUMA_1PERSON_HPTP10_2_0","机翻辅助：
+"KUMA_1PERSON_HPTP10_2_0","哎呀呀，看到花田了熊熊……","KUMA_1PERSON_HPTP10_2_0","机翻辅助：
 
 哎呀呀，看到花田了小熊……
 
@@ -285,24 +289,24 @@ F.O.E，太烦人的小熊……"
 啊……小熊，好像要变成星星了……
 
 不行……小熊，要变成星星了……"
-"KUMA_1PERSON_HP10_1_0","体力危机！救救我大队长！","KUMA_1PERSON_HP10_1_0","机翻辅助：
+"KUMA_1PERSON_HP10_1_0","体力危机！救救我！","KUMA_1PERSON_HP10_1_0","机翻辅助：
 
 体力危机！救救我大队长！
 
 体力危机！救救我！"
-"KUMA_1PERSON_HP10_2_0","小熊，好像要变成鱼干小熊……","KUMA_1PERSON_HP10_2_0","机翻辅助：
+"KUMA_1PERSON_HP10_2_0","小熊，好像要变成鱼干了熊熊……","KUMA_1PERSON_HP10_2_0","机翻辅助：
 
 小熊，好像要变成鱼干小熊……
 
 小熊，快要变成干货的小熊……"
-"KUMA_1PERSON_HP10_3_0","小熊好累……请回复！","KUMA_1PERSON_HP10_3_0","机翻辅助：
+"KUMA_1PERSON_HP10_3_0","小熊好累……回复PLEASE！","KUMA_1PERSON_HP10_3_0","机翻辅助：
 
 小熊好累……请回复！
 
 好累的小熊啊……回复普利兹！
 
 辛苦的小熊啊……恢复王子！"
-"KUMA_1PERSON_TP10_1_0","小熊的气力陷入危机……","KUMA_1PERSON_TP10_1_0","机翻辅助：
+"KUMA_1PERSON_TP10_1_0","小熊的精力陷入危机……","KUMA_1PERSON_TP10_1_0","机翻辅助：
 
 小熊的气力陷入危机……
 
@@ -310,7 +314,7 @@ F.O.E，太烦人的小熊……"
 
 小熊的气力很困难啊……"
 "KUMA_1PERSON_TP10_2_0","已经不行了……动不了了……
-美少年，是如此虚幻的小熊……","KUMA_1PERSON_TP10_2_0","机翻辅助：
+美少年，是如此脆弱熊熊……","KUMA_1PERSON_TP10_2_0","机翻辅助：
 
 已经不行了……动不了了……
 美少年，是如此虚幻的小熊……
@@ -319,33 +323,33 @@ F.O.E，太烦人的小熊……"
 
 
 美少年就是如此虚幻的小熊……"
-"KUMA_1PERSON_TP10_3_0","小熊，总觉得好累……","KUMA_1PERSON_TP10_3_0","机翻辅助：
+"KUMA_1PERSON_TP10_3_0","小熊，总感觉好累……","KUMA_1PERSON_TP10_3_0","机翻辅助：
 
 小熊，总觉得好累……
 
 小熊，总觉得好累啊……
 
 小熊，总觉得很累……"
-"KUMA_1PERSON_HP80_1_0","耶～状况绝佳的小熊！","KUMA_1PERSON_HP80_1_0","机翻辅助：
+"KUMA_1PERSON_HP80_1_0","耶～状况绝佳熊熊！","KUMA_1PERSON_HP80_1_0","机翻辅助：
 
 耶～状况绝佳的小熊！
 
 不是。小熊状态极佳！
 
 嗯。非常顺利的小熊！"
-"KUMA_1PERSON_HP80_2_0","小熊还能继续努力！","KUMA_1PERSON_HP80_2_0","机翻辅助：
+"KUMA_1PERSON_HP80_2_0","还能继续努力熊熊！","KUMA_1PERSON_HP80_2_0","机翻辅助：
 
 小熊还能继续努力！
 
 还能继续努力的小熊！"
-"KUMA_1PERSON_HP80_3_0","就照这个样子，让敌人闻风丧胆的小熊！","KUMA_1PERSON_HP80_3_0","机翻辅助：
+"KUMA_1PERSON_HP80_3_0","就照这个样子，让敌人闻风丧胆熊熊！","KUMA_1PERSON_HP80_3_0","机翻辅助：
 
 就照这个样子，让敌人闻风丧胆的小熊！
 
 用这个调子使之说布依的小熊哟！
 
 让你用这种语气说得轻飘飘的小熊啊！"
-"KUMA_DUNGEON_START_1_0","出发的小熊！","KUMA_DUNGEON_START_1_0","机翻辅助：
+"KUMA_DUNGEON_START_1_0","出发熊熊！","KUMA_DUNGEON_START_1_0","机翻辅助：
 
 出发的小熊！"
 "KUMA_DUNGEON_START_2_0","大家，跟着小熊前进！","KUMA_DUNGEON_START_2_0","机翻辅助：
@@ -355,137 +359,137 @@ F.O.E，太烦人的小熊……"
 大家跟着小熊加油！
 
 大家，跟着小熊一起来！"
-"KUMA_DUNGEON_START_3_0","全力前进的小熊！","KUMA_DUNGEON_START_3_0","机翻辅助：
+"KUMA_DUNGEON_START_3_0","全力前进熊熊！","KUMA_DUNGEON_START_3_0","机翻辅助：
 
 全力前进的小熊！
 
 全力去的小熊哟！
 
 全力去的小熊哟～！"
-"KUMA_QUEST_START_1_0","特别上映，就看我的小熊！","KUMA_QUEST_START_1_0","机翻辅助：
+"KUMA_QUEST_START_1_0","特别上映，开始了熊熊！","KUMA_QUEST_START_1_0","机翻辅助：
 
 特别上映，就看我的小熊！
 
 特别上映的小熊！
 
 特别上映，小熊来了！"
-"KUMA_QUEST_START_2_0","没问题，一定会成功的小熊！","KUMA_QUEST_START_2_0","机翻辅助：
+"KUMA_QUEST_START_2_0","没问题，一定会成功的熊熊！","KUMA_QUEST_START_2_0","机翻辅助：
 
 没问题，一定会成功的小熊！
 
 好吧，一定会成功的小熊！
 
 没关系，小熊一定会成功的！"
-"KUMA_QUEST_START_3_0","大家一起加油的小熊～！","KUMA_QUEST_START_3_0","机翻辅助：
+"KUMA_QUEST_START_3_0","大家一起加油熊熊～！","KUMA_QUEST_START_3_0","机翻辅助：
 
 大家一起加油的小熊～！
 
 大家一起努力的小熊～！"
-"KUMA_TOUHA_25_1_0","呼……看来前面还很长的小熊～","KUMA_TOUHA_25_1_0","机翻辅助：
+"KUMA_TOUHA_25_1_0","呼……看来前面的路还很长熊熊～","KUMA_TOUHA_25_1_0","机翻辅助：
 
 呼……看来前面还很长的小熊～
 
 呵呵……前面好像还很长的小熊啊～
 
 菲……小熊的路还很长呢。"
-"KUMA_TOUHA_25_2_0","地图稍微填满了一点的小熊。","KUMA_TOUHA_25_2_0","机翻辅助：
+"KUMA_TOUHA_25_2_0","地图稍微填满了一点熊熊。","KUMA_TOUHA_25_2_0","机翻辅助：
 
 地图稍微填满了一点的小熊。
 
 稍微填满地图的小熊。
 
 稍微埋了一点地图的小熊。"
-"KUMA_TOUHA_50_1_0","呃……走了一半左右的小熊？","KUMA_TOUHA_50_1_0","机翻辅助：
+"KUMA_TOUHA_50_1_0","嗯……走了一半左右熊熊？","KUMA_TOUHA_50_1_0","机翻辅助：
 
 呃……走了一半左右的小熊？
 
 嗯，走了一半左右的小熊？
 
 嗯，走了一半的小熊？"
-"KUMA_TOUHA_50_2_0","这个楼层也大致上了解了小熊！","KUMA_TOUHA_50_2_0","机翻辅助：
+"KUMA_TOUHA_50_2_0","这一层也大致探索完成了熊熊！","KUMA_TOUHA_50_2_0","机翻辅助：
 
 这个楼层也大致上了解了小熊！
 
 这层楼也明白了很多小熊！
 
 小熊对这个楼层也很了解了！"
-"KUMA_TOUHA_75_1_0","感觉前进了很多小熊～！","KUMA_TOUHA_75_1_0","机翻辅助：
+"KUMA_TOUHA_75_1_0","感觉走了很远呢熊熊～！","KUMA_TOUHA_75_1_0","机翻辅助：
 
 感觉前进了很多小熊～！
 
 感觉相当先进的小熊～！"
-"KUMA_TOUHA_75_2_0","再一下下，就能全部逛完小熊。","KUMA_TOUHA_75_2_0","机翻辅助：
+"KUMA_TOUHA_75_2_0","再一下下就能全部走完了熊熊。","KUMA_TOUHA_75_2_0","机翻辅助：
 
 再一下下，就能全部逛完小熊。
 
 再过一会儿，全部都能转的小熊啊。
 
 差一点就能全部转完的小熊。"
-"KUMA_TOUHA_100_1_0","太好了，完成小熊！","KUMA_TOUHA_100_1_0","机翻辅助：
+"KUMA_TOUHA_100_1_0","太好了，完成了熊熊！","KUMA_TOUHA_100_1_0","机翻辅助：
 
 太好了，完成小熊！
 
 太好了，压缩机小熊啊！
 
 太棒了，完美小熊！"
-"KUMA_TOUHA_100_2_0","全部逛完了小熊，太棒了小熊！","KUMA_TOUHA_100_2_0","机翻辅助：
+"KUMA_TOUHA_100_2_0","全部走完了熊熊，太棒了熊熊！","KUMA_TOUHA_100_2_0","机翻辅助：
 
 全部逛完了小熊，太棒了小熊！
 
 全部转过来的小熊啊，太棒了小熊！
 
 全部都转了的小熊啊，做了的小熊！"
-"KUMA_MAPPING_ICON_ALL_1_0","哦哦～感觉会画出很棒的地图小熊。","KUMA_MAPPING_ICON_ALL_1_0","机翻辅助：
+"KUMA_MAPPING_ICON_ALL_1_0","哦哦～感觉会画出很棒的地图熊熊。","KUMA_MAPPING_ICON_ALL_1_0","机翻辅助：
 
 哦哦～感觉会画出很棒的地图小熊。
 
 呵呵。看起来能做出好地图的小熊啊。
 
 呵呵。小熊好像能画出很好的地图。"
-"KUMA_MAPPING_ICON_ALL_2_0","哦哦～变得好容易看小熊！","KUMA_MAPPING_ICON_ALL_2_0","机翻辅助：
+"KUMA_MAPPING_ICON_ALL_2_0","哦哦～变得好容易看懂熊熊！","KUMA_MAPPING_ICON_ALL_2_0","机翻辅助：
 
 哦哦～变得好容易看小熊！
 
 喂，容易看的小熊！
 
 哦，小熊变得更好看了！"
-"KUMA_MAPPING_ICON_KAIDAN_0","只要知道楼梯在哪，就不会迷路小熊！","KUMA_MAPPING_ICON_KAIDAN_0","机翻辅助：
+"KUMA_MAPPING_ICON_KAIDAN_0","只要知道楼梯在哪，就不会迷路熊熊！","KUMA_MAPPING_ICON_KAIDAN_0","机翻辅助：
 
 只要知道楼梯在哪，就不会迷路小熊！
 
 只要知道楼梯，就不会迷路的小熊！
 
 知道楼梯，就不会迷路的小熊！"
-"KUMA_MAPPING_ICON_KAIDAN_2_0","咻～不愧是小熊！","KUMA_MAPPING_ICON_KAIDAN_2_0","机翻辅助：
+"KUMA_MAPPING_ICON_KAIDAN_2_0","咻～不愧是熊熊！","KUMA_MAPPING_ICON_KAIDAN_2_0","机翻辅助：
 
 咻～不愧是小熊！
 
 休，萨克斯！
 
 哇、哇！"
-"KUMA_MAPPING_CHANGE_COLO_0","小熊也想画！小熊也想画小熊～！","KUMA_MAPPING_CHANGE_COLO_0","机翻辅助：
+"KUMA_MAPPING_CHANGE_COLO_0","小熊也想！小熊也想画熊熊～！","KUMA_MAPPING_CHANGE_COLO_0","机翻辅助：
 
 小熊也想画！小熊也想画小熊～！
 
 小熊也！小熊也想画小熊～！
 
 小熊也是！小熊也想画的小熊～！"
-"KUMA_MAPPING_CHANGE_COLO_2_0","哦哦～感觉很有天分小熊。","KUMA_MAPPING_CHANGE_COLO_2_0","机翻辅助：
+"KUMA_MAPPING_CHANGE_COLO_2_0","哦哦～很有品味呢熊熊。","KUMA_MAPPING_CHANGE_COLO_2_0","机翻辅助：
 
 哦哦～感觉很有天分小熊。
 
 呵呵。这是一只很有品位的小熊。
 
 呵呵。你是个有品位的小熊啊。"
-"KUMA_MAPPING_ICON_DEL_1_0","一派轻松的男人味，令人陶醉小熊～","KUMA_MAPPING_ICON_DEL_1_0","机翻辅助：
+"KUMA_MAPPING_ICON_DEL_1_0","不经意间露出的男人味，令人陶醉熊熊～","KUMA_MAPPING_ICON_DEL_1_0","机翻辅助：
 
 一派轻松的男人味，令人陶醉小熊～
 
 冒失的男子气概，麻木的小熊～
 
 胖乎乎的男子气概，发麻的小熊～"
-"KUMA_MAPPING_ICON_DEL_2_0","收拾要确实。
-叶介总是这么说小熊。","KUMA_MAPPING_ICON_DEL_2_0","机翻辅助：
+"KUMA_MAPPING_ICON_DEL_2_0","要勤整理。
+阳介总是这么说熊熊。","KUMA_MAPPING_ICON_DEL_2_0","机翻辅助：
 
 收拾要确实。
 叶介总是这么说小熊。
@@ -494,33 +498,33 @@ F.O.E，太烦人的小熊……"
 尤斯凯经常说的小熊。
 
 认真收拾。阿悠总是说小熊。"
-"KUMA_MAPPING_MEMO_1_0","嗯嗯，这样就不会忘记小熊～","KUMA_MAPPING_MEMO_1_0","机翻辅助：
+"KUMA_MAPPING_MEMO_1_0","嗯嗯，这样就不会忘记了呢熊熊～","KUMA_MAPPING_MEMO_1_0","机翻辅助：
 
 嗯嗯，这样就不会忘记小熊～
 
 哼哼。这样的话就不会忘记的小熊啊～
 
 哼哼。这样的话就不会忘记小熊了～"
-"KUMA_MAPPING_MEMO_2_0","非常容易看懂的地图小熊！","KUMA_MAPPING_MEMO_2_0","机翻辅助：
+"KUMA_MAPPING_MEMO_2_0","是很容易看懂的地图熊熊！","KUMA_MAPPING_MEMO_2_0","机翻辅助：
 
 非常容易看懂的地图小熊！
 
 非常易懂的地图小熊！
 
 非常容易理解的地图小熊！"
-"KUMA_DOOR_OPEN_1_0","前进小熊～","KUMA_DOOR_OPEN_1_0","机翻辅助：
+"KUMA_DOOR_OPEN_1_0","前进熊熊～","KUMA_DOOR_OPEN_1_0","机翻辅助：
 
 前进小熊～
 
 前进的小熊～
 
 前进的小熊。"
-"KUMA_DOOR_OPEN_2_0","这边小熊！","KUMA_DOOR_OPEN_2_0","机翻辅助：
+"KUMA_DOOR_OPEN_2_0","这边熊熊！","KUMA_DOOR_OPEN_2_0","机翻辅助：
 
 这边小熊！
 
 这是小熊！"
-"KUMA_DOOR_OPEN_3_0","走吧小熊～","KUMA_DOOR_OPEN_3_0","机翻辅助：
+"KUMA_DOOR_OPEN_3_0","走吧熊熊～","KUMA_DOOR_OPEN_3_0","机翻辅助：
 
 走吧小熊～
 

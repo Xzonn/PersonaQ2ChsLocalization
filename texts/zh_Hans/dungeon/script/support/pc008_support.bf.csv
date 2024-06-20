@@ -38,7 +38,7 @@ F.O.E，请注意！
 敌人似乎放弃了追踪。
 
 敌人好像放弃了跟踪。"
-"NAOTO_FOE_FOLLOW_END_2_0","成功逃离F.O.E了。","NAOTO_FOE_FOLLOW_END_2_0","机翻辅助：
+"NAOTO_FOE_FOLLOW_END_2_0","成功摆脱F.O.E了。","NAOTO_FOE_FOLLOW_END_2_0","机翻辅助：
 
 成功逃离F.O.E了。
 
@@ -50,7 +50,7 @@ F.O.E，请注意！
 请看准时机。
 
 请看清时机。"
-"NAOTO_KANSI_REACTION_2_0","这里要慎重前进。","NAOTO_KANSI_REACTION_2_0","机翻辅助：
+"NAOTO_KANSI_REACTION_2_0","现在要谨慎前进。","NAOTO_KANSI_REACTION_2_0","机翻辅助：
 
 这里要慎重前进。
 
@@ -69,7 +69,7 @@ F.O.E，请注意！
 真是个麻烦的陷阱啊……
 
 真是麻烦的陷阱啊……"
-"NAOTO_DENKISAKU_REACTION_2_0","还是早点停下比较好。","NAOTO_DENKISAKU_REACTION_2_0","机翻辅助：
+"NAOTO_DENKISAKU_REACTION_2_0","还是早点停下它比较好。","NAOTO_DENKISAKU_REACTION_2_0","机翻辅助：
 
 还是早点停下比较好。
 
@@ -89,7 +89,11 @@ F.O.E，请注意！
 
 啊，风……！
 
-风、风……！"
+风、风……！
+
+评论：
+
+不确定"
 "NAOTO_KYOUHU_REACTION_2_0","呜哇！","NAOTO_KYOUHU_REACTION_2_0","机翻辅助：
 
 呜哇！
@@ -152,7 +156,7 @@ F.O.E，请注意！
 这个周围，不调查一下吗？
 
 要不要调查一下这周围？"
-"NAOTO_CHECK_WALL_3_0","前方好像有什么。","NAOTO_CHECK_WALL_3_0","机翻辅助：
+"NAOTO_CHECK_WALL_3_0","前面好像有什么。","NAOTO_CHECK_WALL_3_0","机翻辅助：
 
 前方好像有什么。
 
@@ -164,17 +168,17 @@ F.O.E，请注意！
 那好像是个开关……
 
 那好像是开关……"
-"NAOTO_SWITCH_FIND_2_0","要不要按一下这个开关？","NAOTO_SWITCH_FIND_2_0","机翻辅助：
+"NAOTO_SWITCH_FIND_2_0","要不要按一下开关？","NAOTO_SWITCH_FIND_2_0","机翻辅助：
 
 要不要按一下这个开关？"
-"NAOTO_SWITCH_FIND_3_0","确认了开关，要怎么做？","NAOTO_SWITCH_FIND_3_0","机翻辅助：
+"NAOTO_SWITCH_FIND_3_0","确认开关了，怎么办？","NAOTO_SWITCH_FIND_3_0","机翻辅助：
 
 确认了开关，要怎么做？
 
 确认开关了，怎么办？
 
 开关确认好了，怎么办？"
-"NAOTO_SHORTCUT_FIND_1_0","请看，好像能过去了。","NAOTO_SHORTCUT_FIND_1_0","机翻辅助：
+"NAOTO_SHORTCUT_FIND_1_0","快看，好像能过去了。","NAOTO_SHORTCUT_FIND_1_0","机翻辅助：
 
 请看，好像能过去了。
 
@@ -198,7 +202,7 @@ F.O.E，请注意！
 "NAOTO_FOE_WARNING_NEAR_1_0","还有F.O.E，小心点。","NAOTO_FOE_WARNING_NEAR_1_0","机翻辅助：
 
 还有F.O.E，小心点。"
-"NAOTO_FOE_WARNING_NEAR_2_0","被追上了，慎重前进吧。","NAOTO_FOE_WARNING_NEAR_2_0","机翻辅助：
+"NAOTO_FOE_WARNING_NEAR_2_0","被追上了，谨慎前进吧。","NAOTO_FOE_WARNING_NEAR_2_0","机翻辅助：
 
 被追上了，慎重前进吧。
 
@@ -267,7 +271,7 @@ F.O.E，请注意！
 对不起，我差不多到极限了……
 
 对不起，快到极限了……"
-"NAOTO_1PERSON_HP80_1_0","嗯，状态不错。","NAOTO_1PERSON_HP80_1_0","机翻辅助：
+"NAOTO_1PERSON_HP80_1_0","嗯，状态不错呢。","NAOTO_1PERSON_HP80_1_0","机翻辅助：
 
 嗯，状态不错。"
 "NAOTO_1PERSON_HP80_2_0","状况挺好的。","NAOTO_1PERSON_HP80_2_0","机翻辅助：
@@ -316,7 +320,7 @@ F.O.E，请注意！
 
 准备好了。"
 "NAOTO_QUEST_START_3_0","赌上白钟之名，
-一定会成功。","NAOTO_QUEST_START_3_0","机翻辅助：
+我一定会成功。","NAOTO_QUEST_START_3_0","机翻辅助：
 
 赌上白钟之名，
 一定会成功。
@@ -330,7 +334,7 @@ F.O.E，请注意！
 差不多四分之一了吧？
 
 正好是四分之一吧？"
-"NAOTO_TOUHA_25_2_0","还在开头呢，加油吧。","NAOTO_TOUHA_25_2_0","机翻辅助：
+"NAOTO_TOUHA_25_2_0","才刚刚开始呢，加油吧。","NAOTO_TOUHA_25_2_0","机翻辅助：
 
 还在开头呢，加油吧。
 
@@ -351,7 +355,7 @@ F.O.E，请注意！
 这个楼层也走了一半左右吧。
 
 这一层也走了一半吧。"
-"NAOTO_TOUHA_75_1_0","走了满多的，就快到了。","NAOTO_TOUHA_75_1_0","机翻辅助：
+"NAOTO_TOUHA_75_1_0","走了挺长一段路了啊，就快到了。","NAOTO_TOUHA_75_1_0","机翻辅助：
 
 走了满多的，就快到了。
 
@@ -399,7 +403,7 @@ F.O.E，请注意！
 这是很重要的一点。
 
 那是很重要的一点。"
-"NAOTO_MAPPING_CHANGE_COL_0","不同颜色很新鲜，不错呢。","NAOTO_MAPPING_CHANGE_COL_0","机翻辅助：
+"NAOTO_MAPPING_CHANGE_COL_0","不同的颜色也不错呢，感觉很新鲜。","NAOTO_MAPPING_CHANGE_COL_0","机翻辅助：
 
 不同颜色很新鲜，不错呢。
 
@@ -427,14 +431,14 @@ F.O.E，请注意！
 嗯，不要的东西就扔掉吧。
 
 嗯，把不需要的东西扔掉吧。"
-"NAOTO_MAPPING_MEMO_1_0","备忘录呢，不愧是你。","NAOTO_MAPPING_MEMO_1_0","机翻辅助：
+"NAOTO_MAPPING_MEMO_1_0","备忘录吗，不愧是你。","NAOTO_MAPPING_MEMO_1_0","机翻辅助：
 
 备忘录呢，不愧是你。
 
 真不愧是备忘录。
 
 不愧是备忘录。"
-"NAOTO_MAPPING_MEMO_2_0","勤做笔记最好哦。","NAOTO_MAPPING_MEMO_2_0","机翻辅助：
+"NAOTO_MAPPING_MEMO_2_0","最好勤做笔记哦。","NAOTO_MAPPING_MEMO_2_0","机翻辅助：
 
 勤做笔记最好哦。
 
@@ -448,7 +452,7 @@ F.O.E，请注意！
 好像没有陷阱。
 
 好像没有陷阱啊。"
-"NAOTO_DOOR_OPEN_2_0","赶快前进吧！","NAOTO_DOOR_OPEN_2_0","机翻辅助：
+"NAOTO_DOOR_OPEN_2_0","快点前进吧！","NAOTO_DOOR_OPEN_2_0","机翻辅助：
 
 赶快前进吧！
 
